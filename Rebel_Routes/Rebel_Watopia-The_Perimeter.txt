@@ -1,0 +1,28 @@
+============================================================
+  REBEL ROUTE: THE PERIMETER
+============================================================
+
+World:       Watopia
+Distance:    82.3 km
+Elevation:   1874 m
+Start Route: Bigger Loop
+Approach:    Bigger Loop
+Strava:      https://www.strava.com/segments/20483387
+VeloViewer:  https://veloviewer.com/segment/20483387
+ZwiftInsider: https://zwiftinsider.com/rebel-route-the-perimeter/
+
+Description: Ride the outer edge of Watopia including Bonus Climb and Alpe du Zwift. Most turns auto-navigate; only a few manual turns needed.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  1. Most turns auto-navigate from Bigger Loop
+  2. 24.6 km: Left to Bonus Climb (after Epic KOM banner)
+  3. 27.5 km: Left (descending from Bonus Climb)
+  4. 37.2 km: Right to Alpe du Zwift (after descending Mayan jungle)
+  5. 63.7 km: Right to Jungle Loop (after Alpe descent)
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

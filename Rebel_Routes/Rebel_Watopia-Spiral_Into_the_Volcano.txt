@@ -1,0 +1,27 @@
+============================================================
+  REBEL ROUTE 25: RESOLVED — Spiral Into the Volcano
+============================================================
+
+World:       Watopia
+Distance:    55.6 km
+Elevation:   324 m
+Strava:      https://www.strava.com/segments/20522725
+VeloViewer:  https://veloviewer.com/segment/20522725
+ZwiftInsider: https://zwiftinsider.com/rebel-route-spiral-into-the-volcano/
+Approach:    Volcano Flat
+Status:      COMPLETED (tamed)
+
+Resolution:  All 25 rebel routes are now identified. The "unpublished
+             Route 25" turned out to be Spiral Into the Volcano.
+             Eric mentioned 'two other Rebel Routes I haven't published
+             yet' on Feb 12, 2026. One was Big Ring/Little Ring (Feb 17).
+             The other was Spiral Into the Volcano.
+
+All 25 rebel routes (6 completed, 19 remaining):
+  COMPLETED: Big Ring Little Ring, Hilly KOM Bypass, Mangrove Circuit,
+             Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+Updated: 2026-02-27
+============================================================

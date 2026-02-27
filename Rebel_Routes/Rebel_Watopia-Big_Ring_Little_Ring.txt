@@ -1,0 +1,47 @@
+============================================================
+  REBEL ROUTE: BIG RING LITTLE RING
+============================================================
+
+World:       Watopia
+Distance:    20.6 km
+Elevation:   143 m
+Start Route: Volcano Flat
+Approach:    Volcano Flat
+Strava:      https://www.strava.com/segments/40906313
+VeloViewer:  https://veloviewer.com/segment/40906313
+ZwiftInsider: https://zwiftinsider.com/rebel-route-big-ring-little-ring/
+
+Description: A short loop covering the Volcano circuit and downtown Watopia.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.6 km]  Left to Ocean Blvd
+    2. [  1.6 km]  Straight (Right) to Ocean Blvd
+    3. [  2.6 km]  Straight (Right) to Italian Villas
+    4. [  3.7 km]  Straight (Right) to Italian Villas
+    5. [  4.7 km]  Left to Italian Villas
+    6. [  5.7 km]  Left to Volcano Circuit
+    7. [  6.7 km]  Straight (Left) to Volcano Circuit
+    8. [  7.7 km]  Straight (Right) to Volcano KOM
+    9. [  8.8 km]  Left to Volcano Circuit
+   10. [  9.8 km]  Straight (Right) to Volcano
+   11. [ 10.8 km]  Left to Downtown
+   12. [ 11.8 km]  Left to Downtown
+   13. [ 12.9 km]  Straight (Right) to KOM
+   14. [ 13.9 km]  Straight (Left) to KOM
+   15. [ 14.9 km]  Straight (Left) to Bridge
+   16. [ 15.9 km]  Straight (Left) to Islands
+   17. [ 16.9 km]  Straight (Right) to Italian Villas
+   18. [ 18.0 km]  Right to Sprint
+   19. [ 19.0 km]  Straight (Left) to Sprint
+   20. [ 20.0 km]  Right to Downtown
+
+Notes: Also has reverse segment: https://www.strava.com/segments/40906329
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

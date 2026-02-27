@@ -1,0 +1,102 @@
+============================================================
+  REBEL ROUTE: THE FULL MAKURI
+============================================================
+
+World:       Makuri Islands
+Distance:    80.9 km
+Elevation:   650 m
+Start Route: Two Village Loop
+Approach:    Two Village Loop
+Strava:      https://www.strava.com/segments/40661737
+VeloViewer:  https://veloviewer.com/segment/40661737
+ZwiftInsider: https://zwiftinsider.com/rebel-route-the-full-makuri/
+
+Description: Covers every road in Makuri Islands across all three zones (Yumezi, Neokyo, Urukazi).
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  2.4 km]  Right to Farmlands
+    2. [  3.4 km]  Left to Village Onsen
+    3. [  4.4 km]  Right to Village Onsen
+    4. [  5.4 km]  Straight to Village Onsen
+    5. [  6.4 km]  Right to Village Gardens
+    6. [  7.4 km]  Straight to Village Shops
+    7. [  8.4 km]  Left to Fishing Village
+    8. [  9.4 km]  Right to Castle Path
+    9. [ 10.4 km]  Right to Castle Path
+   10. [ 11.4 km]  Straight (Left) to Marketplace
+   11. [ 12.4 km]  Straight (Left) to Marketplace
+   12. [ 13.4 km]  Left to Forest Climb
+   13. [ 14.4 km]  Left to Fishing Village
+   14. [ 15.4 km]  Left to Fishing Village
+   15. [ 16.4 km]  Left to Castle Path
+   16. [ 17.4 km]  Right to Village Onsen
+   17. [ 18.4 km]  Right (to Fishing Village)
+   18. [ 19.4 km]  Left to Forest Climb
+   19. [ 20.4 km]  Straight (Left) to Forest Climb
+   20. [ 21.4 km]  Straight (Left) to Castle Path
+   21. [ 22.4 km]  Straight (Left) to Marketplace
+   22. [ 23.4 km]  Left to Castle Outskirts
+   23. [ 24.4 km]  Right to Forest Road
+   24. [ 25.4 km]  Straight (Left) to Forest Road
+   25. [ 26.4 km]  Straight (Right) to Village Onsen
+   26. [ 27.4 km]  Left to Rice Paddies
+   27. [ 28.4 km]  Right to Neo Tower
+   28. [ 29.4 km]  Straight (Left) to Neokyo
+   29. [ 30.4 km]  Straight (Right) to Tower
+   30. [ 31.4 km]  Straight (Right) to Tower
+   31. [ 32.4 km]  Right to Harbor
+   32. [ 33.4 km]  Left to Downtown
+   33. [ 34.4 km]  Left to Downtown
+   34. [ 35.4 km]  Right to Sky Lane
+   35. [ 36.4 km]  Straight (Left) to Harbor
+   36. [ 37.4 km]  Straight (Right) to Downtown
+   37. [ 38.4 km]  Left to Arcade
+   38. [ 39.4 km]  Straight (Right) to Arcade
+   39. [ 40.4 km]  Left to Tower
+   40. [ 41.5 km]  Right to Rice Paddies
+   41. [ 42.5 km]  Right to Arcade
+   42. [ 43.5 km]  Left to Downtown
+   43. [ 44.5 km]  Left to Railway
+   44. [ 45.5 km]  Left to Railway East
+   45. [ 46.5 km]  Right to Rooftop
+   46. [ 47.5 km]  Right to Railway East
+   47. [ 48.5 km]  Left to Downtown
+   48. [ 49.5 km]  Left to Downtown
+   49. [ 50.5 km]  Straight (Right) to Castle Park
+   50. [ 51.5 km]  Straight (Left) to Castle Park
+   51. [ 52.5 km]  Right to Harbor
+   52. [ 53.5 km]  Left to Urukazi
+   53. [ 54.5 km]  Straight (Left) to Mangrove Maze
+   54. [ 55.5 km]  Right to Mangrove Maze North
+   55. [ 56.5 km]  Right to Festival Harbor
+   56. [ 57.5 km]  Right to Festival Harbor North
+   57. [ 58.5 km]  Right to Mech Isle
+   58. [ 59.5 km]  Right to Mech Isle South
+   59. [ 60.5 km]  Right to Hidden Reefs
+   60. [ 61.5 km]  Right to Hidden Reefs
+   61. [ 62.5 km]  Right to Mangrove Maze
+   62. [ 63.5 km]  Left to Mangrove Maze South
+   63. [ 64.5 km]  Left to Festival Harbor
+   64. [ 65.5 km]  Left to Festival Harbor South
+   65. [ 66.5 km]  Left to Mech Isle
+   66. [ 67.5 km]  Left to Mech Isle North
+   67. [ 68.5 km]  Left to Hidden Reefs
+   68. [ 69.5 km]  Left to Yumezi
+   69. [ 70.5 km]  Left to Yumezi
+   70. [ 71.5 km]  Right to Farmland
+   71. [ 72.5 km]  Straight (Right) to Castle Path
+   72. [ 73.5 km]  Straight (Left) to Forest Road
+   73. [ 74.5 km]  Right to Castle Path
+   74. [ 75.5 km]  Right to Marketplace
+   75. [ 76.5 km]  Right to Castle Outskirts
+   76. [ 77.5 km]  Straight (Right) to Castle Outskirts
+   77. [ 78.5 km]  Straight (Left) to Farmlands
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

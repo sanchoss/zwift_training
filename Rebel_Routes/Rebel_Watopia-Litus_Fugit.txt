@@ -1,0 +1,34 @@
+============================================================
+  REBEL ROUTE: LITUS FUGIT
+============================================================
+
+World:       Watopia
+Distance:    61 km
+Elevation:   269 m
+Start Route: The Big Ring
+Approach:    The Big Ring
+Strava:      https://www.strava.com/segments/35852231
+VeloViewer:  https://veloviewer.com/segment/35852231
+ZwiftInsider: https://zwiftinsider.com/rebel-route-litus-fugit/
+
+Description: A flat-ish Watopia route covering the southern coast, Mayan roads, jungle, and desert.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  1.8 km]  Left to Southern Coast
+    2. [  9.0 km]  Right to Southern Coast
+    3. [ 16.2 km]  Right to Mayan Loop
+    4. [ 23.3 km]  Left to Mayan Bridge
+    5. [ 30.5 km]  Left to Mayan Loop
+    6. [ 37.7 km]  Straight (Left) to Jungle Loop
+    7. [ 44.9 km]  Right to Southern Coast
+    8. [ 52.0 km]  Right to Desert Flats
+    9. [ 59.2 km]  Straight (Right) to Desert Turnaround
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

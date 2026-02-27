@@ -1,0 +1,38 @@
+============================================================
+  REBEL ROUTE: FOWER POWER
+============================================================
+
+World:       Scotland
+Distance:    19.74 km
+Elevation:   214 m
+Start Route: City and the Sgurr
+Approach:    City and the Sgurr → 1.0 km to rebel start
+Strava:      https://www.strava.com/segments/34255076
+VeloViewer:  https://veloviewer.com/segment/34255076
+ZwiftInsider: https://zwiftinsider.com/rebel-route-fower-power/
+
+Description: A Scotland rebel route exploring the Sgurr and Glasgow areas.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.6 km]  Left to Glasgow
+    2. [  2.1 km]  Right to Sgurr Summit
+    3. [  3.7 km]  Left to Sgurr Summit
+    4. [  5.2 km]  Left to Cliffs
+    5. [  6.8 km]  Left to Sgurr Summit
+    6. [  8.3 km]  Right to Tower
+    7. [  9.8 km]  Left to Cliffs
+    8. [ 11.4 km]  Left to Cliffs
+    9. [ 12.9 km]  Left to Sgurr Summit
+   10. [ 14.5 km]  Left to Tower
+   11. [ 16.0 km]  Straight (Right) to Tower
+   12. [ 17.6 km]  Left to Glasgow
+   13. [ 19.1 km]  Left to Tower
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

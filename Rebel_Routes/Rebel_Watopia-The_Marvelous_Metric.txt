@@ -1,0 +1,70 @@
+============================================================
+  REBEL ROUTE: THE MARVELOUS METRIC
+============================================================
+
+World:       Watopia
+Distance:    102 km
+Elevation:   489 m
+Start Route: Mountain Mash
+Approach:    Mountain Mash → 5.0 km to rebel start
+Strava:      https://www.strava.com/segments/40883256
+VeloViewer:  https://veloviewer.com/segment/40883256
+ZwiftInsider: https://zwiftinsider.com/rebel-route-the-marvelous-metric/
+
+Description: A metric century covering many Watopia roads — climbs, flats, and volcano.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  3.1 km]  Straight to Epic KOM Bypass
+    2. [  5.3 km]  Left to Sequoia Circle
+    3. [  7.5 km]  Straight (Left) to Sequoia Circle
+    4. [  9.6 km]  Right to Downtown
+    5. [ 11.8 km]  Right to Desert Flats
+    6. [ 14.0 km]  Straight (Left) to Desert Flats
+    7. [ 16.2 km]  Left to Ciudad La Cumbre
+    8. [ 18.3 km]  Right to Ciudad La Cumbre
+    9. [ 20.5 km]  Straight (Left) to Jungle Ruins
+   10. [ 22.7 km]  Straight (Left) to Jungle Ruins
+   11. [ 24.9 km]  Right to Mayan Loop
+   12. [ 27.1 km]  Left to Mayan Bridge
+   13. [ 29.2 km]  Left to Mayan Loop
+   14. [ 31.4 km]  Straight (Left) to Jungle Loop
+   15. [ 33.6 km]  Right to Ciudad La Cumbre
+   16. [ 35.8 km]  Straight (Right) to Ciudad La Cumbre
+   17. [ 37.9 km]  Straight (Right) to Fuego Flats
+   18. [ 40.1 km]  Straight (Left) to Fuego Flats
+   19. [ 42.3 km]  Left to Epic KOM
+   20. [ 44.5 km]  Straight (Right) to Epic KOM
+   21. [ 46.6 km]  Left to Epic KOM
+   22. [ 48.8 km]  Right to Sequoia Circle
+   23. [ 51.0 km]  Left to Italian Villas
+   24. [ 53.2 km]  Straight (Right) to Italian Villas
+   25. [ 55.4 km]  Left to Italian Villas
+   26. [ 57.5 km]  Left to Volcano Circuit
+   27. [ 59.7 km]  Straight (Left) to Volcano Circuit
+   28. [ 61.9 km]  Straight (Right) to Volcano KOM
+   29. [ 64.1 km]  Left to Volcano Circuit
+   30. [ 66.2 km]  Straight (Right) to Volcano
+   31. [ 68.4 km]  Left to Downtown
+   32. [ 70.6 km]  Left to Downtown
+   33. [ 72.8 km]  Left to Ocean Blvd
+   34. [ 75.0 km]  Straight (Right) to Ocean Blvd
+   35. [ 77.1 km]  Left to Epic KOM
+   36. [ 79.3 km]  Left to Desert Flats
+   37. [ 81.5 km]  Right to Desert Flats
+   38. [ 83.7 km]  Straight (Left) to Desert Flats
+   39. [ 85.8 km]  Left to Downtown
+   40. [ 88.0 km]  Straight (Right) to Ocean Blvd
+   41. [ 90.2 km]  Right to Downtown
+   42. [ 92.4 km]  Right to Downtown
+   43. [ 94.5 km]  Straight (Left) to Sprint
+   44. [ 96.7 km]  Right to Volcano Circuit
+   45. [ 98.9 km]  Right to Volcano Circuit CCW
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

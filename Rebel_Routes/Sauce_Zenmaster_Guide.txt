@@ -1,0 +1,55 @@
+============================================================
+  HOW TO USE SAUCE ZENMASTER FOR CUSTOM ROUTES
+============================================================
+
+SETUP
+-----
+1. Install Sauce for Zwift from https://www.sauce.llc/
+2. Launch Sauce — it runs alongside Zwift as an overlay
+3. Install Zenmaster mod:
+   Sauce Settings → MODS tab → Sauce Official Mod Store → install Zenmaster
+   (Author: Arend teRaa — "Arend's Mod Collection for S4Z")
+
+LOADING A CUSTOM ROUTE
+-----------------------
+1. Open the Custom Route Builder window (Zenmaster mod window)
+2. Select the world from the dropdown (e.g., Watopia)
+3. Load a route:
+   - Click "Saved routes" dropdown → select a previously saved route
+   - Or import a .json route file
+   - Or draw a route manually by clicking roads on the map
+4. The route appears on the map in red/orange with distance and elevation shown
+5. Left panel shows Waypoints and Cuesheet tabs
+
+ACTIVATING NAVIGATION
+----------------------
+1. Once the route is loaded in Custom Route Builder, click the "Finish" button
+   — this publishes the route for navigation (auto-steering)
+2. In Zwift, select the matching world and a spawn route that places you
+   near the route start (see spawnPoint.routes in the JSON)
+3. Start riding — Zenmaster will automatically make all turns for you
+4. Use "Reset" to clear waypoints, "Undo" to remove last point,
+   "Clear from Sauce" to remove the route entirely
+
+JSON ROUTE FORMAT
+-----------------
+The route file contains:
+- courseId    — Zwift world (6 = Watopia)
+- manifest   — ordered list of road segments (roadId, start/end positions, reverse)
+- spawnPoint — which official Zwift routes place you at the correct starting location
+
+CREATING NEW ROUTE FILES
+--------------------------
+- Sauce Route Builder (built into Zenmaster UI) — visually click roads on the map
+- Manual JSON — if you know the road IDs (visible in Sauce's road debug overlay)
+- Community shared routes — many rebel routes are shared as JSON files
+
+TIPS
+----
+- If the route doesn't auto-steer, make sure Navigator is enabled in Zenmaster
+- You can pause/resume navigation mid-ride
+- The route won't appear in Zwift's official HUD — only in Sauce's overlay
+- For rebel routes, completing the Strava segment is what counts,
+  so make sure GPS recording is on
+
+============================================================

@@ -1,0 +1,60 @@
+============================================================
+  REBEL ROUTE: KOMONSTER
+============================================================
+
+World:       Watopia
+Distance:    99.8 km
+Elevation:   2570 m
+Start Route: Hilly Route
+Approach:    Hilly Route
+Strava:      https://www.strava.com/segments/21645117
+VeloViewer:  https://veloviewer.com/segment/21645117
+ZwiftInsider: https://zwiftinsider.com/rebel-route-komonster/
+
+Description: A massive Watopia route covering nearly every KOM and many key roads. Finishes with Alpe du Zwift.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  3.0 km]  Straight to KOM
+    2. [  5.8 km]  Straight (Left) to KOM
+    3. [  8.5 km]  Straight (Left) to Bridge
+    4. [ 11.3 km]  Straight to Italian Village/Sprint
+    5. [ 14.0 km]  Left to Sequoia Circle
+    6. [ 16.8 km]  Right to Jungle/Epic KOM
+    7. [ 19.6 km]  Straight to Epic KOM
+    8. [ 22.3 km]  Straight to KOM Descent
+    9. [ 25.1 km]  Straight to Sequoia Circle
+   10. [ 27.8 km]  Right to Desert Flats
+   11. [ 30.6 km]  Left to Titans Grove
+   12. [ 33.3 km]  Left to Ocean Blvd
+   13. [ 36.1 km]  Right to Downtown
+   14. [ 38.9 km]  Right to Downtown
+   15. [ 41.6 km]  Right to Volcano Circuit
+   16. [ 44.4 km]  Right to Volcano Circuit CCW
+   17. [ 47.1 km]  Straight to Volcano KOM
+   18. [ 49.9 km]  Straight to Volcano Circuit CCW
+   19. [ 52.7 km]  Straight to Italian Villas
+   20. [ 55.4 km]  Right to 360 Bridge
+   21. [ 58.2 km]  Straight to 360 Bridge
+   22. [ 60.9 km]  Straight to Reverse KOM
+   23. [ 63.7 km]  Straight (Right) to Reverse KOM
+   24. [ 66.5 km]  Straight (Right) to Downtown
+   25. [ 69.2 km]  Right to Ocean Blvd
+   26. [ 72.0 km]  Left to Desert Flats
+   27. [ 74.7 km]  Right to Titans Grove
+   28. [ 77.5 km]  Right to Epic KOM
+   29. [ 80.2 km]  Left to Epic KOM
+   30. [ 83.0 km]  Straight to EPIC KOM
+   31. [ 85.8 km]  Straight to KOM Descent
+   32. [ 88.5 km]  Left to Jungle/Alpe
+   33. [ 91.3 km]  Right to Jungle/Alpe
+   34. [ 94.0 km]  Straight (Right) to Mayan Loop
+   35. [ 96.8 km]  Right to Alpe du Zwift
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

@@ -1,0 +1,92 @@
+============================================================
+  REBEL ROUTE: THE FULL WATOPIA
+============================================================
+
+World:       Watopia
+Distance:    154.5 km
+Elevation:   2852 m
+Start Route: Oh Hill No
+Approach:    Oh Hill No
+Strava:      https://www.strava.com/segments/40760759
+VeloViewer:  https://veloviewer.com/segment/40760759
+ZwiftInsider: https://zwiftinsider.com/rebel-route-the-full-watopia/
+
+Description: Covers every road in Watopia in a single ride. The ultimate Watopia challenge.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  4.6 km]  Straight (Right) to Radio Tower
+    2. [  6.8 km]  Straight to Radio Tower
+    3. [  9.0 km]  Left to Bonus Climb
+    4. [ 11.2 km]  Left to Islands/Jungle
+    5. [ 13.4 km]  Straight to Italian Villas
+    6. [ 15.6 km]  Right to Sequoia Circle
+    7. [ 17.8 km]  Straight (Right) to Epic KOM
+    8. [ 20.0 km]  Right to Epic KOM Bypass
+    9. [ 22.2 km]  Straight to Jungle/Alpe
+   10. [ 24.4 km]  Left to Jungle Reverse
+   11. [ 26.6 km]  Right to Mayan Bridge
+   12. [ 28.8 km]  Left to Mayan Loop
+   13. [ 31.0 km]  Straight (Left) to Jungle Loop
+   14. [ 33.2 km]  Right to Ciudad La Cumbre
+   15. [ 35.4 km]  Straight (Right) to Ciudad La Cumbre
+   16. [ 37.6 km]  Straight (Right) to Fuego Flats
+   17. [ 39.8 km]  Straight (Left) to Fuego Flats
+   18. [ 42.0 km]  Left to Epic KOM
+   19. [ 44.2 km]  Straight (Right) to Epic KOM
+   20. [ 46.4 km]  Right to Titans Grove
+   21. [ 48.6 km]  Straight (Right) to Ocean Blvd
+   22. [ 50.8 km]  Left to Ocean Blvd
+   23. [ 53.0 km]  Right to Downtown
+   24. [ 55.2 km]  Left to KOM
+   25. [ 57.4 km]  Right to KOM Bypass
+   26. [ 59.6 km]  Right to Bridge
+   27. [ 61.8 km]  Right to Italian Villas/Sprint
+   28. [ 64.0 km]  Right to Sprint
+   29. [ 66.2 km]  Left to Volcano Circuit
+   30. [ 68.4 km]  Left to Volcano Circuit
+   31. [ 70.6 km]  Left to Italian Villas
+   32. [ 72.8 km]  Right to 360 Bridge
+   33. [ 75.0 km]  Straight (Left) to 360 Bridge
+   34. [ 77.2 km]  Straight (Right) to Reverse KOM
+   35. [ 79.5 km]  Straight (Right) to Reverse KOM
+   36. [ 81.7 km]  Straight (Right) to Downtown
+   37. [ 83.9 km]  Straight (Left) to Downtown
+   38. [ 86.1 km]  Right to Volcano Circuit
+   39. [ 88.3 km]  Right to Volcano Circuit CCW
+   40. [ 90.5 km]  Straight (Left) to Volcano Circuit CCW
+   41. [ 92.7 km]  Straight (Left) to Volcano KOM
+   42. [ 94.9 km]  Straight (Left) to Volcano Circuit CCW
+   43. [ 97.1 km]  Right to Jarvis Island
+   44. [ 99.3 km]  Right to Jarvis Island Counter
+   45. [101.5 km]  Right to Volcano Circuit
+   46. [103.7 km]  Right to Volcano Circuit
+   47. [105.9 km]  Straight (Right) to Italian Villas
+   48. [108.1 km]  Left to Sprint
+   49. [110.3 km]  Right to Bridge/Islands
+   50. [112.5 km]  Right to Islands
+   51. [114.7 km]  Left to Islands
+   52. [116.9 km]  Straight (Left) to Sequoia Circle
+   53. [119.1 km]  Straight (Left) to Downtown
+   54. [121.3 km]  Right to Desert Flats
+   55. [123.5 km]  Straight (Left) to Desert Flats
+   56. [125.7 km]  Straight (Right) to Epic KOM
+   57. [127.9 km]  Left to Epic KOM
+   58. [130.1 km]  Left to Epic KOM
+   59. [132.3 km]  Straight (Left) to Epic KOM
+   60. [134.5 km]  Left to Ciudad La Cumbre
+   61. [136.7 km]  Right to Jungle Ruins
+   62. [138.9 km]  Right to Jungle Ruins
+   63. [141.1 km]  Right to Mayan Loop
+   64. [143.3 km]  Straight (Right) to Mayan Loop
+   65. [145.5 km]  Straight (Left) to Jungle Loop
+   66. [147.7 km]  Straight (Right) to Mayan Loop
+   67. [149.9 km]  Right to Alpe du Zwift
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

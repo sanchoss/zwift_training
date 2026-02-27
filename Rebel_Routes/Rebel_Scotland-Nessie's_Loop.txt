@@ -1,0 +1,29 @@
+============================================================
+  REBEL ROUTE: NESSIE'S LOOP
+============================================================
+
+World:       Scotland
+Distance:    1.89 km
+Elevation:   15 m
+Start Route: Loch Loop (then U-Turn)
+Approach:    Loch Loop → 2.0 km to rebel start
+Strava:      https://www.strava.com/segments/34255208
+VeloViewer:  https://veloviewer.com/segment/34255208
+ZwiftInsider: https://zwiftinsider.com/rebel-route-nessies-loop/
+
+Description: A tiny Scotland loop around the loch area.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.3 km]  U-Turn
+    2. [  0.8 km]  Straight (Left) to Tower (lead-in)
+    3. [  1.3 km]  Right to Cliffs
+    4. [  1.8 km]  Right to Tower
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

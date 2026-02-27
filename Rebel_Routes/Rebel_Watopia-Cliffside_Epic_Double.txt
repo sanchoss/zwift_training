@@ -1,0 +1,47 @@
+============================================================
+  REBEL ROUTE: CLIFFSIDE EPIC DOUBLE
+============================================================
+
+World:       Watopia
+Distance:    52.71 km
+Elevation:   991 m
+Start Route: Mountain Route
+Approach:    Mountain Route
+Strava:      https://www.strava.com/segments/31849910
+VeloViewer:  https://veloviewer.com/segment/31849910
+ZwiftInsider: https://zwiftinsider.com/rebel-route-cliffside-epic-double/
+
+Description: A figure-8 route climbing the Epic KOM in both directions, using the Epic KOM Bypass road. No Radio Tower climb.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  1.6 km]  Left to Ocean Blvd
+    2. [  4.0 km]  Straight to Ocean Blvd
+    3. [  6.3 km]  Left to Epic KOM
+    4. [  8.7 km]  Straight to Epic KOM
+    5. [ 11.0 km]  Right to Epic KOM Bypass
+    6. [ 13.4 km]  Left to Reverse Epic KOM
+    7. [ 15.7 km]  Straight to KOM Descent
+    8. [ 18.1 km]  Straight to Sequoia Circle
+    9. [ 20.5 km]  Straight to Sequoia Circle
+   10. [ 22.8 km]  Left to Italian Villas
+   11. [ 25.2 km]  Left to Jungle/Epic KOM
+   12. [ 27.5 km]  Left to Epic KOM Bypass
+   13. [ 29.9 km]  Right to Epic KOM
+   14. [ 32.2 km]  Straight to KOM Descent
+   15. [ 34.6 km]  Straight to Italian Villas
+   16. [ 37.0 km]  Left to Italian Villas
+   17. [ 39.3 km]  Left to Italian Villas
+   18. [ 41.7 km]  Left to Volcano Circuit
+   19. [ 44.0 km]  Straight to Volcano Circuit
+   20. [ 46.4 km]  Left to Volcano Circuit
+   21. [ 48.7 km]  Left to Downtown
+   22. [ 51.1 km]  Left to Downtown
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

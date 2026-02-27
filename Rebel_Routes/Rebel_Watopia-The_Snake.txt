@@ -1,0 +1,55 @@
+============================================================
+  REBEL ROUTE: THE SNAKE
+============================================================
+
+World:       Watopia
+Distance:    77.4 km
+Elevation:   661 m
+Start Route: Tempus Fugit
+Approach:    Tempus Fugit → 3.5 km to rebel start
+Strava:      https://www.strava.com/segments/22313236
+VeloViewer:  https://veloviewer.com/segment/22313236
+ZwiftInsider: https://zwiftinsider.com/rebel-route-the-snake/
+
+Description: A long, winding Watopia route covering Desert Flats, Epic KOM, Volcano, 360 Bridge, and more.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  2.3 km]  Straight (Right) to Epic KOM
+    2. [  4.8 km]  Right to Titans Grove
+    3. [  7.3 km]  Left to Ocean Blvd
+    4. [  9.8 km]  Left to Ocean Blvd
+    5. [ 12.3 km]  Straight to Italian Villas
+    6. [ 14.9 km]  Straight (Right) to Italian Villas
+    7. [ 17.4 km]  Right to 360 Bridge
+    8. [ 19.9 km]  Straight (Right) to Reverse KOM
+    9. [ 22.4 km]  Straight (Right) to Reverse KOM
+   10. [ 24.9 km]  Straight (Right) to Downtown
+   11. [ 27.4 km]  Straight (Left) to Downtown
+   12. [ 29.9 km]  Straight (Left) to Sprint
+   13. [ 32.4 km]  Right to Volcano Circuit
+   14. [ 34.9 km]  Straight (Left) to Volcano Circuit
+   15. [ 37.4 km]  Straight (Right) to Volcano KOM
+   16. [ 40.0 km]  Straight (Left) to Volcano Circuit CCW
+   17. [ 42.5 km]  Straight (Right) to Italian Villas
+   18. [ 45.0 km]  Left to Sprint
+   19. [ 47.5 km]  Straight (Left) to Sprint
+   20. [ 50.0 km]  Right to Downtown
+   21. [ 52.5 km]  Straight (Right) to KOM
+   22. [ 55.0 km]  Straight (Left) to KOM
+   23. [ 57.5 km]  Straight (Left) to Bridge
+   24. [ 60.0 km]  Straight (Left) to Italian Village/Sprint
+   25. [ 62.5 km]  Left to Sequoia Circle
+   26. [ 65.1 km]  Straight (Left) to Sequoia Circle
+   27. [ 67.6 km]  Straight (Left) to Downtown
+   28. [ 70.1 km]  Right to Desert Flats
+   29. [ 72.6 km]  Right to Titans Grove
+   30. [ 75.1 km]  Straight (Left) to Desert Flats
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

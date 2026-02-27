@@ -1,0 +1,33 @@
+============================================================
+  REBEL ROUTE: URUKAZI FLATS
+============================================================
+
+World:       Makuri Islands
+Distance:    7.51 km
+Elevation:   22 m
+Start Route: Bridges and Boardwalks
+Approach:    Bridges and Boardwalks
+Strava:      https://www.strava.com/segments/33396865
+VeloViewer:  https://veloviewer.com/segment/33396865
+ZwiftInsider: https://zwiftinsider.com/rebel-route-urukazi-flats/
+
+Description: A flat loop around Urukazi covering the festival harbor, mangrove maze, and mech isle areas.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.3 km]  Right to Festival Harbor
+    2. [  1.3 km]  Left to Festival Harbor South
+    3. [  2.3 km]  Left to Mangrove Maze
+    4. [  3.3 km]  Right to Mangrove Maze South
+    5. [  4.3 km]  Right to Neokyo
+    6. [  5.3 km]  Left to Hidden Reefs
+    7. [  6.3 km]  Left to Mech Isle
+    8. [  7.3 km]  Right to Mech Isle North
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

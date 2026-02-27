@@ -1,0 +1,29 @@
+============================================================
+  REBEL ROUTE: DIRTY TEMPLE KOM LOOP
+============================================================
+
+World:       Makuri Islands
+Distance:    4.37 km
+Elevation:   75 m
+Start Route: Sea to Tree
+Approach:    Sea to Tree
+Strava:      https://www.strava.com/segments/31415608
+VeloViewer:  https://veloviewer.com/segment/31415608
+ZwiftInsider: https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/
+
+Description: All-dirt loop with repeated partial climbs of the Temple KOM. Great for VO2 intervals (~1.5 km climbing per lap). Use a gravel bike! Lead-in: 3.2 km / 106 m.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  Lead-in: ~3.2 km before first turn
+
+  (km values are approximate)
+
+    1. [  3.5 km]  Right to Fishing Village
+    2. [  7.3 km]  Right to Forest Climb
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

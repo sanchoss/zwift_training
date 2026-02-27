@@ -1,0 +1,52 @@
+============================================================
+  REBEL ROUTE: THE ROADS LESS TRAVELED
+============================================================
+
+World:       Watopia
+Distance:    53.6 km (+5.7 km lead-in)
+Elevation:   437 m
+Start Route: Sugar Cookie
+Approach:    Sugar Cookie
+Strava:      https://www.strava.com/segments/35861978
+VeloViewer:  https://veloviewer.com/segment/35861978
+ZwiftInsider: https://zwiftinsider.com/rebel-route-the-roads-less-traveled/
+
+Description: Covers many of Watopia's less-used roads including the bypass, 360 bridge, and jungle paths.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  Lead-in: ~5.7 km before first turn
+
+  (km values are approximate)
+
+    1. [  7.3 km]  Right to Jungle/Alpe
+    2. [  9.4 km]  Straight (Right) to Mayan Loop
+    3. [ 11.5 km]  Straight (Left) to Jungle Loop
+    4. [ 13.6 km]  Right to Southern Coast
+    5. [ 15.7 km]  Left to Epic KOM
+    6. [ 17.8 km]  Straight (Right) to Epic KOM
+    7. [ 19.9 km]  Right to Titans Grove
+    8. [ 21.9 km]  Left to Ocean Blvd
+    9. [ 24.0 km]  Right to Downtown
+   10. [ 26.1 km]  Left to KOM
+   11. [ 28.2 km]  Right to KOM Bypass
+   12. [ 30.3 km]  Right to Bridge
+   13. [ 32.4 km]  Right to Italian Villas/Sprint
+   14. [ 34.5 km]  Left to Italian Villas/Sprint
+   15. [ 36.6 km]  Straight (Left) to 360 Bridge
+   16. [ 38.7 km]  Right to Sequoia Circle
+   17. [ 40.8 km]  Straight (Left) to Sequoia Circle
+   18. [ 42.9 km]  Right to Epic KOM
+   19. [ 44.9 km]  Straight (Right) to Epic KOM
+   20. [ 47.0 km]  Right to Epic KOM Bypass
+   21. [ 49.1 km]  Straight to Jungle/Alpes
+   22. [ 51.2 km]  Left to Jungle Reverse
+   23. [ 53.3 km]  Right to Mayan Bridge
+   24. [ 55.4 km]  Left to Mayan Loop
+   25. [ 57.5 km]  Straight (Left) to Jungle Loop
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

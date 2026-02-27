@@ -1,0 +1,29 @@
+============================================================
+  REBEL ROUTE: HILLY KOM BYPASS
+============================================================
+
+World:       Watopia
+Distance:    2.5 km
+Elevation:   31 m
+Start Route: Hilly Route
+Approach:    Hilly Route → 1.5 km to rebel start
+Strava:      https://www.strava.com/segments/26791932
+VeloViewer:  https://veloviewer.com/segment/26791932
+ZwiftInsider: https://zwiftinsider.com/rebel-route-hilly-kom-bypass/
+
+Description: A very short loop using the KOM bypass road on the Hilly Route.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.3 km]  Straight (Right) to KOM
+    2. [  1.0 km]  Straight (Left) to KOM
+    3. [  1.7 km]  Right to KOM Bypass
+    4. [  2.4 km]  Right to KOM
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

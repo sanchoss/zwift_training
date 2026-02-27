@@ -1,0 +1,32 @@
+============================================================
+  REBEL ROUTE: SGURR 8
+============================================================
+
+World:       Scotland
+Distance:    12.62 km
+Elevation:   150 m
+Start Route: Rolling Highlands (then U-Turn after lap banner)
+Approach:    Rolling Highlands → 3.0 km to rebel start
+Strava:      https://www.strava.com/segments/34485671
+VeloViewer:  https://veloviewer.com/segment/34485671
+ZwiftInsider: https://zwiftinsider.com/rebel-route-sgurr-8/
+
+Description: A figure-8 route around Scotland's Sgurr area.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.4 km]  Right to Glasgow
+    2. [  2.4 km]  Right to Glasgow
+    3. [  4.3 km]  Right to Sgurr Summit
+    4. [  6.3 km]  Left to Cliffs
+    5. [  8.3 km]  Left to Sgurr Summit
+    6. [ 10.2 km]  Left to Sgurr Summit
+    7. [ 12.2 km]  Right to Tower
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

@@ -1,0 +1,35 @@
+============================================================
+  REBEL ROUTE: TOUTES LES ROUTES
+============================================================
+
+World:       France
+Distance:    104.8 km
+Elevation:   1968 m
+Start Route: Casse-Pattes
+Approach:    Casse-Pattes
+Strava:      https://www.strava.com/segments/24982012
+VeloViewer:  https://veloviewer.com/segment/24982012
+ZwiftInsider: https://zwiftinsider.com/rebel-route-toutes-les-routes/
+
+Description: Covers every road in France including Ventoux summit and Mont Saint-Michel.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  1. Straight to Mont Saint-Michel (lead-in)
+  2. 16 km: Straight to Ventoux Summit
+  3. 19 km: Right to Mont Saint-Michel
+  4. 22.5 km: Right to Balloon Field
+  5. 30 km: Straight to Aqueduct
+  6. 46.5 km: Straight to Ventoux Summit
+  7. 50 km: Left to Aqueduct
+  8. 53 km: Left to Balloon Fields
+  9. 60.5 km: Left to Ventoux Summit
+  10. 64 km: Straight to Ventoux Summit
+  11. 101 km: Straight to Mont Saint-Michel
+  12. 104.3 km: Straight to Mont Saint-Michel
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

@@ -1,0 +1,69 @@
+============================================================
+  REBEL ROUTE: THE FULL NEW YORK
+============================================================
+
+World:       New York
+Distance:    57.8 km
+Elevation:   596 m
+Start Route: The Highline
+Approach:    The Highline
+Strava:      https://www.strava.com/segments/40678671
+VeloViewer:  https://veloviewer.com/segment/40678671
+ZwiftInsider: https://zwiftinsider.com/rebel-route-the-full-new-york/
+
+Description: Covers every road in New York across Central Park, city rooftops, bridges, and Prospect Park.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  1.7 km]  Right to Sky Loop
+    2. [  3.0 km]  Left to Sky Loop
+    3. [  4.2 km]  Straight (Right) to KOM Arch
+    4. [  5.5 km]  Left to KOM Arch
+    5. [  6.8 km]  Straight (Left) to KOM Arch
+    6. [  8.0 km]  Left to Park Loop
+    7. [  9.3 km]  Left to Park Loop
+    8. [ 10.6 km]  Left to Park Loop
+    9. [ 11.8 km]  Left to Park Loop
+   10. [ 13.1 km]  Left to Bethesda Plaza
+   11. [ 14.4 km]  Right to Park Loop Reverse
+   12. [ 15.6 km]  Right to The Baseball Fields
+   13. [ 16.9 km]  Left to Park Loop
+   14. [ 18.1 km]  Left to Park Loop
+   15. [ 19.4 km]  Straight (Right) to Sky Loop
+   16. [ 20.7 km]  Straight (Right) to Sky Loop
+   17. [ 21.9 km]  Left to Sky Loop
+   18. [ 23.2 km]  Straight (Right) to City Rooftops
+   19. [ 24.5 km]  Straight (Right) to Park Loop
+   20. [ 25.7 km]  Left to Park Loop
+   21. [ 27.0 km]  Left to The Baseball Fields
+   22. [ 28.3 km]  Right to Park Loop Reverse
+   23. [ 29.5 km]  Right to Bethesda Plaza
+   24. [ 30.8 km]  Left to Park Loop
+   25. [ 32.1 km]  Straight (Right) to Park Loop
+   26. [ 33.3 km]  Right to Times Square
+   27. [ 34.6 km]  Straight (Left) to Manhattan Bridge
+   28. [ 35.9 km]  Left to Times Square Circuit
+   29. [ 37.1 km]  Right to Manhattan Bridge
+   30. [ 38.4 km]  Right to Manhattan Bridge
+   31. [ 39.7 km]  Straight (Left) to Manhattan Bridge
+   32. [ 40.9 km]  Right to Brooklyn Bridge
+   33. [ 42.2 km]  Right to Manhattan Bridge
+   34. [ 43.4 km]  Straight (Left) to Prospect Park
+   35. [ 44.7 km]  Right to Prospect Park
+   36. [ 46.0 km]  Left to Peristyle Sprint
+   37. [ 47.2 km]  Right to Central Dr
+   38. [ 48.5 km]  Left to Prospect Park Loop
+   39. [ 49.8 km]  Left to Central Dr
+   40. [ 51.0 km]  Right to Brooklyn Bridge
+   41. [ 52.3 km]  Left to Brooklyn Bridge
+   42. [ 53.6 km]  Left to Prospect Park
+   43. [ 54.8 km]  Right to Prospect Park
+   44. [ 56.1 km]  Left to Peristyle Sprint
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

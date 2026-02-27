@@ -1,0 +1,41 @@
+============================================================
+  REBEL ROUTE: DOWN UP DOWN
+============================================================
+
+World:       Watopia
+Distance:    49.35 km
+Elevation:   1257 m
+Start Route: Flat Route
+Approach:    Flat Route → 2.0 km to rebel start
+Strava:      https://www.strava.com/segments/24393519
+VeloViewer:  https://veloviewer.com/segment/24393519
+ZwiftInsider: https://zwiftinsider.com/rebel-route-down-up-down/
+
+Description: Travel from Watopia's lowest point (Ocean Blvd, -5m) to the highest (Alpe du Zwift, 1047m) and back. Must be level 6+.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  1.5 km]  Left to Ocean Blvd
+    2. [  4.6 km]  Straight to Ocean Blvd
+    3. [  7.7 km]  Straight to Italian Villas
+    4. [ 10.8 km]  Left to Jungle/Epic KOM
+    5. [ 13.9 km]  Right to Jungle/Alpe
+    6. [ 17.0 km]  Right to Jungle/Alpe
+    7. [ 20.1 km]  Straight (Right) to Mayan Loop
+    8. [ 23.2 km]  Right to Alpe du Zwift
+    9. [ 26.2 km]  Left to Mayan Loop Rev
+   10. [ 29.3 km]  Straight (Left) to Mayan Loop Rev
+   11. [ 32.4 km]  Left to Epic KOM
+   12. [ 35.5 km]  Left to Italian Village
+   13. [ 38.6 km]  Right to Sequoia Circle
+   14. [ 41.7 km]  Straight to Downtown
+   15. [ 44.8 km]  Straight to Downtown
+   16. [ 47.9 km]  Right to Downtown
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

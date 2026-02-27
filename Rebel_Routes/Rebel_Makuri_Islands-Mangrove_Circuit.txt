@@ -1,0 +1,30 @@
+============================================================
+  REBEL ROUTE: MANGROVE CIRCUIT
+============================================================
+
+World:       Makuri Islands
+Distance:    1.88 km
+Elevation:   13 m
+Start Route: Island Hopper
+Approach:    Island Hopper
+Strava:      https://www.strava.com/segments/33397094
+VeloViewer:  https://veloviewer.com/segment/33397094
+ZwiftInsider: https://zwiftinsider.com/rebel-route-mangrove-circuit/
+
+Description: A very short circuit through the mangrove maze. Great for short efforts.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.3 km]  Right to Mangrove Maze South
+    2. [  1.1 km]  Left to Mangrove Maze North
+    3. [  1.8 km]  Left to Mangrove Maze South
+
+Notes: Pro tip: just stay left after the first right turn!
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

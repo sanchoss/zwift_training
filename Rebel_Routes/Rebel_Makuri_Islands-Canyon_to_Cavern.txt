@@ -1,0 +1,35 @@
+============================================================
+  REBEL ROUTE: CANYON TO CAVERN
+============================================================
+
+World:       Makuri Islands
+Distance:    13.41 km
+Elevation:   87 m
+Start Route: Turf N Surf (then U-Turn, left toward Urukazi)
+Approach:    Turf N Surf
+Strava:      https://www.strava.com/segments/33397045
+VeloViewer:  https://veloviewer.com/segment/33397045
+ZwiftInsider: https://zwiftinsider.com/rebel-route-canyon-to-cavern/
+
+Description: Shortest loop covering both the slot canyon (Yumezi-Urukazi) and the cavern (Neokyo-Urukazi) connector roads. Starts/ends at Tidepool Sprint banner.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.4 km]  Straight/Right to Yumezi
+    2. [  2.2 km]  Right to Neokyo
+    3. [  4.0 km]  Straight/Right to Tower
+    4. [  5.8 km]  Straight/Right to Tower
+    5. [  7.6 km]  Right to Harbor
+    6. [  9.4 km]  Right to Harbor
+    7. [ 11.2 km]  Right to Urukazi
+    8. [ 13.0 km]  Right to Hidden Reefs
+
+Notes: Pro tip: once you reach the Tidepool Sprint, just stay right at every turn!
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

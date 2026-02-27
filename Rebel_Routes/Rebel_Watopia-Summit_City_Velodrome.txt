@@ -1,0 +1,28 @@
+============================================================
+  REBEL ROUTE: SUMMIT CITY VELODROME
+============================================================
+
+World:       Watopia
+Distance:    2.53 km
+Elevation:   0 m
+Start Route: Oh Hill No (then U-Turn)
+Approach:    Oh Hill No → 4.0 km to rebel start
+Strava:      https://www.strava.com/segments/37626854
+VeloViewer:  https://veloviewer.com/segment/37626854
+ZwiftInsider: https://zwiftinsider.com/rebel-route-summit-city-velodrome/
+
+Description: 10 laps of Ciudad La Cumbre roundabout CCW. First prompt defaults correct (left to Radio Tower), second prompt needs manual straight toward Jungle Ruins.
+
+----------------------------------------
+  TURN-BY-TURN DIRECTIONS
+----------------------------------------
+
+  (km values are approximate)
+
+    1. [  0.3 km]  Left to Radio Tower (default — correct)
+    2. [  1.4 km]  Straight toward Jungle Ruins (manual — override default)
+       [  2.5 km]     Repeat for 10 laps of the roundabout
+
+============================================================
+Source: https://zwiftinsider.com/rebel-routes/
+============================================================

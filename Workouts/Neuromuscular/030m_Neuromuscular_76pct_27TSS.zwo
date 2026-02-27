@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workout_file>
+    <author>AI Coach</author>
+    <name>NM 76% 27TSS</name>
+    <description>30min neuromuscular sprint training: 4x5s + 3x15s hold + 2x10s seated. Pure peak power with full recovery. Phosphocreatine system: targets 5-15s max sprint.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Neuromuscular" />
+        <tag name="Sprint" />
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.36" PowerHigh="0.70">
+            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
+            <textevent timeoffset="360" message="Almost at working power, get ready" />
+        </Warmup>
+        <IntervalsT Repeat="4" OnDuration="5" OffDuration="115" OnPower="3.00" OffPower="0.50">
+            <textevent timeoffset="0" message="MAX SPRINT! Absolute peak watts, explode!" />
+            <textevent timeoffset="3" message="All-out! This is your 5s best" />
+            <textevent timeoffset="5" message="Full recovery - must be fresh for next sprint" />
+            <textevent timeoffset="95" message="Shake out legs, get ready" />
+        </IntervalsT>
+        <IntervalsT Repeat="3" OnDuration="15" OffDuration="105" OnPower="2.50" OffPower="0.50">
+            <textevent timeoffset="0" message="15s SPRINT! Hold peak power past the snap" />
+            <textevent timeoffset="8" message="Sustain! Targets 15s sprint finish" />
+            <textevent timeoffset="15" message="Full recovery, easy spin" />
+        </IntervalsT>
+        <IntervalsT Repeat="2" OnDuration="10" OffDuration="110" OnPower="2.20" OffPower="0.50" Cadence="120">
+            <textevent timeoffset="0" message="SEATED SPRINT! Max power staying in saddle" />
+            <textevent timeoffset="5" message="Core tight, pull up on pedals" />
+            <textevent timeoffset="10" message="Recovery - practice seated sprint form" />
+        </IntervalsT>
+        <Cooldown Duration="180" PowerLow="0.40" PowerHigh="0.55">
+            <textevent timeoffset="0" message="Cool down: easy spin, bring HR down" />
+            <textevent timeoffset="120" message="Relax shoulders, stretch on the bike" />
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workout_file>
+    <author>AI Coach</author>
+    <name>WU-5 55% 3TSS</name>
+    <description>5min basic warmup. Progressive build from easy to moderate. Perfect for short workouts or time-crunched days.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Warmup" />
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.40" PowerHigh="0.70">
+            <textevent timeoffset="0" message="Easy warmup: start at 40% FTP, gradually build" />
+            <textevent timeoffset="120" message="Halfway: gradually increase cadence to 85-90rpm" />
+            <textevent timeoffset="240" message="Finishing warmup, ready to work" />
+        </Warmup>
+    </workout>
+</workout_file>

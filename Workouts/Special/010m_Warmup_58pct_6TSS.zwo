@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workout_file>
+    <author>AI Coach</author>
+    <name>WU-10 58% 6TSS</name>
+    <description>10min basic warmup. Gradual progressive build with tempo touch. Prepares body and mind for harder efforts.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Warmup" />
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.35" PowerHigh="0.70">
+            <textevent timeoffset="0" message="Easy warmup: start very easy at 35% FTP" />
+            <textevent timeoffset="180" message="Gradually increase effort and cadence" />
+            <textevent timeoffset="360" message="Building to 70% FTP, almost ready" />
+        </Warmup>
+        <SteadyState Duration="60" Power="0.80">
+            <textevent timeoffset="0" message="TEMPO TOUCH: brief 80% effort to activate" />
+        </SteadyState>
+        <SteadyState Duration="120" Power="0.55">
+            <textevent timeoffset="0" message="Settle back down, you're warmed up and ready!" />
+        </SteadyState>
+    </workout>
+</workout_file>

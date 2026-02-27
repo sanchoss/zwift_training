@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workout_file>
+    <author>AI Coach</author>
+    <name>FTP-T 82% 46TSS</name>
+    <description>50min FTP test protocol. 20min max effort. Multiply avg power by 0.95 for new FTP.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="FTP" />
+        <tag name="Test" />
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.36" PowerHigh="0.70">
+            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
+            <textevent timeoffset="360" message="Almost at working power, get ready" />
+        </Warmup>
+        <IntervalsT Repeat="3" OnDuration="60" OffDuration="60" OnPower="0.90" OffPower="0.55">
+            <textevent timeoffset="0" message="Activation: build to 90%, open legs up" />
+            <textevent timeoffset="60" message="Easy recovery" />
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.55">
+            <textevent timeoffset="0" message="Settle before test, deep breaths" />
+            <textevent timeoffset="180" message="Mental prep: steady effort, don't go too hard too early" />
+        </SteadyState>
+        <SteadyState Duration="1200" Power="1.00">
+            <textevent timeoffset="0" message="FTP TEST! Best avg power for 20min" />
+            <textevent timeoffset="60" message="Settle in, find your sustainable rhythm" />
+            <textevent timeoffset="300" message="5min done, 15 to go - hold steady!" />
+            <textevent timeoffset="600" message="HALFWAY! Maintain pace or lift slightly" />
+            <textevent timeoffset="900" message="5min left! You can hold ANYTHING for 5min" />
+            <textevent timeoffset="1020" message="3min! Dig deep now" />
+            <textevent timeoffset="1080" message="LAST 2 MIN! Give everything" />
+            <textevent timeoffset="1140" message="FINAL MINUTE! ALL OUT!" />
+        </SteadyState>
+        <Cooldown Duration="180" PowerLow="0.40" PowerHigh="0.55">
+            <textevent timeoffset="0" message="Cool down: easy spin, bring HR down" />
+            <textevent timeoffset="120" message="Relax shoulders, stretch on the bike" />
+        </Cooldown>
+    </workout>
+</workout_file>

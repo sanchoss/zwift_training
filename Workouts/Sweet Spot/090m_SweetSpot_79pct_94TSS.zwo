@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workout_file>
+    <author>AI Coach</author>
+    <name>SS 79% 94TSS</name>
+    <description>90min | 4x30s attacks + 3x60s sustained + sweet spot blocks. Targets 30s and 60s race power plus sustained fitness.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="SweetSpot" />
+        <tag name="Attack" />
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.36" PowerHigh="0.70">
+            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
+            <textevent timeoffset="360" message="Almost at working power, get ready" />
+        </Warmup>
+        <IntervalsT Repeat="4" OnDuration="30" OffDuration="150" OnPower="1.80" OffPower="0.55">
+            <textevent timeoffset="0" message="30s ATTACK! Breakaway simulation" />
+            <textevent timeoffset="15" message="Targets 30s mid-race attack power" />
+            <textevent timeoffset="30" message="Recover fully" />
+        </IntervalsT>
+        <IntervalsT Repeat="3" OnDuration="60" OffDuration="120" OnPower="1.40" OffPower="0.55">
+            <textevent timeoffset="0" message="60s SUSTAINED! Push through the burn" />
+            <textevent timeoffset="30" message="Hold! Targets 60s breakaway &amp; bridge power" />
+            <textevent timeoffset="60" message="Recovery spin" />
+        </IntervalsT>
+        <IntervalsT Repeat="3" OnDuration="720" OffDuration="300" OnPower="0.89" OffPower="0.60">
+            <textevent timeoffset="0" message="SWEET SPOT: just below threshold" />
+            <textevent timeoffset="120" message="Steady 85-95rpm, relax upper body" />
+            <textevent timeoffset="660" message="Hold form, almost done!" />
+            <textevent timeoffset="720" message="Active recovery" />
+        </IntervalsT>
+        <SteadyState Duration="480" Power="0.60">
+            <textevent timeoffset="0" message="Easy spinning" />
+        </SteadyState>
+        <Cooldown Duration="180" PowerLow="0.40" PowerHigh="0.55">
+            <textevent timeoffset="0" message="Cool down: easy spin, bring HR down" />
+            <textevent timeoffset="120" message="Relax shoulders, stretch on the bike" />
+        </Cooldown>
+    </workout>
+</workout_file>

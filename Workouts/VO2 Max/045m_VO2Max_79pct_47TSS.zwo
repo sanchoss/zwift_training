@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workout_file>
+    <author>AI Coach</author>
+    <name>VO2 79% 47TSS</name>
+    <description>45min | 3x5s max snaps + 2x30s attack bursts + VO2 Max intervals. Targets 5s peak power, 30s attack, and aerobic ceiling.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="VO2Max" />
+        <tag name="Sprint" />
+        <tag name="Attack" />
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.36" PowerHigh="0.70">
+            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
+            <textevent timeoffset="360" message="Almost at working power, get ready" />
+        </Warmup>
+        <IntervalsT Repeat="3" OnDuration="5" OffDuration="115" OnPower="3.00" OffPower="0.55">
+            <textevent timeoffset="0" message="MAX SNAP! Absolute peak watts, jump hard!" />
+            <textevent timeoffset="5" message="Full recovery | targets 5s sprint jump" />
+        </IntervalsT>
+        <IntervalsT Repeat="2" OnDuration="30" OffDuration="150" OnPower="1.80" OffPower="0.55">
+            <textevent timeoffset="0" message="30s ATTACK! Full-gas breakaway surge" />
+            <textevent timeoffset="15" message="Hold speed! Targets 30s race attack" />
+            <textevent timeoffset="30" message="Full recovery, breathe" />
+        </IntervalsT>
+        <IntervalsT Repeat="3" OnDuration="180" OffDuration="180" OnPower="1.15" OffPower="0.55">
+            <textevent timeoffset="0" message="VO2 MAX! Hard breathing, hold form" />
+            <textevent timeoffset="60" message="Cadence 95-105rpm, target 90%+ max HR" />
+            <textevent timeoffset="150" message="Final push! Almost done" />
+            <textevent timeoffset="180" message="Drop HR before next interval" />
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.63">
+            <textevent timeoffset="0" message="Easy endurance spin" />
+        </SteadyState>
+        <Cooldown Duration="180" PowerLow="0.40" PowerHigh="0.55">
+            <textevent timeoffset="0" message="Cool down: easy spin, bring HR down" />
+            <textevent timeoffset="120" message="Relax shoulders, stretch on the bike" />
+        </Cooldown>
+    </workout>
+</workout_file>

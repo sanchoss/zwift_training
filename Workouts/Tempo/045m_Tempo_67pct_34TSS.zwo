@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workout_file>
+    <author>AI Coach</author>
+    <name>Z3-T 67% 34TSS</name>
+    <description>45min tempo with 2x30s race surges. Builds pacing and 30s attack confidence from pace.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Tempo" />
+        <tag name="Attack" />
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.36" PowerHigh="0.70">
+            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
+            <textevent timeoffset="360" message="Almost at working power, get ready" />
+        </Warmup>
+        <IntervalsT Repeat="1" OnDuration="900" OffDuration="300" OnPower="0.77" OffPower="0.55">
+            <textevent timeoffset="0" message="TEMPO: comfortably hard, practice race pacing" />
+            <textevent timeoffset="120" message="Steady power, relax upper body" />
+            <textevent timeoffset="450" message="Halfway through the block, hold it" />
+            <textevent timeoffset="840" message="Last minute, maintain form!" />
+            <textevent timeoffset="900" message="Active recovery" />
+        </IntervalsT>
+        <IntervalsT Repeat="2" OnDuration="30" OffDuration="90" OnPower="1.50" OffPower="0.55">
+            <textevent timeoffset="0" message="RACE SURGE! 30s attack from tempo pace" />
+            <textevent timeoffset="15" message="Builds real-race attack confidence" />
+            <textevent timeoffset="30" message="Recovery" />
+        </IntervalsT>
+        <SteadyState Duration="660" Power="0.60">
+            <textevent timeoffset="0" message="Easy spinning" />
+        </SteadyState>
+        <Cooldown Duration="180" PowerLow="0.40" PowerHigh="0.55">
+            <textevent timeoffset="0" message="Cool down: easy spin, bring HR down" />
+            <textevent timeoffset="120" message="Relax shoulders, stretch on the bike" />
+        </Cooldown>
+    </workout>
+</workout_file>

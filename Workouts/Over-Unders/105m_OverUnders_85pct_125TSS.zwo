@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workout_file>
+    <author>AI Coach</author>
+    <name>O/U 85% 125TSS</name>
+    <description>105min over/unders: 3x5 reps (120s@108% / 120s@88%). Builds lactate clearance and race-pace surging.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="OverUnders" />
+        <tag name="Threshold" />
+        <tag name="Race" />
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.36" PowerHigh="0.70">
+            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
+            <textevent timeoffset="360" message="Almost at working power, get ready" />
+        </Warmup>
+        <IntervalsT Repeat="2" OnDuration="15" OffDuration="105" OnPower="2.00" OffPower="0.55">
+            <textevent timeoffset="0" message="Sprint opener! Activate legs before O/U sets" />
+            <textevent timeoffset="15" message="Recovery, prepare for over/unders" />
+        </IntervalsT>
+        <IntervalsT Repeat="5" OnDuration="120" OffDuration="120" OnPower="1.08" OffPower="0.88">
+            <textevent timeoffset="0" message="OVER! 108% FTP — push above threshold" />
+            <textevent timeoffset="60" message="Hold! Lactate building — that's the point" />
+            <textevent timeoffset="120" message="UNDER: 88% — clear lactate at sweet spot" />
+            <textevent timeoffset="180" message="Stay smooth, recover without stopping" />
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.55">
+            <textevent timeoffset="0" message="Set recovery: easy spin, shake out legs" />
+            <textevent timeoffset="240" message="Next block coming up, get ready" />
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="120" OffDuration="120" OnPower="1.08" OffPower="0.88">
+            <textevent timeoffset="0" message="OVER! 108% FTP — push above threshold" />
+            <textevent timeoffset="60" message="Hold! Lactate building — that's the point" />
+            <textevent timeoffset="120" message="UNDER: 88% — clear lactate at sweet spot" />
+            <textevent timeoffset="180" message="Stay smooth, recover without stopping" />
+        </IntervalsT>
+        <SteadyState Duration="300" Power="0.55">
+            <textevent timeoffset="0" message="Set recovery: easy spin, shake out legs" />
+            <textevent timeoffset="240" message="Next block coming up, get ready" />
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="120" OffDuration="120" OnPower="1.08" OffPower="0.88">
+            <textevent timeoffset="0" message="OVER! 108% FTP — push above threshold" />
+            <textevent timeoffset="60" message="Hold! Lactate building — that's the point" />
+            <textevent timeoffset="120" message="UNDER: 88% — clear lactate at sweet spot" />
+            <textevent timeoffset="180" message="Stay smooth, recover without stopping" />
+        </IntervalsT>
+        <SteadyState Duration="1260" Power="0.63">
+            <textevent timeoffset="0" message="Easy endurance to finish" />
+        </SteadyState>
+        <Cooldown Duration="180" PowerLow="0.40" PowerHigh="0.55">
+            <textevent timeoffset="0" message="Cool down: easy spin, bring HR down" />
+            <textevent timeoffset="120" message="Relax shoulders, stretch on the bike" />
+        </Cooldown>
+    </workout>
+</workout_file>

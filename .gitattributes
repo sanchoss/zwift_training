@@ -1,0 +1,16 @@
+# Normalize line endings across Windows and Linux
+* text=auto
+
+# Force LF for scripts and config
+*.py text eol=lf
+*.pyi text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.zwo text eol=lf
+
+# Binary files
+*.pickle binary

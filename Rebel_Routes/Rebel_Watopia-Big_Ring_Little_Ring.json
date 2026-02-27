@@ -1,0 +1,197 @@
+{
+  "name": "Watopia-Big_Ring_Little_Ring",
+  "distance": 21412.742193084254,
+  "elevation": 149.14443598421929,
+  "manifest": [
+    {
+      "start": 0,
+      "end": 0.0288596493,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.2328042328042328,
+      "end": 0.8303519983,
+      "reverse": false,
+      "roadId": 3
+    },
+    {
+      "start": 0.006021962451292949,
+      "end": 0.9988325581,
+      "reverse": false,
+      "roadId": 1
+    },
+    {
+      "start": 0.038461538461538464,
+      "end": 0.9386716726,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0.4456114808652243,
+      "end": 0.5338013198,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.28381962864721455,
+      "end": 0.857619086,
+      "reverse": false,
+      "roadId": 26
+    },
+    {
+      "start": 0.1304563492063488,
+      "end": 0.993392,
+      "reverse": false,
+      "roadId": 21
+    },
+    {
+      "start": 0.9967074317967625,
+      "end": 1,
+      "reverse": false,
+      "roadId": 23
+    },
+    {
+      "start": 0,
+      "end": 0.5145087185,
+      "reverse": false,
+      "roadId": 23
+    },
+    {
+      "start": 0.4036697247706422,
+      "end": 0.916012,
+      "reverse": false,
+      "roadId": 29
+    },
+    {
+      "start": 0.1281991926,
+      "end": 0.7937743190661454,
+      "reverse": true,
+      "roadId": 22
+    },
+    {
+      "start": 0.2188442763,
+      "end": 0.8904593639576015,
+      "reverse": true,
+      "roadId": 27
+    },
+    {
+      "start": 0.922836938436165,
+      "end": 1,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0,
+      "end": 0.9932404326125752,
+      "reverse": false,
+      "roadId": 0
+    }
+  ],
+  "courseId": 6,
+  "spawnPoint": {
+    "routes": [
+      {
+        "name": "Zwift Games 2024 Epic",
+        "id": 762151244,
+        "distance": 79725.1171875,
+        "spawnArea": {
+          "endtime": 0.002544065921649698,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0,
+          "distFromRoadStart": 0
+        }
+      },
+      {
+        "name": "Itza Party",
+        "id": 4131664304,
+        "distance": 45752.6,
+        "spawnArea": {
+          "endtime": 0.0060234635,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.0048528985,
+          "distFromRoadStart": 53
+        }
+      },
+      {
+        "name": "Power to the Tower",
+        "id": 2064290391,
+        "distance": 44703.53125,
+        "spawnArea": {
+          "endtime": 0.006109638,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.0049458941,
+          "distFromRoadStart": 54
+        }
+      },
+      {
+        "name": "Downtown Eruption",
+        "id": 1675611962,
+        "distance": 19440.8,
+        "spawnArea": {
+          "endtime": 0.0061524629,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.0049921929,
+          "distFromRoadStart": 55
+        }
+      },
+      {
+        "name": "Itza Climb Finish",
+        "id": 2333249368,
+        "distance": 30093.8,
+        "spawnArea": {
+          "endtime": 0.0061916364,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.0050329938,
+          "distFromRoadStart": 55
+        }
+      },
+      {
+        "name": "Flat Out Fast",
+        "id": 1258526800,
+        "distance": 21381.82421875,
+        "spawnArea": {
+          "endtime": 0.0061524629,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.0049921929,
+          "distFromRoadStart": 55
+        }
+      },
+      {
+        "name": "Tair Dringfa Fechan",
+        "id": 2062126722,
+        "distance": 31115.353515625,
+        "spawnArea": {
+          "endtime": 0.0073943907,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.0062642328,
+          "distFromRoadStart": 71
+        }
+      },
+      {
+        "name": "Peak Performance",
+        "id": 3558689342,
+        "distance": 45817.53125,
+        "spawnArea": {
+          "endtime": 0.0073732189,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.0062431499,
+          "distFromRoadStart": 71
+        }
+      }
+    ],
+    "roadId": 0,
+    "reverse": false,
+    "start": 0,
+    "end": 0.0073943907,
+    "name": "0.3-F"
+  }
+}

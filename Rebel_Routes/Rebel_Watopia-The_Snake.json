@@ -1,0 +1,269 @@
+{
+  "name": "The Snake",
+  "distance": 80190.983268525,
+  "elevation": 724.1345533475275,
+  "manifest": [
+    {
+      "start": 0.925,
+      "end": 1,
+      "reverse": false,
+      "roadId": 81
+    },
+    {
+      "start": 0,
+      "end": 0.9111542188,
+      "reverse": false,
+      "roadId": 81
+    },
+    {
+      "start": 0.26591760299625494,
+      "end": 0.816627,
+      "reverse": false,
+      "roadId": 80
+    },
+    {
+      "start": 0.052519,
+      "end": 0.7546362339514858,
+      "reverse": true,
+      "roadId": 79
+    },
+    {
+      "start": 0.280302,
+      "end": 0.5784883720930241,
+      "reverse": true,
+      "roadId": 85
+    },
+    {
+      "start": 0.1300035423308528,
+      "end": 0.9988325581,
+      "reverse": false,
+      "roadId": 1
+    },
+    {
+      "start": 0.05577689243027886,
+      "end": 0.9875,
+      "reverse": false,
+      "roadId": 5
+    },
+    {
+      "start": 0,
+      "end": 0.4300124792013308,
+      "reverse": true,
+      "roadId": 0
+    },
+    {
+      "start": 0.5539522466,
+      "end": 1,
+      "reverse": true,
+      "roadId": 0
+    },
+    {
+      "start": 0.1650833383,
+      "end": 0.8039772727272715,
+      "reverse": true,
+      "roadId": 25
+    },
+    {
+      "start": 0.13095238095238054,
+      "end": 0.993392,
+      "reverse": false,
+      "roadId": 21
+    },
+    {
+      "start": 0.9967074317967625,
+      "end": 1,
+      "reverse": false,
+      "roadId": 23
+    },
+    {
+      "start": 0,
+      "end": 0.1460075484,
+      "reverse": false,
+      "roadId": 23
+    },
+    {
+      "start": 0.324539,
+      "end": 0.6734693877550981,
+      "reverse": true,
+      "roadId": 31
+    },
+    {
+      "start": 0.008039303260384094,
+      "end": 0.883901,
+      "reverse": false,
+      "roadId": 24
+    },
+    {
+      "start": 0.07064555420219251,
+      "end": 0.5867222396,
+      "reverse": false,
+      "roadId": 34
+    },
+    {
+      "start": 0.0101528303,
+      "end": 0.798794104510905,
+      "reverse": true,
+      "roadId": 24
+    },
+    {
+      "start": 0.2984693877551018,
+      "end": 0.65287332,
+      "reverse": false,
+      "roadId": 31
+    },
+    {
+      "start": 0,
+      "end": 0.14722483537158998,
+      "reverse": true,
+      "roadId": 23
+    },
+    {
+      "start": 0.9835917958,
+      "end": 1,
+      "reverse": true,
+      "roadId": 23
+    },
+    {
+      "start": 0.1140303841,
+      "end": 0.987599206349203,
+      "reverse": true,
+      "roadId": 21
+    },
+    {
+      "start": 0.23011363636363621,
+      "end": 0.8312666616,
+      "reverse": false,
+      "roadId": 25
+    },
+    {
+      "start": 0.5540765391015259,
+      "end": 1,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0,
+      "end": 0.429649126,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.042075,
+      "end": 0.9999999999999992,
+      "reverse": true,
+      "roadId": 5
+    },
+    {
+      "start": 0.129557,
+      "end": 0.9984059511157234,
+      "reverse": true,
+      "roadId": 1
+    },
+    {
+      "start": 0.2848837209302329,
+      "end": 0.640442,
+      "reverse": false,
+      "roadId": 85
+    },
+    {
+      "start": 0.060627674750356665,
+      "end": 0.7700000057,
+      "reverse": false,
+      "roadId": 79
+    },
+    {
+      "start": 0.102171,
+      "end": 0.7528089887640463,
+      "reverse": true,
+      "roadId": 80
+    },
+    {
+      "start": 0.0255,
+      "end": 0.9093537164978166,
+      "reverse": true,
+      "roadId": 81
+    }
+  ],
+  "courseId": 6,
+  "spawnPoint": {
+    "routes": [
+      {
+        "name": "Tempus Fugit",
+        "id": 2128890027,
+        "distance": 17231.3,
+        "spawnArea": {
+          "endtime": 0.931,
+          "forward": 1,
+          "road": 81,
+          "starttime": 0.925,
+          "distFromRoadStart": 18359
+        }
+      },
+      {
+        "name": "Tick Tock",
+        "id": 3366225080,
+        "distance": 16861,
+        "spawnArea": {
+          "endtime": 0.931,
+          "forward": 1,
+          "road": 81,
+          "starttime": 0.925,
+          "distFromRoadStart": 18359
+        }
+      },
+      {
+        "name": "Out And Back Again",
+        "id": 2748657713,
+        "distance": 39900.5078125,
+        "spawnArea": {
+          "endtime": 0.931,
+          "forward": 1,
+          "road": 81,
+          "starttime": 0.925,
+          "distFromRoadStart": 18359
+        }
+      },
+      {
+        "name": "Big Foot Hills",
+        "id": 3921412335,
+        "distance": 67588.2,
+        "spawnArea": {
+          "endtime": 0.931,
+          "forward": 1,
+          "road": 81,
+          "starttime": 0.925,
+          "distFromRoadStart": 18359
+        }
+      },
+      {
+        "name": "Watopia's Waistband",
+        "id": 1064303857,
+        "distance": 25459.5859375,
+        "spawnArea": {
+          "endtime": 0.931,
+          "forward": 1,
+          "road": 81,
+          "starttime": 0.925,
+          "distFromRoadStart": 18359
+        }
+      },
+      {
+        "name": "Sand And Sequoias",
+        "id": 604330868,
+        "distance": 20149.2,
+        "spawnArea": {
+          "endtime": 0.931,
+          "forward": 1,
+          "road": 81,
+          "starttime": 0.925,
+          "distFromRoadStart": 18359
+        }
+      }
+    ],
+    "roadId": 81,
+    "reverse": false,
+    "start": 0.925,
+    "end": 0.931,
+    "name": "81.2-F"
+  }
+}

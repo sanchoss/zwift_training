@@ -1,0 +1,167 @@
+{
+  "name": "Sgurr 8",
+  "distance": 15767.407406610102,
+  "elevation": 178.0261424154037,
+  "manifest": [
+    {
+      "start": 0.9720107851,
+      "end": 1,
+      "reverse": false,
+      "roadId": 9
+    },
+    {
+      "start": 0,
+      "end": 0.2165805716,
+      "reverse": false,
+      "roadId": 9
+    },
+    {
+      "start": 0.10762331838565022,
+      "end": 0.9784,
+      "reverse": false,
+      "roadId": 12
+    },
+    {
+      "start": 0.6659417663404248,
+      "end": 1,
+      "reverse": false,
+      "roadId": 2
+    },
+    {
+      "start": 0,
+      "end": 0.1312270302,
+      "reverse": false,
+      "roadId": 2
+    },
+    {
+      "start": 0.19135802469135801,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 1
+    },
+    {
+      "start": 0.08830022075055183,
+      "end": 0.9540888708,
+      "reverse": false,
+      "roadId": 6
+    },
+    {
+      "start": 0.01,
+      "end": 0.8474576271186411,
+      "reverse": true,
+      "roadId": 5
+    },
+    {
+      "start": 0.38709677419356653,
+      "end": 0.5468335634,
+      "reverse": false,
+      "roadId": 2
+    },
+    {
+      "start": 0.17299578059071738,
+      "end": 0.981275,
+      "reverse": false,
+      "roadId": 13
+    },
+    {
+      "start": 0.0135086959,
+      "end": 0.9803220035778657,
+      "reverse": true,
+      "roadId": 3
+    },
+    {
+      "start": 0.09523809523809523,
+      "end": 0.9925,
+      "reverse": false,
+      "roadId": 16
+    },
+    {
+      "start": 0.5883578968,
+      "end": 0.8381055938140812,
+      "reverse": true,
+      "roadId": 2
+    },
+    {
+      "start": 0.17479674796747954,
+      "end": 0.96935,
+      "reverse": false,
+      "roadId": 17
+    },
+    {
+      "start": 0.0135086959,
+      "end": 0.9813953488372575,
+      "reverse": true,
+      "roadId": 3
+    },
+    {
+      "start": 0.0936329588014981,
+      "end": 0.9925,
+      "reverse": false,
+      "roadId": 18
+    },
+    {
+      "start": 0.8916274012322074,
+      "end": 0.9432161411137873,
+      "reverse": false,
+      "roadId": 2
+    }
+  ],
+  "courseId": 17,
+  "spawnPoint": {
+    "routes": [
+      {
+        "name": "Scotland Smash",
+        "id": 172610229,
+        "distance": 17820.4,
+        "spawnArea": {
+          "endtime": 0.9740160822,
+          "forward": 1,
+          "road": 9,
+          "starttime": 0.9720107851,
+          "distFromRoadStart": 2821
+        }
+      },
+      {
+        "name": "The Muckle Yin",
+        "id": 3662705581,
+        "distance": 23413.90234375,
+        "spawnArea": {
+          "endtime": 0.9945,
+          "forward": 1,
+          "road": 9,
+          "starttime": 0.993,
+          "distFromRoadStart": 2967
+        }
+      },
+      {
+        "name": "Glasgow Crit Circuit",
+        "id": 3765339356,
+        "distance": 3012,
+        "spawnArea": {
+          "endtime": 0.9945,
+          "forward": 1,
+          "road": 9,
+          "starttime": 0.993,
+          "distFromRoadStart": 2967
+        }
+      },
+      {
+        "name": "Outer Scotland",
+        "id": 2826340040,
+        "distance": 11113.2,
+        "spawnArea": {
+          "endtime": 0.995940797,
+          "forward": 1,
+          "road": 9,
+          "starttime": 0.9935466381,
+          "distFromRoadStart": 2971
+        }
+      }
+    ],
+    "roadId": 9,
+    "reverse": false,
+    "start": 0.9720107851,
+    "end": 0.995940797,
+    "name": "9.1-F"
+  }
+}

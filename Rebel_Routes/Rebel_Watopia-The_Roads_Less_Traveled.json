@@ -1,0 +1,287 @@
+{
+  "name": "The Roads Less Traveled",
+  "distance": 59553.12765618036,
+  "elevation": 485.1339378934623,
+  "manifest": [
+    {
+      "start": 0.0420975232,
+      "end": 0.75,
+      "reverse": true,
+      "roadId": 36
+    },
+    {
+      "start": 0.0100000001,
+      "end": 0.8129032258064556,
+      "reverse": true,
+      "roadId": 39
+    },
+    {
+      "start": 0.5197906783,
+      "end": 0.9757720311322547,
+      "reverse": true,
+      "roadId": 35
+    },
+    {
+      "start": 0.034825,
+      "end": 0.8136645962732877,
+      "reverse": true,
+      "roadId": 147
+    },
+    {
+      "start": 0.004993238323104135,
+      "end": 0.9974396475,
+      "reverse": false,
+      "roadId": 149
+    },
+    {
+      "start": 0.18469656992084446,
+      "end": 0.8397666622,
+      "reverse": false,
+      "roadId": 155
+    },
+    {
+      "start": 0.292639,
+      "end": 0.3809523809523799,
+      "reverse": true,
+      "roadId": 78
+    },
+    {
+      "start": 0.48915662650602565,
+      "end": 0.7527911401,
+      "reverse": false,
+      "roadId": 83
+    },
+    {
+      "start": 0.25581851144106016,
+      "end": 0.9111542188,
+      "reverse": false,
+      "roadId": 81
+    },
+    {
+      "start": 0.26591760299625494,
+      "end": 0.816627,
+      "reverse": false,
+      "roadId": 80
+    },
+    {
+      "start": 0.052519,
+      "end": 0.7546362339514858,
+      "reverse": true,
+      "roadId": 79
+    },
+    {
+      "start": 0.3274245,
+      "end": 0.7485029940119751,
+      "reverse": true,
+      "roadId": 84
+    },
+    {
+      "start": 0.0036697674,
+      "end": 0.10715550832447678,
+      "reverse": true,
+      "roadId": 1
+    },
+    {
+      "start": 0.0478800007,
+      "end": 0.8820960698689972,
+      "reverse": true,
+      "roadId": 2
+    },
+    {
+      "start": 0.034525790349417614,
+      "end": 0.1342950824,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.4482758620689651,
+      "end": 0.8290714209,
+      "reverse": false,
+      "roadId": 125
+    },
+    {
+      "start": 0.4803993656,
+      "end": 0.6750629722921913,
+      "reverse": true,
+      "roadId": 119
+    },
+    {
+      "start": 0.3277870216306154,
+      "end": 0.4071407368,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.1892866271,
+      "end": 0.9685039370078685,
+      "reverse": true,
+      "roadId": 114
+    },
+    {
+      "start": 0.4618869436,
+      "end": 0.9239130434782636,
+      "reverse": true,
+      "roadId": 117
+    },
+    {
+      "start": 0.4446750034,
+      "end": 0.6057612312812539,
+      "reverse": true,
+      "roadId": 0
+    },
+    {
+      "start": 0.0147800002,
+      "end": 0.879120879120877,
+      "reverse": true,
+      "roadId": 4
+    },
+    {
+      "start": 0.4055772338,
+      "end": 0.9978746014876683,
+      "reverse": true,
+      "roadId": 1
+    },
+    {
+      "start": 0.19871794871794882,
+      "end": 0.754475,
+      "reverse": false,
+      "roadId": 14
+    },
+    {
+      "start": 0.0020651931234650597,
+      "end": 0.1622214543,
+      "reverse": false,
+      "roadId": 6
+    },
+    {
+      "start": 0.1219216314,
+      "end": 0.9557686359419232,
+      "reverse": true,
+      "roadId": 115
+    },
+    {
+      "start": 0.0420975232,
+      "end": 0.9986235375086251,
+      "reverse": true,
+      "roadId": 36
+    },
+    {
+      "start": 0.1,
+      "end": 0.8297362110311721,
+      "reverse": true,
+      "roadId": 40
+    },
+    {
+      "start": 0.012302284710017562,
+      "end": 0.3439926222,
+      "reverse": false,
+      "roadId": 35
+    },
+    {
+      "start": 0.1769111124,
+      "end": 0.761006289308176,
+      "reverse": true,
+      "roadId": 120
+    },
+    {
+      "start": 0.10253807106598932,
+      "end": 0.889284406,
+      "reverse": false,
+      "roadId": 128
+    },
+    {
+      "start": 0.5154531978,
+      "end": 0.9101123595505637,
+      "reverse": true,
+      "roadId": 121
+    },
+    {
+      "start": 0.54177,
+      "end": 0.7378860155661153,
+      "reverse": true,
+      "roadId": 35
+    }
+  ],
+  "courseId": 6,
+  "spawnPoint": {
+    "routes": [
+      {
+        "name": "Mayan San Remo",
+        "id": 226950646,
+        "distance": 21090.4,
+        "spawnArea": {
+          "endtime": 0.7081463098,
+          "forward": 0,
+          "road": 36,
+          "starttime": 0.7048244004,
+          "distFromRoadStart": 1720
+        }
+      },
+      {
+        "name": "Temple Trek",
+        "id": 2330634655,
+        "distance": 6510,
+        "spawnArea": {
+          "endtime": 0.716,
+          "forward": 0,
+          "road": 36,
+          "starttime": 0.719,
+          "distFromRoadStart": 1774
+        }
+      },
+      {
+        "name": "Shorelines and Summits",
+        "id": 2328501978,
+        "distance": 46186.01953125,
+        "spawnArea": {
+          "endtime": 0.716,
+          "forward": 0,
+          "road": 36,
+          "starttime": 0.719,
+          "distFromRoadStart": 1774
+        }
+      },
+      {
+        "name": "Coast Crusher",
+        "id": 2569385980,
+        "distance": 34567.328125,
+        "spawnArea": {
+          "endtime": 0.716,
+          "forward": 0,
+          "road": 36,
+          "starttime": 0.719,
+          "distFromRoadStart": 1774
+        }
+      },
+      {
+        "name": "Sugar Cookie",
+        "id": 240388043,
+        "distance": 33552.6171875,
+        "spawnArea": {
+          "endtime": 0.755,
+          "forward": 0,
+          "road": 36,
+          "starttime": 0.75,
+          "distFromRoadStart": 1887
+        }
+      },
+      {
+        "name": "Serpentine 8",
+        "id": 2829629527,
+        "distance": 19264.6,
+        "spawnArea": {
+          "endtime": 0.7,
+          "forward": 0,
+          "road": 36,
+          "starttime": 0.75,
+          "distFromRoadStart": 1887
+        }
+      }
+    ],
+    "roadId": 36,
+    "reverse": true,
+    "start": 0.75,
+    "end": 0.7,
+    "name": "36.1-R"
+  }
+}

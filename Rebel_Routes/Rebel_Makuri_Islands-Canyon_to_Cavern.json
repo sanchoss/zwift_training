@@ -1,0 +1,227 @@
+{
+  "name": "Canyon to cavern",
+  "distance": 20986.34429027074,
+  "elevation": 127.10362940845712,
+  "manifest": [
+    {
+      "start": 0.8008886758,
+      "end": 0.8755,
+      "reverse": true,
+      "roadId": 4
+    },
+    {
+      "start": 0.359375,
+      "end": 0.9326199991,
+      "reverse": false,
+      "roadId": 21
+    },
+    {
+      "start": 0.03493449781659392,
+      "end": 0.9724383845,
+      "reverse": false,
+      "roadId": 18
+    },
+    {
+      "start": 0.0233800003,
+      "end": 0.8548387096774187,
+      "reverse": true,
+      "roadId": 103
+    },
+    {
+      "start": 0.4554998385,
+      "end": 0.47726634858268363,
+      "reverse": true,
+      "roadId": 4
+    },
+    {
+      "start": 0.01,
+      "end": 0.9615384615384591,
+      "reverse": true,
+      "roadId": 24
+    },
+    {
+      "start": 0.9269912314,
+      "end": 0.991299466741425,
+      "reverse": true,
+      "roadId": 4
+    },
+    {
+      "start": 0.0100000003,
+      "end": 0.8584905660377399,
+      "reverse": true,
+      "roadId": 27
+    },
+    {
+      "start": 0.1293109531,
+      "end": 0.9529816513762104,
+      "reverse": true,
+      "roadId": 133
+    },
+    {
+      "start": 0.01,
+      "end": 0.8087431693989079,
+      "reverse": true,
+      "roadId": 152
+    },
+    {
+      "start": 0.0063949369,
+      "end": 0.9876328165824767,
+      "reverse": true,
+      "roadId": 128
+    },
+    {
+      "start": 0.01,
+      "end": 0.837078651685395,
+      "reverse": true,
+      "roadId": 106
+    },
+    {
+      "start": 0.7927370374,
+      "end": 0.9072929542644808,
+      "reverse": true,
+      "roadId": 6
+    },
+    {
+      "start": 0.23036649214659705,
+      "end": 0.9936833334,
+      "reverse": false,
+      "roadId": 3
+    },
+    {
+      "start": 0.0151705426,
+      "end": 0.7326946847960257,
+      "reverse": true,
+      "roadId": 6
+    },
+    {
+      "start": 0.13227513227513227,
+      "end": 0.9,
+      "reverse": false,
+      "roadId": 111
+    },
+    {
+      "start": 0.33511086163346115,
+      "end": 0.4297297136,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0.08080808080808081,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 5
+    },
+    {
+      "start": 0.9269912314,
+      "end": 0.991299466741425,
+      "reverse": true,
+      "roadId": 4
+    },
+    {
+      "start": 0.0100000003,
+      "end": 0.8584905660377399,
+      "reverse": true,
+      "roadId": 27
+    },
+    {
+      "start": 0.1293109531,
+      "end": 0.9529816513762104,
+      "reverse": true,
+      "roadId": 133
+    },
+    {
+      "start": 0.01,
+      "end": 0.8087431693989079,
+      "reverse": true,
+      "roadId": 152
+    },
+    {
+      "start": 0.8919,
+      "end": 0.9876328165824767,
+      "reverse": true,
+      "roadId": 128
+    }
+  ],
+  "courseId": 13,
+  "spawnPoint": {
+    "routes": [
+      {
+        "name": "Neon After Party",
+        "id": 1367364772,
+        "distance": 16199.232421875,
+        "spawnArea": {
+          "endtime": 0.8702671593,
+          "forward": 0,
+          "road": 4,
+          "starttime": 0.8687868499,
+          "distFromRoadStart": 5727
+        }
+      },
+      {
+        "name": "Makuri Pretzel",
+        "id": 2927651296,
+        "distance": 77577.4834375,
+        "spawnArea": {
+          "endtime": 0.8708167924,
+          "forward": 0,
+          "road": 4,
+          "starttime": 0.8693223851,
+          "distFromRoadStart": 5733
+        }
+      },
+      {
+        "name": "Turf N Surf",
+        "id": 4258943387,
+        "distance": 24627.90234375,
+        "spawnArea": {
+          "endtime": 0.8695,
+          "forward": 0,
+          "road": 4,
+          "starttime": 0.871,
+          "distFromRoadStart": 5750
+        }
+      },
+      {
+        "name": "Chasing the Sun",
+        "id": 2866480562,
+        "distance": 35056.44921875,
+        "spawnArea": {
+          "endtime": 0.876,
+          "forward": 0,
+          "road": 4,
+          "starttime": 0.8745,
+          "distFromRoadStart": 5772
+        }
+      },
+      {
+        "name": "Makuri Madness",
+        "id": 186601870,
+        "distance": 15948.6,
+        "spawnArea": {
+          "endtime": 0.8777626523,
+          "forward": 0,
+          "road": 4,
+          "starttime": 0.8749712961,
+          "distFromRoadStart": 5775
+        }
+      },
+      {
+        "name": "Electric Loop",
+        "id": 910684583,
+        "distance": 8941.4296875,
+        "spawnArea": {
+          "endtime": 0.874,
+          "forward": 0,
+          "road": 4,
+          "starttime": 0.8755,
+          "distFromRoadStart": 5779
+        }
+      }
+    ],
+    "roadId": 4,
+    "reverse": true,
+    "start": 0.8755,
+    "end": 0.8695,
+    "name": "4.2-R"
+  }
+}

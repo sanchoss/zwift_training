@@ -1,0 +1,545 @@
+{
+  "name": "The Full New York",
+  "distance": 58044.42550429935,
+  "elevation": 612.2778135619105,
+  "manifest": [
+    {
+      "start": 0.488382,
+      "end": 0.52,
+      "reverse": true,
+      "roadId": 30
+    },
+    {
+      "start": 0.223035,
+      "end": 0.8662420382165604,
+      "reverse": true,
+      "roadId": 35
+    },
+    {
+      "start": 0.0171636369,
+      "end": 0.8998482549317138,
+      "reverse": true,
+      "roadId": 31
+    },
+    {
+      "start": 0.165621,
+      "end": 0.6556291390728478,
+      "reverse": true,
+      "roadId": 44
+    },
+    {
+      "start": 0.8891492852121927,
+      "end": 0.9804477384,
+      "reverse": false,
+      "roadId": 30
+    },
+    {
+      "start": 0.083595,
+      "end": 0.9541666666666645,
+      "reverse": true,
+      "roadId": 47
+    },
+    {
+      "start": 0.018468,
+      "end": 0.15929203539823023,
+      "reverse": true,
+      "roadId": 39
+    },
+    {
+      "start": 0.098113,
+      "end": 0.2665807358800058,
+      "reverse": true,
+      "roadId": 30
+    },
+    {
+      "start": 0.0600000009,
+      "end": 0.7074235807860274,
+      "reverse": true,
+      "roadId": 36
+    },
+    {
+      "start": 0.06287744227353478,
+      "end": 0.9803107139,
+      "reverse": false,
+      "roadId": 24
+    },
+    {
+      "start": 0.13355,
+      "end": 0.8714285714285693,
+      "reverse": true,
+      "roadId": 46
+    },
+    {
+      "start": 0.065415,
+      "end": 0.18543516873889695,
+      "reverse": true,
+      "roadId": 24
+    },
+    {
+      "start": 0.07142857142857142,
+      "end": 0.9740000145,
+      "reverse": false,
+      "roadId": 38
+    },
+    {
+      "start": 0.0020910447,
+      "end": 0.06187016639325005,
+      "reverse": true,
+      "roadId": 30
+    },
+    {
+      "start": 0.3582089552238812,
+      "end": 0.9667799995,
+      "reverse": false,
+      "roadId": 33
+    },
+    {
+      "start": 0.9812741705676616,
+      "end": 1,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0,
+      "end": 0.1093581801,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0.330188679245283,
+      "end": 0.900000148,
+      "reverse": false,
+      "roadId": 14
+    },
+    {
+      "start": 0.19282511210762293,
+      "end": 0.735641053,
+      "reverse": false,
+      "roadId": 6
+    },
+    {
+      "start": 0.1,
+      "end": 0.7653508771929779,
+      "reverse": true,
+      "roadId": 16
+    },
+    {
+      "start": 0.6445002248,
+      "end": 0.8532464889068258,
+      "reverse": true,
+      "roadId": 4
+    },
+    {
+      "start": 0.25538461538461577,
+      "end": 0.872197,
+      "reverse": false,
+      "roadId": 13
+    },
+    {
+      "start": 0.2619047619047623,
+      "end": 0.8900687081,
+      "reverse": false,
+      "roadId": 5
+    },
+    {
+      "start": 0.1,
+      "end": 0.6415770609318998,
+      "reverse": true,
+      "roadId": 11
+    },
+    {
+      "start": 0.3940565845715601,
+      "end": 0.5414621863,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0.7538082962269347,
+      "end": 0.9804477384,
+      "reverse": false,
+      "roadId": 30
+    },
+    {
+      "start": 0,
+      "end": 0.9315166646,
+      "reverse": false,
+      "roadId": 41
+    },
+    {
+      "start": 0.3255214436372221,
+      "end": 0.6556420226,
+      "reverse": false,
+      "roadId": 30
+    },
+    {
+      "start": 0.5075310400977164,
+      "end": 0.6359627448,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0.2760563380281688,
+      "end": 0.698515,
+      "reverse": false,
+      "roadId": 12
+    },
+    {
+      "start": 0.18181818181818202,
+      "end": 0.8900687081,
+      "reverse": false,
+      "roadId": 5
+    },
+    {
+      "start": 0.181932,
+      "end": 0.6543209876543233,
+      "reverse": true,
+      "roadId": 10
+    },
+    {
+      "start": 0.1222961022,
+      "end": 0.37818033787911076,
+      "reverse": true,
+      "roadId": 4
+    },
+    {
+      "start": 0.3471698113207547,
+      "end": 0.9928571872,
+      "reverse": false,
+      "roadId": 15
+    },
+    {
+      "start": 0.22720478325859442,
+      "end": 0.735641053,
+      "reverse": false,
+      "roadId": 6
+    },
+    {
+      "start": 0.1,
+      "end": 0.9972067039106209,
+      "reverse": true,
+      "roadId": 17
+    },
+    {
+      "start": 0.8909016893953069,
+      "end": 0.9850115939,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0.20973782771535596,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 238
+    },
+    {
+      "start": 0.1409235668789809,
+      "end": 0.9938142857,
+      "reverse": false,
+      "roadId": 218
+    },
+    {
+      "start": 0.30331753554502394,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 232
+    },
+    {
+      "start": 0.0865142896,
+      "end": 0.8617558022199615,
+      "reverse": true,
+      "roadId": 231
+    },
+    {
+      "start": 0.13043478260869576,
+      "end": 0.7968000028,
+      "reverse": false,
+      "roadId": 235
+    },
+    {
+      "start": 0.06431535269709543,
+      "end": 0.932699998,
+      "reverse": false,
+      "roadId": 234
+    },
+    {
+      "start": 0.19572953736654788,
+      "end": 0.9790000007,
+      "reverse": false,
+      "roadId": 239
+    },
+    {
+      "start": 0,
+      "end": 0.6235516033414236,
+      "reverse": true,
+      "roadId": 230
+    },
+    {
+      "start": 0.4739158515,
+      "end": 1,
+      "reverse": true,
+      "roadId": 230
+    },
+    {
+      "start": 0.22405660377358488,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 248
+    },
+    {
+      "start": 0.09720534629404615,
+      "end": 0.9872000006,
+      "reverse": false,
+      "roadId": 221
+    },
+    {
+      "start": 0.2894736842105262,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 246
+    },
+    {
+      "start": 0.08840700583819865,
+      "end": 0.9354323429,
+      "reverse": false,
+      "roadId": 219
+    },
+    {
+      "start": 0.09734513274336287,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 222
+    },
+    {
+      "start": 0.12166172106824913,
+      "end": 0.9698246556,
+      "reverse": false,
+      "roadId": 240
+    },
+    {
+      "start": 0.2525773195876285,
+      "end": 0.9202333313,
+      "reverse": false,
+      "roadId": 258
+    },
+    {
+      "start": 0.022317596566523587,
+      "end": 0.987485864,
+      "reverse": false,
+      "roadId": 220
+    },
+    {
+      "start": 0.0603333351,
+      "end": 0.7671232876712297,
+      "reverse": true,
+      "roadId": 256
+    },
+    {
+      "start": 0.0098297298,
+      "end": 0.9777415852334422,
+      "reverse": true,
+      "roadId": 1
+    },
+    {
+      "start": 0.0862666692,
+      "end": 0.7879518072289129,
+      "reverse": true,
+      "roadId": 250
+    },
+    {
+      "start": 0.021745350500715292,
+      "end": 0.987485864,
+      "reverse": false,
+      "roadId": 220
+    },
+    {
+      "start": 0.19285714285714264,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 257
+    },
+    {
+      "start": 0.13855421686746974,
+      "end": 0.942272308,
+      "reverse": false,
+      "roadId": 253
+    },
+    {
+      "start": 0.19902912621359217,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 259
+    },
+    {
+      "start": 0.08055723803755285,
+      "end": 0.9711254062,
+      "reverse": false,
+      "roadId": 251
+    },
+    {
+      "start": 0.1712666718,
+      "end": 0.7804878048780494,
+      "reverse": true,
+      "roadId": 261
+    },
+    {
+      "start": 0.039711191335740095,
+      "end": 0.9919592667,
+      "reverse": false,
+      "roadId": 252
+    },
+    {
+      "start": 0.30897009966777417,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 224
+    },
+    {
+      "start": 0.5806754221388457,
+      "end": 0.8196037323,
+      "reverse": false,
+      "roadId": 2
+    },
+    {
+      "start": 0.0581333351,
+      "end": 0.7217741935483866,
+      "reverse": true,
+      "roadId": 227
+    },
+    {
+      "start": 0.0244666674,
+      "end": 0.7289719626168224,
+      "reverse": true,
+      "roadId": 216
+    },
+    {
+      "start": 0.30653266331658297,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 228
+    },
+    {
+      "start": 0.7841484875,
+      "end": 0.9688179840463589,
+      "reverse": true,
+      "roadId": 215
+    },
+    {
+      "start": 0.1878666723,
+      "end": 0.6424242424242447,
+      "reverse": true,
+      "roadId": 345
+    },
+    {
+      "start": 0.0389300006,
+      "end": 0.9501108647450046,
+      "reverse": true,
+      "roadId": 346
+    },
+    {
+      "start": 0.21333333333333335,
+      "end": 0.9622666655,
+      "reverse": false,
+      "roadId": 349
+    },
+    {
+      "start": 0.3790790427846119,
+      "end": 0.761632209,
+      "reverse": false,
+      "roadId": 215
+    },
+    {
+      "start": 0.1890666723,
+      "end": 0.6723716381418078,
+      "reverse": true,
+      "roadId": 347
+    },
+    {
+      "start": 0.0389300006,
+      "end": 0.9567627494456697,
+      "reverse": true,
+      "roadId": 346
+    },
+    {
+      "start": 0.21653543307086587,
+      "end": 0.9694333327,
+      "reverse": false,
+      "roadId": 348
+    },
+    {
+      "start": 0.0192711078,
+      "end": 0.33611312545321503,
+      "reverse": true,
+      "roadId": 215
+    },
+    {
+      "start": 0.01,
+      "end": 0.7400000000000005,
+      "reverse": true,
+      "roadId": 229
+    },
+    {
+      "start": 0.32710280373831774,
+      "end": 0.9060683099,
+      "reverse": false,
+      "roadId": 216
+    },
+    {
+      "start": 0.23981900452488714,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 226
+    },
+    {
+      "start": 0.08067542213883669,
+      "end": 0.8196037323,
+      "reverse": false,
+      "roadId": 2
+    },
+    {
+      "start": 0.0581333351,
+      "end": 0.7217741935483866,
+      "reverse": true,
+      "roadId": 227
+    },
+    {
+      "start": 0.0244666674,
+      "end": 0.7289719626168224,
+      "reverse": true,
+      "roadId": 216
+    },
+    {
+      "start": 0.30653266331658297,
+      "end": 0.99,
+      "reverse": false,
+      "roadId": 228
+    },
+    {
+      "start": 0.9357112714,
+      "end": 0.9688179840463589,
+      "reverse": true,
+      "roadId": 215
+    }
+  ],
+  "courseId": 8,
+  "spawnPoint": {
+    "routes": [
+      {
+        "name": "The Highline",
+        "id": 1732356505,
+        "distance": 10526,
+        "spawnArea": {
+          "endtime": 0.51,
+          "forward": 0,
+          "road": 30,
+          "starttime": 0.52,
+          "distFromRoadStart": 4282
+        }
+      }
+    ],
+    "roadId": 30,
+    "reverse": true,
+    "start": 0.52,
+    "end": 0.51,
+    "name": "30.1-R"
+  }
+}

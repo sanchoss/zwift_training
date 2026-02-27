@@ -1,0 +1,275 @@
+{
+  "name": "Cliffside Epic Double",
+  "distance": 53541.22843953789,
+  "elevation": 996.3694157334738,
+  "manifest": [
+    {
+      "start": 0.96,
+      "end": 1,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0,
+      "end": 0.0288596493,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.2328042328042328,
+      "end": 0.8303519983,
+      "reverse": false,
+      "roadId": 3
+    },
+    {
+      "start": 0.006021962451292949,
+      "end": 0.4027452448,
+      "reverse": false,
+      "roadId": 1
+    },
+    {
+      "start": 0.13934426229508196,
+      "end": 0.865199996,
+      "reverse": false,
+      "roadId": 13
+    },
+    {
+      "start": 0.0021768251841929004,
+      "end": 0.1622214543,
+      "reverse": false,
+      "roadId": 6
+    },
+    {
+      "start": 0.2697223244,
+      "end": 0.9557686359419232,
+      "reverse": true,
+      "roadId": 115
+    },
+    {
+      "start": 0.1667606909,
+      "end": 0.7512820512820492,
+      "reverse": true,
+      "roadId": 123
+    },
+    {
+      "start": 0.0007783132,
+      "end": 0.8687765126147803,
+      "reverse": true,
+      "roadId": 6
+    },
+    {
+      "start": 0.057675,
+      "end": 0.512820512820512,
+      "reverse": true,
+      "roadId": 14
+    },
+    {
+      "start": 0.40913921360256444,
+      "end": 0.6380677114,
+      "reverse": false,
+      "roadId": 1
+    },
+    {
+      "start": 0.07971014492753624,
+      "end": 0.9574333321,
+      "reverse": false,
+      "roadId": 16
+    },
+    {
+      "start": 0.8904138319,
+      "end": 0.9925764679620778,
+      "reverse": true,
+      "roadId": 6
+    },
+    {
+      "start": 0.1467994142,
+      "end": 0.8991031390134553,
+      "reverse": true,
+      "roadId": 124
+    },
+    {
+      "start": 0.26724404577791316,
+      "end": 0.8922546882,
+      "reverse": false,
+      "roadId": 115
+    },
+    {
+      "start": 0.2817269338,
+      "end": 0.7198795180722907,
+      "reverse": true,
+      "roadId": 122
+    },
+    {
+      "start": 0.1762670238892592,
+      "end": 0.9944081034,
+      "reverse": false,
+      "roadId": 6
+    },
+    {
+      "start": 0.177966672,
+      "end": 0.7954545454545477,
+      "reverse": true,
+      "roadId": 17
+    },
+    {
+      "start": 0.6679064824654374,
+      "end": 0.9988325581,
+      "reverse": false,
+      "roadId": 1
+    },
+    {
+      "start": 0.038461538461538464,
+      "end": 0.9386716726,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0.4456114808652243,
+      "end": 0.5338013198,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.28381962864721455,
+      "end": 0.857619086,
+      "reverse": false,
+      "roadId": 26
+    },
+    {
+      "start": 0.1304563492063488,
+      "end": 0.993392,
+      "reverse": false,
+      "roadId": 21
+    },
+    {
+      "start": 0.9967074317967625,
+      "end": 1,
+      "reverse": false,
+      "roadId": 23
+    },
+    {
+      "start": 0,
+      "end": 0.5145087185,
+      "reverse": false,
+      "roadId": 23
+    },
+    {
+      "start": 0.4036697247706422,
+      "end": 0.916012,
+      "reverse": false,
+      "roadId": 29
+    },
+    {
+      "start": 0.1281991926,
+      "end": 0.7937743190661454,
+      "reverse": true,
+      "roadId": 22
+    },
+    {
+      "start": 0.2188442763,
+      "end": 0.8904593639576015,
+      "reverse": true,
+      "roadId": 27
+    },
+    {
+      "start": 0.922836938436165,
+      "end": 0.9829,
+      "reverse": false,
+      "roadId": 0
+    }
+  ],
+  "courseId": 6,
+  "spawnPoint": {
+    "routes": [
+      {
+        "name": "The Uber Pretzel",
+        "id": 1475638265,
+        "distance": 128299.2,
+        "spawnArea": {
+          "endtime": 0.98,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.96,
+          "distFromRoadStart": 8493
+        }
+      },
+      {
+        "name": "Bigger Loop",
+        "id": 2139708890,
+        "distance": 53197.9,
+        "spawnArea": {
+          "endtime": 0.98,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.96,
+          "distFromRoadStart": 8493
+        }
+      },
+      {
+        "name": "Four Horsemen",
+        "id": 2878180967,
+        "distance": 89788.8,
+        "spawnArea": {
+          "endtime": 0.98,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.96,
+          "distFromRoadStart": 8493
+        }
+      },
+      {
+        "name": "Three Little Sisters",
+        "id": 2627606248,
+        "distance": 37736.1,
+        "spawnArea": {
+          "endtime": 0.9771,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.9707,
+          "distFromRoadStart": 8657
+        }
+      },
+      {
+        "name": "Downtown Titans",
+        "id": 5745690,
+        "distance": 24645,
+        "spawnArea": {
+          "endtime": 0.9771,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.9707,
+          "distFromRoadStart": 8657
+        }
+      },
+      {
+        "name": "Figure 8",
+        "id": 3382019812,
+        "distance": 29695.4,
+        "spawnArea": {
+          "endtime": 0.921,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.98,
+          "distFromRoadStart": 8806
+        }
+      },
+      {
+        "name": "Hilly Route",
+        "id": 2737483381,
+        "distance": 9193.2431640625,
+        "spawnArea": {
+          "endtime": 0.9810912401,
+          "forward": 1,
+          "road": 0,
+          "starttime": 0.9802130055,
+          "distFromRoadStart": 8810
+        }
+      }
+    ],
+    "roadId": 0,
+    "reverse": false,
+    "start": 0.96,
+    "end": 0.9810912401,
+    "name": "0.4-F"
+  }
+}

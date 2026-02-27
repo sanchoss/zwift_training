@@ -1,0 +1,389 @@
+{
+  "name": "The Marvelous Metric",
+  "distance": 102273.09560408477,
+  "elevation": 457.36736720384056,
+  "manifest": [
+    {
+      "start": 0.7459015730922752,
+      "end": 0.9961222222,
+      "reverse": false,
+      "roadId": 36
+    },
+    {
+      "start": 0.1184658212186816,
+      "end": 0.9505130429,
+      "reverse": false,
+      "roadId": 115
+    },
+    {
+      "start": 0.0007783132,
+      "end": 0.16292699263228233,
+      "reverse": true,
+      "roadId": 6
+    },
+    {
+      "start": 0.1051333365,
+      "end": 0.6803278688524595,
+      "reverse": true,
+      "roadId": 13
+    },
+    {
+      "start": 0.129557,
+      "end": 0.4024087849805308,
+      "reverse": true,
+      "roadId": 1
+    },
+    {
+      "start": 0.2848837209302329,
+      "end": 0.640442,
+      "reverse": false,
+      "roadId": 85
+    },
+    {
+      "start": 0.060627674750356665,
+      "end": 0.9038591466,
+      "reverse": false,
+      "roadId": 79
+    },
+    {
+      "start": 0.9191533147142922,
+      "end": 1,
+      "reverse": false,
+      "roadId": 81
+    },
+    {
+      "start": 0,
+      "end": 0.2574446261,
+      "reverse": false,
+      "roadId": 81
+    },
+    {
+      "start": 0.289195,
+      "end": 0.6428571428571411,
+      "reverse": true,
+      "roadId": 82
+    },
+    {
+      "start": 0.5456047911,
+      "end": 0.6845238095238074,
+      "reverse": true,
+      "roadId": 78
+    },
+    {
+      "start": 0.01,
+      "end": 0.8973684210526338,
+      "reverse": true,
+      "roadId": 154
+    },
+    {
+      "start": 0.0037115607,
+      "end": 0.9943826068862677,
+      "reverse": true,
+      "roadId": 149
+    },
+    {
+      "start": 0.1353135313531353,
+      "end": 0.9925,
+      "reverse": false,
+      "roadId": 145
+    },
+    {
+      "start": 0.3492298064,
+      "end": 0.4920913884006794,
+      "reverse": true,
+      "roadId": 35
+    },
+    {
+      "start": 0.042131979695431476,
+      "end": 0.889284406,
+      "reverse": false,
+      "roadId": 128
+    },
+    {
+      "start": 0.5154531978,
+      "end": 0.9101123595505637,
+      "reverse": true,
+      "roadId": 121
+    },
+    {
+      "start": 0.5197906783,
+      "end": 0.7378860155661153,
+      "reverse": true,
+      "roadId": 35
+    },
+    {
+      "start": 0.034825,
+      "end": 0.8136645962732877,
+      "reverse": true,
+      "roadId": 147
+    },
+    {
+      "start": 0.004993238323104135,
+      "end": 0.9974396475,
+      "reverse": false,
+      "roadId": 149
+    },
+    {
+      "start": 0.18469656992084446,
+      "end": 0.8397666622,
+      "reverse": false,
+      "roadId": 155
+    },
+    {
+      "start": 0.292639,
+      "end": 0.3809523809523799,
+      "reverse": true,
+      "roadId": 78
+    },
+    {
+      "start": 0.48915662650602565,
+      "end": 0.7527911401,
+      "reverse": false,
+      "roadId": 83
+    },
+    {
+      "start": 0.25581851144106016,
+      "end": 0.2891691605,
+      "reverse": false,
+      "roadId": 81
+    },
+    {
+      "start": 0.3444444444444437,
+      "end": 0.6822222426,
+      "reverse": false,
+      "roadId": 91
+    },
+    {
+      "start": 0.029604,
+      "end": 0.9480614484272352,
+      "reverse": true,
+      "roadId": 77
+    },
+    {
+      "start": 0.35460992907801464,
+      "end": 0.8758333333,
+      "reverse": false,
+      "roadId": 94
+    },
+    {
+      "start": 0.0007783132,
+      "end": 0.057099799062290166,
+      "reverse": true,
+      "roadId": 6
+    },
+    {
+      "start": 0.057675,
+      "end": 0.512820512820512,
+      "reverse": true,
+      "roadId": 14
+    },
+    {
+      "start": 0.40913921360256444,
+      "end": 0.9988325581,
+      "reverse": false,
+      "roadId": 1
+    },
+    {
+      "start": 0.038461538461538464,
+      "end": 0.9386716726,
+      "reverse": false,
+      "roadId": 4
+    },
+    {
+      "start": 0.4456114808652243,
+      "end": 0.5338013198,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.28381962864721455,
+      "end": 0.857619086,
+      "reverse": false,
+      "roadId": 26
+    },
+    {
+      "start": 0.1304563492063488,
+      "end": 0.993392,
+      "reverse": false,
+      "roadId": 21
+    },
+    {
+      "start": 0.9967074317967625,
+      "end": 1,
+      "reverse": false,
+      "roadId": 23
+    },
+    {
+      "start": 0,
+      "end": 0.5145087185,
+      "reverse": false,
+      "roadId": 23
+    },
+    {
+      "start": 0.4036697247706422,
+      "end": 0.916012,
+      "reverse": false,
+      "roadId": 29
+    },
+    {
+      "start": 0.1281991926,
+      "end": 0.7937743190661454,
+      "reverse": true,
+      "roadId": 22
+    },
+    {
+      "start": 0.2188442763,
+      "end": 0.8904593639576015,
+      "reverse": true,
+      "roadId": 27
+    },
+    {
+      "start": 0.922836938436165,
+      "end": 1,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0,
+      "end": 0.0288596493,
+      "reverse": false,
+      "roadId": 0
+    },
+    {
+      "start": 0.2328042328042328,
+      "end": 0.8303519983,
+      "reverse": false,
+      "roadId": 3
+    },
+    {
+      "start": 0.006021962451292949,
+      "end": 0.4027452448,
+      "reverse": false,
+      "roadId": 1
+    },
+    {
+      "start": 0.13934426229508196,
+      "end": 0.865199996,
+      "reverse": false,
+      "roadId": 13
+    },
+    {
+      "start": 0.0021768251841929004,
+      "end": 0.057208,
+      "reverse": false,
+      "roadId": 6
+    },
+    {
+      "start": 0.263006,
+      "end": 0.8368794326241146,
+      "reverse": true,
+      "roadId": 94
+    },
+    {
+      "start": 0.04535479151426479,
+      "end": 0.9545048093,
+      "reverse": false,
+      "roadId": 77
+    },
+    {
+      "start": 0.3112130006,
+      "end": 0.6583333333333315,
+      "reverse": true,
+      "roadId": 91
+    },
+    {
+      "start": 0,
+      "end": 0.28884315743058286,
+      "reverse": true,
+      "roadId": 81
+    },
+    {
+      "start": 0.9164255154,
+      "end": 1,
+      "reverse": true,
+      "roadId": 81
+    },
+    {
+      "start": 0.052519,
+      "end": 0.8530670470755886,
+      "reverse": true,
+      "roadId": 79
+    },
+    {
+      "start": 0.3274245,
+      "end": 0.7485029940119751,
+      "reverse": true,
+      "roadId": 84
+    },
+    {
+      "start": 0.0036697674,
+      "end": 0.10715550832447678,
+      "reverse": true,
+      "roadId": 1
+    },
+    {
+      "start": 0.0989000029,
+      "end": 0.8042328042328073,
+      "reverse": true,
+      "roadId": 3
+    },
+    {
+      "start": 0,
+      "end": 0.02797420965058234,
+      "reverse": true,
+      "roadId": 0
+    },
+    {
+      "start": 0.5539522466,
+      "end": 1,
+      "reverse": true,
+      "roadId": 0
+    },
+    {
+      "start": 0.1650833383,
+      "end": 0.8039772727272715,
+      "reverse": true,
+      "roadId": 25
+    },
+    {
+      "start": 0.13095238095238054,
+      "end": 0.952359,
+      "reverse": false,
+      "roadId": 21
+    },
+    {
+      "start": 0.1963680554,
+      "end": 0.7067833698030577,
+      "reverse": true,
+      "roadId": 33
+    },
+    {
+      "start": 0.786078,
+      "end": 0.9296801505173676,
+      "reverse": true,
+      "roadId": 23
+    }
+  ],
+  "courseId": 6,
+  "spawnPoint": {
+    "routes": [
+      {
+        "name": "Mountain Mash",
+        "id": 2953010285,
+        "distance": 5789.7,
+        "spawnArea": {
+          "endtime": 0.7653879334953149,
+          "forward": 1,
+          "road": 36,
+          "starttime": 0.7459015730922752,
+          "distFromRoadStart": 1868
+        }
+      }
+    ],
+    "roadId": 36,
+    "reverse": false,
+    "start": 0.7459015730922752,
+    "end": 0.7653879334953149,
+    "name": "36.3-F"
+  }
+}

@@ -10,3 +10,11 @@ sync_config.yaml
 __pycache__/
 *.pyc
 ride_intervals.py
+RULES.md
+copy_workouts.py
+left_routes_links.html
+plan_output.html
+rides_latest.txt
+upload_plan_to_drive.py
+weekly_plan.py
+workout_state.json

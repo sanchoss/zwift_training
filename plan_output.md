@@ -15,7 +15,7 @@
   (skipped — check script not found or failed)
 
 ⚙️  [3/7] Loading configuration...
-  FTP 253W | 76kg | ZRS 417 | Groups B, C, D, E
+  FTP 253W | ZRS 417 | Groups B, C, D, E
   23 uncompleted routes + 19 rebel routes loaded
   Rules    : 33 rules from RULES.md
   Durations: 30m, 45m, 60m, 75m, 90m, 105m, 120m

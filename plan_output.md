@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 6-DAY TRAINING PLAN
-**📅 Generated:** Sat 28 Feb 2026 12:09 EST  /  Sat 28 Feb 2026 17:09 UTC  /  Sat 28 Feb 2026 19:09 EET
+**📅 Generated:** Sat 28 Feb 2026 16:02 EST  /  Sat 28 Feb 2026 21:02 UTC  /  Sat 28 Feb 2026 23:02 EET
 **🗓️ Plan:** Sun 01 Mar -> Fri 06 Mar 2026
 ---
 
@@ -12,7 +12,7 @@
   Saved to rides_latest.txt
 
 🔄 [2/7] Updating rebel routes status from Strava...
-  Rebel routes: 6/25 completed — AGENTS.md updated
+  (skipped — check script not found or failed)
 
 ⚙️  [3/7] Loading configuration...
   FTP 253W | 76kg | ZRS 417 | Groups B, C, D, E
@@ -79,13 +79,26 @@
 
 
 **🔗 Route Combos (~30min target):**
-1. [M] 2 routes: [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = ~36min, 11.9km/97m
+1. [M] 2 routes: [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~36min, 11.9km/97m**
    Approach: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km, ~17min) -> 0.0km to [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/) start
-2. [M] 2 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) = ~37min, 13.1km/189m
+2. [M] 2 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) = **~37min, 13.1km/189m**
 
 
-**📡 Zwift Events (8:00-8:30 AM ET):**
-  (no matching events found in this time window)
+**📡 Zwift Events (8:00-8:30 AM ET) — 1 race(s), 12 ride(s):**
+  08:10 AM  Race           Groups B, C, D, E
+   Stage 2: Zwift Games: Hudson Hustle
+  07:45 AM  Ride/Workout   Groups D | 100.0 km
+   Cycle Nation Beginner Endurance Ride
+  07:55 AM  Ride/Workout   Groups D
+   The HERD Sunday Endurance
+  08:00 AM  Ride/Workout   Groups E
+   World Social Riders
+  08:00 AM  Ride/Workout   Groups D
+   RO4H Sunday Social Spin
+  08:00 AM  Ride/Workout   Groups C, E x6 laps
+   Giant Camden Tron Hunters – get closer to the Tron
+  08:10 AM  Ride/Workout   Groups B, C, D | 40.2 km
+   Bear Mountaineers do Climb!
 
 
 
@@ -115,8 +128,8 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = ~73min, 25.0km/286m
-2. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)[R] (19.7km/214m, ~55min) = ~127min, 46.4km/470m
+1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~73min, 25.0km/286m**
+2. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)[R] (19.7km/214m, ~55min) = **~127min, 46.4km/470m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -150,8 +163,8 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = ~73min, 25.0km/286m
-2. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)[R] (19.7km/214m, ~55min) = ~127min, 46.4km/470m
+1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~73min, 25.0km/286m**
+2. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)[R] (19.7km/214m, ~55min) = **~127min, 46.4km/470m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -185,8 +198,8 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = ~73min, 25.0km/286m
-2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = ~72min, 26.7km/256m
+1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~73min, 25.0km/286m**
+2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -220,8 +233,8 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = ~73min, 25.0km/286m
-2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = ~72min, 26.7km/256m
+1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~73min, 25.0km/286m**
+2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -263,8 +276,8 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = ~73min, 25.0km/286m
-2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = ~72min, 26.7km/256m
+1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~73min, 25.0km/286m**
+2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**

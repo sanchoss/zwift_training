@@ -55,37 +55,33 @@ When I ask how to ride any race/event, save full guide (route breakdown, equipme
 - F — La Reine — 22.9 km / 1201 m — Difficulty 3.5/5 — 460 XP
 - N — Lady Liberty — 12.6 km / 206 m — Difficulty 2/5 — 240 XP
 - L — London Flat — 12.4 km / 115 m — Difficulty 1/5 — 240 XP
-- N — Astoria Line 8 — 12.0 km / 144 m — Difficulty 2/5 — 230 XP
 - Y — Tour Of Tewit Well — 10.9 km / 204 m — Difficulty 2/5 — 210 XP
-- N — Toefield Tornado — 10.3 km / 53 m — Difficulty 2/5 — 205 XP
 - S — Rolling Highlands — 14.1 km / 106 m — Difficulty 2/5 — 180 XP
 - M — Farmland Loop — 8.0 km / 58 m — Difficulty 1.5/5 — 155 XP
-- N — Issendorf Express — 7.3 km / 53 m — Difficulty 2/5 — 145 XP
-- N — Double Span Spin — 12.6 km / 120 m — Difficulty 4/5 — 145 XP
 - M — Valley to Mountaintop — 5.1 km / 131 m — Difficulty 1.5/5 — 100 XP
 
 # Rebel Routes Uncompleted
 **Source:** https://veloviewer.com/zwift-insider/rebel-routes
-**Check script:** `zwift_service_scripts/check_rebel_routes.pyi` — run each session to refresh from Strava API
+**Check script:** `zwift_service_scripts/check_rebel_routes.py` — run each session to refresh from Strava API
 
-**Status: 6/25 completed** (Big Ring Little Ring, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome)
+**Status: 6/25 completed** (Big Ring Little Ring, COMPLETED (6):, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome)
 
-- W — The Full Watopia — 154.5 km / 2852 m
-- F — Toutes les Routes — 104.8 km / 1968 m
-- W — The Marvelous Metric — 102.0 km / 489 m
-- W — KOMonster — 99.8 km / 2570 m
-- W — The Perimeter — 82.3 km / 1874 m
-- M — The Full Makuri — 80.9 km / 650 m
-- W — The Snake — 77.4 km / 661 m
-- W — Litus Fugit — 61.0 km / 269 m
-- N — The Full New York — 57.8 km / 596 m
-- W — The Roads Less Traveled — 53.6 km / 437 m
-- W — Cliffside Epic Double — 52.7 km / 991 m
-- W — Down Up Down — 49.4 km / 1257 m
-- W — Big Ring Little Ring Reverse — 20.6 km / 143 m
-- S — Fower Power — 19.7 km / 214 m
-- W — Epic Loop — 14.4 km / 378 m
-- M — Canyon to Cavern — 13.4 km / 87 m
-- S — Sgurr 8 — 12.6 km / 150 m
-- M — Urukazi Flats — 7.5 km / 22 m
-- M — Dirty Temple KOM Loop — 4.4 km / 75 m
+W — The Full Watopia — 154.5 km / 2852 m
+F — Toutes les Routes — 104.8 km / 1968 m
+W — The Marvelous Metric — 102.0 km / 489 m
+W — KOMonster — 99.8 km / 2570 m
+W — The Perimeter — 82.3 km / 1874 m
+M — The Full Makuri — 80.9 km / 650 m
+W — The Snake — 77.4 km / 661 m
+W — Litus Fugit — 61.0 km / 269 m
+N — The Full New York — 57.8 km / 596 m
+W — The Roads Less Traveled — 53.6 km / 437 m
+W — Cliffside Epic Double — 52.7 km / 991 m
+W — Down Up Down — 49.4 km / 1257 m
+W — Big Ring Little Ring Reverse — 20.6 km / 143 m
+S — Fower Power — 19.7 km / 214 m
+W — Epic Loop — 14.4 km / 378 m
+M — Canyon to Cavern — 13.4 km / 87 m
+S — Sgurr 8 — 12.6 km / 150 m
+M — Urukazi Flats — 7.5 km / 22 m
+M — Dirty Temple KOM Loop — 4.4 km / 75 m

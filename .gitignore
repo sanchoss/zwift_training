@@ -1,0 +1,11 @@
+# Service/utility scripts (auto-generated helpers)
+zwift_service_scripts/
+
+# Secrets
+credentials.json
+token.pickle
+sync_config.yaml
+
+# Python
+__pycache__/
+*.pyc

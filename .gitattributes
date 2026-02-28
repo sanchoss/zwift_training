@@ -3,7 +3,6 @@
 
 # Force LF for scripts and config
 *.py text eol=lf
-*.pyi text eol=lf
 *.yaml text eol=lf
 *.yml text eol=lf
 *.md text eol=lf

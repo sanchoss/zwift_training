@@ -88,3 +88,7 @@ When I ask how to ride any race/event, save full guide (route breakdown, equipme
 - ⬜ S — Sgurr 8 — 12.6 km / 150 m
 - ⬜ M — Urukazi Flats — 7.5 km / 22 m
 - ⬜ M — Dirty Temple KOM Loop — 4.4 km / 75 m
+
+## ✍️ Author
+
+**Olek Senyk** — Initial work

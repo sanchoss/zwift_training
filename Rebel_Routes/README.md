@@ -64,3 +64,7 @@
 | Scotland | 3 | 1 | 2 |
 | Watopia | 15 | 4 | 11 |
 | **Total** | **25** | **6** | **19** |
+
+## ✍️ Author
+
+**Olek Senyk** — Initial work

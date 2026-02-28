@@ -9,7 +9,7 @@ Start Route: Mountain Route
 Approach:    Mountain Route
 Strava:      https://www.strava.com/segments/31849910
 VeloViewer:  https://veloviewer.com/segment/31849910
-ZwiftInsider: https://zwiftinsider.com/rebel-route-cliffside-epic-double/
+ZwiftInsider: https://zwiftinsider.com/cliffside-epic-double/
 
 Description: A figure-8 route climbing the Epic KOM in both directions, using the Epic KOM Bypass road. No Radio Tower climb.
 

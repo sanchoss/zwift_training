@@ -9,7 +9,7 @@ Start Route: Flat Route
 Approach:    Flat Route → 2.0 km to rebel start
 Strava:      https://www.strava.com/segments/24393519
 VeloViewer:  https://veloviewer.com/segment/24393519
-ZwiftInsider: https://zwiftinsider.com/rebel-route-down-up-down/
+ZwiftInsider: https://zwiftinsider.com/down-up-down/
 
 Description: Travel from Watopia's lowest point (Ocean Blvd, -5m) to the highest (Alpe du Zwift, 1047m) and back. Must be level 6+.
 

@@ -9,7 +9,7 @@ Start Route: Turf N Surf (then U-Turn, left toward Urukazi)
 Approach:    Turf N Surf
 Strava:      https://www.strava.com/segments/33397045
 VeloViewer:  https://veloviewer.com/segment/33397045
-ZwiftInsider: https://zwiftinsider.com/rebel-route-canyon-to-cavern/
+ZwiftInsider: https://zwiftinsider.com/canyon-to-cavern/
 
 Description: Shortest loop covering both the slot canyon (Yumezi-Urukazi) and the cavern (Neokyo-Urukazi) connector roads. Starts/ends at Tidepool Sprint banner.
 

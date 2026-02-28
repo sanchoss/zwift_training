@@ -1,5 +1,5 @@
 # ZWIFT 6-DAY TRAINING PLAN
-**Generated:** Sat 28 Feb 2026 11:07
+**Generated:** Sat 28 Feb 2026 11:33
 **Plan:** Sun 01 Mar -> Fri 06 Mar 2026
 ---
 

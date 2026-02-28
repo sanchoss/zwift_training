@@ -9,7 +9,7 @@ Start Route: Mountain Mash
 Approach:    Mountain Mash → 5.0 km to rebel start
 Strava:      https://www.strava.com/segments/40883256
 VeloViewer:  https://veloviewer.com/segment/40883256
-ZwiftInsider: https://zwiftinsider.com/rebel-route-the-marvelous-metric/
+ZwiftInsider: https://zwiftinsider.com/the-marvelous-metric/
 
 Description: A metric century covering many Watopia roads — climbs, flats, and volcano.
 

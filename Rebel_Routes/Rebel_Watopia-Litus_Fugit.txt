@@ -9,7 +9,7 @@ Start Route: The Big Ring
 Approach:    The Big Ring
 Strava:      https://www.strava.com/segments/35852231
 VeloViewer:  https://veloviewer.com/segment/35852231
-ZwiftInsider: https://zwiftinsider.com/rebel-route-litus-fugit/
+ZwiftInsider: https://zwiftinsider.com/litus-fugit/
 
 Description: A flat-ish Watopia route covering the southern coast, Mayan roads, jungle, and desert.
 

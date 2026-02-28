@@ -9,7 +9,7 @@ Start Route: Sea to Tree
 Approach:    Sea to Tree
 Strava:      https://www.strava.com/segments/31415608
 VeloViewer:  https://veloviewer.com/segment/31415608
-ZwiftInsider: https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/
+ZwiftInsider: https://zwiftinsider.com/dirty-temple-kom-loop/
 
 Description: All-dirt loop with repeated partial climbs of the Temple KOM. Great for VO2 intervals (~1.5 km climbing per lap). Use a gravel bike! Lead-in: 3.2 km / 106 m.
 

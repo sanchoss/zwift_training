@@ -9,7 +9,7 @@ Start Route: Two Village Loop
 Approach:    Two Village Loop
 Strava:      https://www.strava.com/segments/40661737
 VeloViewer:  https://veloviewer.com/segment/40661737
-ZwiftInsider: https://zwiftinsider.com/rebel-route-the-full-makuri/
+ZwiftInsider: https://zwiftinsider.com/the-full-makuri/
 
 Description: Covers every road in Makuri Islands across all three zones (Yumezi, Neokyo, Urukazi).
 

@@ -9,7 +9,7 @@ Start Route: City and the Sgurr
 Approach:    City and the Sgurr → 1.0 km to rebel start
 Strava:      https://www.strava.com/segments/34255076
 VeloViewer:  https://veloviewer.com/segment/34255076
-ZwiftInsider: https://zwiftinsider.com/rebel-route-fower-power/
+ZwiftInsider: https://zwiftinsider.com/fower-power/
 
 Description: A Scotland rebel route exploring the Sgurr and Glasgow areas.
 

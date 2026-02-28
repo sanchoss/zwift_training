@@ -9,7 +9,7 @@ Start Route: Mountain Route (ride up to Epic KOM banner first)
 Approach:    Mountain Route → 5.0 km to rebel start
 Strava:      https://www.strava.com/segments/31415150
 VeloViewer:  https://veloviewer.com/segment/31415150
-ZwiftInsider: https://zwiftinsider.com/rebel-route-epic-loop/
+ZwiftInsider: https://zwiftinsider.com/epic-loop/
 
 Description: A climber's dream loop: descend the Epic KOM Reverse, cut across the Bypass, climb the Epic KOM forward. Great for ~20min sweetspot intervals. Lead-in: 14.3 km / 433 m.
 

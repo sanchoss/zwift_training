@@ -9,7 +9,7 @@ Start Route: Hilly Route
 Approach:    Hilly Route → 1.5 km to rebel start
 Strava:      https://www.strava.com/segments/26791932
 VeloViewer:  https://veloviewer.com/segment/26791932
-ZwiftInsider: https://zwiftinsider.com/rebel-route-hilly-kom-bypass/
+ZwiftInsider: https://zwiftinsider.com/hilly-kom-bypass/
 
 Description: A very short loop using the KOM bypass road on the Hilly Route.
 

@@ -9,7 +9,7 @@ Start Route: Hilly Route
 Approach:    Hilly Route
 Strava:      https://www.strava.com/segments/21645117
 VeloViewer:  https://veloviewer.com/segment/21645117
-ZwiftInsider: https://zwiftinsider.com/rebel-route-komonster/
+ZwiftInsider: https://zwiftinsider.com/komonster/
 
 Description: A massive Watopia route covering nearly every KOM and many key roads. Finishes with Alpe du Zwift.
 

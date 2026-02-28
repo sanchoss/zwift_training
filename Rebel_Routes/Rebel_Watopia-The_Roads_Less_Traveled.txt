@@ -9,7 +9,7 @@ Start Route: Sugar Cookie
 Approach:    Sugar Cookie
 Strava:      https://www.strava.com/segments/35861978
 VeloViewer:  https://veloviewer.com/segment/35861978
-ZwiftInsider: https://zwiftinsider.com/rebel-route-the-roads-less-traveled/
+ZwiftInsider: https://zwiftinsider.com/roads-less-traveled/
 
 Description: Covers many of Watopia's less-used roads including the bypass, 360 bridge, and jungle paths.
 

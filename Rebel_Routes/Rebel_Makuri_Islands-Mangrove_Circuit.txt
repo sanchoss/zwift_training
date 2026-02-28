@@ -9,7 +9,7 @@ Start Route: Island Hopper
 Approach:    Island Hopper
 Strava:      https://www.strava.com/segments/33397094
 VeloViewer:  https://veloviewer.com/segment/33397094
-ZwiftInsider: https://zwiftinsider.com/rebel-route-mangrove-circuit/
+ZwiftInsider: https://zwiftinsider.com/mangrove-circuit/
 
 Description: A very short circuit through the mangrove maze. Great for short efforts.
 

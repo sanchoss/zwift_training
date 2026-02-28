@@ -9,7 +9,7 @@ Start Route: Hilly Route
 Approach:    Hilly Route
 Strava:      https://www.strava.com/segments/40906329
 VeloViewer:  https://veloviewer.com/segment/40906329
-ZwiftInsider: https://zwiftinsider.com/rebel-route-big-ring-little-ring-reverse/
+ZwiftInsider: https://zwiftinsider.com/rebel-route-big-ring-little-ring/
 
 Description: The reverse version of Big Ring/Little Ring. Start with Hilly Route ('Little Ring' first), then Volcano Circuit ('Big Ring'). First Rebel Route with an official reverse variant on VeloViewer.
 

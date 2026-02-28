@@ -28,9 +28,12 @@ When I ask how to ride any race/event, save full guide (route breakdown, equipme
 
 * zwift_training/ — only scripts I explicitly asked to create
 * zwift_training/zwift_service_scripts/ — any utility/helper scripts the agent creates for tasks
+* zwift_training/Rebel_Routes/ — rebel route guides (.txt), manifests (.json), README
 * d:\zwift\garmin_strava_zwift\ — Garmin/Strava/Zwift sync scripts
 * zwift_training/Workouts/ — .zwo workout files
 * All scripts use sync_config.yaml for credentials
+* Git: don't auto-push — only commit locally, I decide when to push
+* Timestamps: always show 3 time zones (EST / UTC / EET)
 
 # Routes Uncompleted
 
@@ -64,7 +67,7 @@ When I ask how to ride any race/event, save full guide (route breakdown, equipme
 **Source:** https://veloviewer.com/zwift-insider/rebel-routes
 **Check script:** `zwift_service_scripts/check_rebel_routes.py` — run each session to refresh from Strava API
 
-**Status: 6/25 completed** (Big Ring Little Ring, COMPLETED (6):, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome)
+**Status: 6/25 completed** (Big Ring Little Ring, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome)
 
 W — The Full Watopia — 154.5 km / 2852 m
 F — Toutes les Routes — 104.8 km / 1968 m

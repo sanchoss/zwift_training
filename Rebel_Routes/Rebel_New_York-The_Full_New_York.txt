@@ -9,7 +9,7 @@ Start Route: The Highline
 Approach:    The Highline
 Strava:      https://www.strava.com/segments/40678671
 VeloViewer:  https://veloviewer.com/segment/40678671
-ZwiftInsider: https://zwiftinsider.com/rebel-route-the-full-new-york/
+ZwiftInsider: https://zwiftinsider.com/the-full-new-york/
 
 Description: Covers every road in New York across Central Park, city rooftops, bridges, and Prospect Park.
 

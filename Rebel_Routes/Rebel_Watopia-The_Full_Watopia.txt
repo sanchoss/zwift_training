@@ -9,7 +9,7 @@ Start Route: Oh Hill No
 Approach:    Oh Hill No
 Strava:      https://www.strava.com/segments/40760759
 VeloViewer:  https://veloviewer.com/segment/40760759
-ZwiftInsider: https://zwiftinsider.com/rebel-route-the-full-watopia/
+ZwiftInsider: https://zwiftinsider.com/the-full-watopia/
 
 Description: Covers every road in Watopia in a single ride. The ultimate Watopia challenge.
 

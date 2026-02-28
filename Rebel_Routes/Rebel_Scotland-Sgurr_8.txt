@@ -9,7 +9,7 @@ Start Route: Rolling Highlands (then U-Turn after lap banner)
 Approach:    Rolling Highlands → 3.0 km to rebel start
 Strava:      https://www.strava.com/segments/34485671
 VeloViewer:  https://veloviewer.com/segment/34485671
-ZwiftInsider: https://zwiftinsider.com/rebel-route-sgurr-8/
+ZwiftInsider: https://zwiftinsider.com/sgurr-8/
 
 Description: A figure-8 route around Scotland's Sgurr area.
 

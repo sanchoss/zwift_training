@@ -9,7 +9,7 @@ Start Route: Bigger Loop
 Approach:    Bigger Loop
 Strava:      https://www.strava.com/segments/20483387
 VeloViewer:  https://veloviewer.com/segment/20483387
-ZwiftInsider: https://zwiftinsider.com/rebel-route-the-perimeter/
+ZwiftInsider: https://zwiftinsider.com/the-perimeter/
 
 Description: Ride the outer edge of Watopia including Bonus Climb and Alpe du Zwift. Most turns auto-navigate; only a few manual turns needed.
 

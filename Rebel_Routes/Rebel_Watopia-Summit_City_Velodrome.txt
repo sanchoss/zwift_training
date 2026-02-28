@@ -9,7 +9,7 @@ Start Route: Oh Hill No (then U-Turn)
 Approach:    Oh Hill No → 4.0 km to rebel start
 Strava:      https://www.strava.com/segments/37626854
 VeloViewer:  https://veloviewer.com/segment/37626854
-ZwiftInsider: https://zwiftinsider.com/rebel-route-summit-city-velodrome/
+ZwiftInsider: https://zwiftinsider.com/summit-city-velodrome/
 
 Description: 10 laps of Ciudad La Cumbre roundabout CCW. First prompt defaults correct (left to Radio Tower), second prompt needs manual straight toward Jungle Ruins.
 

@@ -9,7 +9,7 @@ Start Route: Loch Loop (then U-Turn)
 Approach:    Loch Loop → 2.0 km to rebel start
 Strava:      https://www.strava.com/segments/34255208
 VeloViewer:  https://veloviewer.com/segment/34255208
-ZwiftInsider: https://zwiftinsider.com/rebel-route-nessies-loop/
+ZwiftInsider: https://zwiftinsider.com/nessies-loop/
 
 Description: A tiny Scotland loop around the loch area.
 

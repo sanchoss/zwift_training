@@ -7,7 +7,7 @@ Distance:    55.6 km
 Elevation:   324 m
 Strava:      https://www.strava.com/segments/20522725
 VeloViewer:  https://veloviewer.com/segment/20522725
-ZwiftInsider: https://zwiftinsider.com/rebel-route-spiral-into-the-volcano/
+ZwiftInsider: https://zwiftinsider.com/route/spiral-into-the-volcano/
 Approach:    Volcano Flat
 Status:      COMPLETED (tamed)
 

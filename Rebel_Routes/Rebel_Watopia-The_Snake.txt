@@ -9,7 +9,7 @@ Start Route: Tempus Fugit
 Approach:    Tempus Fugit → 3.5 km to rebel start
 Strava:      https://www.strava.com/segments/22313236
 VeloViewer:  https://veloviewer.com/segment/22313236
-ZwiftInsider: https://zwiftinsider.com/rebel-route-the-snake/
+ZwiftInsider: https://zwiftinsider.com/snake/
 
 Description: A long, winding Watopia route covering Desert Flats, Epic KOM, Volcano, 360 Bridge, and more.
 

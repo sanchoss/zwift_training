@@ -67,7 +67,7 @@ When I ask how to ride any race/event, save full guide (route breakdown, equipme
 **Source:** https://veloviewer.com/zwift-insider/rebel-routes
 **Check script:** `zwift_service_scripts/check_rebel_routes.py` — run each session to refresh from Strava API
 
-**Status: 6/25 completed** (Big Ring Little Ring, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome)
+**Status: 6/25 completed** (Big Ring Little Ring, COMPLETED (6):, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome)
 
 W — The Full Watopia — 154.5 km / 2852 m
 F — Toutes les Routes — 104.8 km / 1968 m

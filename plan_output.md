@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 6-DAY TRAINING PLAN
-**📅 Generated:** Sat 28 Feb 2026 12:07 EST  /  Sat 28 Feb 2026 17:07 UTC  /  Sat 28 Feb 2026 19:07 EET
+**📅 Generated:** Sat 28 Feb 2026 12:09 EST  /  Sat 28 Feb 2026 17:09 UTC  /  Sat 28 Feb 2026 19:09 EET
 **🗓️ Plan:** Sun 01 Mar -> Fri 06 Mar 2026
 ---
 
@@ -304,8 +304,5 @@
 
 *Source: https://veloviewer.com/zwift-insider/rebel-routes*
 
----
 📁 Workout .zwo files: Workouts/
-
 💾 Full plan saved to: plan_output.md
----

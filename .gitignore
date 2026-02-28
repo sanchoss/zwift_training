@@ -9,3 +9,4 @@ sync_config.yaml
 # Python
 __pycache__/
 *.pyc
+ride_intervals.py

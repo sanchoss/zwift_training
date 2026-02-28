@@ -1,6 +1,6 @@
-# 🚴 ZWIFT 6-DAY TRAINING PLAN
-**📅 Generated:** Sat 28 Feb 2026 16:02 EST  /  Sat 28 Feb 2026 21:02 UTC  /  Sat 28 Feb 2026 23:02 EET
-**🗓️ Plan:** Sun 01 Mar -> Fri 06 Mar 2026
+# 🚴 ZWIFT 5-DAY TRAINING PLAN
+**📅 Generated:** Sat 28 Feb 2026 16:15 EST  /  Sat 28 Feb 2026 21:15 UTC  /  Sat 28 Feb 2026 23:15 EET
+**🗓️ Plan:** Sun 01 Mar -> Thu 05 Mar 2026
 ---
 
 
@@ -12,7 +12,7 @@
   Saved to rides_latest.txt
 
 🔄 [2/7] Updating rebel routes status from Strava...
-  (skipped — check script not found or failed)
+  Rebel routes: 6/25 completed — AGENTS.md updated
 
 ⚙️  [3/7] Loading configuration...
   FTP 253W | ZRS 417 | Groups B, C, D, E
@@ -47,7 +47,6 @@
   Tue 03 Mar -> EASY
   Wed 04 Mar -> EASY
   Thu 05 Mar -> HARD
-  Fri 06 Mar -> EASY
 
 ✨ [7/7] Generating plan...
 
@@ -84,21 +83,14 @@
 2. [M] 2 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) = **~37min, 13.1km/189m**
 
 
-**📡 Zwift Events (8:00-8:30 AM ET) — 1 race(s), 12 ride(s):**
-  08:10 AM  Race           Groups B, C, D, E
-   Stage 2: Zwift Games: Hudson Hustle
-  07:45 AM  Ride/Workout   Groups D | 100.0 km
-   Cycle Nation Beginner Endurance Ride
-  07:55 AM  Ride/Workout   Groups D
-   The HERD Sunday Endurance
-  08:00 AM  Ride/Workout   Groups E
-   World Social Riders
-  08:00 AM  Ride/Workout   Groups D
-   RO4H Sunday Social Spin
-  08:00 AM  Ride/Workout   Groups C, E x6 laps
-   Giant Camden Tron Hunters – get closer to the Tron
-  08:10 AM  Ride/Workout   Groups B, C, D | 40.2 km
-   Bear Mountaineers do Climb!
+**📡 Zwift Events (8:00-8:30 AM ET) — 1 race, 12 rides:**
+  🏁 08:10 AM  Stage 2: Zwift Games: Hudson Hustle  [B, C, D, E]
+  🚴 07:45 AM  Cycle Nation Beginner Endurance Ride  [D]  100.0 km
+  🚴 07:55 AM  The HERD Sunday Endurance  [D]
+  🚴 08:00 AM  World Social Riders  [E]
+  🚴 08:00 AM  RO4H Sunday Social Spin  [D]
+  🚴 08:00 AM  Giant Camden Tron Hunters – get closer to the Tron  [C, E]  x6 laps
+  🚴 08:10 AM  Bear Mountaineers do Climb!  [B, C, D]  40.2 km
 
 
 
@@ -247,41 +239,6 @@
    Lead-in: 0.194 km (^0.000 m) | Lap: 30.687 km (^143.909 m)
    Time window: 12:00 AM – 10:30 PM EST (Thursdays)
    🔧 Equipment: No restrictions (any bike/wheels/kit)
-
-
-
-## Friday 06 Mar 2026  |  🟢 EASY DAY
-
-
-**🎯 Zone:** ENDURANCE
-**🎚️ Trainer:** 50%
-> ⚠️ Fatigue 72% - pure endurance recommended
-
-**📋 Workout:** Endurance 66% 65TSS  (90m, ~65TSS, IF 66%)
-**🔀 Split:** Endurance 65% 42TSS (60m) + Cadence 66% 21TSS (30m)
-   ENDURANCE 60m + CADENCE 30m = ~63TSS
-
-
-**🗺️  Recommended Routes (up to 5):**
-1. [W] [Litus Fugit](https://zwiftinsider.com/rebel-route-litus-fugit/)
-   61.0 km / 269m elev | ~138min | REBEL ROUTE
-2. [F] [La Reine](https://zwiftinsider.com/route/la-reine/)
-   22.9 km / 1201m elev | ~76min | Diff 3.5/5 | 460 XP | NOT COMPLETED
-3. [S] [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)
-   12.6 km / 150m elev | ~37min | REBEL ROUTE
-4. [M] [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)
-   7.5 km / 22m elev | ~16min | REBEL ROUTE
-5. [M] [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)
-   4.4 km / 75m elev | ~15min | REBEL ROUTE
-
-
-**🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~73min, 25.0km/286m**
-2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
-
-
-**📡 Zwift Events (8:00-8:30 AM ET):**
-  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)
 
 
 ---

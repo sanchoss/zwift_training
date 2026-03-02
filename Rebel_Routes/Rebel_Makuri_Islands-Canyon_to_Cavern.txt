@@ -6,29 +6,34 @@ World:       Makuri Islands
 Distance:    13.41 km
 Elevation:   87 m
 Start Route: Turf N Surf (then U-Turn, left toward Urukazi)
-Approach:    Turf N Surf
+Approach:    Turf N Surf → U-turn → left toward Urukazi → descend through
+             cavern → right at bottom onto beachfront → Tidepool Sprint banner
 Strava:      https://www.strava.com/segments/33397045
 VeloViewer:  https://veloviewer.com/segment/33397045
 ZwiftInsider: https://zwiftinsider.com/canyon-to-cavern/
 
-Description: Shortest loop covering both the slot canyon (Yumezi-Urukazi) and the cavern (Neokyo-Urukazi) connector roads. Starts/ends at Tidepool Sprint banner.
+Description: Shortest loop covering both the slot canyon (Yumezi-Urukazi) and
+  the cavern (Neokyo-Urukazi) connector roads. Starts/ends at Tidepool Sprint
+  banner in Urukazi. Clockwise: climb slot canyon, flat through Neokyo, descend
+  through cavern back to beach.
 
 ----------------------------------------
   TURN-BY-TURN DIRECTIONS
 ----------------------------------------
 
+  Start/Finish: Tidepool Sprint banner (Urukazi beachfront)
+  Pro tip: just stay right at every turn!
+
   (km values are approximate)
 
-    1. [  0.4 km]  Straight/Right to Yumezi
-    2. [  2.2 km]  Right to Neokyo
-    3. [  4.0 km]  Straight/Right to Tower
-    4. [  5.8 km]  Straight/Right to Tower
-    5. [  7.6 km]  Right to Harbor
-    6. [  9.4 km]  Right to Harbor
-    7. [ 11.2 km]  Right to Urukazi
-    8. [ 13.0 km]  Right to Hidden Reefs
-
-Notes: Pro tip: once you reach the Tidepool Sprint, just stay right at every turn!
+    1. [  2.0 km]  Straight/Right to Yumezi (top of slot canyon climb)
+    2. [  4.0 km]  Right to Neokyo (dirt road junction)
+    3. [  5.5 km]  Straight/Right to Tower (entering Neokyo)
+    4. [  6.5 km]  Straight/Right to Tower (in Neokyo)
+    5. [  7.5 km]  Right to Harbor (edge of Neokyo)
+    6. [  8.5 km]  Right to Harbor (heading toward cavern)
+    7. [ 10.0 km]  Right to Urukazi (cavern descent)
+    8. [ 12.5 km]  Right to Hidden Reefs (approaching Tidepool Sprint)
 
 ============================================================
 Source: https://zwiftinsider.com/rebel-routes/

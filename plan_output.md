@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 5-DAY TRAINING PLAN
-**📅 Generated:** Mon 02 Mar 2026 00:38 EST  /  Mon 02 Mar 2026 05:38 UTC  /  Mon 02 Mar 2026 07:38 EET
+**📅 Generated:** Mon 02 Mar 2026 00:54 EST  /  Mon 02 Mar 2026 05:54 UTC  /  Mon 02 Mar 2026 07:54 EET
 **🗓️ Plan:** Mon 02 Mar -> Fri 06 Mar 2026
 ---
 
@@ -81,7 +81,7 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
+1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 1.5km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 2.5km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
 2. [S] 2 routes: [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~55min) = **~92min, 32.3km/364m**
 
 
@@ -122,7 +122,7 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
+1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 1.5km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 2.5km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
 2. [S] 2 routes: [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~55min) = **~92min, 32.3km/364m**
 
 
@@ -157,7 +157,7 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
+1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 1.5km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 2.5km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
 2. [S] 2 routes: [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~55min) = **~92min, 32.3km/364m**
 
 
@@ -192,7 +192,7 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
+1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 1.5km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 2.5km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
 2. [S] 2 routes: [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~55min) = **~92min, 32.3km/364m**
 
 
@@ -235,7 +235,7 @@
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
+1. [M] 4 routes: [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/)⭐ (8.0km/58m, ~20min) -> 1.5km | [Dirty Temple KOM Loop](https://zwiftinsider.com/dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 2.5km | [Urukazi Flats](https://zwiftinsider.com/urukazi-flats/)[R] (7.5km/22m, ~16min) = **~88min, 33.3km/242m**
 2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
 
 

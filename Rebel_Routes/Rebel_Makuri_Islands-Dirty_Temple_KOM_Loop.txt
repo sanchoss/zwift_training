@@ -11,18 +11,22 @@ Strava:      https://www.strava.com/segments/31415608
 VeloViewer:  https://veloviewer.com/segment/31415608
 ZwiftInsider: https://zwiftinsider.com/dirty-temple-kom-loop/
 
-Description: All-dirt loop with repeated partial climbs of the Temple KOM. Great for VO2 intervals (~1.5 km climbing per lap). Use a gravel bike! Lead-in: 3.2 km / 106 m.
+Description: All-dirt loop with repeated partial climbs of the Temple KOM.
+  Great for VO2 intervals (~1.5 km climbing per lap). Use a gravel bike!
+  Lead-in: ~3.8 km total from pens (0.6 km Sea to Tree lead-in + 3.2 km climb
+  to Temple KOM banner where the rebel route begins).
 
 ----------------------------------------
   TURN-BY-TURN DIRECTIONS
 ----------------------------------------
 
-  Lead-in: ~3.2 km before first turn
+  Start: Temple KOM banner (giant mystical tree at top of climb)
+  Route: Descend 1.6 km, bypass trail 1.0 km, climb 1.8 km back to KOM banner
 
-  (km values are approximate)
+  (km values are from rebel route start, approximate)
 
-    1. [  3.5 km]  Right to Fishing Village
-    2. [  7.3 km]  Right to Forest Climb
+    1. [  1.6 km]  Right to Fishing Village (turn onto bypass trail)
+    2. [  2.6 km]  Right to Forest Climb (turn to climb back to Temple KOM)
 
 ============================================================
 Source: https://zwiftinsider.com/rebel-routes/

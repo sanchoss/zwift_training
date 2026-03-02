@@ -18,3 +18,5 @@ rides_latest.txt
 upload_plan_to_drive.py
 weekly_plan.py
 workout_state.json
+
+Rebel_Routes/gen_rebel_routes.py

@@ -10,6 +10,7 @@ sync_config.yaml
 __pycache__/
 *.pyc
 ride_intervals.py
+AGENTS.md
 RULES.md
 copy_workouts.py
 left_routes_links.html

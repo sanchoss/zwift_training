@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 5-DAY TRAINING PLAN
-**📅 Generated:** Mon 02 Mar 2026 15:34 EST  /  Mon 02 Mar 2026 20:34 UTC  /  Mon 02 Mar 2026 22:34 EET
+**📅 Generated:** Mon 02 Mar 2026 15:49 EST  /  Mon 02 Mar 2026 20:49 UTC  /  Mon 02 Mar 2026 22:49 EET
 **🗓️ Plan:** Tue 03 Mar -> Sat 07 Mar 2026
 ---
 
@@ -277,51 +277,51 @@
 
 World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R=Richmond, F=France, L=London, Y=Yorkshire
 
-L — [London PRL Full](https://zwiftinsider.com/route/london-prl-full/) — 173.8 km / 2628 m — Difficulty 5/5 — 3,460 XP — ~579 min
-W — [The Uber Pretzel](https://zwiftinsider.com/route/the-uber-pretzel/) — 128.8 km / 2381 m — Difficulty 5/5 — 2,560 XP — ~429 min
-W — [The Mega Pretzel](https://zwiftinsider.com/route/the-mega-pretzel/) — 111.0 km / 1659 m — Difficulty 5/5 — 2,140 XP — ~369 min
-W — [Four Horsemen](https://zwiftinsider.com/route/four-horsemen/) — 90.4 km / 2111 m — Difficulty 5/5 — 1,780 XP — ~301 min
-N — [Fuhgeddaboudit](https://zwiftinsider.com/route/fuhgeddaboudit/) — 79.0 km / 838 m — Difficulty 5/5 — 1,595 XP — ~220 min
-M — [Makuri Pretzel](https://zwiftinsider.com/route/makuri-pretzel/) — 78.7 km / 623 m — Difficulty 5/5 — 1,550 XP — ~200 min
-W — [Watopia Pretzel](https://zwiftinsider.com/route/watopia-pretzel/) — 73.0 km / 1361 m — Difficulty 5/5 — 1,440 XP — ~243 min
-W — [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) — 69.9 km / 714 m — Difficulty 4/5 — 1,340 XP — ~192 min
-F — [Tire-Bouchon](https://zwiftinsider.com/route/tire-bouchon/) — 63.9 km / 587 m — Difficulty 3.5/5 — 1,220 XP — ~169 min
-W — [Three Sisters](https://zwiftinsider.com/route/three-sisters/) — 48.5 km / 896 m — Difficulty 4.5/5 — 950 XP — ~162 min
-I — [Achterbahn](https://zwiftinsider.com/route/achterbahn/) — 47.7 km / 990 m — Difficulty 4.5/5 — 950 XP — ~159 min
-W — [Quatch Quest](https://zwiftinsider.com/route/quatch-quest/) — 46.8 km / 1706 m — Difficulty 5/5 — 920 XP — ~156 min
-W — [Power to the Tower](https://zwiftinsider.com/route/power-to-the-tower/) — 45.6 km / 1496 m — Difficulty 5/5 — 900 XP — ~152 min
-W — [ZG25 Queen](https://zwiftinsider.com/route/zg25-queen/) — 44.8 km / 894 m — Difficulty 3/5 — 895 XP — ~149 min
-L — [Surrey Hills](https://zwiftinsider.com/route/surrey-hills/) — 44.1 km / 1034 m — Difficulty 4/5 — 820 XP — ~147 min
-W — [Accelerate to Elevate](https://zwiftinsider.com/route/accelerate-to-elevate/) — 43.5 km / 1158 m — Difficulty 3/5 — 825 XP — ~145 min
-F — [La Reine](https://zwiftinsider.com/route/la-reine/) — 22.9 km / 1201 m — Difficulty 3.5/5 — 460 XP — ~76 min
-S — [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) — 14.1 km / 106 m — Difficulty 2/5 — 180 XP — ~35 min
-N — [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) — 12.6 km / 206 m — Difficulty 2/5 — 240 XP — ~42 min
-L — [London Flat](https://zwiftinsider.com/route/london-flat/) — 12.4 km / 115 m — Difficulty 1/5 — 240 XP — ~33 min
-Y — [Tour Of Tewit Well](https://zwiftinsider.com/route/tour-of-tewit-well/) — 10.9 km / 204 m — Difficulty 2/5 — 210 XP — ~36 min
-M — [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) — 5.1 km / 131 m — Difficulty 1.5/5 — 100 XP — ~17 min
+- L — [London PRL Full](https://zwiftinsider.com/route/london-prl-full/) — 173.8 km / 2628 m — Difficulty 5/5 — 3,460 XP — ~579 min
+- W — [The Uber Pretzel](https://zwiftinsider.com/route/the-uber-pretzel/) — 128.8 km / 2381 m — Difficulty 5/5 — 2,560 XP — ~429 min
+- W — [The Mega Pretzel](https://zwiftinsider.com/route/the-mega-pretzel/) — 111.0 km / 1659 m — Difficulty 5/5 — 2,140 XP — ~369 min
+- W — [Four Horsemen](https://zwiftinsider.com/route/four-horsemen/) — 90.4 km / 2111 m — Difficulty 5/5 — 1,780 XP — ~301 min
+- N — [Fuhgeddaboudit](https://zwiftinsider.com/route/fuhgeddaboudit/) — 79.0 km / 838 m — Difficulty 5/5 — 1,595 XP — ~220 min
+- M — [Makuri Pretzel](https://zwiftinsider.com/route/makuri-pretzel/) — 78.7 km / 623 m — Difficulty 5/5 — 1,550 XP — ~200 min
+- W — [Watopia Pretzel](https://zwiftinsider.com/route/watopia-pretzel/) — 73.0 km / 1361 m — Difficulty 5/5 — 1,440 XP — ~243 min
+- W — [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) — 69.9 km / 714 m — Difficulty 4/5 — 1,340 XP — ~192 min
+- F — [Tire-Bouchon](https://zwiftinsider.com/route/tire-bouchon/) — 63.9 km / 587 m — Difficulty 3.5/5 — 1,220 XP — ~169 min
+- W — [Three Sisters](https://zwiftinsider.com/route/three-sisters/) — 48.5 km / 896 m — Difficulty 4.5/5 — 950 XP — ~162 min
+- I — [Achterbahn](https://zwiftinsider.com/route/achterbahn/) — 47.7 km / 990 m — Difficulty 4.5/5 — 950 XP — ~159 min
+- W — [Quatch Quest](https://zwiftinsider.com/route/quatch-quest/) — 46.8 km / 1706 m — Difficulty 5/5 — 920 XP — ~156 min
+- W — [Power to the Tower](https://zwiftinsider.com/route/power-to-the-tower/) — 45.6 km / 1496 m — Difficulty 5/5 — 900 XP — ~152 min
+- W — [ZG25 Queen](https://zwiftinsider.com/route/zg25-queen/) — 44.8 km / 894 m — Difficulty 3/5 — 895 XP — ~149 min
+- L — [Surrey Hills](https://zwiftinsider.com/route/surrey-hills/) — 44.1 km / 1034 m — Difficulty 4/5 — 820 XP — ~147 min
+- W — [Accelerate to Elevate](https://zwiftinsider.com/route/accelerate-to-elevate/) — 43.5 km / 1158 m — Difficulty 3/5 — 825 XP — ~145 min
+- F — [La Reine](https://zwiftinsider.com/route/la-reine/) — 22.9 km / 1201 m — Difficulty 3.5/5 — 460 XP — ~76 min
+- S — [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) — 14.1 km / 106 m — Difficulty 2/5 — 180 XP — ~35 min
+- N — [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) — 12.6 km / 206 m — Difficulty 2/5 — 240 XP — ~42 min
+- L — [London Flat](https://zwiftinsider.com/route/london-flat/) — 12.4 km / 115 m — Difficulty 1/5 — 240 XP — ~33 min
+- Y — [Tour Of Tewit Well](https://zwiftinsider.com/route/tour-of-tewit-well/) — 10.9 km / 204 m — Difficulty 2/5 — 210 XP — ~36 min
+- M — [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) — 5.1 km / 131 m — Difficulty 1.5/5 — 100 XP — ~17 min
 
 ---
 
 ### 💀 REBEL ROUTES UNCOMPLETED
 
-**Status: 9/25 completed** (Big Ring Little Ring, COMPLETED (9):, Canyon to Cavern, Dirty Temple KOM Loop, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome, Urukazi Flats)
+**Status: 9/25 completed** (Big Ring Little Ring, Canyon to Cavern, Dirty Temple KOM Loop, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome, Urukazi Flats)
 
-W — [The Full Watopia](https://zwiftinsider.com/the-full-watopia/) — 154.5 km / 2852 m — ~515 min
-F — [Toutes les Routes](https://zwiftinsider.com/toutes-les-routes/) — 104.8 km / 1968 m — ~349 min
-W — [The Marvelous Metric](https://zwiftinsider.com/the-marvelous-metric/) — 102.0 km / 489 m — ~234 min
-W — [KOMonster](https://zwiftinsider.com/komonster/) — 99.8 km / 2570 m — ~333 min
-W — [The Perimeter](https://zwiftinsider.com/the-perimeter/) — 82.3 km / 1874 m — ~274 min
-M — [The Full Makuri](https://zwiftinsider.com/the-full-makuri/) — 80.9 km / 650 m — ~206 min
-W — [The Snake](https://zwiftinsider.com/snake/) — 77.4 km / 661 m — ~200 min
-W — [Litus Fugit](https://zwiftinsider.com/litus-fugit/) — 61.0 km / 269 m — ~138 min
-N — [The Full New York](https://zwiftinsider.com/the-full-new-york/) — 57.8 km / 596 m — ~159 min
-W — [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) — 53.6 km / 437 m — ~137 min
-W — [Cliffside Epic Double](https://zwiftinsider.com/cliffside-epic-double/) — 52.7 km / 991 m — ~176 min
-W — [Down Up Down](https://zwiftinsider.com/down-up-down/) — 49.4 km / 1257 m — ~165 min
-W — [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes) — 20.6 km / 143 m — ~51 min
-S — [Fower Power](https://zwiftinsider.com/fower-power/) — 19.7 km / 214 m — ~55 min
-W — [Epic Loop](https://zwiftinsider.com/epic-loop/) — 14.4 km / 378 m — ~48 min
-S — [Sgurr 8](https://zwiftinsider.com/sgurr-8/) — 12.6 km / 150 m — ~37 min
+- W — [The Full Watopia](https://zwiftinsider.com/the-full-watopia/) — 154.5 km / 2852 m — ~515 min
+- F — [Toutes les Routes](https://zwiftinsider.com/toutes-les-routes/) — 104.8 km / 1968 m — ~349 min
+- W — [The Marvelous Metric](https://zwiftinsider.com/the-marvelous-metric/) — 102.0 km / 489 m — ~234 min
+- W — [KOMonster](https://zwiftinsider.com/komonster/) — 99.8 km / 2570 m — ~333 min
+- W — [The Perimeter](https://zwiftinsider.com/the-perimeter/) — 82.3 km / 1874 m — ~274 min
+- M — [The Full Makuri](https://zwiftinsider.com/the-full-makuri/) — 80.9 km / 650 m — ~206 min
+- W — [The Snake](https://zwiftinsider.com/snake/) — 77.4 km / 661 m — ~200 min
+- W — [Litus Fugit](https://zwiftinsider.com/litus-fugit/) — 61.0 km / 269 m — ~138 min
+- N — [The Full New York](https://zwiftinsider.com/the-full-new-york/) — 57.8 km / 596 m — ~159 min
+- W — [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) — 53.6 km / 437 m — ~137 min
+- W — [Cliffside Epic Double](https://zwiftinsider.com/cliffside-epic-double/) — 52.7 km / 991 m — ~176 min
+- W — [Down Up Down](https://zwiftinsider.com/down-up-down/) — 49.4 km / 1257 m — ~165 min
+- W — [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes) — 20.6 km / 143 m — ~51 min
+- S — [Fower Power](https://zwiftinsider.com/fower-power/) — 19.7 km / 214 m — ~55 min
+- W — [Epic Loop](https://zwiftinsider.com/epic-loop/) — 14.4 km / 378 m — ~48 min
+- S — [Sgurr 8](https://zwiftinsider.com/sgurr-8/) — 12.6 km / 150 m — ~37 min
 
 📁 Workout .zwo files: Workouts/
 💾 Full plan saved to: plan_output.md

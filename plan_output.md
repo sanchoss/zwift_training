@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 5-DAY TRAINING PLAN
-**📅 Generated:** Sun 01 Mar 2026 15:31 EST  /  Sun 01 Mar 2026 20:31 UTC  /  Sun 01 Mar 2026 22:31 EET
+**📅 Generated:** Sun 01 Mar 2026 23:42 EST  /  Mon 02 Mar 2026 04:42 UTC  /  Mon 02 Mar 2026 06:42 EET
 **🗓️ Plan:** Mon 02 Mar -> Fri 06 Mar 2026
 ---
 
@@ -64,35 +64,35 @@
 
 **📋 Workout:** VO2Max 87% 112TSS  (90m, ~112TSS, IF 87%)
 **🔀 Split:** VO2Max 83% 69TSS (60m) + OverUnders 78% 30TSS (30m)
-   VO2MAX 60m + OVERUNDERS 30m = ~99TSS
+   VO2MAX 60m + OVERUNDERS 30m = ~99TSS  
 
 
 **🗺️  Recommended Routes (up to 5):**
-1. [W] [Big Ring Little Ring Reverse](https://zwiftinsider.com/rebel-route-big-ring-little-ring-reverse/)
-   20.6 km / 143m elev | ~51min | REBEL ROUTE
-2. [W] [Epic Loop](https://zwiftinsider.com/rebel-route-epic-loop/)
-   14.4 km / 378m elev | ~48min | REBEL ROUTE
-3. [S] [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)
-   19.7 km / 214m elev | ~55min | REBEL ROUTE
-4. [W] [The Roads Less Traveled](https://zwiftinsider.com/rebel-route-the-roads-less-traveled/)
-   53.6 km / 437m elev | ~137min | REBEL ROUTE
-5. [W] [Litus Fugit](https://zwiftinsider.com/rebel-route-litus-fugit/)
-   61.0 km / 269m elev | ~138min | REBEL ROUTE
+1. [W] [Big Ring Little Ring Reverse](https://www.strava.com/segments/40906329)
+   20.6 km / 143m elev | ~51min | REBEL ROUTE  
+2. [W] [Epic Loop](https://www.strava.com/segments/31415150)
+   14.4 km / 378m elev | ~48min | REBEL ROUTE  
+3. [S] [Fower Power](https://www.strava.com/segments/34255076)
+   19.7 km / 214m elev | ~55min | REBEL ROUTE  
+4. [W] [The Roads Less Traveled](https://www.strava.com/segments/35861978)
+   53.6 km / 437m elev | ~137min | REBEL ROUTE  
+5. [W] [Litus Fugit](https://www.strava.com/segments/35852231)
+   61.0 km / 269m elev | ~138min | REBEL ROUTE  
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
-2. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)[R] (19.7km/214m, ~55min) = **~127min, 46.4km/470m**
+1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://www.strava.com/segments/31415608)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://www.strava.com/segments/33397045)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://www.strava.com/segments/33396865)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
+2. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://www.strava.com/segments/34485671)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://www.strava.com/segments/34255076)[R] (19.7km/214m, ~55min) = **~127min, 46.4km/470m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET) — 4 races, 8 rides:**
-  🏁 07:45 AM  Tullio Turbo Lunch  [B, C, D, E]
-  🏁 08:10 AM  Stage 2: Zwift Games: Hudson Hustle  [B, C, D, E]
-  🏁 08:15 AM  Stage 2: Zwift Games: Hudson Hustle | Advanced  [A]
-  🏁 08:30 AM  Zwift Epic Race - Petit Douleur  [B, C, D, E]  x4 laps
-  🚴 07:45 AM  Break for Biscuits: Banded Recovery Ride  [E]
-  🚴 08:00 AM  BMTR Short Adventure  [C, D]
-  🚴 08:00 AM  Escape Collective Monday Meander  [C]
+- 🏁 07:45 AM  Tullio Turbo Lunch  [B, C, D, E]
+- 🏁 08:10 AM  Stage 2: Zwift Games: Hudson Hustle  [B, C, D, E]
+- 🏁 08:15 AM  Stage 2: Zwift Games: Hudson Hustle | Advanced  [A]
+- 🏁 08:30 AM  Zwift Epic Race - Petit Douleur  [B, C, D, E]  x4 laps
+- 🚴 07:45 AM  Break for Biscuits: Banded Recovery Ride  [E]
+- 🚴 08:00 AM  BMTR Short Adventure  [C, D]
+- 🚴 08:00 AM  Escape Collective Monday Meander  [C]
 
 
 
@@ -105,29 +105,29 @@
 
 **📋 Workout:** Endurance 66% 65TSS  (90m, ~65TSS, IF 66%)
 **🔀 Split:** Endurance 65% 42TSS (60m) + Cadence 66% 21TSS (30m)
-   ENDURANCE 60m + CADENCE 30m = ~63TSS
+   ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
 
 **🗺️  Recommended Routes (up to 5):**
-1. [W] [Epic Loop](https://zwiftinsider.com/rebel-route-epic-loop/)
-   14.4 km / 378m elev | ~48min | REBEL ROUTE
-2. [S] [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)
-   19.7 km / 214m elev | ~55min | REBEL ROUTE
-3. [W] [The Roads Less Traveled](https://zwiftinsider.com/rebel-route-the-roads-less-traveled/)
-   53.6 km / 437m elev | ~137min | REBEL ROUTE
-4. [W] [Litus Fugit](https://zwiftinsider.com/rebel-route-litus-fugit/)
-   61.0 km / 269m elev | ~138min | REBEL ROUTE
-5. [M] [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)
-   13.4 km / 87m elev | ~32min | REBEL ROUTE
+1. [W] [Epic Loop](https://www.strava.com/segments/31415150)
+   14.4 km / 378m elev | ~48min | REBEL ROUTE  
+2. [S] [Fower Power](https://www.strava.com/segments/34255076)
+   19.7 km / 214m elev | ~55min | REBEL ROUTE  
+3. [W] [The Roads Less Traveled](https://www.strava.com/segments/35861978)
+   53.6 km / 437m elev | ~137min | REBEL ROUTE  
+4. [W] [Litus Fugit](https://www.strava.com/segments/35852231)
+   61.0 km / 269m elev | ~138min | REBEL ROUTE  
+5. [M] [Canyon to Cavern](https://www.strava.com/segments/33397045)
+   13.4 km / 87m elev | ~32min | REBEL ROUTE  
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
-2. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)[R] (19.7km/214m, ~55min) = **~127min, 46.4km/470m**
+1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://www.strava.com/segments/31415608)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://www.strava.com/segments/33397045)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://www.strava.com/segments/33396865)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
+2. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://www.strava.com/segments/34485671)[R] (12.6km/150m, ~37min) -> 3.5km | [Fower Power](https://www.strava.com/segments/34255076)[R] (19.7km/214m, ~55min) = **~127min, 46.4km/470m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
-  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)
+  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)  
 
 
 
@@ -140,29 +140,29 @@
 
 **📋 Workout:** Endurance 66% 65TSS  (90m, ~65TSS, IF 66%)
 **🔀 Split:** Endurance 65% 42TSS (60m) + Cadence 66% 21TSS (30m)
-   ENDURANCE 60m + CADENCE 30m = ~63TSS
+   ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
 
 **🗺️  Recommended Routes (up to 5):**
-1. [S] [Fower Power](https://zwiftinsider.com/rebel-route-fower-power/)
-   19.7 km / 214m elev | ~55min | REBEL ROUTE
-2. [W] [The Roads Less Traveled](https://zwiftinsider.com/rebel-route-the-roads-less-traveled/)
-   53.6 km / 437m elev | ~137min | REBEL ROUTE
-3. [W] [Litus Fugit](https://zwiftinsider.com/rebel-route-litus-fugit/)
-   61.0 km / 269m elev | ~138min | REBEL ROUTE
-4. [M] [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)
-   13.4 km / 87m elev | ~32min | REBEL ROUTE
-5. [S] [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)
-   12.6 km / 150m elev | ~37min | REBEL ROUTE
+1. [S] [Fower Power](https://www.strava.com/segments/34255076)
+   19.7 km / 214m elev | ~55min | REBEL ROUTE  
+2. [W] [The Roads Less Traveled](https://www.strava.com/segments/35861978)
+   53.6 km / 437m elev | ~137min | REBEL ROUTE  
+3. [W] [Litus Fugit](https://www.strava.com/segments/35852231)
+   61.0 km / 269m elev | ~138min | REBEL ROUTE  
+4. [M] [Canyon to Cavern](https://www.strava.com/segments/33397045)
+   13.4 km / 87m elev | ~32min | REBEL ROUTE  
+5. [S] [Sgurr 8](https://www.strava.com/segments/34485671)
+   12.6 km / 150m elev | ~37min | REBEL ROUTE  
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
-2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
+1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://www.strava.com/segments/31415608)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://www.strava.com/segments/33397045)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://www.strava.com/segments/33396865)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
+2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://www.strava.com/segments/34485671)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
-  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)
+  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)  
 
 
 
@@ -175,37 +175,37 @@
 
 **📋 Workout:** VO2Max 87% 112TSS  (90m, ~112TSS, IF 87%)
 **🔀 Split:** VO2Max 83% 69TSS (60m) + OverUnders 78% 30TSS (30m)
-   VO2MAX 60m + OVERUNDERS 30m = ~99TSS
+   VO2MAX 60m + OVERUNDERS 30m = ~99TSS  
 
 
 **🗺️  Recommended Routes (up to 5):**
-1. [W] [The Roads Less Traveled](https://zwiftinsider.com/rebel-route-the-roads-less-traveled/)
-   53.6 km / 437m elev | ~137min | REBEL ROUTE
-2. [W] [Litus Fugit](https://zwiftinsider.com/rebel-route-litus-fugit/)
-   61.0 km / 269m elev | ~138min | REBEL ROUTE
-3. [M] [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)
-   13.4 km / 87m elev | ~32min | REBEL ROUTE
+1. [W] [The Roads Less Traveled](https://www.strava.com/segments/35861978)
+   53.6 km / 437m elev | ~137min | REBEL ROUTE  
+2. [W] [Litus Fugit](https://www.strava.com/segments/35852231)
+   61.0 km / 269m elev | ~138min | REBEL ROUTE  
+3. [M] [Canyon to Cavern](https://www.strava.com/segments/33397045)
+   13.4 km / 87m elev | ~32min | REBEL ROUTE  
 4. [F] [La Reine](https://zwiftinsider.com/route/la-reine/)
-   22.9 km / 1201m elev | ~76min | Diff 3.5/5 | 460 XP | NOT COMPLETED
-5. [S] [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)
-   12.6 km / 150m elev | ~37min | REBEL ROUTE
+   22.9 km / 1201m elev | ~76min | Diff 3.5/5 | 460 XP | NOT COMPLETED  
+5. [S] [Sgurr 8](https://www.strava.com/segments/34485671)
+   12.6 km / 150m elev | ~37min | REBEL ROUTE  
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
-2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
+1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://www.strava.com/segments/31415608)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://www.strava.com/segments/33397045)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://www.strava.com/segments/33396865)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
+2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://www.strava.com/segments/34485671)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
-  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)
+  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)  
 
 
 **🏆 WTRL TTT:  https://www.wtrl.racing/ttt/TTT-Event/**
-  #359 Waisted 8 (WATOPIA)
-   1 laps | 30.9 km | ^144 m | Flat | Difficulty 2.0
-   Lead-in: 0.194 km (^0.000 m) | Lap: 30.687 km (^143.909 m)
-   Time window: 12:00 AM – 10:30 PM EST (Thursdays)
-   🔧 Equipment: No restrictions (any bike/wheels/kit)
+  #359 Waisted 8 (WATOPIA)  
+   1 laps | 30.9 km | ^144 m | Flat | Difficulty 2.0  
+   Lead-in: 0.194 km (^0.000 m) | Lap: 30.687 km (^143.909 m)  
+   Time window: 12:00 AM – 10:30 PM EST (Thursdays)  
+   🔧 Equipment: No restrictions (any bike/wheels/kit)  
 
 
 
@@ -218,29 +218,29 @@
 
 **📋 Workout:** Endurance 66% 65TSS  (90m, ~65TSS, IF 66%)
 **🔀 Split:** Endurance 65% 42TSS (60m) + Cadence 66% 21TSS (30m)
-   ENDURANCE 60m + CADENCE 30m = ~63TSS
+   ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
 
 **🗺️  Recommended Routes (up to 5):**
-1. [W] [Litus Fugit](https://zwiftinsider.com/rebel-route-litus-fugit/)
-   61.0 km / 269m elev | ~138min | REBEL ROUTE
-2. [M] [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)
-   13.4 km / 87m elev | ~32min | REBEL ROUTE
+1. [W] [Litus Fugit](https://www.strava.com/segments/35852231)
+   61.0 km / 269m elev | ~138min | REBEL ROUTE  
+2. [M] [Canyon to Cavern](https://www.strava.com/segments/33397045)
+   13.4 km / 87m elev | ~32min | REBEL ROUTE  
 3. [F] [La Reine](https://zwiftinsider.com/route/la-reine/)
-   22.9 km / 1201m elev | ~76min | Diff 3.5/5 | 460 XP | NOT COMPLETED
-4. [S] [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)
-   12.6 km / 150m elev | ~37min | REBEL ROUTE
-5. [M] [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)
-   7.5 km / 22m elev | ~16min | REBEL ROUTE
+   22.9 km / 1201m elev | ~76min | Diff 3.5/5 | 460 XP | NOT COMPLETED  
+4. [S] [Sgurr 8](https://www.strava.com/segments/34485671)
+   12.6 km / 150m elev | ~37min | REBEL ROUTE  
+5. [M] [Urukazi Flats](https://www.strava.com/segments/33396865)
+   7.5 km / 22m elev | ~16min | REBEL ROUTE  
 
 
 **🔗 Route Combos (~90min target):**
-1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://zwiftinsider.com/rebel-route-dirty-temple-kom-loop/)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://zwiftinsider.com/rebel-route-canyon-to-cavern/)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://zwiftinsider.com/rebel-route-urukazi-flats/)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
-2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/rebel-route-sgurr-8/)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
+1. [M] 5 routes: [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~17min) -> 0.0km | [Dirty Temple KOM Loop](https://www.strava.com/segments/31415608)[R] (4.4km/75m, ~15min) -> 2.0km | [Canyon to Cavern](https://www.strava.com/segments/33397045)[R] (13.4km/87m, ~32min) -> 0.0km | [Farmland Loop](https://zwiftinsider.com/route/farmland-loop/) (8.0km/58m, ~20min) -> 0.0km | [Urukazi Flats](https://www.strava.com/segments/33396865)[R] (7.5km/22m, ~16min) = **~105min, 38.4km/373m**
+2. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://www.strava.com/segments/34485671)[R] (12.6km/150m, ~37min) = **~72min, 26.7km/256m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
-  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)
+  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)  
 
 
 ---

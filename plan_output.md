@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 5-DAY TRAINING PLAN
-**📅 Generated:** Tue 03 Mar 2026 14:59 EST  /  Tue 03 Mar 2026 19:59 UTC  /  Tue 03 Mar 2026 21:59 EET
+**📅 Generated:** Tue 03 Mar 2026 18:56 EST  /  Tue 03 Mar 2026 23:56 UTC  /  Wed 04 Mar 2026 01:56 EET
 **🗓️ Plan:** Wed 04 Mar -> Sun 08 Mar 2026
 ---
 
@@ -16,8 +16,8 @@
 
 ⚙️  [3/7] Loading configuration...
   FTP 253W | ZRS 417 | Groups B, C, D, E
-  21 uncompleted routes + 14 rebel routes loaded
-  Rules    : 33 rules from RULES.md
+  22 uncompleted routes + 14 rebel routes loaded
+  Rules    : 54 rules from RULES.md
   Durations: 30m, 45m, 60m, 75m, 90m, 105m, 120m
   Hard days: 2/week on Thu, Fri
   Skills   : attack, sprint (5s, 15s, 30s, 60s)
@@ -69,21 +69,27 @@
    ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
 🗺️  Uncompleted and Rebel Routes (up to 5):
-1. [W] Mountain Route⭐ → 5.0km to RR | [Epic Loop](https://zwiftinsider.com/epic-loop/) (14.4km/378m, ~72min) | Total: 19.4km, ~82min
-2. [W] Hilly Route⭐ → 0.6km to RR | [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes) (20.6km/143m, ~49min) | Total: 21.2km, ~50min
-3. [W] Sugar Cookie⭐ → 5.7km to RR | [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) (53.6km/437m, ~132min) | Total: 59.3km, ~143min
-4. [W] The Big Ring⭐ → 1.8km to RR | [Litus Fugit](https://zwiftinsider.com/litus-fugit/) (61.0km/269m, ~134min) | Total: 62.8km, ~138min
+1. [W] [Mountain Route](https://zwiftinsider.com/route/mountain-route/) → 5.0km to [Epic Loop](https://zwiftinsider.com/epic-loop/)[R] (14.4km/378m, ~72min) | Total: 19.4km, ~82min
+2. [W] [Hilly Route](https://zwiftinsider.com/route/hilly-route/) → 0.6km to [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes)[R] (20.6km/143m, ~49min) | Total: 21.2km, ~50min
+3. [W] [Sugar Cookie](https://zwiftinsider.com/route/sugar-cookie/) → 5.7km to [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)[R] (53.6km/437m, ~132min) | Total: 59.3km, ~143min
+4. [W] [The Big Ring](https://zwiftinsider.com/route/the-big-ring/) → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) | Total: 62.8km, ~138min
 5. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) (12.6km/206m, ~43min) | Diff 2/5 | 240 XP
 
 
 **🔗 Route Combos (~90min target):**
-1. [W] 1 route: Hilly Route⭐ → 0.6km to [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes)[R] (20.6km/143m, ~49min) = **~49min, 20.6km/143m**
-2. [W] 1 route: Sugar Cookie⭐ → 5.7km to [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)[R] (53.6km/437m, ~132min) = **~132min, 53.6km/437m**
-3. [W] 1 route: The Big Ring⭐ → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) = **~134min, 61.0km/269m**
+1. [W] 1 route: [Hilly Route](https://zwiftinsider.com/route/hilly-route/) → 0.6km to [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes)[R] (20.6km/143m, ~49min) = **~49min, 20.6km/143m**
+2. [W] 1 route: [Sugar Cookie](https://zwiftinsider.com/route/sugar-cookie/) → 5.7km to [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)[R] (53.6km/437m, ~132min) = **~132min, 53.6km/437m**
+3. [W] 1 route: [The Big Ring](https://zwiftinsider.com/route/the-big-ring/) → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) = **~134min, 61.0km/269m**
 
 
-**📡 Zwift Events (8:00-8:30 AM ET):**
-  (no matching events found in this time window)  
+**📡 Zwift Events (8:00-8:30 AM ET) — 3 races, 10 rides:**
+- 🏁 08:00 AM  WTRL Duathlon Opt9 BIKE  [B]
+- 🏁 08:10 AM  Stage 3: Zwift Games: Cobbled Crown  [B, C, D, E]
+- 🏁 08:30 AM  Zwift Epic Race - Petit Douleur  [B, C, D, E]  x4 laps
+- 🚴 08:00 AM  Workout 1: Alpecin-Premier Tech Team Camp  [E]
+- 🚴 08:00 AM  Happy 100k p/b Team ODZ  [B]  100.0 km
+- 🚴 08:00 AM  BMTR Short Adventure  [B, C, D]
+- 🚴 08:00 AM  Zwift Women's Training Club Recovery Ride  [E]
 
 
 
@@ -99,17 +105,17 @@
    OVERUNDERS 60m + VO2MAX 30m = ~99TSS  
 
 🗺️  Uncompleted and Rebel Routes (up to 5):
-1. [W] Hilly Route⭐ → 0.6km to RR | [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes) (20.6km/143m, ~49min) | Total: 21.2km, ~50min
-2. [W] Sugar Cookie⭐ → 5.7km to RR | [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) (53.6km/437m, ~132min) | Total: 59.3km, ~143min
-3. [W] The Big Ring⭐ → 1.8km to RR | [Litus Fugit](https://zwiftinsider.com/litus-fugit/) (61.0km/269m, ~134min) | Total: 62.8km, ~138min
+1. [W] [Hilly Route](https://zwiftinsider.com/route/hilly-route/) → 0.6km to [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes)[R] (20.6km/143m, ~49min) | Total: 21.2km, ~50min
+2. [W] [Sugar Cookie](https://zwiftinsider.com/route/sugar-cookie/) → 5.7km to [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)[R] (53.6km/437m, ~132min) | Total: 59.3km, ~143min
+3. [W] [The Big Ring](https://zwiftinsider.com/route/the-big-ring/) → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) | Total: 62.8km, ~138min
 4. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) (12.6km/206m, ~43min) | Diff 2/5 | 240 XP
-5. [F] [La Reine](https://zwiftinsider.com/route/la-reine/) (22.9km/1201m, ~114min) | Diff 3.5/5 | 460 XP
+5. [N] [Empire Elevation](https://zwiftinsider.com/route/empire-elevation/) (26.0km/266m, ~69min) | Diff 2/5 | 520 XP
 
 
 **🔗 Route Combos (~90min target):**
-1. [W] 1 route: Sugar Cookie⭐ → 5.7km to [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)[R] (53.6km/437m, ~132min) = **~132min, 53.6km/437m**
-2. [W] 1 route: The Big Ring⭐ → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) = **~134min, 61.0km/269m**
-3. [N] 1 route: The Highline⭐ → 1.7km to [The Full New York](https://zwiftinsider.com/the-full-new-york/)[R] (57.8km/596m, ~154min) = **~154min, 57.8km/596m**
+1. [W] 1 route: [Sugar Cookie](https://zwiftinsider.com/route/sugar-cookie/) → 5.7km to [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)[R] (53.6km/437m, ~132min) = **~132min, 53.6km/437m**
+2. [W] 1 route: [The Big Ring](https://zwiftinsider.com/route/the-big-ring/) → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) = **~134min, 61.0km/269m**
+3. [N] 1 route: [The Highline](https://zwiftinsider.com/route/the-highline/) → 1.7km to [The Full New York](https://zwiftinsider.com/the-full-new-york/)[R] (57.8km/596m, ~154min) = **~154min, 57.8km/596m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -137,16 +143,16 @@
    ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
 🗺️  Uncompleted and Rebel Routes (up to 5):
-1. [W] Sugar Cookie⭐ → 5.7km to RR | [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) (53.6km/437m, ~132min) | Total: 59.3km, ~143min
-2. [W] The Big Ring⭐ → 1.8km to RR | [Litus Fugit](https://zwiftinsider.com/litus-fugit/) (61.0km/269m, ~134min) | Total: 62.8km, ~138min
+1. [W] [Sugar Cookie](https://zwiftinsider.com/route/sugar-cookie/) → 5.7km to [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)[R] (53.6km/437m, ~132min) | Total: 59.3km, ~143min
+2. [W] [The Big Ring](https://zwiftinsider.com/route/the-big-ring/) → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) | Total: 62.8km, ~138min
 3. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) (12.6km/206m, ~43min) | Diff 2/5 | 240 XP
-4. [F] [La Reine](https://zwiftinsider.com/route/la-reine/) (22.9km/1201m, ~114min) | Diff 3.5/5 | 460 XP
-5. [M] [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~26min) | Diff 1.5/5 | 100 XP
+4. [N] [Empire Elevation](https://zwiftinsider.com/route/empire-elevation/) (26.0km/266m, ~69min) | Diff 2/5 | 520 XP
+5. [F] [La Reine](https://zwiftinsider.com/route/la-reine/) (22.9km/1201m, ~114min) | Diff 3.5/5 | 460 XP
 
 
 **🔗 Route Combos (~90min target):**
-1. [W] 1 route: The Big Ring⭐ → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) = **~134min, 61.0km/269m**
-2. [N] 1 route: The Highline⭐ → 1.7km to [The Full New York](https://zwiftinsider.com/the-full-new-york/)[R] (57.8km/596m, ~154min) = **~154min, 57.8km/596m**
+1. [W] 1 route: [The Big Ring](https://zwiftinsider.com/route/the-big-ring/) → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) = **~134min, 61.0km/269m**
+2. [N] 1 route: [The Highline](https://zwiftinsider.com/route/the-highline/) → 1.7km to [The Full New York](https://zwiftinsider.com/the-full-new-york/)[R] (57.8km/596m, ~154min) = **~154min, 57.8km/596m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -166,15 +172,15 @@
    ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
 🗺️  Uncompleted and Rebel Routes (up to 5):
-1. [W] The Big Ring⭐ → 1.8km to RR | [Litus Fugit](https://zwiftinsider.com/litus-fugit/) (61.0km/269m, ~134min) | Total: 62.8km, ~138min
+1. [W] [The Big Ring](https://zwiftinsider.com/route/the-big-ring/) → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~134min) | Total: 62.8km, ~138min
 2. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) (12.6km/206m, ~43min) | Diff 2/5 | 240 XP
-3. [F] [La Reine](https://zwiftinsider.com/route/la-reine/) (22.9km/1201m, ~114min) | Diff 3.5/5 | 460 XP
-4. [M] [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~26min) | Diff 1.5/5 | 100 XP
-5. [N] The Highline⭐ → 1.7km to RR | [The Full New York](https://zwiftinsider.com/the-full-new-york/) (57.8km/596m, ~154min) | Total: 59.5km, ~157min
+3. [N] [Empire Elevation](https://zwiftinsider.com/route/empire-elevation/) (26.0km/266m, ~69min) | Diff 2/5 | 520 XP
+4. [F] [La Reine](https://zwiftinsider.com/route/la-reine/) (22.9km/1201m, ~114min) | Diff 3.5/5 | 460 XP
+5. [M] [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) (5.1km/131m, ~26min) | Diff 1.5/5 | 100 XP
 
 
 **🔗 Route Combos (~90min target):**
-1. [N] 1 route: The Highline⭐ → 1.7km to [The Full New York](https://zwiftinsider.com/the-full-new-york/)[R] (57.8km/596m, ~154min) = **~154min, 57.8km/596m**
+1. [N] 1 route: [The Highline](https://zwiftinsider.com/route/the-highline/) → 1.7km to [The Full New York](https://zwiftinsider.com/the-full-new-york/)[R] (57.8km/596m, ~154min) = **~154min, 57.8km/596m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -195,7 +201,7 @@
 2. [L] [London Flat](https://zwiftinsider.com/route/london-flat/) (12.4km/115m, ~32min) | Diff 1/5 | 240 XP
 3. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) (12.6km/206m, ~43min) | Diff 2/5 | 240 XP
 4. [Y] [Tour Of Tewit Well](https://zwiftinsider.com/route/tour-of-tewit-well/) (10.9km/204m, ~41min) | Diff 2/5 | 210 XP
-5. [F] [La Reine](https://zwiftinsider.com/route/la-reine/) (22.9km/1201m, ~114min) | Diff 3.5/5 | 460 XP
+5. [N] [Empire Elevation](https://zwiftinsider.com/route/empire-elevation/) (26.0km/266m, ~69min) | Diff 2/5 | 520 XP
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -211,12 +217,12 @@
 | --- | --- | --- | --- | --- | --- |
 | Watopia | 10 | 702.3 | 70.2 | 1438m | 13,750 |
 | London | 3 | 230.3 | 76.8 | 1259m | 4,520 |
-| New York | 2 | 91.6 | 45.8 | 522m | 1,835 |
+| New York | 3 | 117.6 | 39.2 | 437m | 2,355 |
 | France | 2 | 86.8 | 43.4 | 894m | 1,680 |
 | Makuri Islands | 2 | 83.8 | 41.9 | 377m | 1,650 |
 | Innsbruck | 1 | 47.7 | 47.7 | 990m | 950 |
 | Yorkshire | 1 | 10.9 | 10.9 | 204m | 210 |
-| TOTAL | 21 | 1253.4 | 59.7 | 1092m | 24,595 |
+| TOTAL | 22 | 1279.4 | 58.2 | 1054m | 25,115 |
 
 ---
 
@@ -255,6 +261,7 @@ World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R
 - 🟡 W — [ZG25 Queen](https://zwiftinsider.com/route/zg25-queen/) — 44.8 km / 894 m — Difficulty 3/5 — 895 XP — ~181 min
 - 🟠 L — [Surrey Hills](https://zwiftinsider.com/route/surrey-hills/) — 44.1 km / 1034 m — Difficulty 4/5 — 820 XP — ~219 min
 - 🟡 W — [Accelerate to Elevate](https://zwiftinsider.com/route/accelerate-to-elevate/) — 43.5 km / 1158 m — Difficulty 3/5 — 825 XP — ~218 min
+- 🟢 N — [Empire Elevation](https://zwiftinsider.com/route/empire-elevation/) — 26.0 km / 266 m — Difficulty 2/5 — 520 XP — ~69 min
 - 🟡 F — [La Reine](https://zwiftinsider.com/route/la-reine/) — 22.9 km / 1201 m — Difficulty 3.5/5 — 460 XP — ~114 min
 - 🟢 N — [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) — 12.6 km / 206 m — Difficulty 2/5 — 240 XP — ~43 min
 - 🟢 L — [London Flat](https://zwiftinsider.com/route/london-flat/) — 12.4 km / 115 m — Difficulty 1/5 — 240 XP — ~32 min

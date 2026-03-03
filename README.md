@@ -6,7 +6,7 @@ Automated Zwift training plan generator — builds personalized daily plans with
 
 - 📋 **Zone-based workouts** — auto-selects .zwo workouts by training zone (VO2Max, Threshold, Sweet Spot, Endurance, etc.)
 - 🔀 **60m + 30m split options** — offers a main + secondary workout combo for each day
-- 🗺️ **Route recommendations** — prioritizes uncompleted routes and rebel routes
+- 🗺️ **Route recommendations** — prioritizes uncompleted and rebel routes with combo chaining
 - 🔗 **Route combos** — chains multiple short routes into one ride
 - 📡 **Zwift events** — fetches races/rides from Zwift API for your time window and groups
 - 🏆 **WTRL TTT** — shows weekly Team Time Trial schedule
@@ -18,8 +18,7 @@ Automated Zwift training plan generator — builds personalized daily plans with
 ## 📁 Project Structure
 
 ```
-├── AGENTS.md                 # Agent preferences & route lists
-├── plan_output.md            # Generated training plan
+├── plan_output.md            # Generated training plan (Markdown)
 ├── Workouts/                 # .zwo workout files by zone
 │   ├── Anaerobic/            # 20m–120m anaerobic intervals
 │   ├── Cadence/              # 20m–120m cadence drills
@@ -34,7 +33,6 @@ Automated Zwift training plan generator — builds personalized daily plans with
 │   └── VO2 Max/              # 20m–120m VO2Max intervals
 └── Rebel_Routes/             # Rebel route guides & manifests
     ├── README.md             # Route table with links & status
-    ├── gen_rebel_routes.py   # Route guide generator
     ├── *.txt                 # Route-by-route riding guides
     └── *.json                # Route manifests (segments, turns)
 ```
@@ -44,7 +42,7 @@ Automated Zwift training plan generator — builds personalized daily plans with
 Each day includes:
 - 🎯 **Zone** + 🎚️ **Trainer difficulty**
 - 📋 **Workout** (90m) + 🔀 **Split** (60m + 30m)
-- 🗺️ **Recommended routes** with links
+- 🗺️ **Uncompleted and Rebel Routes** with ZwiftInsider links
 - 🔗 **Route combos** for multi-route rides
 - 📡 **Zwift events** in your time window
 - 🏆 **WTRL TTT** / 🔥 **Flamme Rouge** when applicable

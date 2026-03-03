@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 5-DAY TRAINING PLAN
-**📅 Generated:** Mon 02 Mar 2026 16:02 EST  /  Mon 02 Mar 2026 21:02 UTC  /  Mon 02 Mar 2026 23:02 EET
+**📅 Generated:** Mon 02 Mar 2026 22:22 EST  /  Tue 03 Mar 2026 03:22 UTC  /  Tue 03 Mar 2026 05:22 EET
 **🗓️ Plan:** Tue 03 Mar -> Sat 07 Mar 2026
 ---
 
@@ -68,22 +68,18 @@
 **🔀 Split:** Endurance 65% 42TSS (60m) + Cadence 66% 21TSS (30m)
    ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
-
-**🗺️  Recommended Routes (up to 5):**
-1. [W] [Epic Loop](https://zwiftinsider.com/epic-loop/)
-   14.4 km / 378m elev | ~72min | REBEL ROUTE  
-2. [W] [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes)
-   20.6 km / 143m elev | ~50min | REBEL ROUTE  
-3. [W] [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)
-   53.6 km / 437m elev | ~134min | REBEL ROUTE  
-4. [W] [Litus Fugit](https://zwiftinsider.com/litus-fugit/)
-   61.0 km / 269m elev | ~136min | REBEL ROUTE  
-5. [S] [Fower Power](https://zwiftinsider.com/fower-power/)
-   19.7 km / 214m elev | ~54min | REBEL ROUTE  
+🗺️  Uncompleted and Rebel Routes (up to 5):
+1. [W] Mountain Route⭐ → 5.0km to RR | [Epic Loop](https://zwiftinsider.com/epic-loop/) (14.4km/378m, ~72min) | Total: 19.4km, ~82min
+2. [W] Hilly Route⭐ → 0.6km to RR | [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes) (20.6km/143m, ~50min) | Total: 21.2km, ~51min
+3. [W] Sugar Cookie⭐ → 5.7km to RR | [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) (53.6km/437m, ~134min) | Total: 59.3km, ~145min
+4. [W] The Big Ring⭐ → 1.8km to RR | [Litus Fugit](https://zwiftinsider.com/litus-fugit/) (61.0km/269m, ~136min) | Total: 62.8km, ~140min
+5. [S] City and the Sgurr⭐ → 1.0km to RR | [Fower Power](https://zwiftinsider.com/fower-power/) (19.7km/214m, ~54min) | Total: 20.7km, ~56min
 
 
 **🔗 Route Combos (~90min target):**
-1. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) -> 3.5km | [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~125min, 46.4km/470m**
+1. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) → 1.0km to [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~125min, 46.4km/470m**
+2. [S] 2 routes: Rolling Highlands⭐ → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) → 1.0km to [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~90min, 32.3km/364m**
+3. [W] 1 route: Hilly Route⭐ → 0.6km to [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes)[R] (20.6km/143m, ~50min) = **~50min, 20.6km/143m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET) — 2 races, 6 rides:**
@@ -108,22 +104,18 @@
 **🔀 Split:** OverUnders 84% 70TSS (60m) + VO2Max 78% 29TSS (30m)
    OVERUNDERS 60m + VO2MAX 30m = ~99TSS  
 
-
-**🗺️  Recommended Routes (up to 5):**
-1. [W] [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes)
-   20.6 km / 143m elev | ~50min | REBEL ROUTE  
-2. [W] [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)
-   53.6 km / 437m elev | ~134min | REBEL ROUTE  
-3. [W] [Litus Fugit](https://zwiftinsider.com/litus-fugit/)
-   61.0 km / 269m elev | ~136min | REBEL ROUTE  
-4. [S] [Fower Power](https://zwiftinsider.com/fower-power/)
-   19.7 km / 214m elev | ~54min | REBEL ROUTE  
-5. [S] [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)
-   14.1 km / 106m elev | ~35min | Diff 2/5 | 180 XP | NOT COMPLETED  
+🗺️  Uncompleted and Rebel Routes (up to 5):
+1. [W] Hilly Route⭐ → 0.6km to RR | [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes) (20.6km/143m, ~50min) | Total: 21.2km, ~51min
+2. [W] Sugar Cookie⭐ → 5.7km to RR | [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) (53.6km/437m, ~134min) | Total: 59.3km, ~145min
+3. [W] The Big Ring⭐ → 1.8km to RR | [Litus Fugit](https://zwiftinsider.com/litus-fugit/) (61.0km/269m, ~136min) | Total: 62.8km, ~140min
+4. [S] City and the Sgurr⭐ → 1.0km to RR | [Fower Power](https://zwiftinsider.com/fower-power/) (19.7km/214m, ~54min) | Total: 20.7km, ~56min
+5. [S] [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) | Diff 2/5 | 180 XP
 
 
 **🔗 Route Combos (~90min target):**
-1. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) -> 3.5km | [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~125min, 46.4km/470m**
+1. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) → 1.0km to [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~125min, 46.4km/470m**
+2. [S] 2 routes: Rolling Highlands⭐ → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) → 1.0km to [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~90min, 32.3km/364m**
+3. [W] 1 route: Sugar Cookie⭐ → 5.7km to [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)[R] (53.6km/437m, ~134min) = **~134min, 53.6km/437m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -142,22 +134,18 @@
 **🔀 Split:** Endurance 65% 42TSS (60m) + Cadence 66% 21TSS (30m)
    ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
-
-**🗺️  Recommended Routes (up to 5):**
-1. [W] [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/)
-   53.6 km / 437m elev | ~134min | REBEL ROUTE  
-2. [W] [Litus Fugit](https://zwiftinsider.com/litus-fugit/)
-   61.0 km / 269m elev | ~136min | REBEL ROUTE  
-3. [S] [Fower Power](https://zwiftinsider.com/fower-power/)
-   19.7 km / 214m elev | ~54min | REBEL ROUTE  
-4. [S] [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)
-   14.1 km / 106m elev | ~35min | Diff 2/5 | 180 XP | NOT COMPLETED  
-5. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/)
-   12.6 km / 206m elev | ~43min | Diff 2/5 | 240 XP | NOT COMPLETED  
+🗺️  Uncompleted and Rebel Routes (up to 5):
+1. [W] Sugar Cookie⭐ → 5.7km to RR | [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) (53.6km/437m, ~134min) | Total: 59.3km, ~145min
+2. [W] The Big Ring⭐ → 1.8km to RR | [Litus Fugit](https://zwiftinsider.com/litus-fugit/) (61.0km/269m, ~136min) | Total: 62.8km, ~140min
+3. [S] City and the Sgurr⭐ → 1.0km to RR | [Fower Power](https://zwiftinsider.com/fower-power/) (19.7km/214m, ~54min) | Total: 20.7km, ~56min
+4. [S] [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) | Diff 2/5 | 180 XP
+5. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) (12.6km/206m, ~43min) | Diff 2/5 | 240 XP
 
 
 **🔗 Route Combos (~90min target):**
-1. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) -> 3.5km | [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~125min, 46.4km/470m**
+1. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) → 1.0km to [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~125min, 46.4km/470m**
+2. [S] 2 routes: Rolling Highlands⭐ → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) → 1.0km to [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~90min, 32.3km/364m**
+3. [W] 1 route: The Big Ring⭐ → 1.8km to [Litus Fugit](https://zwiftinsider.com/litus-fugit/)[R] (61.0km/269m, ~136min) = **~136min, 61.0km/269m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -184,22 +172,18 @@
 **🔀 Split:** OverUnders 84% 70TSS (60m) + VO2Max 78% 29TSS (30m)
    OVERUNDERS 60m + VO2MAX 30m = ~99TSS  
 
-
-**🗺️  Recommended Routes (up to 5):**
-1. [W] [Litus Fugit](https://zwiftinsider.com/litus-fugit/)
-   61.0 km / 269m elev | ~136min | REBEL ROUTE  
-2. [S] [Fower Power](https://zwiftinsider.com/fower-power/)
-   19.7 km / 214m elev | ~54min | REBEL ROUTE  
-3. [S] [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)
-   14.1 km / 106m elev | ~35min | Diff 2/5 | 180 XP | NOT COMPLETED  
-4. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/)
-   12.6 km / 206m elev | ~43min | Diff 2/5 | 240 XP | NOT COMPLETED  
-5. [S] [Sgurr 8](https://zwiftinsider.com/sgurr-8/)
-   12.6 km / 150m elev | ~36min | REBEL ROUTE  
+🗺️  Uncompleted and Rebel Routes (up to 5):
+1. [W] The Big Ring⭐ → 1.8km to RR | [Litus Fugit](https://zwiftinsider.com/litus-fugit/) (61.0km/269m, ~136min) | Total: 62.8km, ~140min
+2. [S] City and the Sgurr⭐ → 1.0km to RR | [Fower Power](https://zwiftinsider.com/fower-power/) (19.7km/214m, ~54min) | Total: 20.7km, ~56min
+3. [S] [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) | Diff 2/5 | 180 XP
+4. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) (12.6km/206m, ~43min) | Diff 2/5 | 240 XP
+5. [S] Rolling Highlands⭐ → 3.0km to RR | [Sgurr 8](https://zwiftinsider.com/sgurr-8/) (12.6km/150m, ~36min) | Total: 15.6km, ~42min
 
 
 **🔗 Route Combos (~90min target):**
-1. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) -> 3.5km | [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~125min, 46.4km/470m**
+1. [S] 3 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) → 1.0km to [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~125min, 46.4km/470m**
+2. [S] 2 routes: Rolling Highlands⭐ → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) → 1.0km to [Fower Power](https://zwiftinsider.com/fower-power/)[R] (19.7km/214m, ~54min) = **~90min, 32.3km/364m**
+3. [N] 1 route: The Highline⭐ → 1.7km to [The Full New York](https://zwiftinsider.com/the-full-new-york/)[R] (57.8km/596m, ~156min) = **~156min, 57.8km/596m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -218,22 +202,17 @@
 **🔀 Split:** Endurance 65% 42TSS (60m) + Cadence 66% 21TSS (30m)
    ENDURANCE 60m + CADENCE 30m = ~63TSS  
 
-
-**🗺️  Recommended Routes (up to 5):**
-1. [S] [Fower Power](https://zwiftinsider.com/fower-power/)
-   19.7 km / 214m elev | ~54min | REBEL ROUTE  
-2. [S] [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)
-   14.1 km / 106m elev | ~35min | Diff 2/5 | 180 XP | NOT COMPLETED  
-3. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/)
-   12.6 km / 206m elev | ~43min | Diff 2/5 | 240 XP | NOT COMPLETED  
-4. [S] [Sgurr 8](https://zwiftinsider.com/sgurr-8/)
-   12.6 km / 150m elev | ~36min | REBEL ROUTE  
-5. [F] [La Reine](https://zwiftinsider.com/route/la-reine/)
-   22.9 km / 1201m elev | ~114min | Diff 3.5/5 | 460 XP | NOT COMPLETED  
+🗺️  Uncompleted and Rebel Routes (up to 5):
+1. [S] City and the Sgurr⭐ → 1.0km to RR | [Fower Power](https://zwiftinsider.com/fower-power/) (19.7km/214m, ~54min) | Total: 20.7km, ~56min
+2. [S] [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) (14.1km/106m, ~35min) | Diff 2/5 | 180 XP
+3. [N] [Lady Liberty](https://zwiftinsider.com/route/lady-liberty/) (12.6km/206m, ~43min) | Diff 2/5 | 240 XP
+4. [S] Rolling Highlands⭐ → 3.0km to RR | [Sgurr 8](https://zwiftinsider.com/sgurr-8/) (12.6km/150m, ~36min) | Total: 15.6km, ~42min
+5. [F] [La Reine](https://zwiftinsider.com/route/la-reine/) (22.9km/1201m, ~114min) | Diff 3.5/5 | 460 XP
 
 
 **🔗 Route Combos (~90min target):**
-1. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) -> 3.0km | [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) = **~71min, 26.7km/256m**
+1. [S] 2 routes: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/)⭐ (14.1km/106m, ~35min) → 3.0km to [Sgurr 8](https://zwiftinsider.com/sgurr-8/)[R] (12.6km/150m, ~36min) = **~71min, 26.7km/256m**
+2. [N] 1 route: The Highline⭐ → 1.7km to [The Full New York](https://zwiftinsider.com/the-full-new-york/)[R] (57.8km/596m, ~156min) = **~156min, 57.8km/596m**
 
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
@@ -285,7 +264,7 @@ World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R
 - 🔴 W — [Four Horsemen](https://zwiftinsider.com/route/four-horsemen/) — 90.4 km / 2111 m — Difficulty 5/5 — 1,780 XP — ~452 min
 - 🔴 N — [Fuhgeddaboudit](https://zwiftinsider.com/route/fuhgeddaboudit/) — 79.0 km / 838 m — Difficulty 5/5 — 1,595 XP — ~215 min
 - 🔴 M — [Makuri Pretzel](https://zwiftinsider.com/route/makuri-pretzel/) — 78.7 km / 623 m — Difficulty 5/5 — 1,550 XP — ~195 min
-- 🔴 W — [Watopia Pretzel](https://zwiftinsider.com/route/watopia-pretzel/) — 73.0 km / 1361 m — Difficulty 5/5 — 1,440 XP — ~281 min
+- 🔴 W — [Watopia Pretzel](https://zwiftinsider.com/route/the-pretzel/) — 73.0 km / 1361 m — Difficulty 5/5 — 1,440 XP — ~281 min
 - 🟠 W — [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) — 69.9 km / 714 m — Difficulty 4/5 — 1,340 XP — ~188 min
 - 🟡 F — [Tire-Bouchon](https://zwiftinsider.com/route/tire-bouchon/) — 63.9 km / 587 m — Difficulty 3.5/5 — 1,220 XP — ~166 min
 - 🟠 W — [Three Sisters](https://zwiftinsider.com/route/three-sisters/) — 48.5 km / 896 m — Difficulty 4.5/5 — 950 XP — ~185 min
@@ -308,22 +287,22 @@ World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R
 
 **Status: 9/25 completed** (Big Ring Little Ring, Canyon to Cavern, Dirty Temple KOM Loop, Hilly KOM Bypass, Mangrove Circuit, Nessie's Loop, Spiral Into the Volcano, Summit City Velodrome, Urukazi Flats)
 
-- 🔴 W — [The Full Watopia](https://zwiftinsider.com/the-full-watopia/) — 154.5 km / 2852 m — ~589 min
-- 🔴 F — [Toutes les Routes](https://zwiftinsider.com/toutes-les-routes/) — 104.8 km / 1968 m — ~406 min
-- 🟠 W — [The Marvelous Metric](https://zwiftinsider.com/the-marvelous-metric/) — 102.0 km / 489 m — ~229 min
-- 🔴 W — [KOMonster](https://zwiftinsider.com/komonster/) — 99.8 km / 2570 m — ~499 min
-- 🔴 W — [The Perimeter](https://zwiftinsider.com/the-perimeter/) — 82.3 km / 1874 m — ~402 min
-- 🟠 W — [The Full Makuri](https://zwiftinsider.com/the-full-makuri/) — 80.9 km / 650 m — ~202 min
-- 🟠 W — [The Snake](https://zwiftinsider.com/snake/) — 77.4 km / 661 m — ~196 min
-- 🟡 W — [Litus Fugit](https://zwiftinsider.com/litus-fugit/) — 61.0 km / 269 m — ~136 min
-- 🟡 N — [The Full New York](https://zwiftinsider.com/the-full-new-york/) — 57.8 km / 596 m — ~156 min
-- 🟡 W — [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) — 53.6 km / 437 m — ~134 min
-- 🟠 W — [Cliffside Epic Double](https://zwiftinsider.com/cliffside-epic-double/) — 52.7 km / 991 m — ~204 min
-- 🔴 W — [Down Up Down](https://zwiftinsider.com/down-up-down/) — 49.4 km / 1257 m — ~247 min
-- 🟢 W — [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes) — 20.6 km / 143 m — ~50 min
-- 🟢 S — [Fower Power](https://zwiftinsider.com/fower-power/) — 19.7 km / 214 m — ~54 min
-- 🟢 W — [Epic Loop](https://zwiftinsider.com/epic-loop/) — 14.4 km / 378 m — ~72 min
-- 🟢 S — [Sgurr 8](https://zwiftinsider.com/sgurr-8/) — 12.6 km / 150 m — ~36 min
+- 🔴 W — [The Full Watopia](https://zwiftinsider.com/the-full-watopia/) — 154.5 km / 2852 m — ~589 min | Start: Oh Hill No → 4.6km
+- 🔴 F — [Toutes les Routes](https://zwiftinsider.com/toutes-les-routes/) — 104.8 km / 1968 m — ~406 min | Start: Casse-Pattes → 3.0km
+- 🔴 W — [The Marvelous Metric](https://zwiftinsider.com/the-marvelous-metric/) — 102.0 km / 489 m — ~229 min | Start: Mountain Mash → 5.0km
+- 🔴 W — [KOMonster](https://zwiftinsider.com/komonster/) — 99.8 km / 2570 m — ~499 min | Start: Hilly Route → 3.0km
+- 🔴 W — [The Perimeter](https://zwiftinsider.com/the-perimeter/) — 82.3 km / 1874 m — ~402 min | Start: Bigger Loop → 1.0km
+- 🔴 M — [The Full Makuri](https://zwiftinsider.com/the-full-makuri/) — 80.9 km / 650 m — ~202 min | Start: Two Village Loop → 0.5km
+- 🔴 W — [The Snake](https://zwiftinsider.com/snake/) — 77.4 km / 661 m — ~196 min | Start: Tempus Fugit → 3.5km
+- 🟠 W — [Litus Fugit](https://zwiftinsider.com/litus-fugit/) — 61.0 km / 269 m — ~136 min | Start: The Big Ring → 1.8km
+- 🔴 N — [The Full New York](https://zwiftinsider.com/the-full-new-york/) — 57.8 km / 596 m — ~156 min | Start: The Highline → 1.7km
+- 🟠 W — [The Roads Less Traveled](https://zwiftinsider.com/roads-less-traveled/) — 53.6 km / 437 m — ~134 min | Start: Sugar Cookie → 5.7km
+- 🔴 W — [Cliffside Epic Double](https://zwiftinsider.com/cliffside-epic-double/) — 52.7 km / 991 m — ~204 min | Start: Mountain Route → 1.6km
+- 🔴 W — [Down Up Down](https://zwiftinsider.com/down-up-down/) — 49.4 km / 1257 m — ~247 min | Start: Flat Route → 2.0km
+- 🟢 W — [Big Ring Little Ring Reverse](https://veloviewer.com/zwift-insider/rebel-routes) — 20.6 km / 143 m — ~50 min | Start: Hilly Route → 0.6km
+- 🟢 S — [Fower Power](https://zwiftinsider.com/fower-power/) — 19.7 km / 214 m — ~54 min | Start: City and the Sgurr → 1.0km
+- 🟡 W — [Epic Loop](https://zwiftinsider.com/epic-loop/) — 14.4 km / 378 m — ~72 min | Start: Mountain Route → 5.0km
+- 🟢 S — [Sgurr 8](https://zwiftinsider.com/sgurr-8/) — 12.6 km / 150 m — ~36 min | Start: Rolling Highlands → 3.0km
 
 📁 Workout .zwo files: Workouts/
 💾 Full plan saved to: plan_output.md

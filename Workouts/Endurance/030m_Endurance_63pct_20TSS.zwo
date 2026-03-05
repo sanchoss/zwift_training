@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>Z2-E 63% 20TSS</name>
+    <name>030m Endurance 63% 20TSS</name>
     <description>30min Z2 endurance with 2x10s sprint openers. Builds aerobic base while maintaining neuromuscular snap.</description>
     <sportType>bike</sportType>
     <tags>
@@ -17,7 +17,6 @@
         <SteadyState Duration="960" Power="0.66">
             <textevent timeoffset="0" message="Z2 ENDURANCE: smooth, relaxed pedaling" />
             <textevent timeoffset="300" message="85-95rpm, build aerobic base" />
-            <textevent timeoffset="480" message="Stay relaxed, conserve energy" />
             <textevent timeoffset="840" message="Sprint openers coming up..." />
         </SteadyState>
         <IntervalsT Repeat="2" OnDuration="10" OffDuration="110" OnPower="2.00" OffPower="0.55">

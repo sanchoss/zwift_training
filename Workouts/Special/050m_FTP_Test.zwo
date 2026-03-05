@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>FTP-T 82% 46TSS</name>
+    <name>FTP Test 82% 46TSS</name>
     <description>50min FTP test protocol. 20min max effort. Multiply avg power by 0.95 for new FTP.</description>
     <sportType>bike</sportType>
     <tags>

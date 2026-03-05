@@ -18,42 +18,42 @@
 
 ## Power Profiles
 
-### 020m OverUnders 85% 25TSS
+### O/U 85% 25TSS
 
-![020m OverUnders 85% 25TSS](020m_OverUnders_85pct_25TSS.png)
-
-
-### 030m OverUnders 78% 30TSS
-
-![030m OverUnders 78% 30TSS](030m_OverUnders_78pct_30TSS.png)
+![O/U 85% 25TSS](020m_OverUnders_85pct_25TSS.png)
 
 
-### 045m OverUnders 80% 48TSS
+### O/U 78% 30TSS
 
-![045m OverUnders 80% 48TSS](045m_OverUnders_80pct_48TSS.png)
-
-
-### 060m OverUnders 83% 69TSS
-
-![060m OverUnders 83% 69TSS](060m_OverUnders_83pct_69TSS.png)
+![O/U 78% 30TSS](030m_OverUnders_78pct_30TSS.png)
 
 
-### 075m OverUnders 85% 95TSS
+### O/U 80% 48TSS
 
-![075m OverUnders 85% 95TSS](075m_OverUnders_85pct_95TSS.png)
-
-
-### 090m OverUnders 86% 112TSS
-
-![090m OverUnders 86% 112TSS](090m_OverUnders_86pct_112TSS.png)
+![O/U 80% 48TSS](045m_OverUnders_80pct_48TSS.png)
 
 
-### 105m OverUnders 83% 122TSS
+### O/U 83% 69TSS
 
-![105m OverUnders 83% 122TSS](105m_OverUnders_83pct_122TSS.png)
+![O/U 83% 69TSS](060m_OverUnders_83pct_69TSS.png)
 
 
-### 120m OverUnders 81% 131TSS
+### O/U 85% 95TSS
 
-![120m OverUnders 81% 131TSS](120m_OverUnders_81pct_131TSS.png)
+![O/U 85% 95TSS](075m_OverUnders_85pct_95TSS.png)
+
+
+### O/U 86% 112TSS
+
+![O/U 86% 112TSS](090m_OverUnders_86pct_112TSS.png)
+
+
+### O/U 83% 122TSS
+
+![O/U 83% 122TSS](105m_OverUnders_83pct_122TSS.png)
+
+
+### O/U 81% 131TSS
+
+![O/U 81% 131TSS](120m_OverUnders_81pct_131TSS.png)
 

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>120m OverUnders 81% 131TSS</name>
+    <name>O/U 81% 131TSS</name>
     <description>120min over/unders: 3x5 reps (120s@105% / 120s@86%). Builds lactate clearance and race-pace surging.</description>
     <sportType>bike</sportType>
     <tags>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>Ramp Test 75% pointed TSS</name>
+    <name>RMP-T 75% pointed TSS</name>
     <description>25min ramp FTP test. 1-min steps from 46% to failure. FTP = 75% of last completed step's power. Quick, repeatable, no pacing needed.</description>
     <sportType>bike</sportType>
     <tags>

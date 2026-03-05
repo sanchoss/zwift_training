@@ -18,42 +18,42 @@
 
 ## Power Profiles
 
-### 020m Threshold 76% 19TSS
+### FTP 76% 19TSS
 
-![020m Threshold 76% 19TSS](020m_Threshold_76pct_19TSS.png)
-
-
-### 030m Threshold 75% 28TSS
-
-![030m Threshold 75% 28TSS](030m_Threshold_75pct_28TSS.png)
+![FTP 76% 19TSS](020m_Threshold_76pct_19TSS.png)
 
 
-### 045m Threshold 77% 45TSS
+### FTP 75% 28TSS
 
-![045m Threshold 77% 45TSS](045m_Threshold_77pct_45TSS.png)
-
-
-### 060m Threshold 76% 58TSS
-
-![060m Threshold 76% 58TSS](060m_Threshold_76pct_58TSS.png)
+![FTP 75% 28TSS](030m_Threshold_75pct_28TSS.png)
 
 
-### 075m Threshold 77% 75TSS
+### FTP 77% 45TSS
 
-![075m Threshold 77% 75TSS](075m_Threshold_77pct_75TSS.png)
-
-
-### 090m Threshold 77% 90TSS
-
-![090m Threshold 77% 90TSS](090m_Threshold_77pct_90TSS.png)
+![FTP 77% 45TSS](045m_Threshold_77pct_45TSS.png)
 
 
-### 105m Threshold 78% 106TSS
+### FTP 76% 58TSS
 
-![105m Threshold 78% 106TSS](105m_Threshold_78pct_106TSS.png)
+![FTP 76% 58TSS](060m_Threshold_76pct_58TSS.png)
 
 
-### 120m Threshold 77% 120TSS
+### FTP 77% 75TSS
 
-![120m Threshold 77% 120TSS](120m_Threshold_77pct_120TSS.png)
+![FTP 77% 75TSS](075m_Threshold_77pct_75TSS.png)
+
+
+### FTP 77% 90TSS
+
+![FTP 77% 90TSS](090m_Threshold_77pct_90TSS.png)
+
+
+### FTP 78% 106TSS
+
+![FTP 78% 106TSS](105m_Threshold_78pct_106TSS.png)
+
+
+### FTP 77% 120TSS
+
+![FTP 77% 120TSS](120m_Threshold_77pct_120TSS.png)
 

@@ -15,27 +15,27 @@
 
 ## Power Profiles
 
-### 020m Neuromuscular 78% 26TSS
+### NM 78% 26TSS
 
-![020m Neuromuscular 78% 26TSS](020m_Neuromuscular_78pct_26TSS.png)
-
-
-### 030m Neuromuscular 76% 27TSS
-
-![030m Neuromuscular 76% 27TSS](030m_Neuromuscular_76pct_27TSS.png)
+![NM 78% 26TSS](020m_Neuromuscular_78pct_26TSS.png)
 
 
-### 045m Neuromuscular 75% 42TSS
+### NM 76% 27TSS
 
-![045m Neuromuscular 75% 42TSS](045m_Neuromuscular_75pct_42TSS.png)
-
-
-### 060m Neuromuscular 75% 56TSS
-
-![060m Neuromuscular 75% 56TSS](060m_Neuromuscular_75pct_56TSS.png)
+![NM 76% 27TSS](030m_Neuromuscular_76pct_27TSS.png)
 
 
-### 075m Neuromuscular 74% 68TSS
+### NM 75% 42TSS
 
-![075m Neuromuscular 74% 68TSS](075m_Neuromuscular_74pct_68TSS.png)
+![NM 75% 42TSS](045m_Neuromuscular_75pct_42TSS.png)
+
+
+### NM 75% 56TSS
+
+![NM 75% 56TSS](060m_Neuromuscular_75pct_56TSS.png)
+
+
+### NM 74% 68TSS
+
+![NM 74% 68TSS](075m_Neuromuscular_74pct_68TSS.png)
 

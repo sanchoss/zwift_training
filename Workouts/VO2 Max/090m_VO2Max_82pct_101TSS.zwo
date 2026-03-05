@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>090m VO2Max 82% 101TSS</name>
+    <name>VO2 82% 101TSS</name>
     <description>90min | 5x5s max snaps + 4x30s attack bursts + 6x4min VO2 Max @ 112%.</description>
     <sportType>bike</sportType>
     <tags>

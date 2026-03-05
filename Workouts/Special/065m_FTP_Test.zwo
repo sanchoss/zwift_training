@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>FTP Test 85% 80TSS</name>
+    <name>FTP-T 85% 80TSS</name>
     <description>65min standard Coggan 20-min FTP test. Includes 5-min blowout to flush anaerobic reserves. FreeRide test block — ride your best avg power for 20min, multiply by 0.95 for new FTP.</description>
     <sportType>bike</sportType>
     <tags>

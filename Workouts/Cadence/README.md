@@ -19,47 +19,47 @@
 
 ## Power Profiles
 
-### 020m Cadence 67% 20TSS
+### CAD 67% 20TSS
 
-![020m Cadence 67% 20TSS](020m_Cadence_67pct_20TSS.png)
-
-
-### 030m Cadence 66% 21TSS
-
-![030m Cadence 66% 21TSS](030m_Cadence_66pct_21TSS.png)
+![CAD 67% 20TSS](020m_Cadence_67pct_20TSS.png)
 
 
-### 045m Cadence 66% 33TSS
+### CAD 66% 21TSS
 
-![045m Cadence 66% 33TSS](045m_Cadence_66pct_33TSS.png)
-
-
-### 060m Cadence 67% 45TSS
-
-![060m Cadence 67% 45TSS](060m_Cadence_67pct_45TSS.png)
+![CAD 66% 21TSS](030m_Cadence_66pct_21TSS.png)
 
 
-### 075m Cadence 66% 55TSS
+### CAD 66% 33TSS
 
-![075m Cadence 66% 55TSS](075m_Cadence_66pct_55TSS.png)
-
-
-### 090m Cadence 67% 67TSS
-
-![090m Cadence 67% 67TSS](090m_Cadence_67pct_67TSS.png)
+![CAD 66% 33TSS](045m_Cadence_66pct_33TSS.png)
 
 
-### 105m Cadence 67% 77TSS
+### CAD 67% 45TSS
 
-![105m Cadence 67% 77TSS](105m_Cadence_67pct_77TSS.png)
-
-
-### 120m Cadence 66% 88TSS
-
-![120m Cadence 66% 88TSS](120m_Cadence_66pct_88TSS.png)
+![CAD 67% 45TSS](060m_Cadence_67pct_45TSS.png)
 
 
-### 150m Cadence 65% 107TSS
+### CAD 66% 55TSS
 
-![150m Cadence 65% 107TSS](150m_Cadence_65pct_107TSS.png)
+![CAD 66% 55TSS](075m_Cadence_66pct_55TSS.png)
+
+
+### CAD 67% 67TSS
+
+![CAD 67% 67TSS](090m_Cadence_67pct_67TSS.png)
+
+
+### CAD 67% 77TSS
+
+![CAD 67% 77TSS](105m_Cadence_67pct_77TSS.png)
+
+
+### CAD 66% 88TSS
+
+![CAD 66% 88TSS](120m_Cadence_66pct_88TSS.png)
+
+
+### CAD 65% 107TSS
+
+![CAD 65% 107TSS](150m_Cadence_65pct_107TSS.png)
 

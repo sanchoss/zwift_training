@@ -13,17 +13,17 @@
 
 ## Power Profiles
 
-### Race Warmup 68% 12TSS
+### R-WU 68% 12TSS
 
-![Race Warmup 68% 12TSS](015m_Race_Warmup.png)
-
-
-### Ramp Test 75% pointed TSS
-
-![Ramp Test 75% pointed TSS](025m_Ramp_Test.png)
+![R-WU 68% 12TSS](015m_Race_Warmup.png)
 
 
-### FTP Test 85% 80TSS
+### RMP-T 75% pointed TSS
 
-![FTP Test 85% 80TSS](065m_FTP_Test.png)
+![RMP-T 75% pointed TSS](025m_Ramp_Test.png)
+
+
+### FTP-T 85% 80TSS
+
+![FTP-T 85% 80TSS](065m_FTP_Test.png)
 

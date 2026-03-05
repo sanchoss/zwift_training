@@ -16,32 +16,32 @@
 
 ## Power Profiles
 
-### 020m VO2Max 80% 28TSS
+### VO2 80% 28TSS
 
-![020m VO2Max 80% 28TSS](020m_VO2Max_80pct_28TSS.png)
-
-
-### 030m VO2Max 78% 29TSS
-
-![030m VO2Max 78% 29TSS](030m_VO2Max_78pct_29TSS.png)
+![VO2 80% 28TSS](020m_VO2Max_80pct_28TSS.png)
 
 
-### 045m VO2Max 78% 46TSS
+### VO2 78% 29TSS
 
-![045m VO2Max 78% 46TSS](045m_VO2Max_78pct_46TSS.png)
-
-
-### 060m VO2Max 82% 66TSS
-
-![060m VO2Max 82% 66TSS](060m_VO2Max_82pct_66TSS.png)
+![VO2 78% 29TSS](030m_VO2Max_78pct_29TSS.png)
 
 
-### 075m VO2Max 84% 88TSS
+### VO2 78% 46TSS
 
-![075m VO2Max 84% 88TSS](075m_VO2Max_84pct_88TSS.png)
+![VO2 78% 46TSS](045m_VO2Max_78pct_46TSS.png)
 
 
-### 090m VO2Max 82% 101TSS
+### VO2 82% 66TSS
 
-![090m VO2Max 82% 101TSS](090m_VO2Max_82pct_101TSS.png)
+![VO2 82% 66TSS](060m_VO2Max_82pct_66TSS.png)
+
+
+### VO2 84% 88TSS
+
+![VO2 84% 88TSS](075m_VO2Max_84pct_88TSS.png)
+
+
+### VO2 82% 101TSS
+
+![VO2 82% 101TSS](090m_VO2Max_82pct_101TSS.png)
 

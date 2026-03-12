@@ -15,7 +15,7 @@ RULES.md
 copy_workouts.py
 left_routes_links.html
 plan_output.html
-rides_latest.txt
+rides_intervals_icu.md
 route_db.json
 upload_plan_to_drive.py
 weekly_plan.py

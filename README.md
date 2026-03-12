@@ -4,7 +4,8 @@ Automated Zwift training plan generator — builds personalized daily plans with
 
 ## ✨ Features
 
-- 📋 **Zone-based workouts** — auto-selects .zwo workouts by training zone (VO2Max, Threshold, Sweet Spot, Endurance, etc.)
+- 📋 **Zone-based workouts** — auto-selects .zwo workouts by training zone (VO2Max, Threshold, Sweet Spot, Endurance, W'bal, etc.)
+- ⚡ **W'bal training** — Tabata, staircase, 30/30, and sprint finisher intervals targeting W' depletion/reconstitution
 - 🔀 **60m + 30m split options** — offers a main + secondary workout combo for each day
 - 🗺️ **Route recommendations** — prioritizes uncompleted and rebel routes with combo chaining
 - 🔗 **Route combos** — chains multiple short routes into one ride
@@ -14,11 +15,14 @@ Automated Zwift training plan generator — builds personalized daily plans with
 - 💀 **Rebel Routes** — tracks completion via Strava segment API
 - 📈 **Fatigue tracking** — scales intensity based on recent TSS load
 - 🏅 **Weekly challenges** — shows current Zwift weekly challenges
+- 📊 **Intervals.icu integration** — pulls ride history, W'bal profile, CTL/ATL/TSB fitness, peak powers, and power zone time distribution
 
 ## 📁 Project Structure
 
 ```
 ├── plan_output.md            # Generated training plan (Markdown)
+├── ride_intervals.py         # Intervals.icu activity fetcher
+├── rides_intervals_icu.md    # Generated ride history + analytics
 ├── Workouts/                 # .zwo workout files by zone
 │   ├── Anaerobic/            # 20m–120m anaerobic intervals
 │   ├── Cadence/              # 20m–120m cadence drills
@@ -30,7 +34,8 @@ Automated Zwift training plan generator — builds personalized daily plans with
 │   ├── Sweet Spot/           # 20m–120m sweet spot
 │   ├── Tempo/                # 20m–120m tempo
 │   ├── Threshold/            # 20m–120m threshold
-│   └── VO2 Max/              # 20m–120m VO2Max intervals
+│   ├── VO2 Max/              # 20m–120m VO2Max intervals
+│   └── Wbal/                 # 20m–75m W'bal depletion intervals
 └── Rebel_Routes/             # Rebel route guides & manifests
     ├── README.md             # Route table with links & status
     ├── *.txt                 # Route-by-route riding guides

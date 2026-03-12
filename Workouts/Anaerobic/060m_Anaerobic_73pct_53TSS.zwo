@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>AC 73% 53TSS</name>
+    <name>060m Anaerobic 73% 53TSS</name>
     <description>60min full sprint ladder: 3x5s + 3x15s + 4x30s + 2x60s. Targets ALL sprint durations 5-60s with recovery valleys.</description>
     <sportType>bike</sportType>
     <tags>

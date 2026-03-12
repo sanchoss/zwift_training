@@ -26,82 +26,82 @@
 
 ## Power Profiles
 
-### Z3-T 70% 20TSS
+### 020m Tempo 70% 20TSS
 
-![Z3-T 70% 20TSS](020m_Tempo_70pct_20TSS.png)
-
-
-### Z3-T 67% 23TSS
-
-![Z3-T 67% 23TSS](030m_Tempo_67pct_23TSS.png)
+![020m Tempo 70% 20TSS](020m_Tempo_70pct_20TSS.png)
 
 
-### Z3-T 66% 33TSS
+### 030m Tempo 67% 23TSS
 
-![Z3-T 66% 33TSS](045m_Tempo_66pct_33TSS.png)
-
-
-### Z3-T 69% 48TSS
-
-![Z3-T 69% 48TSS](060m_Tempo_69pct_48TSS.png)
+![030m Tempo 67% 23TSS](030m_Tempo_67pct_23TSS.png)
 
 
-### Z3-T 70% 62TSS
+### 045m Tempo 66% 33TSS
 
-![Z3-T 70% 62TSS](075m_Tempo_70pct_62TSS.png)
-
-
-### Z3-T 69% 71TSS
-
-![Z3-T 69% 71TSS](090m_Tempo_69pct_71TSS.png)
+![045m Tempo 66% 33TSS](045m_Tempo_66pct_33TSS.png)
 
 
-### Z3-T 70% 87TSS
+### 060m Tempo 69% 48TSS
 
-![Z3-T 70% 87TSS](105m_Tempo_70pct_87TSS.png)
-
-
-### Z3-T 69% 96TSS
-
-![Z3-T 69% 96TSS](120m_Tempo_69pct_96TSS.png)
+![060m Tempo 69% 48TSS](060m_Tempo_69pct_48TSS.png)
 
 
-### Z3-T 69% 118TSS
+### 075m Tempo 70% 62TSS
 
-![Z3-T 69% 118TSS](150m_Tempo_69pct_118TSS.png)
-
-
-### Z3-T 70% 129TSS
-
-![Z3-T 70% 129TSS](160m_Tempo_70pct_129TSS.png)
+![075m Tempo 70% 62TSS](075m_Tempo_70pct_62TSS.png)
 
 
-### Z3-T 70% 147TSS
+### 090m Tempo 69% 71TSS
 
-![Z3-T 70% 147TSS](180m_Tempo_70pct_147TSS.png)
-
-
-### Z3-T 68% 155TSS
-
-![Z3-T 68% 155TSS](200m_Tempo_68pct_155TSS.png)
+![090m Tempo 69% 71TSS](090m_Tempo_69pct_71TSS.png)
 
 
-### Z3-T 68% 167TSS
+### 105m Tempo 70% 87TSS
 
-![Z3-T 68% 167TSS](220m_Tempo_68pct_167TSS.png)
-
-
-### Z3-T 66% 177TSS
-
-![Z3-T 66% 177TSS](240m_Tempo_66pct_177TSS.png)
+![105m Tempo 70% 87TSS](105m_Tempo_70pct_87TSS.png)
 
 
-### Z3-T 65% 191TSS
+### 120m Tempo 69% 96TSS
 
-![Z3-T 65% 191TSS](270m_Tempo_65pct_191TSS.png)
+![120m Tempo 69% 96TSS](120m_Tempo_69pct_96TSS.png)
 
 
-### Z3-T 65% 209TSS
+### 150m Tempo 69% 118TSS
 
-![Z3-T 65% 209TSS](300m_Tempo_65pct_209TSS.png)
+![150m Tempo 69% 118TSS](150m_Tempo_69pct_118TSS.png)
+
+
+### 160m Tempo 70% 129TSS
+
+![160m Tempo 70% 129TSS](160m_Tempo_70pct_129TSS.png)
+
+
+### 180m Tempo 70% 147TSS
+
+![180m Tempo 70% 147TSS](180m_Tempo_70pct_147TSS.png)
+
+
+### 200m Tempo 68% 155TSS
+
+![200m Tempo 68% 155TSS](200m_Tempo_68pct_155TSS.png)
+
+
+### 220m Tempo 68% 167TSS
+
+![220m Tempo 68% 167TSS](220m_Tempo_68pct_167TSS.png)
+
+
+### 240m Tempo 66% 177TSS
+
+![240m Tempo 66% 177TSS](240m_Tempo_66pct_177TSS.png)
+
+
+### 270m Tempo 65% 191TSS
+
+![270m Tempo 65% 191TSS](270m_Tempo_65pct_191TSS.png)
+
+
+### 300m Tempo 65% 209TSS
+
+![300m Tempo 65% 209TSS](300m_Tempo_65pct_209TSS.png)
 

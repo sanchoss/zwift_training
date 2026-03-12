@@ -28,92 +28,92 @@
 
 ## Power Profiles
 
-### Z1-R 52% 9TSS
+### 020m Recovery 52% 9TSS
 
-![Z1-R 52% 9TSS](020m_Recovery_52pct_9TSS.png)
-
-
-### Z1-R 53% 14TSS
-
-![Z1-R 53% 14TSS](030m_Recovery_53pct_14TSS.png)
+![020m Recovery 52% 9TSS](020m_Recovery_52pct_9TSS.png)
 
 
-### Z1-R 54% 22TSS
+### 030m Recovery 53% 14TSS
 
-![Z1-R 54% 22TSS](045m_Recovery_54pct_22TSS.png)
-
-
-### Z1-R 54% 30TSS
-
-![Z1-R 54% 30TSS](060m_Recovery_54pct_30TSS.png)
+![030m Recovery 53% 14TSS](030m_Recovery_53pct_14TSS.png)
 
 
-### Z1-R 55% 37TSS
+### 045m Recovery 54% 22TSS
 
-![Z1-R 55% 37TSS](075m_Recovery_55pct_37TSS.png)
-
-
-### Z1-R 55% 45TSS
-
-![Z1-R 55% 45TSS](090m_Recovery_55pct_45TSS.png)
+![045m Recovery 54% 22TSS](045m_Recovery_54pct_22TSS.png)
 
 
-### Z1-R 55% 54TSS
+### 060m Recovery 54% 30TSS
 
-![Z1-R 55% 54TSS](105m_Recovery_55pct_54TSS.png)
-
-
-### Z1-R 56% 62TSS
-
-![Z1-R 56% 62TSS](120m_Recovery_56pct_62TSS.png)
+![060m Recovery 54% 30TSS](060m_Recovery_54pct_30TSS.png)
 
 
-### Z1-R 56% 77TSS
+### 075m Recovery 55% 37TSS
 
-![Z1-R 56% 77TSS](150m_Recovery_56pct_77TSS.png)
-
-
-### Z1-R 56% 83TSS
-
-![Z1-R 56% 83TSS](160m_Recovery_56pct_83TSS.png)
+![075m Recovery 55% 37TSS](075m_Recovery_55pct_37TSS.png)
 
 
-### Z1-R 56% 94TSS
+### 090m Recovery 55% 45TSS
 
-![Z1-R 56% 94TSS](180m_Recovery_56pct_94TSS.png)
-
-
-### Z1-R 56% 104TSS
-
-![Z1-R 56% 104TSS](200m_Recovery_56pct_104TSS.png)
+![090m Recovery 55% 45TSS](090m_Recovery_55pct_45TSS.png)
 
 
-### Z1-R 56% 114TSS
+### 105m Recovery 55% 54TSS
 
-![Z1-R 56% 114TSS](220m_Recovery_56pct_114TSS.png)
-
-
-### Z1-R 56% 125TSS
-
-![Z1-R 56% 125TSS](240m_Recovery_56pct_125TSS.png)
+![105m Recovery 55% 54TSS](105m_Recovery_55pct_54TSS.png)
 
 
-### Z1-R 56% 140TSS
+### 120m Recovery 56% 62TSS
 
-![Z1-R 56% 140TSS](270m_Recovery_56pct_140TSS.png)
-
-
-### Z1-R 56% 157TSS
-
-![Z1-R 56% 157TSS](300m_Recovery_56pct_157TSS.png)
+![120m Recovery 56% 62TSS](120m_Recovery_56pct_62TSS.png)
 
 
-### Z1-R 56% 173TSS
+### 150m Recovery 56% 77TSS
 
-![Z1-R 56% 173TSS](330m_Recovery_56pct_173TSS.png)
+![150m Recovery 56% 77TSS](150m_Recovery_56pct_77TSS.png)
 
 
-### Z1-R 56% 189TSS
+### 160m Recovery 56% 83TSS
 
-![Z1-R 56% 189TSS](360m_Recovery_56pct_189TSS.png)
+![160m Recovery 56% 83TSS](160m_Recovery_56pct_83TSS.png)
+
+
+### 180m Recovery 56% 94TSS
+
+![180m Recovery 56% 94TSS](180m_Recovery_56pct_94TSS.png)
+
+
+### 200m Recovery 56% 104TSS
+
+![200m Recovery 56% 104TSS](200m_Recovery_56pct_104TSS.png)
+
+
+### 220m Recovery 56% 114TSS
+
+![220m Recovery 56% 114TSS](220m_Recovery_56pct_114TSS.png)
+
+
+### 240m Recovery 56% 125TSS
+
+![240m Recovery 56% 125TSS](240m_Recovery_56pct_125TSS.png)
+
+
+### 270m Recovery 56% 140TSS
+
+![270m Recovery 56% 140TSS](270m_Recovery_56pct_140TSS.png)
+
+
+### 300m Recovery 56% 157TSS
+
+![300m Recovery 56% 157TSS](300m_Recovery_56pct_157TSS.png)
+
+
+### 330m Recovery 56% 173TSS
+
+![330m Recovery 56% 173TSS](330m_Recovery_56pct_173TSS.png)
+
+
+### 360m Recovery 56% 189TSS
+
+![360m Recovery 56% 189TSS](360m_Recovery_56pct_189TSS.png)
 

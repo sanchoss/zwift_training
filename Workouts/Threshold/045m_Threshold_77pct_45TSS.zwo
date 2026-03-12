@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>FTP 77% 45TSS</name>
+    <name>045m Threshold 77% 45TSS</name>
     <description>45min | 3x15s sprints + 1x60s attacks + 3x5min threshold @ 97%. Intensity scales with duration.</description>
     <sportType>bike</sportType>
     <tags>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <workout_file>
     <author>AI Coach</author>
-    <name>AC 74% 41TSS</name>
+    <name>045m Anaerobic 74% 41TSS</name>
     <description>45min full sprint ladder: 3x5s + 3x15s + 3x30s + 1x60s. Targets ALL sprint durations 5-60s with recovery valleys.</description>
     <sportType>bike</sportType>
     <tags>

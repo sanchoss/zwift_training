@@ -21,57 +21,57 @@
 
 ## Power Profiles
 
-### SS 76% 24TSS
+### 020m SweetSpot 76% 24TSS
 
-![SS 76% 24TSS](020m_SweetSpot_76pct_24TSS.png)
-
-
-### SS 76% 30TSS
-
-![SS 76% 30TSS](030m_SweetSpot_76pct_30TSS.png)
+![020m SweetSpot 76% 24TSS](020m_SweetSpot_76pct_24TSS.png)
 
 
-### SS 73% 40TSS
+### 030m SweetSpot 76% 30TSS
 
-![SS 73% 40TSS](045m_SweetSpot_73pct_40TSS.png)
-
-
-### SS 79% 62TSS
-
-![SS 79% 62TSS](060m_SweetSpot_79pct_62TSS.png)
+![030m SweetSpot 76% 30TSS](030m_SweetSpot_76pct_30TSS.png)
 
 
-### SS 76% 72TSS
+### 045m SweetSpot 73% 40TSS
 
-![SS 76% 72TSS](075m_SweetSpot_76pct_72TSS.png)
-
-
-### SS 76% 88TSS
-
-![SS 76% 88TSS](090m_SweetSpot_76pct_88TSS.png)
+![045m SweetSpot 73% 40TSS](045m_SweetSpot_73pct_40TSS.png)
 
 
-### SS 77% 105TSS
+### 060m SweetSpot 79% 62TSS
 
-![SS 77% 105TSS](105m_SweetSpot_77pct_105TSS.png)
-
-
-### SS 78% 121TSS
-
-![SS 78% 121TSS](120m_SweetSpot_78pct_121TSS.png)
+![060m SweetSpot 79% 62TSS](060m_SweetSpot_79pct_62TSS.png)
 
 
-### SS 78% 153TSS
+### 075m SweetSpot 76% 72TSS
 
-![SS 78% 153TSS](150m_SweetSpot_78pct_153TSS.png)
-
-
-### SS 77% 159TSS
-
-![SS 77% 159TSS](160m_SweetSpot_77pct_159TSS.png)
+![075m SweetSpot 76% 72TSS](075m_SweetSpot_76pct_72TSS.png)
 
 
-### SS 75% 168TSS
+### 090m SweetSpot 76% 88TSS
 
-![SS 75% 168TSS](180m_SweetSpot_75pct_168TSS.png)
+![090m SweetSpot 76% 88TSS](090m_SweetSpot_76pct_88TSS.png)
+
+
+### 105m SweetSpot 77% 105TSS
+
+![105m SweetSpot 77% 105TSS](105m_SweetSpot_77pct_105TSS.png)
+
+
+### 120m SweetSpot 78% 121TSS
+
+![120m SweetSpot 78% 121TSS](120m_SweetSpot_78pct_121TSS.png)
+
+
+### 150m SweetSpot 78% 153TSS
+
+![150m SweetSpot 78% 153TSS](150m_SweetSpot_78pct_153TSS.png)
+
+
+### 160m SweetSpot 77% 159TSS
+
+![160m SweetSpot 77% 159TSS](160m_SweetSpot_77pct_159TSS.png)
+
+
+### 180m SweetSpot 75% 168TSS
+
+![180m SweetSpot 75% 168TSS](180m_SweetSpot_75pct_168TSS.png)
 

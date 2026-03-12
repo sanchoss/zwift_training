@@ -31,107 +31,107 @@
 
 ## Power Profiles
 
-### Z2-E 64% 14TSS
+### 020m Endurance 64% 14TSS
 
-![Z2-E 64% 14TSS](020m_Endurance_64pct_14TSS.png)
-
-
-### Z2-E 63% 20TSS
-
-![Z2-E 63% 20TSS](030m_Endurance_63pct_20TSS.png)
+![020m Endurance 64% 14TSS](020m_Endurance_64pct_14TSS.png)
 
 
-### Z2-E 64% 31TSS
+### 030m Endurance 63% 20TSS
 
-![Z2-E 64% 31TSS](045m_Endurance_64pct_31TSS.png)
-
-
-### Z2-E 65% 42TSS
-
-![Z2-E 65% 42TSS](060m_Endurance_65pct_42TSS.png)
+![030m Endurance 63% 20TSS](030m_Endurance_63pct_20TSS.png)
 
 
-### Z2-E 65% 53TSS
+### 045m Endurance 64% 31TSS
 
-![Z2-E 65% 53TSS](075m_Endurance_65pct_53TSS.png)
-
-
-### Z2-E 65% 64TSS
-
-![Z2-E 65% 64TSS](090m_Endurance_65pct_64TSS.png)
+![045m Endurance 64% 31TSS](045m_Endurance_64pct_31TSS.png)
 
 
-### Z2-E 65% 75TSS
+### 060m Endurance 65% 42TSS
 
-![Z2-E 65% 75TSS](105m_Endurance_65pct_75TSS.png)
-
-
-### Z2-E 66% 87TSS
-
-![Z2-E 66% 87TSS](120m_Endurance_66pct_87TSS.png)
+![060m Endurance 65% 42TSS](060m_Endurance_65pct_42TSS.png)
 
 
-### Z2-E 66% 108TSS
+### 075m Endurance 65% 53TSS
 
-![Z2-E 66% 108TSS](150m_Endurance_66pct_108TSS.png)
-
-
-### Z2-E 66% 115TSS
-
-![Z2-E 66% 115TSS](160m_Endurance_66pct_115TSS.png)
+![075m Endurance 65% 53TSS](075m_Endurance_65pct_53TSS.png)
 
 
-### Z2-E 66% 130TSS
+### 090m Endurance 65% 64TSS
 
-![Z2-E 66% 130TSS](180m_Endurance_66pct_130TSS.png)
-
-
-### Z2-E 65% 143TSS
-
-![Z2-E 65% 143TSS](200m_Endurance_65pct_143TSS.png)
+![090m Endurance 65% 64TSS](090m_Endurance_65pct_64TSS.png)
 
 
-### Z2-E 66% 157TSS
+### 105m Endurance 65% 75TSS
 
-![Z2-E 66% 157TSS](220m_Endurance_66pct_157TSS.png)
-
-
-### Z2-E 66% 172TSS
-
-![Z2-E 66% 172TSS](240m_Endurance_66pct_172TSS.png)
+![105m Endurance 65% 75TSS](105m_Endurance_65pct_75TSS.png)
 
 
-### Z2-E 65% 192TSS
+### 120m Endurance 66% 87TSS
 
-![Z2-E 65% 192TSS](270m_Endurance_65pct_192TSS.png)
-
-
-### Z2-E 65% 214TSS
-
-![Z2-E 65% 214TSS](300m_Endurance_65pct_214TSS.png)
+![120m Endurance 66% 87TSS](120m_Endurance_66pct_87TSS.png)
 
 
-### Z2-E 65% 236TSS
+### 150m Endurance 66% 108TSS
 
-![Z2-E 65% 236TSS](330m_Endurance_65pct_236TSS.png)
-
-
-### Z2-E 66% 257TSS
-
-![Z2-E 66% 257TSS](360m_Endurance_66pct_257TSS.png)
+![150m Endurance 66% 108TSS](150m_Endurance_66pct_108TSS.png)
 
 
-### Z2-E 65% 277TSS
+### 160m Endurance 66% 115TSS
 
-![Z2-E 65% 277TSS](390m_Endurance_65pct_277TSS.png)
-
-
-### Z2-E 65% 299TSS
-
-![Z2-E 65% 299TSS](420m_Endurance_65pct_299TSS.png)
+![160m Endurance 66% 115TSS](160m_Endurance_66pct_115TSS.png)
 
 
-### Z2-E 65% 321TSS
+### 180m Endurance 66% 130TSS
 
-![Z2-E 65% 321TSS](450m_Endurance_65pct_321TSS.png)
+![180m Endurance 66% 130TSS](180m_Endurance_66pct_130TSS.png)
+
+
+### 200m Endurance 65% 143TSS
+
+![200m Endurance 65% 143TSS](200m_Endurance_65pct_143TSS.png)
+
+
+### 220m Endurance 66% 157TSS
+
+![220m Endurance 66% 157TSS](220m_Endurance_66pct_157TSS.png)
+
+
+### 240m Endurance 66% 172TSS
+
+![240m Endurance 66% 172TSS](240m_Endurance_66pct_172TSS.png)
+
+
+### 270m Endurance 65% 192TSS
+
+![270m Endurance 65% 192TSS](270m_Endurance_65pct_192TSS.png)
+
+
+### 300m Endurance 65% 214TSS
+
+![300m Endurance 65% 214TSS](300m_Endurance_65pct_214TSS.png)
+
+
+### 330m Endurance 65% 236TSS
+
+![330m Endurance 65% 236TSS](330m_Endurance_65pct_236TSS.png)
+
+
+### 360m Endurance 66% 257TSS
+
+![360m Endurance 66% 257TSS](360m_Endurance_66pct_257TSS.png)
+
+
+### 390m Endurance 65% 277TSS
+
+![390m Endurance 65% 277TSS](390m_Endurance_65pct_277TSS.png)
+
+
+### 420m Endurance 65% 299TSS
+
+![420m Endurance 65% 299TSS](420m_Endurance_65pct_299TSS.png)
+
+
+### 450m Endurance 65% 321TSS
+
+![450m Endurance 65% 321TSS](450m_Endurance_65pct_321TSS.png)
 

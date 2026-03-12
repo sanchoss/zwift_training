@@ -15,27 +15,27 @@
 
 ## Power Profiles
 
-### AC 77% 21TSS
+### 020m Anaerobic 77% 21TSS
 
-![AC 77% 21TSS](020m_Anaerobic_77pct_21TSS.png)
-
-
-### AC 71% 25TSS
-
-![AC 71% 25TSS](030m_Anaerobic_71pct_25TSS.png)
+![020m Anaerobic 77% 21TSS](020m_Anaerobic_77pct_21TSS.png)
 
 
-### AC 74% 41TSS
+### 030m Anaerobic 71% 25TSS
 
-![AC 74% 41TSS](045m_Anaerobic_74pct_41TSS.png)
-
-
-### AC 73% 53TSS
-
-![AC 73% 53TSS](060m_Anaerobic_73pct_53TSS.png)
+![030m Anaerobic 71% 25TSS](030m_Anaerobic_71pct_25TSS.png)
 
 
-### AC 72% 65TSS
+### 045m Anaerobic 74% 41TSS
 
-![AC 72% 65TSS](075m_Anaerobic_72pct_65TSS.png)
+![045m Anaerobic 74% 41TSS](045m_Anaerobic_74pct_41TSS.png)
+
+
+### 060m Anaerobic 73% 53TSS
+
+![060m Anaerobic 73% 53TSS](060m_Anaerobic_73pct_53TSS.png)
+
+
+### 075m Anaerobic 72% 65TSS
+
+![075m Anaerobic 72% 65TSS](075m_Anaerobic_72pct_65TSS.png)
 

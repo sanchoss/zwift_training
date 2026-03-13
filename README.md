@@ -36,8 +36,7 @@ Automated Zwift training plan generator — builds personalized daily plans with
 │   └── Wbal/                 # 20m–75m W'bal depletion intervals
 └── Rebel_Routes/             # Rebel route guides & manifests
     ├── README.md             # Route table with links & status
-    ├── *.txt                 # Route-by-route riding guides
-    └── *.json                # Route manifests (segments, turns)
+    └── *.md                  # Route-by-route riding guides
 ```
 
 ## 📊 Sample Output

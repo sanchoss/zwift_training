@@ -21,9 +21,7 @@ Automated Zwift training plan generator — builds personalized daily plans with
 
 ```
 ├── plan_output.md            # Generated training plan (Markdown)
-├── ride_intervals.py         # Intervals.icu activity fetcher
-├── rides_intervals_icu.md    # Generated ride history + analytics
-├── Workouts/                 # .zwo workout files by zone
+├── Workouts/                 # .zwo workout files + power profile PNGs by zone
 │   ├── Anaerobic/            # 20m–75m anaerobic intervals
 │   ├── Cadence/              # 20m–150m cadence drills
 │   ├── Endurance/            # 20m–450m endurance rides

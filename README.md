@@ -24,17 +24,17 @@ Automated Zwift training plan generator — builds personalized daily plans with
 ├── ride_intervals.py         # Intervals.icu activity fetcher
 ├── rides_intervals_icu.md    # Generated ride history + analytics
 ├── Workouts/                 # .zwo workout files by zone
-│   ├── Anaerobic/            # 20m–120m anaerobic intervals
-│   ├── Cadence/              # 20m–120m cadence drills
-│   ├── Endurance/            # 20m–120m endurance rides
-│   ├── Neuromuscular/        # 20m–120m neuromuscular sprints
+│   ├── Anaerobic/            # 20m–75m anaerobic intervals
+│   ├── Cadence/              # 20m–150m cadence drills
+│   ├── Endurance/            # 20m–450m endurance rides
+│   ├── Neuromuscular/        # 20m–75m neuromuscular sprints
 │   ├── Over-Unders/          # 20m–120m over-under intervals
-│   ├── Recovery/             # 20m–120m recovery spins
-│   ├── Special/              # FTP test, race warmup
-│   ├── Sweet Spot/           # 20m–120m sweet spot
-│   ├── Tempo/                # 20m–120m tempo
+│   ├── Recovery/             # 20m–360m recovery spins
+│   ├── Special/              # FTP test (50m), race warmup (15m)
+│   ├── Sweet Spot/           # 20m–180m sweet spot
+│   ├── Tempo/                # 20m–300m tempo
 │   ├── Threshold/            # 20m–120m threshold
-│   ├── VO2 Max/              # 20m–120m VO2Max intervals
+│   ├── VO2 Max/              # 20m–90m VO2Max intervals
 │   └── Wbal/                 # 20m–75m W'bal depletion intervals
 └── Rebel_Routes/             # Rebel route guides & manifests
     ├── README.md             # Route table with links & status
@@ -46,11 +46,13 @@ Automated Zwift training plan generator — builds personalized daily plans with
 
 Each day includes:
 - 🎯 **Zone** + 🎚️ **Trainer difficulty**
-- 📋 **Workout** (90m) + 🔀 **Split** (60m + 30m)
-- 🗺️ **Uncompleted and Rebel Routes** with ZwiftInsider links
-- 🔗 **Route combos** for multi-route rides
-- 📡 **Zwift events** in your time window
+- 📋 **Workout** (full duration) + 🔀 **Split** (main + secondary combo)
+- 🗺️ **Uncompleted and Rebel Routes** with ZwiftInsider + VeloViewer links
+- 🔗 **Improvement Combos** — completed routes ranked by PR improvement potential
+- 📡 **Zwift events** (races + rides) in your time window
 - 🏆 **WTRL TTT** / 🔥 **Flamme Rouge** when applicable
+- 📈 **Fitness summary** — CTL, ATL, TSB, fatigue %
+- 🏅 **Weekly challenges** — Climb of Week, Route of Week
 
 ## ✍️ Author
 

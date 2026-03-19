@@ -6,7 +6,7 @@ World:       Watopia
 Distance:    20.6 km
 Elevation:   143 m
 Start Route: Hilly Route
-Approach:    Hilly Route
+Approach:    Hilly Route → 0.3 km to rebel start
 Strava:      https://www.strava.com/segments/40906329
 VeloViewer:  https://veloviewer.com/segment/40906329
 ZwiftInsider: https://zwiftinsider.com/rebel-route-big-ring-little-ring/

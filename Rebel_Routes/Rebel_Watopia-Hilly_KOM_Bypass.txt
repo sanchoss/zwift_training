@@ -6,7 +6,7 @@ World:       Watopia
 Distance:    2.5 km
 Elevation:   31 m
 Start Route: Hilly Route
-Approach:    Hilly Route → 1.5 km to rebel start
+Approach:    Hilly Route → 1.9 km to rebel start
 Strava:      https://www.strava.com/segments/26791932
 VeloViewer:  https://veloviewer.com/segment/26791932
 ZwiftInsider: https://zwiftinsider.com/hilly-kom-bypass/

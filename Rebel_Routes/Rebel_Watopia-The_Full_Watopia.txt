@@ -6,7 +6,7 @@ World:       Watopia
 Distance:    154.5 km
 Elevation:   2852 m
 Start Route: Oh Hill No
-Approach:    Oh Hill No
+Approach:    Oh Hill No → 0.3 km to rebel start (segment begins at base of The Grade)
 Strava:      https://www.strava.com/segments/40760759
 VeloViewer:  https://veloviewer.com/segment/40760759
 ZwiftInsider: https://zwiftinsider.com/the-full-watopia/

@@ -6,7 +6,7 @@ World:       New York
 Distance:    57.8 km
 Elevation:   596 m
 Start Route: The Highline
-Approach:    The Highline
+Approach:    The Highline → 0.2 km to rebel start (segment begins on glass roads near spawn)
 Strava:      https://www.strava.com/segments/40678671
 VeloViewer:  https://veloviewer.com/segment/40678671
 ZwiftInsider: https://zwiftinsider.com/the-full-new-york/

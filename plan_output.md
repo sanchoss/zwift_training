@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 5-DAY TRAINING PLAN
-**📅 Generated:** Wed 18 Mar 2026 19:56 EST  /  Thu 19 Mar 2026 00:56 UTC  /  Thu 19 Mar 2026 02:56 EET
+**📅 Generated:** Wed 18 Mar 2026 21:16 EST  /  Thu 19 Mar 2026 02:16 UTC  /  Thu 19 Mar 2026 04:16 EET
 **🗓️ Plan:** Thu 19 Mar -> Mon 23 Mar 2026
 ---
 
@@ -78,7 +78,7 @@
 
 🗺️  Uncompleted and Rebel Routes (up to 5):
 1. [F] [La Reine](https://zwiftinsider.com/route/la-reine/) · [VV](https://veloviewer.com/segment/33465483) · [SS](https://www.strava.com/segments/33465483) (22.9km/1201m, ~114min) | Diff 3.5/5 | 460 XP
-2. [N] [The Highline](https://zwiftinsider.com/route/the-highline/) · [VV](https://veloviewer.com/segment/19173163) · [SS](https://www.strava.com/segments/19173163) → 1.7km to [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671)[R] (57.8km/596m, ~155min) | Total: 59.5km, ~158min
+2. [N] [The Highline](https://zwiftinsider.com/route/the-highline/) · [VV](https://veloviewer.com/segment/19173163) · [SS](https://www.strava.com/segments/19173163) → 0.2km to [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671)[R] (57.8km/596m, ~155min) | Total: 58.0km, ~155min
 3. [W] [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517) → 1.6km to [Cliffside Epic Double](https://zwiftinsider.com/cliffside-epic-double/) · [VV](https://veloviewer.com/segment/31849910) · [SS](https://www.strava.com/segments/31849910)[R] (52.7km/991m, ~203min) | Total: 54.3km, ~206min
 4. [W] [Tempus Fugit](https://zwiftinsider.com/route/tempus-fugit/) · [VV](https://veloviewer.com/segment/20350088) · [SS](https://www.strava.com/segments/20350088) → 3.5km to [The Snake](https://zwiftinsider.com/snake/) · [VV](https://veloviewer.com/segment/22313236) · [SS](https://www.strava.com/segments/22313236)[R] (77.4km/661m, ~195min) | Total: 80.9km, ~202min
 5. [W] [Three Sisters](https://zwiftinsider.com/route/three-sisters/) · [VV](https://veloviewer.com/segment/15159137) · [SS](https://www.strava.com/segments/15159137) (48.5km/896m, ~184min) | Diff 4.5/5 | 950 XP
@@ -120,7 +120,7 @@
    CADENCE 75m + TEMPO 30m = ~78TSS  
 
 🗺️  Uncompleted and Rebel Routes (up to 5):
-1. [N] [The Highline](https://zwiftinsider.com/route/the-highline/) · [VV](https://veloviewer.com/segment/19173163) · [SS](https://www.strava.com/segments/19173163) → 1.7km to [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671)[R] (57.8km/596m, ~155min) | Total: 59.5km, ~158min
+1. [N] [The Highline](https://zwiftinsider.com/route/the-highline/) · [VV](https://veloviewer.com/segment/19173163) · [SS](https://www.strava.com/segments/19173163) → 0.2km to [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671)[R] (57.8km/596m, ~155min) | Total: 58.0km, ~155min
 2. [W] [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517) → 1.6km to [Cliffside Epic Double](https://zwiftinsider.com/cliffside-epic-double/) · [VV](https://veloviewer.com/segment/31849910) · [SS](https://www.strava.com/segments/31849910)[R] (52.7km/991m, ~203min) | Total: 54.3km, ~206min
 3. [W] [Tempus Fugit](https://zwiftinsider.com/route/tempus-fugit/) · [VV](https://veloviewer.com/segment/20350088) · [SS](https://www.strava.com/segments/20350088) → 3.5km to [The Snake](https://zwiftinsider.com/snake/) · [VV](https://veloviewer.com/segment/22313236) · [SS](https://www.strava.com/segments/22313236)[R] (77.4km/661m, ~195min) | Total: 80.9km, ~202min
 4. [W] [Three Sisters](https://zwiftinsider.com/route/three-sisters/) · [VV](https://veloviewer.com/segment/15159137) · [SS](https://www.strava.com/segments/15159137) (48.5km/896m, ~184min) | Diff 4.5/5 | 950 XP
@@ -209,7 +209,7 @@
 2. [W] [ZG25 Queen](https://zwiftinsider.com/route/zg25-queen/) · [VV](https://veloviewer.com/segment/38412699) · [SS](https://www.strava.com/segments/38412699) (44.8km/894m, ~184min) | Diff 3/5 | 895 XP
 3. [F] [Tire-Bouchon](https://zwiftinsider.com/route/tire-bouchon/) · [VV](https://veloviewer.com/segment/24690941) · [SS](https://www.strava.com/segments/24690941) (63.9km/587m, ~165min) | Diff 3.5/5 | 1220 XP
 4. [W] [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) · [VV](https://veloviewer.com/segment/21911191) · [SS](https://www.strava.com/segments/21911191) (69.9km/714m, ~187min) | Diff 4/5 | 1340 XP
-5. [M] [Two Village Loop](https://zwiftinsider.com/route/two-village-loop/) · [VV](https://veloviewer.com/segment/28433439) · [SS](https://www.strava.com/segments/28433439) → 0.5km to [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737)[R] (80.9km/650m, ~201min) | Total: 81.4km, ~202min
+5. [M] [Two Village Loop](https://zwiftinsider.com/route/two-village-loop/) · [VV](https://veloviewer.com/segment/28433439) · [SS](https://www.strava.com/segments/28433439) → 0.2km to [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737)[R] (80.9km/650m, ~201min) | Total: 81.1km, ~201min
 
 
 **🔗 Improvement Combos (~105min target):**
@@ -382,7 +382,7 @@ World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R
 **Status: 15/25 completed** ()
 
 **⏱️ 5h+**
-- 🔴 W — [The Full Watopia](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40760759) · [SS](https://www.strava.com/segments/40760759) — 154.5 km / 2852 m — ~586 min | Start: Oh Hill No → 4.6km
+- 🔴 W — [The Full Watopia](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40760759) · [SS](https://www.strava.com/segments/40760759) — 154.5 km / 2852 m — ~586 min | Start: Oh Hill No → 0.3km
 - 🔴 W — [KOMonster](https://zwiftinsider.com/komonster/) · [VV](https://veloviewer.com/segment/21645117) · [SS](https://www.strava.com/segments/21645117) — 99.8 km / 2570 m — ~499 min | Start: Hilly Route → 3.0km
 - 🔴 F — [Toutes les Routes](https://zwiftinsider.com/toutes-les-routes/) · [VV](https://veloviewer.com/segment/24982012) · [SS](https://www.strava.com/segments/24982012) — 104.8 km / 1968 m — ~404 min | Start: Casse-Pattes → 3.0km
 - 🔴 W — [The Perimeter](https://zwiftinsider.com/the-perimeter/) · [VV](https://veloviewer.com/segment/20483387) · [SS](https://www.strava.com/segments/20483387) — 82.3 km / 1874 m — ~399 min | Start: Bigger Loop → 1.0km
@@ -393,11 +393,11 @@ World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R
 **⏱️ 3h+**
 - 🔴 W — [The Marvelous Metric](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40883256) · [SS](https://www.strava.com/segments/40883256) — 102.0 km / 489 m — ~229 min | Start: Mountain Mash → 5.0km
 - 🔴 W — [Cliffside Epic Double](https://zwiftinsider.com/cliffside-epic-double/) · [VV](https://veloviewer.com/segment/31849910) · [SS](https://www.strava.com/segments/31849910) — 52.7 km / 991 m — ~203 min | Start: Mountain Route → 1.6km
-- 🔴 M — [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737) — 80.9 km / 650 m — ~201 min | Start: Two Village Loop → 0.5km
+- 🔴 M — [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737) — 80.9 km / 650 m — ~201 min | Start: Two Village Loop → 0.2km
 - 🔴 W — [The Snake](https://zwiftinsider.com/snake/) · [VV](https://veloviewer.com/segment/22313236) · [SS](https://www.strava.com/segments/22313236) — 77.4 km / 661 m — ~195 min | Start: Tempus Fugit → 3.5km
 ---
 **⏱️ 2h+**
-- 🔴 N — [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671) — 57.8 km / 596 m — ~155 min | Start: The Highline → 1.7km
+- 🔴 N — [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671) — 57.8 km / 596 m — ~155 min | Start: The Highline → 0.2km
 
 📁 Workout .zwo files: Workouts/
 💾 Full plan saved to: plan_output.md

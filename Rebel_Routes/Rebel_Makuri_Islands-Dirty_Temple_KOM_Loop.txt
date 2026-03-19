@@ -6,7 +6,7 @@ World:       Makuri Islands
 Distance:    4.37 km
 Elevation:   75 m
 Start Route: Sea to Tree
-Approach:    Sea to Tree
+Approach:    Sea to Tree → 3.2 km to rebel start
 Strava:      https://www.strava.com/segments/31415608
 VeloViewer:  https://veloviewer.com/segment/31415608
 ZwiftInsider: https://zwiftinsider.com/dirty-temple-kom-loop/

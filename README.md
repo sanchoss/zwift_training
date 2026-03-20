@@ -14,7 +14,6 @@ Automated Zwift training plan generator — builds personalized daily plans with
 - 🔥 **Flamme Rouge** — displays tour stages and start times
 - 💀 **Rebel Routes** — tracks completion via Strava segment API
 - 📈 **Fatigue tracking** — scales intensity based on recent TSS load
-- 🏅 **Weekly challenges** — shows current Zwift weekly challenges
 - 📊 **Intervals.icu integration** — pulls ride history, W'bal profile, CTL/ATL/TSB fitness, peak powers, and power zone time distribution
 
 ## 📁 Project Structure
@@ -49,7 +48,6 @@ Each day includes:
 - 📡 **Zwift events** (races + rides) in your time window
 - 🏆 **WTRL TTT** / 🔥 **Flamme Rouge** when applicable
 - 📈 **Fitness summary** — CTL, ATL, TSB, fatigue %
-- 🏅 **Weekly challenges** — Climb of Week, Route of Week
 
 ## ✍️ Author
 

@@ -2,6 +2,10 @@
 
 Automated Zwift training plan generator — builds personalized daily plans with zone-based workouts, route recommendations, event schedules, and more.
 
+## 📋 Latest Plan
+
+👉 [**plan_output.md**](plan_output.md)
+
 ## ✨ Features
 
 - 📋 **Zone-based workouts** — auto-selects .zwo workouts by training zone (VO2Max, Threshold, Sweet Spot, Endurance, W'bal, etc.)

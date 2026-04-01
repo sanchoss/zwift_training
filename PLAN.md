@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 5-DAY TRAINING PLAN
-**📅 Generated:** Tue 31 Mar 2026 22:29 EDT  /  Wed 01 Apr 2026 02:29 UTC  /  Wed 01 Apr 2026 05:29 EEST
+**📅 Generated:** Tue 31 Mar 2026 22:33 EDT  /  Wed 01 Apr 2026 02:33 UTC  /  Wed 01 Apr 2026 05:33 EEST
 **🗓️ Plan:** Wed 01 Apr -> Sun 05 Apr 2026
 ---
 
@@ -479,4 +479,4 @@ World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R
 - 🔴 N — [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671) — 57.8 km / 596 m — ~142 min | Start: The Highline → 0.2km
 
 📁 Workout .zwo files: Workouts/
-💾 Full plan saved to: plan_output.md
+💾 Full plan saved to: PLAN.md

@@ -4,7 +4,7 @@ Automated Zwift training plan generator — builds personalized daily plans with
 
 ## 📋 Latest Plan
 
-👉 [**plan_output.md**](plan_output.md)
+👉 [**PLAN.md**](PLAN.md)
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@ Automated Zwift training plan generator — builds personalized daily plans with
 ## 📁 Project Structure
 
 ```
-├── plan_output.md            # Generated training plan (Markdown)
+├── PLAN.md                   # Generated training plan (Markdown)
 ├── Workouts/                 # .zwo workout files + power profile PNGs by zone
 │   ├── Anaerobic/            # 20m–75m anaerobic intervals
 │   ├── Cadence/              # 20m–150m cadence drills

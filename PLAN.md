@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 5-DAY TRAINING PLAN
-**📅 Generated:** Wed 15 Apr 2026 14:56 EDT  /  Wed 15 Apr 2026 18:56 UTC  /  Wed 15 Apr 2026 21:56 EEST
+**📅 Generated:** Wed 15 Apr 2026 21:42 EDT  /  Thu 16 Apr 2026 01:42 UTC  /  Thu 16 Apr 2026 04:42 EEST
 **🗓️ Plan:** Thu 16 Apr -> Mon 20 Apr 2026
 ---
 
@@ -30,9 +30,9 @@
 📈 [5/8] Fetching recent rides from intervals.icu (60 days)...
   Last 60d : 60 rides | Avg TSS 60
   Last 14d : TSS 267 | Last 7d : TSS 267
-  Fatigue  : 6% (RESTED)
-  ACWR     : 0.73 ↘ detraining
-  Fitness  : CTL 62.1 | ATL 45.6 | TSB +16.5 | Ramp -3.01
+  Fatigue  : 9% (RESTED)
+  ACWR     : 0.76 ↘ detraining
+  Fitness  : CTL 62.3 | ATL 47.1 | TSB +15.2 | Ramp -2.82
   Hard days: 2026-03-26, 2026-03-27, 2026-03-30, 2026-03-31, 2026-04-13, 2026-04-14, 2026-04-15
   Zones 14d: race=2 | recovery=1 | endurance=1
   Zone gaps: threshold=47d ago | vo2max=27d ago | sweetspot=26d ago | anaerobic=never
@@ -87,16 +87,14 @@
 3. [W] 3 routes: 🟠 🏔️ [Radio Rendezvous](https://zwiftinsider.com/route/radio-rendezvous/) · [VV](https://veloviewer.com/segment/37716248) · [SS](https://www.strava.com/segments/37716248)[CR] (20.4km/729m, PR 71:23 on 2025-05-14 ~177W/2.3W/kg → est ~48min, ⬆33%) → 🟢 ➡️ [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 on 2024-04-11 ~82W/1.1W/kg → est ~52min, ⬆29%) → 🟢 ➡️ [Hilly KOM Reverse](https://zwiftinsider.com/segment/hilly-kom-reverse/) · [VV](https://veloviewer.com/segment/12128029) · [SS](https://www.strava.com/segments/12128029)[CR] (2.5km/0m, PR 5:05 on 2020-12-17 ~135W/1.8W/kg → est ~4min, ⬆21%) = **~104min, 52.4km/729m, avg ⬆28%**
 
 
-**📡 Zwift Events (8:00-8:30 AM ET):**
-  (no matching events found in this time window)  
-
-
-**🏆 WTRL TTT:  https://www.wtrl.racing/ttt/TTT-Event/**
-  #365 Astoria Line 8 (NEWYORK)  
-   2 laps | 23.6 km | ^286 m | Hilly | Difficulty 2.0  
-   Lead-in: 0.420 km (^2.700 m) | Lap: 11.569 km (^141.400 m)  
-   Time window: 12:00 AM – 10:30 PM EST (Thursdays)  
-   🔧 Equipment: No restrictions (any bike/wheels/kit)  
+**📡 Zwift Events (8:00-8:30 AM ET) — 1 race, 10 rides:**
+- 🏁 08:10 AM  Stage 2: Pas Racing: Handful of Gravel  [B, C, D, E]  x2 laps
+- 🚴 07:45 AM  TOWER 26 Group Workout  [E]
+- 🚴 08:00 AM  WTRL Team Time Trial - Zone 12  [B, C, D, E]  x2 laps
+- 🚴 08:00 AM  Virginia's Blue Ridge TWENTY28 Road to LA  [D]
+- 🚴 08:00 AM  Workout 2 - Zwift Camp: Breakthrough  [E]
+- 🚴 08:05 AM  Ascenders Social Thursday Rides  [C, D]
+- 🚴 08:15 AM  Endure ES Base Building  [E]
 
 
 
@@ -128,6 +126,14 @@
 
 **📡 Zwift Events (8:00-8:30 AM ET):**
   (events not yet available — Zwift API covers ~24h ahead, check closer to the day)  
+
+
+**🏆 WTRL TTT:  https://www.wtrl.racing/ttt/TTT-Event/**
+  #365 Astoria Line 8 (NEWYORK)  
+   2 laps | 23.6 km | ^286 m | Hilly | Difficulty 2.0  
+   Lead-in: 0.420 km (^2.700 m) | Lap: 11.569 km (^141.400 m)  
+   Time window: 12:00 AM – 10:30 PM EST (Thursdays)  
+   🔧 Equipment: No restrictions (any bike/wheels/kit)  
 
 
 
@@ -409,57 +415,57 @@
 World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R=Richmond, F=France, L=London, Y=Yorkshire
 
 **⏱️ 5h+**
-- 🔴 L — [London PRL Full](https://zwiftinsider.com/route/the-prl-full/) · [VV](https://veloviewer.com/segment/12759760) · [SS](https://www.strava.com/segments/12759760) — 173.8 km / 2628 m — Difficulty 5/5 — 3,460 XP — ~582 min, ~103W/1.3W/kg
-- 🔴 W — [The Uber Pretzel](https://zwiftinsider.com/route/the-uber-pretzel/) · [VV](https://veloviewer.com/segment/27313482) · [SS](https://www.strava.com/segments/27313482) — 128.8 km / 2381 m — Difficulty 5/5 — 2,560 XP — ~507 min, ~93W/1.2W/kg
-- 🔴 W — [Four Horsemen](https://zwiftinsider.com/route/four-horsemen/) · [VV](https://veloviewer.com/segment/28020745) · [SS](https://www.strava.com/segments/28020745) — 90.4 km / 2111 m — Difficulty 5/5 — 1,780 XP — ~452 min, ~82W/1.1W/kg
-- 🔴 W — [The Mega Pretzel](https://zwiftinsider.com/route/the-mega-pretzel/) · [VV](https://veloviewer.com/segment/16939150) · [SS](https://www.strava.com/segments/16939150) — 111.0 km / 1659 m — Difficulty 5/5 — 2,140 XP — ~369 min, ~103W/1.4W/kg
+- ⛰️ 🔴 L — [London PRL Full](https://zwiftinsider.com/route/the-prl-full/) · [VV](https://veloviewer.com/segment/12759760) · [SS](https://www.strava.com/segments/12759760) — 173.8 km / 2628 m — Difficulty 5/5 — 3,460 XP — ~582 min, ~103W/1.3W/kg
+- ⛰️ 🔴 W — [The Uber Pretzel](https://zwiftinsider.com/route/the-uber-pretzel/) · [VV](https://veloviewer.com/segment/27313482) · [SS](https://www.strava.com/segments/27313482) — 128.8 km / 2381 m — Difficulty 5/5 — 2,560 XP — ~507 min, ~93W/1.2W/kg
+- ⛰️ 🔴 W — [Four Horsemen](https://zwiftinsider.com/route/four-horsemen/) · [VV](https://veloviewer.com/segment/28020745) · [SS](https://www.strava.com/segments/28020745) — 90.4 km / 2111 m — Difficulty 5/5 — 1,780 XP — ~452 min, ~82W/1.1W/kg
+- 🔀 🔴 W — [The Mega Pretzel](https://zwiftinsider.com/route/the-mega-pretzel/) · [VV](https://veloviewer.com/segment/16939150) · [SS](https://www.strava.com/segments/16939150) — 111.0 km / 1659 m — Difficulty 5/5 — 2,140 XP — ~369 min, ~103W/1.4W/kg
 ---
 **⏱️ 4h+**
-- 🔴 W — [Watopia Pretzel](https://zwiftinsider.com/route/the-pretzel/) · [VV](https://veloviewer.com/segment/12118762) · [SS](https://www.strava.com/segments/12118762) — 73.0 km / 1361 m — Difficulty 5/5 — 1,440 XP — ~290 min, ~93W/1.2W/kg
+- ⛰️ 🔴 W — [Watopia Pretzel](https://zwiftinsider.com/route/the-pretzel/) · [VV](https://veloviewer.com/segment/12118762) · [SS](https://www.strava.com/segments/12118762) — 73.0 km / 1361 m — Difficulty 5/5 — 1,440 XP — ~290 min, ~93W/1.2W/kg
 ---
 **⏱️ 3h+**
-- 🔴 W — [Quatch Quest](https://zwiftinsider.com/route/quatch-quest/) · [VV](https://veloviewer.com/segment/21344377) · [SS](https://www.strava.com/segments/21344377) — 46.8 km / 1706 m — Difficulty 5/5 — 920 XP — ~234 min, ~118W/1.6W/kg
-- 🔴 W — [Power to the Tower](https://zwiftinsider.com/route/power-to-the-tower/) · [VV](https://veloviewer.com/segment/37731230) · [SS](https://www.strava.com/segments/37731230) — 45.6 km / 1496 m — Difficulty 5/5 — 900 XP — ~228 min, ~108W/1.4W/kg
-- 🟠 L — [Surrey Hills](https://zwiftinsider.com/route/surrey-hills/) · [VV](https://veloviewer.com/segment/24008116) · [SS](https://www.strava.com/segments/24008116) — 44.1 km / 1034 m — Difficulty 4/5 — 820 XP — ~221 min, ~82W/1.1W/kg
-- 🔴 N — [Fuhgeddaboudit](https://zwiftinsider.com/route/fuhgeddaboudit/) · [VV](https://veloviewer.com/segment/40335851) · [SS](https://www.strava.com/segments/40335851) — 79.0 km / 838 m — Difficulty 5/5 — 1,595 XP — ~220 min, ~114W/1.5W/kg
-- 🟡 W — [Accelerate to Elevate](https://zwiftinsider.com/route/accelerate-to-elevate/) · [VV](https://veloviewer.com/segment/35705419) · [SS](https://www.strava.com/segments/35705419) — 43.5 km / 1158 m — Difficulty 3/5 — 825 XP — ~218 min, ~91W/1.2W/kg
-- 🔴 M — [Makuri Pretzel](https://zwiftinsider.com/route/makuri-pretzel/) · [VV](https://veloviewer.com/segment/37684132) · [SS](https://www.strava.com/segments/37684132) — 78.7 km / 623 m — Difficulty 5/5 — 1,550 XP — ~199 min, ~121W/1.6W/kg
-- 🟠 W — [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) · [VV](https://veloviewer.com/segment/21911191) · [SS](https://www.strava.com/segments/21911191) — 69.9 km / 714 m — Difficulty 4/5 — 1,340 XP — ~192 min, ~115W/1.5W/kg
-- 🟠 W — [Three Sisters](https://zwiftinsider.com/route/three-sisters/) · [VV](https://veloviewer.com/segment/15159137) · [SS](https://www.strava.com/segments/15159137) — 48.5 km / 896 m — Difficulty 4.5/5 — 950 XP — ~191 min, ~93W/1.2W/kg
-- 🟡 W — [ZG25 Queen](https://zwiftinsider.com/route/zg25-queen/) · [VV](https://veloviewer.com/segment/38412699) · [SS](https://www.strava.com/segments/38412699) — 44.8 km / 894 m — Difficulty 3/5 — 895 XP — ~191 min, ~89W/1.2W/kg
+- 🏔️ 🔴 W — [Quatch Quest](https://zwiftinsider.com/route/quatch-quest/) · [VV](https://veloviewer.com/segment/21344377) · [SS](https://www.strava.com/segments/21344377) — 46.8 km / 1706 m — Difficulty 5/5 — 920 XP — ~234 min, ~118W/1.6W/kg
+- 🏔️ 🔴 W — [Power to the Tower](https://zwiftinsider.com/route/power-to-the-tower/) · [VV](https://veloviewer.com/segment/37731230) · [SS](https://www.strava.com/segments/37731230) — 45.6 km / 1496 m — Difficulty 5/5 — 900 XP — ~228 min, ~108W/1.4W/kg
+- ⛰️ 🟠 L — [Surrey Hills](https://zwiftinsider.com/route/surrey-hills/) · [VV](https://veloviewer.com/segment/24008116) · [SS](https://www.strava.com/segments/24008116) — 44.1 km / 1034 m — Difficulty 4/5 — 820 XP — ~221 min, ~82W/1.1W/kg
+- 🔀 🔴 N — [Fuhgeddaboudit](https://zwiftinsider.com/route/fuhgeddaboudit/) · [VV](https://veloviewer.com/segment/40335851) · [SS](https://www.strava.com/segments/40335851) — 79.0 km / 838 m — Difficulty 5/5 — 1,595 XP — ~220 min, ~114W/1.5W/kg
+- 🏔️ 🟡 W — [Accelerate to Elevate](https://zwiftinsider.com/route/accelerate-to-elevate/) · [VV](https://veloviewer.com/segment/35705419) · [SS](https://www.strava.com/segments/35705419) — 43.5 km / 1158 m — Difficulty 3/5 — 825 XP — ~218 min, ~91W/1.2W/kg
+- ➡️ 🔴 M — [Makuri Pretzel](https://zwiftinsider.com/route/makuri-pretzel/) · [VV](https://veloviewer.com/segment/37684132) · [SS](https://www.strava.com/segments/37684132) — 78.7 km / 623 m — Difficulty 5/5 — 1,550 XP — ~199 min, ~121W/1.6W/kg
+- 🔀 🟠 W — [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) · [VV](https://veloviewer.com/segment/21911191) · [SS](https://www.strava.com/segments/21911191) — 69.9 km / 714 m — Difficulty 4/5 — 1,340 XP — ~192 min, ~115W/1.5W/kg
+- ⛰️ 🟠 W — [Three Sisters](https://zwiftinsider.com/route/three-sisters/) · [VV](https://veloviewer.com/segment/15159137) · [SS](https://www.strava.com/segments/15159137) — 48.5 km / 896 m — Difficulty 4.5/5 — 950 XP — ~191 min, ~93W/1.2W/kg
+- ⛰️ 🟡 W — [ZG25 Queen](https://zwiftinsider.com/route/zg25-queen/) · [VV](https://veloviewer.com/segment/38412699) · [SS](https://www.strava.com/segments/38412699) — 44.8 km / 894 m — Difficulty 3/5 — 895 XP — ~191 min, ~89W/1.2W/kg
 ---
 **⏱️ 2h+**
-- 🟡 F — [Tire-Bouchon](https://zwiftinsider.com/route/tire-bouchon/) · [VV](https://veloviewer.com/segment/24690941) · [SS](https://www.strava.com/segments/24690941) — 63.9 km / 587 m — Difficulty 3.5/5 — 1,220 XP — ~169 min, ~118W/1.5W/kg
-- 🟡 F — [Sacre Bleu](https://zwiftinsider.com/route/sacre-bleu/) · [VV](https://veloviewer.com/segment/39270823) · [SS](https://www.strava.com/segments/39270823) — 71.2 km / 396 m — Difficulty 3/5 — 1,425 XP — ~167 min, ~126W/1.7W/kg
+- 🔀 🟡 F — [Tire-Bouchon](https://zwiftinsider.com/route/tire-bouchon/) · [VV](https://veloviewer.com/segment/24690941) · [SS](https://www.strava.com/segments/24690941) — 63.9 km / 587 m — Difficulty 3.5/5 — 1,220 XP — ~169 min, ~118W/1.5W/kg
+- ➡️ 🟡 F — [Sacre Bleu](https://zwiftinsider.com/route/sacre-bleu/) · [VV](https://veloviewer.com/segment/39270823) · [SS](https://www.strava.com/segments/39270823) — 71.2 km / 396 m — Difficulty 3/5 — 1,425 XP — ~167 min, ~126W/1.7W/kg
 ---
 **⏱️ 1h+**
-- 🟢 W — [Climb Control](https://zwiftinsider.com/route/climb-control/) · [VV](https://veloviewer.com/segment/40385661) · [SS](https://www.strava.com/segments/40385661) — 23.7 km / 191 m — Difficulty 2/5 — 475 XP — ~60 min, ~121W/1.6W/kg
+- 🔀 🟢 W — [Climb Control](https://zwiftinsider.com/route/climb-control/) · [VV](https://veloviewer.com/segment/40385661) · [SS](https://www.strava.com/segments/40385661) — 23.7 km / 191 m — Difficulty 2/5 — 475 XP — ~60 min, ~121W/1.6W/kg
 ---
 **⏱️ <1h**
-- 🟢 M — [Yumezi Grit](https://zwiftinsider.com/route/yumezi-grit/) · [VV](https://veloviewer.com/segment/41092576) · [SS](https://www.strava.com/segments/41092576) — 7.5 km / 83 m — Difficulty 2/5 — 150 XP — ~21 min, ~115W/1.5W/kg
+- 🔀 🟢 M — [Yumezi Grit](https://zwiftinsider.com/route/yumezi-grit/) · [VV](https://veloviewer.com/segment/41092576) · [SS](https://www.strava.com/segments/41092576) — 7.5 km / 83 m — Difficulty 2/5 — 150 XP — ~21 min, ~115W/1.5W/kg
 
 ---
 
 ### 💀 REBEL ROUTES UNCOMPLETED
 
-**Status: 16/25 completed** ()
+**Status: 16/25 completed** (Big Ring Little Ring, Big Ring Little Ring Reverse, Canyon to Cavern, Cliffside Epic Double, Dirty Temple KOM Loop, Epic Loop, Fower Power, Hilly KOM Bypass, Litus Fugit, Mangrove Circuit, Nessie's Loop, Sgurr 8, Spiral Into the Volcano, Summit City Velodrome, The Roads Less Traveled, Urukazi Flats)
 
 **⏱️ 5h+**
-- 🔴 W — [The Full Watopia](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40760759) · [SS](https://www.strava.com/segments/40760759) — 154.5 km / 2852 m — ~607 min, ~93W/1.2W/kg | Start: Oh Hill No → 0.3km
-- 🔴 W — [KOMonster](https://zwiftinsider.com/komonster/) · [VV](https://veloviewer.com/segment/21645117) · [SS](https://www.strava.com/segments/21645117) — 99.8 km / 2570 m — ~499 min, ~89W/1.2W/kg | Start: Hilly Route → 3.0km
-- 🔴 F — [Toutes les Routes](https://zwiftinsider.com/toutes-les-routes/) · [VV](https://veloviewer.com/segment/24982012) · [SS](https://www.strava.com/segments/24982012) — 104.8 km / 1968 m — ~419 min, ~92W/1.2W/kg | Start: Casse-Pattes → 3.0km
-- 🔴 W — [The Perimeter](https://zwiftinsider.com/the-perimeter/) · [VV](https://veloviewer.com/segment/20483387) · [SS](https://www.strava.com/segments/20483387) — 82.3 km / 1874 m — ~412 min, ~81W/1.1W/kg | Start: Bigger Loop → 1.0km
+- ⛰️ 🔴 W — [The Full Watopia](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40760759) · [SS](https://www.strava.com/segments/40760759) — 154.5 km / 2852 m — ~607 min, ~93W/1.2W/kg | Start: Oh Hill No → 0.3km
+- 🏔️ 🔴 W — [KOMonster](https://zwiftinsider.com/komonster/) — 99.8 km / 2570 m — ~499 min, ~89W/1.2W/kg | Start: Hilly Route → 3.0km
+- ⛰️ 🔴 F — [Toutes les Routes](https://zwiftinsider.com/toutes-les-routes/) · [VV](https://veloviewer.com/segment/24982012) · [SS](https://www.strava.com/segments/24982012) — 104.8 km / 1968 m — ~419 min, ~92W/1.2W/kg | Start: Casse-Pattes → 3.0km
+- ⛰️ 🔴 W — [The Perimeter](https://zwiftinsider.com/the-perimeter/) · [VV](https://veloviewer.com/segment/20483387) · [SS](https://www.strava.com/segments/20483387) — 82.3 km / 1874 m — ~412 min, ~81W/1.1W/kg | Start: Bigger Loop → 1.0km
 ---
 **⏱️ 4h+**
-- 🔴 W — [Down Up Down](https://zwiftinsider.com/down-up-down/) · [VV](https://veloviewer.com/segment/24393519) · [SS](https://www.strava.com/segments/24393519) — 49.4 km / 1257 m — ~247 min, ~88W/1.2W/kg | Start: Flat Route → 2.0km
+- 🏔️ 🔴 W — [Down Up Down](https://zwiftinsider.com/down-up-down/) · [VV](https://veloviewer.com/segment/24393519) · [SS](https://www.strava.com/segments/24393519) — 49.4 km / 1257 m — ~247 min, ~88W/1.2W/kg | Start: Flat Route → 2.0km
 ---
 **⏱️ 3h+**
-- 🔴 W — [The Marvelous Metric](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40883256) · [SS](https://www.strava.com/segments/40883256) — 102.0 km / 489 m — ~234 min, ~128W/1.7W/kg | Start: Mountain Mash → 5.0km
-- 🔴 M — [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737) — 80.9 km / 650 m — ~206 min, ~120W/1.6W/kg | Start: Two Village Loop → 0.2km
-- 🔴 W — [The Snake](https://zwiftinsider.com/snake/) · [VV](https://veloviewer.com/segment/22313236) · [SS](https://www.strava.com/segments/22313236) — 77.4 km / 661 m — ~200 min, ~119W/1.6W/kg | Start: Tempus Fugit → 3.5km
+- ➡️ 🔴 W — [The Marvelous Metric](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40883256) · [SS](https://www.strava.com/segments/40883256) — 102.0 km / 489 m — ~234 min, ~128W/1.7W/kg | Start: Mountain Mash → 5.0km
+- 🔀 🔴 M — [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737) — 80.9 km / 650 m — ~206 min, ~120W/1.6W/kg | Start: Two Village Loop → 0.2km
+- 🔀 🔴 W — [The Snake](https://zwiftinsider.com/snake/) · [VV](https://veloviewer.com/segment/22313236) · [SS](https://www.strava.com/segments/22313236) — 77.4 km / 661 m — ~200 min, ~119W/1.6W/kg | Start: Tempus Fugit → 3.5km
 ---
 **⏱️ 2h+**
-- 🔴 N — [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671) — 57.8 km / 596 m — ~159 min, ~115W/1.5W/kg | Start: The Highline → 0.2km
+- 🔀 🔴 N — [The Full New York](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40678671) · [SS](https://www.strava.com/segments/40678671) — 57.8 km / 596 m — ~159 min, ~115W/1.5W/kg | Start: The Highline → 0.2km
 
 📁 Workout .zwo files: Workouts/
 💾 Full plan saved to: PLAN.md

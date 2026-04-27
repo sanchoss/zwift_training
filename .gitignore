@@ -21,6 +21,7 @@ vv_routes_db.json
 upload_plan_to_drive.py
 weekly_plan.py
 workout_state.json
+set_world.py
 
 Rebel_Routes/gen_rebel_routes.py
 strava_missing_segments.md

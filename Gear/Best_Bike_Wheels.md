@@ -1,0 +1,119 @@
+# Zwift Best Bike + Wheels — Quick Reference
+
+> Last updated: 2026-05-10
+> Sources: zwiftinsider.com — Frames (May 2025), Wheels (Apr 2026), Halo (Mar 2025), Tron vs Top (Aug 2025)
+> Test: 75 kg / 183 cm bot @ 300W (4 W/kg), baseline = Zwift Carbon + 32mm wheels
+
+## CLIMBING (Alpe, Ven-Top, steep races)
+
+| # | Frame (Stg 5) | Wheels | Flat s/hr | Climb s/hr |
+|---|---------------|--------|-----------|------------|
+| 1 | S-Works Aethos | Princeton Alta 3532 | ~60 | **~129** |
+| 2 | S-Works Tarmac SL8 | Princeton Alta 3532 | ~82 | ~108 |
+| 3 | Concept Z1 (Tron) | built-in (no swap) | 144.0 | 66.8 |
+
+## FLAT (Tempus Fugit, sprint races, flat crits)
+
+| # | Frame (Stg 5) | Wheels | Flat s/hr | Climb s/hr |
+|---|---------------|--------|-----------|------------|
+| 1 | Specialized Project '74 (Halo) | built-in | **154.4** | 34.7 |
+| 2 | Cannondale R4000 (Halo) | built-in | 150.8 | 42.0 |
+| 3 | Concept Z1 (Tron) | built-in | 144.0 | 66.8 |
+| 4 | S-Works Venge | DT Swiss Disc/85 | ~115 | ~22 |
+| 5 | S-Works Tarmac SL8 | DT Swiss 65 | ~104 | ~52 |
+
+## HILLY / ALL-ROUND (most races, mixed terrain)
+
+| # | Frame (Stg 5) | Wheels | Flat s/hr | Climb s/hr | **Total** |
+|---|---------------|--------|-----------|------------|-----------|
+| 1 | Concept Z1 (Tron) | built-in | 144.0 | 66.8 | **210.8** |
+| 2 | S-Works Tarmac SL8 | Princeton Wake 6560 | ~102 | ~106 | **~208** |
+| 3 | Can. SuperSix LAB71 | Princeton Wake 6560 | ~101 | ~102 | ~203 |
+| 4 | Pinarello Dogma F '24 | Princeton Wake 6560 | ~102 | ~97 | ~199 |
+| 5 | Cannondale R4000 (Halo) | built-in | 150.8 | 42.0 | 192.8 |
+
+## TT BIKES (no drafting)
+
+| # | Frame (Stg 5) | Wheels | Flat s/hr | Climb s/hr |
+|---|---------------|--------|-----------|------------|
+| 1 | Pinarello Espada (Halo) | built-in | **283.7** | -46.2 |
+| 2 | Cadex Tri | Zipp 858/Super9 | ~235 | ~-15 |
+
+## Top Wheels Reference
+
+| Use case | Wheel | Flat s/hr | Climb s/hr |
+|----------|-------|-----------|------------|
+| Climbing | Princeton Alta 3532 | — | **#1** |
+| Climbing #2 | Princeton Wake 6560 | — | #2 |
+| All-round | Princeton Wake 6560 | mid | mid-high |
+| All-round #2 | ENVE SES 4.5 PRO | mid | mid |
+| Flat | DT Swiss Disc (rear) + 85 (front) | **#1** | worst |
+| Flat #2 | Zipp 858/Super9 | #2 | bad |
+| Flat road | DT Swiss 65 | high | low |
+
+## ZwifterBikes — Route Rankings (Stage 5, all frames)
+
+> Source: https://zwifterbikes.web.app
+> Test: 300W / 4.00 W/kg — Stage 5, Level 98, 10M drops — all frames unlocked
+> ✅ Includes S-Works, Princeton wheels, Halo bikes, all Stage 5 upgrades
+> ⚠️ All frames below need max Level 40 — your Level 80 can buy everything
+> 🔒 Halo bikes (PROJECT 74, R4000) need 3× brand frames upgraded to Stage 5 + 10M drops
+> 🔒 Concept Z1 (Tron) not in ZwifterBikes — see ZwiftInsider sections above
+
+### CLIMBING — Alpe du Zwift (12.4 km / 1,053 m)
+
+| # | Frame | Wheels | Time | Gap | Req |
+|---|-------|--------|------|-----|-----|
+| 1 | Specialized Aethos | Princeton Alta 3532 | **48:41.27** | — | Lvl 30+35 |
+| 2 | Specialized Aethos | Princeton Wake 6560 | 48:42.98 | +1.71s | Lvl 30+32 |
+| 3 | Specialized Aethos | Zipp 353 NSW | 48:44.88 | +3.61s | Lvl 30+24 |
+| 4 | Specialized Aethos | Roval Alpinist CLX | 48:44.95 | +3.68s | Lvl 30+38 |
+| 5 | Specialized Aethos | ENVE SES 4.5 PRO | 48:45.37 | +4.10s | Lvl 30 |
+
+Best non-Aethos: #31 Bridgestone SR9s +11.80s (Lvl 10) · #33 Trek Emonda +12.33s (free)
+
+**Climb insight:** Aethos dominates — top 30 are all Aethos with different wheels. Princeton Alta 3532 best climbing wheel, Wake 6560 close 2nd.
+
+### FLAT — Tempus Fugit (17.3 km / 16 m)
+
+| # | Frame | Wheels | Time | Gap | Req |
+|---|-------|--------|------|-----|-----|
+| 1 | PROJECT 74 🔒 | built-in | **28:26.31** | — | Halo |
+| 2 | R4000 Roller Blade 🔒 | built-in | 28:27.85 | +1.54s | Halo |
+| 3 | S-Works Venge | DT Swiss 85/Disc | 28:30.38 | +4.07s | Lvl 37+40 |
+| 4 | Canyon Aeroad 2024 | DT Swiss 85/Disc | 28:30.47 | +4.16s | Lvl 10+40 |
+| 5 | Felt AR | DT Swiss 85/Disc | 28:30.66 | +4.35s | Lvl 23+40 |
+
+Best non-Halo frames: Cervelo S5 +4.45s (Lvl 36) · Dogma F'24 +4.70s (Lvl 40) · SL8 +4.87s (Lvl 40) · Giant TCR Adv SL 2025 +4.96s (Lvl 25)
+
+**Flat insight:** Halo bikes ~4s ahead. Non-Halo: Venge edges Aeroad by 0.09s, DT Swiss 85/Disc best flat wheel for all frames.
+
+### HILLY / ALL-ROUND — Road to Ruins (29.6 km / 268 m)
+
+| # | Frame | Wheels | Time | Gap | Req |
+|---|-------|--------|------|-----|-----|
+| 1 | PROJECT 74 🔒 | built-in | **48:27.70** | — | Halo |
+| 2 | R4000 Roller Blade 🔒 | built-in | 48:29.04 | +1.34s | Halo |
+| 3 | S-Works Tarmac SL8 | DT Swiss 85/Disc | 48:29.86 | +2.16s | Lvl 40 |
+| 4 | S-Works Tarmac SL8 | DT Swiss 65 | 48:30.59 | +2.89s | Lvl 40+29 |
+| 5 | Can. SuperSix LAB71 | DT Swiss 85/Disc | 48:30.64 | +2.94s | Lvl 40 |
+
+Best other frames: Canyon Aeroad 2024 +2.97s (Lvl 10) · Dogma F'24 +3.12s (Lvl 40) · S-Works Venge +4.16s (Lvl 37) · Felt AR +4.48s (Lvl 23)
+
+**Hilly insight:** Halo bikes still #1-2 on rolling terrain. SL8 beats Venge on hills (+2.16 vs +4.16). DT Swiss 85/Disc still best wheel even with 268m climbing.
+
+### ZwifterBikes Summary — Best Combo per Route Type (Stage 5)
+
+| Route type | Best frame | Best wheels | Key |
+|------------|-----------|-------------|-----|
+| Climbing | Specialized Aethos (Lvl 30) | Princeton Alta 3532 (Lvl 35) | Weight > aero — Aethos crushes all |
+| Flat | PROJECT 74 🔒 / S-Works Venge | DT Swiss 85/Disc (Lvl 40) | Halo > Venge > Aeroad |
+| Hilly | PROJECT 74 🔒 / S-Works SL8 | DT Swiss 85/Disc (Lvl 40) | SL8 best non-Halo all-rounder |
+
+## Notes
+- Halo bikes cannot swap wheels
+- 🔒 Halo unlock: 3× same-brand frames to Stage 5 + 10M drops (see Project_74_Plan.md)
+- Princeton CW wheels (Alta 3532, Wake 6560) NOT yet in Tron vs Top Performers chart
+- At lower W/kg (<3.5), Aethos beats SL8 on climbs by larger margin
+- Tron = best all-round but needs 3 Zwift frames upgraded + Everest challenge
+- All non-Halo frames need max Level 40 — fully available at your Level 80

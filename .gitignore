@@ -17,6 +17,7 @@ left_routes_links.html
 PLAN.html
 rides_intervals_icu.md
 route_db.json
+routes_master.json
 vv_routes_db.json
 upload_plan_to_drive.py
 weekly_plan.py
@@ -25,3 +26,5 @@ set_world.py
 
 Rebel_Routes/gen_rebel_routes.py
 strava_missing_segments.md
+Gear/indoor_bib_shorts.md
+.vscode/

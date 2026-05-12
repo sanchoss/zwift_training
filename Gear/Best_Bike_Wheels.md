@@ -56,9 +56,9 @@
 > Source: https://zwifterbikes.web.app
 > Test: 300W / 4.00 W/kg — Stage 5, Level 98, 10M drops — all frames unlocked
 > ✅ Includes S-Works, Princeton wheels, Halo bikes, all Stage 5 upgrades
-> ⚠️ All frames below need max Level 40 — your Level 80 can buy everything
+> ⚠️ All frames below need max Level 40 — your Level 81 can buy everything
 > 🔒 Halo bikes (PROJECT 74, R4000) need 3× brand frames upgraded to Stage 5 + 10M drops
-> 🔒 Concept Z1 (Tron) not in ZwifterBikes — see ZwiftInsider sections above
+> ✅ Concept Z1 (Tron) not in ZwifterBikes — you own it, see ZwiftInsider sections above
 
 ### CLIMBING — Alpe du Zwift (12.4 km / 1,053 m)
 

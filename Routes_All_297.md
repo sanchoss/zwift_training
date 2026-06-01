@@ -25,8 +25,8 @@
 
 ## Watopia (115 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 7 | 🏔️ | Accelerate to Elevate | 41.1 km | 1126 m | ✅ | [ZI](https://zwiftinsider.com/route/accelerate-to-elevate/) | [VV](https://veloviewer.com/segment/35705419) | [SS](https://www.strava.com/segments/35705419) |
 | 9 | 🏔️ | Alpe du Zwift | 12.2 km | 1035 m | ✅ | — | [VV](https://veloviewer.com/segment/17267489) | [SS](https://www.strava.com/segments/17267489) |
 | 15 | ➡️ | Beach Island Loop | 12.8 km | 43 m | ✅ | — | [VV](https://veloviewer.com/segment/26741693) | [SS](https://www.strava.com/segments/26741693) |
@@ -147,8 +147,8 @@
 
 ## New York (40 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 5 | 🏔️ | 23rd St KOM | 0.3 km | 27 m | ✅ | — | [VV](https://veloviewer.com/segment/12128917) | [SS](https://www.strava.com/segments/12128917) |
 | 6 | 🏔️ | 23rd St KOM Reverse | 1.1 km | 38 m | ✅ | — | [VV](https://veloviewer.com/segment/22813206) | [SS](https://www.strava.com/segments/22813206) |
 | 12 | 🔀 | Astoria Line 8 | 11.6 km | 129 m | ✅ | — | [VV](https://veloviewer.com/segment/19141340) | [SS](https://www.strava.com/segments/19141340) |
@@ -194,8 +194,8 @@
 
 ## Makuri Islands (49 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 26 | 🔀 | Bridges and Boardwalks | 6.4 km | 56 m | ✅ | — | [VV](https://veloviewer.com/segment/33221600) | [SS](https://www.strava.com/segments/33221600) |
 | 30 | ⛰️ | Castle KOM | 2.7 km | 63 m | ✅ | — | [VV](https://veloviewer.com/segment/28433453) | [SS](https://www.strava.com/segments/28433453) |
 | 31 | ➡️ | Castle to Castle | 22.4 km | 113 m | ✅ | — | [VV](https://veloviewer.com/segment/30629803) | [SS](https://www.strava.com/segments/30629803) |
@@ -250,8 +250,8 @@
 
 ## London (20 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 23 | 🏔️ | Box Hill KOM | 3.0 km | 135 m | ✅ | — | [VV](https://veloviewer.com/segment/12744502) | [SS](https://www.strava.com/segments/12744502) |
 | 36 | ➡️ | Classique | 5.4 km | 19 m | ✅ | — | [VV](https://veloviewer.com/segment/12749761) | [SS](https://www.strava.com/segments/12749761) |
 | 72 | 🏔️ | Fox Hill KOM | 2.4 km | 123 m | ✅ | — | [VV](https://veloviewer.com/segment/16802545) | [SS](https://www.strava.com/segments/16802545) |
@@ -277,8 +277,8 @@
 
 ## France (27 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 10 | 🔀 | Aqueduc KOM | 0.4 km | 4 m | ✅ | — | [VV](https://veloviewer.com/segment/24700976) | [SS](https://www.strava.com/segments/24700976) |
 | 11 | ⛰️ | Aqueduc KOM Reverse | 0.4 km | 9 m | ✅ | — | [VV](https://veloviewer.com/segment/24701010) | [SS](https://www.strava.com/segments/24701010) |
 | 22 | ➡️ | Bon Voyage | 28.2 km | 103 m | ✅ | — | [VV](https://veloviewer.com/segment/39240977) | [SS](https://www.strava.com/segments/39240977) |
@@ -311,8 +311,8 @@
 
 ## Scotland (19 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 14 | 🔀 | BRAEk-fast Crits and Grits | 20.8 km | 210 m | ✅ | — | [VV](https://veloviewer.com/segment/37675052) | [SS](https://www.strava.com/segments/37675052) |
 | 24 | ⛰️ | Breakaway Brae | 0.6 km | 14 m | ✅ | — | [VV](https://veloviewer.com/segment/33620168) | [SS](https://www.strava.com/segments/33620168) |
 | 25 | ⛰️ | Breakaway Brae Reverse | 0.4 km | 8 m | ✅ | — | [VV](https://veloviewer.com/segment/38170246) | [SS](https://www.strava.com/segments/38170246) |
@@ -337,8 +337,8 @@
 
 ## Innsbruck (9 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 3 | ⛰️ | 2018 UCI Worlds Course Short Lap | 23.7 km | 487 m | ✅ | — | [VV](https://veloviewer.com/segment/18397725) | [SS](https://www.strava.com/segments/18397725) |
 | 8 | ⛰️ | Achterbahn | 47.4 km | 973 m | ✅ | [ZI](https://zwiftinsider.com/route/achterbahn/) | [VV](https://veloviewer.com/segment/18398698) | [SS](https://www.strava.com/segments/18398698) |
 | 92 | ⛰️ | Innsbruck KOM After Party | 36.9 km | 640 m | ✅ | — | [VV](https://veloviewer.com/segment/40839198) | [SS](https://www.strava.com/segments/40839198) |
@@ -353,8 +353,8 @@
 
 ## Richmond (9 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 1 | 🔀 | 2015 UCI Worlds Course | 16.2 km | 142 m | ✅ | — | [VV](https://veloviewer.com/segment/12128718) | [SS](https://www.strava.com/segments/12128718) |
 | 2 | 🔀 | 2015 UCI Worlds Course Reverse | 16.2 km | 142 m | ✅ | — | [VV](https://veloviewer.com/segment/22809649) | [SS](https://www.strava.com/segments/22809649) |
 | 42 | 🔀 | Cobbled Climbs | 9.2 km | 125 m | ✅ | — | [VV](https://veloviewer.com/segment/11308213) | [SS](https://www.strava.com/segments/11308213) |
@@ -369,8 +369,8 @@
 
 ## Yorkshire (9 routes)
 
-| # | Terrain | Route | Dist | Elev | Status | ZI | VV | SS |
-|---|---------|-------|------|------|--------|----|----|----| 
+| # | Terrain | Route | Dist | Elev | Status | ZwiftInsider | VeloViewer | Strava |
+|---|---------|-------|------|------|--------|--------------|------------|--------| 
 | 4 | ⛰️ | 2019 UCI Worlds Harrogate Circuit | 13.8 km | 239 m | ✅ | — | [VV](https://veloviewer.com/segment/21738724) | [SS](https://www.strava.com/segments/21738724) |
 | 54 | 🔀 | Duchy Estate (Banner to Banner) | 3.0 km | 36 m | ✅ | — | [VV](https://veloviewer.com/segment/21748097) | [SS](https://www.strava.com/segments/21748097) |
 | 86 | 🏔️ | Harrogate KOM Reverse | 1.2 km | 48 m | ✅ | — | [VV](https://veloviewer.com/segment/21747891) | [SS](https://www.strava.com/segments/21747891) |

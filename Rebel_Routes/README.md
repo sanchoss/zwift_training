@@ -14,13 +14,13 @@
 
 ## Makuri Islands (5 routes)
 
-| Route | Approach Route | Approach km | Dist | Elev | Status | Strava | VeloViewer | ZwiftInsider |
-|-------|----------------|-------------|------|------|--------|--------|------------|--------------|
-| Canyon to Cavern | [Turf N Surf](https://zwiftinsider.com/route/turf-n-surf/) | — | 13.4 km | 87 m | ✅ | [Strava](https://www.strava.com/segments/33397045) | [VeloViewer](https://veloviewer.com/segment/33397045) | [ZwiftInsider](https://zwiftinsider.com/canyon-to-cavern/) |
-| Dirty Temple KOM Loop | [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) | 3.2 km | 4.4 km | 75 m | ✅ | [Strava](https://www.strava.com/segments/31415608) | [VeloViewer](https://veloviewer.com/segment/31415608) | [ZwiftInsider](https://zwiftinsider.com/dirty-temple-kom-loop/) |
-| Mangrove Circuit | [Island Hopper](https://zwiftinsider.com/route/island-hopper/) | — | 1.9 km | 13 m | ✅ | [Strava](https://www.strava.com/segments/33397094) | [VeloViewer](https://veloviewer.com/segment/33397094) | [ZwiftInsider](https://zwiftinsider.com/mangrove-circuit/) |
-| The Full Makuri | [Two Village Loop](https://zwiftinsider.com/route/two-village-loop/) | — | 80.9 km | 650 m | ⬜ | [Strava](https://www.strava.com/segments/40661737) | [VeloViewer](https://veloviewer.com/segment/40661737) | [ZwiftInsider](https://zwiftinsider.com/the-full-makuri/) |
-| Urukazi Flats | [Bridges and Boardwalks](https://zwiftinsider.com/route/bridges-and-boardwalks/) | — | 7.5 km | 22 m | ✅ | [Strava](https://www.strava.com/segments/33396865) | [VeloViewer](https://veloviewer.com/segment/33396865) | [ZwiftInsider](https://zwiftinsider.com/urukazi-flats/) |
+| Terrain | Route | Approach Route | Approach km | Dist | Elev | Status | Strava | VeloViewer | ZwiftInsider |
+|---------|-------|----------------|-------------|------|------|--------|--------|------------|--------------|
+| ➡️ | Canyon to Cavern | [Turf N Surf](https://zwiftinsider.com/route/turf-n-surf/) | — | 13.4 km | 87 m | ✅ | [Strava](https://www.strava.com/segments/33397045) | [VeloViewer](https://veloviewer.com/segment/33397045) | [ZwiftInsider](https://zwiftinsider.com/canyon-to-cavern/) |
+| ⛰️ | Dirty Temple KOM Loop | [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) | 3.2 km | 4.4 km | 75 m | ✅ | [Strava](https://www.strava.com/segments/31415608) | [VeloViewer](https://veloviewer.com/segment/31415608) | [ZwiftInsider](https://zwiftinsider.com/dirty-temple-kom-loop/) |
+| ➡️ | Mangrove Circuit | [Island Hopper](https://zwiftinsider.com/route/island-hopper/) | — | 1.9 km | 13 m | ✅ | [Strava](https://www.strava.com/segments/33397094) | [VeloViewer](https://veloviewer.com/segment/33397094) | [ZwiftInsider](https://zwiftinsider.com/mangrove-circuit/) |
+| 🔀 | The Full Makuri | [Two Village Loop](https://zwiftinsider.com/route/two-village-loop/) | — | 80.9 km | 650 m | ⬜ | [Strava](https://www.strava.com/segments/40661737) | [VeloViewer](https://veloviewer.com/segment/40661737) | [ZwiftInsider](https://zwiftinsider.com/the-full-makuri/) |
+| ➡️ | Urukazi Flats | [Bridges and Boardwalks](https://zwiftinsider.com/route/bridges-and-boardwalks/) | — | 7.5 km | 22 m | ✅ | [Strava](https://www.strava.com/segments/33396865) | [VeloViewer](https://veloviewer.com/segment/33396865) | [ZwiftInsider](https://zwiftinsider.com/urukazi-flats/) |
 
 ## New York (1 route)
 

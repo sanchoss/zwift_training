@@ -116,4 +116,22 @@ Best other frames: Canyon Aeroad 2024 +2.97s (Lvl 10) · Dogma F'24 +3.12s (Lvl 
 - Princeton CW wheels (Alta 3532, Wake 6560) NOT yet in Tron vs Top Performers chart
 - At lower W/kg (<3.5), Aethos beats SL8 on climbs by larger margin
 - Tron = best all-round but needs 3 Zwift frames upgraded + Everest challenge
-- All non-Halo frames need max Level 40 — fully available at your Level 80
+- All non-Halo frames need max Level 40 — fully available at your Level 84
+
+## My Garage — Frames I Own
+| Frame | Aero | Weight | Stage | Notes |
+|-------|------|--------|-------|-------|
+| Concept Z1 (Tron) | ★★★★ | ★★★★ | 4/5 (58km to 5) | Best all-round I own |
+| Zwift TT | ★★★★ | ★ | Lv5 | No drafting |
+| Specialized Tarmac SL7 | ★★★ | ★★★★ | Lv1 | Good climber |
+| Specialized Venge 2015 | ★★★ | ★★★ | — | Old model, not S-Works |
+| Uranium Nuclear | ★★ | ★★★ | Lv1 | |
+| Cannondale EVO | ★ | ★★★★ | — | Climber |
+| Trek Emonda | ★ | ★★★★ | — | Climber |
+| Specialized Tarmac | ★ | ★★★★ | — | Old model |
+| Pinarello F8 | — | — | — | |
+| Zwift Carbon | ★ | ★★★ | Lv5 | Starter |
+| Zwift Steel | ★ | ★★ | — | Starter |
+| Zwift Mountain | ★ | ★ | — | MTB |
+| Zwift BMX Bandit | ★ | ★ | — | Fun only |
+| Zwift MX Rider | ★ | ★ | — | Fun only |

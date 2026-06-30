@@ -66,5 +66,5 @@ La Reine - from Spawn Point (F), Mont Ventoux KOM (F), Mostly Ventoux (F), Petit
 
 ## Notes
 - Halo bikes can't swap wheels (built-in); wheels above apply to the Regular picks.
-- Aethos is Stage 3/5 in your garage — picks assume Stage 5; finish the upgrade for full climb gain.
+- Aethos is Stage 4/5 in your garage — picks assume Stage 5; finish the upgrade for full climb gain.
 - You own every meta wheel, so wheel choice is never gated by ownership.

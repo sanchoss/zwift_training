@@ -163,7 +163,7 @@ Best other frames: Canyon Aeroad 2024 +2.97s (Lvl 10) · Dogma F'24 +3.12s (Lvl 
 |-------|------|--------|-------|-------|
 | Concept Z1 (Tron) | ★★★ | ★★★ | **5/5 ✅** | Best all-round I own — now fully maxed |
 | S-Works Tarmac SL8 | ★★★ | ★★★★ | **5/5 ✅** | #1 non-Halo all-rounder; best mixed/flat I own |
-| S-Works Aethos | ★★ | ★★★★ | 3/5 ⏳ (equipped) | #1 climber in game; best Alpe/Ven-Top — keep upgrading to 5 |
+| S-Works Aethos | ★★ | ★★★★ | 4/5 ⏳ (equipped) | #1 climber in game; best Alpe/Ven-Top — keep upgrading to 5 |
 | Zwift TT | ★★★★ | ★ | 5/5 | No drafting |
 | Zwift Aero | ★★★ | ★★★ | 5/5 | Mid aero all-rounder |
 | Zwift Carbon | ★ | ★★★ | 5/5 | Starter |

@@ -1,8 +1,28 @@
 # Zwift Best Bike + Wheels — Quick Reference
 
-> Last updated: 2026-06-19 (frames/wheels re-verified vs ZwiftInsider ✅)
-> Sources: zwiftinsider.com — Frames (May 2025), Wheels (Apr 2026), Halo (Mar 2025), Tron vs Top (Aug 2025)
+> Last updated: 2026-06-29 (added v1.116 new frames/wheels + verified My Garage frames ✅)
+> Sources: zwiftinsider.com — Frames (May 2025), Wheels (Apr 2026), Halo (Mar 2025), Tron vs Top (Aug 2025), Update 1.116 (Jun 2026)
 > Test: 75 kg / 183 cm bot @ 300W (4 W/kg), baseline = Zwift Carbon + 32mm wheels
+
+## 🆕 Recently Added — Update 1.116 (23 Jun 2026)
+
+> 4 new road frames (all **Level 40**) + 4 new wheelsets (all **Level 29**). Stars = base stats before Stage-5 upgrade. Not yet in ZwiftInsider's ranked top-10 charts — performance notes are from the update's preview tests.
+
+| New Frame | Aero | Weight | Lvl | Drops | Verdict for you (road/draft racer) |
+|-----------|------|--------|-----|-------|-------------------------------------|
+| **Cannondale SuperSix EVO LAB71 Team** | ★★★ | ★★★★ | 40 | 1.75M | ⭐ **The one to watch** — on par with S-Works SL8 (≈1s faster flat, SL8 ≈1s faster climb). New best all-rounder tier. |
+| Cervelo S5 (Lupine LE) | ★★★ | ★★★ | 40 | 1.80M | Very fast aero, **weak climber** — pure flat/crit frame, you already have Tron/Venge for that. |
+| Giant Propel Advanced SL Team | ★★★ | ★★★★ | 40 | 1.70M | Aero all-rounder, no standout edge over SL8. |
+| Wilier Filante SLR ID2 | ★★★ | ★★★★ | 40 | 1.70M | First Wilier in game; solid but not class-leading. |
+
+| New Wheelset | Aero | Weight | Lvl | Drops | Note |
+|--------------|------|--------|-----|-------|------|
+| **CADEX Max 50** | ★★★★ | ★★★★ | 29 | 680k | ⭐ Best-balanced of the batch — genuine all-round option vs Princeton Wake 6560. |
+| Reserve 57/64 | ★★★★ | ★★★ | 29 | 550k | Aero-leaning deep section. |
+| Miche Deva RD 62 | ★★★★ | ★★★ | 29 | 650k | Miche's first hoops; aero-leaning. |
+| Reserve 34/37 | ★★★ | ★★★★ | 29 | 550k | Shallow/light, climbing-leaning. |
+
+**Bottom line for you:** none dethrone your current kit. The **Cannondale SuperSix EVO LAB71 Team** is the only genuinely interesting addition — it matches your SL8 as a top all-rounder, but at 1.75M Drops it's not worth buying when you already own the SL8. CADEX Max 50 (4★/4★) is the only new wheel worth a look as a Princeton Wake alternative. ⚠️ You have ~1.29M Drops — the new top frames (1.7M+) are out of reach until you save up; the wheels (≤680k) are affordable now.
 
 ## CLIMBING (Alpe, Ven-Top, steep races)
 
@@ -136,21 +156,46 @@ Best other frames: Canyon Aeroad 2024 +2.97s (Lvl 10) · Dogma F'24 +3.12s (Lvl 
 - All non-Halo frames need max Level 40 — fully available at your Level 85
 
 ## My Garage — Frames I Own
+
+> Stars = current in-game rating at the shown Stage (garage scale tops out at 4★; "Stage N" is the separate 1–5 upgrade level shown as `| N` in the garage). Verified from garage screenshots 2026-06-29.
+
 | Frame | Aero | Weight | Stage | Notes |
 |-------|------|--------|-------|-------|
-| Concept Z1 (Tron) | ★★★★ | ★★★★ | 4/5 (58km to 5) | Best all-round I own |
-| S-Works Tarmac SL8 | ★★★★ | ★★★★ | **5/5 ✅** | #1 non-Halo all-rounder; best mixed/flat I own |
-| S-Works Aethos | ★★ | ★★★★ | grinding → 5 | #1 climber in game; best for gory/Alpe/Ven-Top |
-| Zwift TT | ★★★★ | ★ | Lv5 | No drafting |
-| Specialized Tarmac SL7 | ★★★ | ★★★★ | Lv1 | Good climber |
+| Concept Z1 (Tron) | ★★★ | ★★★ | **5/5 ✅** | Best all-round I own — now fully maxed |
+| S-Works Tarmac SL8 | ★★★ | ★★★★ | **5/5 ✅** | #1 non-Halo all-rounder; best mixed/flat I own |
+| S-Works Aethos | ★★ | ★★★★ | 3/5 ⏳ (equipped) | #1 climber in game; best Alpe/Ven-Top — keep upgrading to 5 |
+| Zwift TT | ★★★★ | ★ | 5/5 | No drafting |
+| Zwift Aero | ★★★ | ★★★ | 5/5 | Mid aero all-rounder |
+| Zwift Carbon | ★ | ★★★ | 5/5 | Starter |
+| Specialized Tarmac SL7 | ★★★ | ★★★★ | 1/5 | Good climber — unupgraded |
 | Specialized Venge 2015 | ★★★ | ★★★ | — | Old model, not S-Works |
-| Uranium Nuclear | ★★ | ★★★ | Lv1 | |
+| Uranium Nuclear | ★★ | ★★★ | 1/5 | |
 | Cannondale EVO | ★ | ★★★★ | — | Climber |
-| Trek Emonda | ★ | ★★★★ | — | Climber |
-| Specialized Tarmac | ★ | ★★★★ | — | Old model |
-| Pinarello F8 | — | — | — | |
-| Zwift Carbon | ★ | ★★★ | Lv5 | Starter |
+| Trek Emonda | ★ | ★★★★ | — | Climber — one of only 2 frames that outclimb SL8 |
+| Specialized Tarmac (old) | ★ | ★★★★ | — | Old model |
+| Pinarello F8 | ★ | ★★★ | — | Old aero |
 | Zwift Steel | ★ | ★★ | — | Starter |
+| Zwift Recumbent Trike | ★★★★ | ★ | — | Special/fun |
+| Zwift Handcycle | ★★★★ | ★ | — | Special/fun |
 | Zwift Mountain | ★ | ★ | — | MTB |
 | Zwift BMX Bandit | ★ | ★ | — | Fun only |
 | Zwift MX Rider | ★ | ★ | — | Fun only |
+
+## My Garage — Wheels I Own
+
+> Verified from garage screenshots 2026-06-29. **I own every meta wheel** — climbing, all-round, and flat are all covered, so wheel choice is never gated by ownership.
+
+| Wheel | Aero | Weight | Best for | Notes |
+|-------|------|--------|----------|-------|
+| Princeton Wake 6560 Lava | ★★★★ | ★★★★ | All-round / hilly | **Equipped ✅** — best all-round wheel; #2 climb |
+| DT Swiss ARC 1100 DICUT 85/Disc | ★★★★ | ★ | Flat / TT | **#1 flat wheel** in game |
+| DT Swiss ARC 1100 DICUT Disc | ★★★★ | ★ | Flat | Full disc — flat/TT only |
+| DT Swiss ARC 1100 DICUT 62 | ★★★★ | ★★ | All-round aero | Deep aero, a bit lighter than 85 |
+| Zipp 858/Super9 | ★★★★ | ★ | Flat / TT | #2 flat wheel; great for no-draft |
+| ENVE SES 4.5 PRO | ★★★★ | ★★★★ | All-round | Strong all-rounder, no level gate beyond frame |
+| Princeton Alta 3532 | ★★★ | ★★★★ | Climbing | **#1 climbing wheel** — best Alpe time |
+| Lightweight Meilenstein | ★★★ | ★★★★ | Climbing | Top-tier climber |
+| Zipp 454 | ★★★ | ★★★★ | All-round / climb | Light all-rounder |
+| Zipp 808 | ★★★ | ★★ | Aero | Older deep aero |
+| Zwift 32mm Carbon | ★★ | ★★★ | Starter | Default |
+| Zwift Classic | ★ | ★ | Starter | Default |

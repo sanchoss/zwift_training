@@ -1,6 +1,6 @@
 # Zwift Best Bike + Wheels — Quick Reference
 
-> Last updated: 2026-05-10
+> Last updated: 2026-06-19 (frames/wheels re-verified vs ZwiftInsider ✅)
 > Sources: zwiftinsider.com — Frames (May 2025), Wheels (Apr 2026), Halo (Mar 2025), Tron vs Top (Aug 2025)
 > Test: 75 kg / 183 cm bot @ 300W (4 W/kg), baseline = Zwift Carbon + 32mm wheels
 
@@ -36,8 +36,10 @@
 
 | # | Frame (Stg 5) | Wheels | Flat s/hr | Climb s/hr |
 |---|---------------|--------|-----------|------------|
-| 1 | Pinarello Espada (Halo) | built-in | **283.7** | -46.2 |
-| 2 | Cadex Tri | Zipp 858/Super9 | ~235 | ~-15 |
+| 1 | Cadex Tri | Zipp 858/Super9 | **#1** | best |
+| 2 | Pinarello Espada (Halo) | built-in | −~20s vs Cadex | −~15s vs Cadex |
+
+> ⚠️ Corrected 2026-06-19: ZwiftInsider charts-tt ranks **Cadex Tri** the fastest TT frame; Espada loses ~20s (flat) / ~15s (climb) to it over an hour. The old 283.7/235 s/hr figures were inverted/stale — re-test before trusting. (TT not your focus — you race road/draft.)
 
 ## Top Wheels Reference
 
@@ -56,7 +58,7 @@
 > Source: https://zwifterbikes.web.app
 > Test: 300W / 4.00 W/kg — Stage 5, Level 98, 10M drops — all frames unlocked
 > ✅ Includes S-Works, Princeton wheels, Halo bikes, all Stage 5 upgrades
-> ⚠️ All frames below need max Level 40 — your Level 81 can buy everything
+> ⚠️ All frames below need max Level 40 — your Level 85 can buy everything
 > 🔒 Halo bikes (PROJECT 74, R4000) need 3× brand frames upgraded to Stage 5 + 10M drops
 > ✅ Concept Z1 (Tron) not in ZwifterBikes — you own it, see ZwiftInsider sections above
 
@@ -110,18 +112,35 @@ Best other frames: Canyon Aeroad 2024 +2.97s (Lvl 10) · Dogma F'24 +3.12s (Lvl 
 | Flat | PROJECT 74 🔒 / S-Works Venge | DT Swiss 85/Disc (Lvl 40) | Halo > Venge > Aeroad |
 | Hilly | PROJECT 74 🔒 / S-Works SL8 | DT Swiss 85/Disc (Lvl 40) | SL8 best non-Halo all-rounder |
 
+## SPECIALIZED AETHOS — Best 2 Wheels per Terrain
+
+> One frame, three setups. Aethos is a pure climber (light, low aero), so on flat/hilly the deepest aero wheels claw back most of the frame deficit.
+
+| Terrain | Pick | Wheels | Req | Why |
+|---------|------|--------|-----|-----|
+| 🏔️ Climb | #1 | Princeton Alta 3532 | Lvl 35 | #1 climbing wheel — best Alpe time overall |
+| 🏔️ Climb | #2 | Princeton Wake 6560 | Lvl 32 | +1.71s on Alpe — doubles as best hilly wheel |
+| ⛰️ Hilly | #1 | Princeton Wake 6560 | Lvl 32 | Best all-round wheel — climbs near Alta, aero on rollers |
+| ⛰️ Hilly | #2 | ENVE SES 4.5 PRO | Lvl 30 | Strong all-round, no level gate beyond Aethos |
+| ➡️ Flat | #1 | DT Swiss Disc/85 | Lvl 40 | #1 flat wheel — recoups most of Aethos aero loss |
+| ➡️ Flat | #2 | Zipp 858/Super9 | Lvl 40 | #2 flat wheel — same depth class, slight gap to DT |
+
+**Note:** Aethos on flat is still slower than Venge/SL8 + DT Swiss 85/Disc — only ride flat on Aethos if you don't want to swap frames between events.
+
 ## Notes
 - Halo bikes cannot swap wheels
 - 🔒 Halo unlock: 3× same-brand frames to Stage 5 + 10M drops (see Project_74_Plan.md)
 - Princeton CW wheels (Alta 3532, Wake 6560) NOT yet in Tron vs Top Performers chart
 - At lower W/kg (<3.5), Aethos beats SL8 on climbs by larger margin
 - Tron = best all-round but needs 3 Zwift frames upgraded + Everest challenge
-- All non-Halo frames need max Level 40 — fully available at your Level 84
+- All non-Halo frames need max Level 40 — fully available at your Level 85
 
 ## My Garage — Frames I Own
 | Frame | Aero | Weight | Stage | Notes |
 |-------|------|--------|-------|-------|
 | Concept Z1 (Tron) | ★★★★ | ★★★★ | 4/5 (58km to 5) | Best all-round I own |
+| S-Works Tarmac SL8 | ★★★★ | ★★★★ | **5/5 ✅** | #1 non-Halo all-rounder; best mixed/flat I own |
+| S-Works Aethos | ★★ | ★★★★ | grinding → 5 | #1 climber in game; best for gory/Alpe/Ven-Top |
 | Zwift TT | ★★★★ | ★ | Lv5 | No drafting |
 | Specialized Tarmac SL7 | ★★★ | ★★★★ | Lv1 | Good climber |
 | Specialized Venge 2015 | ★★★ | ★★★ | — | Old model, not S-Works |

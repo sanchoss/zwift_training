@@ -6,7 +6,7 @@
 | Duration | IF | TSS | Description |
 |:--------:|:--:|:---:|:------------|
 | 20m | 76% | 19 | 20min | 2x15s sprints + 0x60s attacks + 2x3min threshold @ 97%. Intensity scales |
-| 30m | 75% | 28 | 30min | 2x15s sprints + 0x60s attacks + 2x5min threshold @ 97%. Intensity scales |
+| 30m | 71% | 25 | 30min | 3x15s sprints + 0x60s attacks + 1x5min threshold @ 97%. Intensity scales |
 | 45m | 77% | 45 | 45min | 3x15s sprints + 1x60s attacks + 3x5min threshold @ 97%. Intensity scales |
 | 60m | 76% | 58 | 60min | 3x15s sprints + 2x60s attacks + 3x6min threshold @ 96%. Intensity scales |
 | 75m | 77% | 75 | 75min | 4x15s sprints + 3x60s attacks + 4x6min threshold @ 96%. Intensity scales |
@@ -23,9 +23,9 @@
 ![020m Threshold 76% 19TSS](020m_Threshold_76pct_19TSS.png)
 
 
-### 030m Threshold 75% 28TSS
+### 030m Threshold 71% 25TSS
 
-![030m Threshold 75% 28TSS](030m_Threshold_75pct_28TSS.png)
+![030m Threshold 71% 25TSS](030m_Threshold_71pct_25TSS.png)
 
 
 ### 045m Threshold 77% 45TSS

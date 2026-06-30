@@ -9,7 +9,7 @@
     </tags>
     <workout>
         <Warmup Duration="900" PowerLow="0.36" PowerHigh="0.50">
-            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="0" message="Warmup: easy spin, build power gradually" />
             <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
             <textevent timeoffset="360" message="Steady build, open up the legs" />
             <textevent timeoffset="840" message="Almost at working power, get ready" />
@@ -23,6 +23,22 @@
             <textevent timeoffset="15075" message="Stay loose, hydrate" />
             <textevent timeoffset="19800" message="Almost done, nice and easy" />
             <textevent timeoffset="20040" message="Great recovery session!" />
+            <textevent timeoffset="1200" message="Fuel now: take a drink (aim every ~15 min)" />
+            <textevent timeoffset="2400" message="Fuel now: ~60-90g carbs/hr — eat something" />
+            <textevent timeoffset="3600" message="Fuel now: drink + electrolytes, stay ahead of thirst" />
+            <textevent timeoffset="4800" message="Fuel now: carbs in — don't wait until the tank is empty" />
+            <textevent timeoffset="6000" message="Fuel now: take a drink (aim every ~15 min)" />
+            <textevent timeoffset="7200" message="Fuel now: ~60-90g carbs/hr — eat something" />
+            <textevent timeoffset="8400" message="Fuel now: drink + electrolytes, stay ahead of thirst" />
+            <textevent timeoffset="9600" message="Fuel now: carbs in — don't wait until the tank is empty" />
+            <textevent timeoffset="10800" message="Fuel now: take a drink (aim every ~15 min)" />
+            <textevent timeoffset="12000" message="Fuel now: ~60-90g carbs/hr — eat something" />
+            <textevent timeoffset="13200" message="Fuel now: drink + electrolytes, stay ahead of thirst" />
+            <textevent timeoffset="14400" message="Fuel now: carbs in — don't wait until the tank is empty" />
+            <textevent timeoffset="15600" message="Fuel now: take a drink (aim every ~15 min)" />
+            <textevent timeoffset="16800" message="Fuel now: ~60-90g carbs/hr — eat something" />
+            <textevent timeoffset="18000" message="Fuel now: drink + electrolytes, stay ahead of thirst" />
+            <textevent timeoffset="19200" message="Fuel now: carbs in — don't wait until the tank is empty" />
         </SteadyState>
         <Cooldown Duration="600" PowerLow="0.35" PowerHigh="0.50">
             <textevent timeoffset="0" message="Cool down: easy spin, bring HR down" />

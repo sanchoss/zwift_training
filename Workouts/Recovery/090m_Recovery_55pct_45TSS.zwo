@@ -9,7 +9,7 @@
     </tags>
     <workout>
         <Warmup Duration="540" PowerLow="0.36" PowerHigh="0.50">
-            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="0" message="Warmup: easy spin, build power gradually" />
             <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
             <textevent timeoffset="480" message="Almost at working power, get ready" />
             <textevent timeoffset="0" message="Very easy warmup, gentle" />

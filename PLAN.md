@@ -1,5 +1,5 @@
 # 🚴 ZWIFT 3-DAY TRAINING PLAN
-**📅 Generated:** Mon 29 Jun 2026 17:36 EDT  /  Mon 29 Jun 2026 21:36 UTC  /  Tue 30 Jun 2026 00:36 EEST
+**📅 Generated:** Mon 29 Jun 2026 23:37 EDT  /  Tue 30 Jun 2026 03:37 UTC  /  Tue 30 Jun 2026 06:37 EEST
 **🗓️ Plan:** Tue 30 Jun -> Thu 02 Jul 2026
 ---
 
@@ -18,7 +18,7 @@
 🔄 [3/8] Scanning completed routes from Strava...
   All-segments PR data: 295 routes (25 rebel) with segment times
   Total improvement pool: 295 routes (rebel + CR)
-  Missing segments: 6 no-effort, 0 re-rides (no-effort 7→6) — AGENTS.md updated
+  Missing segments: 6 no-effort, 0 re-rides — AGENTS.md updated
 
 ⚙️  [4/8] Loading configuration...
   FTP 265W | ZRS 447 | Groups B, C, D, E
@@ -44,9 +44,11 @@
 🏟️  [6/8] Fetching upcoming Zwift events...
   200 events retrieved
   Fetching WTRL TTT schedule...
-  27 WTRL TTT events
+  [!] cloudscraper not installed — pip install cloudscraper
+  0 WTRL TTT events
   Fetching Flamme Rouge tour schedule...
-  21 Flamme Rouge stages
+  [!] Could not fetch Flamme Rouge: HTTPSConnectionPool(host='www.flammerougeracing.com', port=443): Max retries exceeded with url: /tourschedule (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.flammerougeracing.com', port=443): Read timed out. (read timeout=15)"))
+  0 Flamme Rouge stages
   Fetching RoboPacer schedule (1.6-2.6 w/kg)...
   3 schedule blocks, 18 pacer-route slots
 
@@ -152,14 +154,6 @@
 
 **📡 Zwift Events (8:00-8:20 AM ET):**
   (events not yet available — Zwift API covers ~24h ahead, check closer to the day)  
-
-
-**🏆 WTRL TTT:  https://www.wtrl.racing/ttt/TTT-Event/**
-  #376 Watopia Flat Route (WATOPIA)  
-   3 laps | 31.3 km | ^184 m | Flat | Difficulty 1.0  
-   Lead-in: 0.457 km (^0.400 m) | Lap: 10.269 km (^61.200 m)  
-   Time window: 12:00 AM – 10:30 PM EST (Thursdays)  
-   🔧 Equipment: No restrictions (any bike/wheels/kit)  
 
 
 ---

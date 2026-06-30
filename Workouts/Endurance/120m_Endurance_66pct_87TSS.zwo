@@ -10,7 +10,7 @@
     </tags>
     <workout>
         <Warmup Duration="540" PowerLow="0.36" PowerHigh="0.70">
-            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="0" message="Warmup: easy spin, build power gradually" />
             <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
             <textevent timeoffset="480" message="Almost at working power, get ready" />
         </Warmup>
@@ -21,6 +21,10 @@
             <textevent timeoffset="2820" message="Halfway through endurance block" />
             <textevent timeoffset="4230" message="Stay hydrated, keep it smooth" />
             <textevent timeoffset="5340" message="Sprint openers coming up soon..." />
+            <textevent timeoffset="1200" message="Fuel now: take a drink (aim every ~15 min)" />
+            <textevent timeoffset="2400" message="Fuel now: ~60-90g carbs/hr — eat something" />
+            <textevent timeoffset="3600" message="Fuel now: drink + electrolytes, stay ahead of thirst" />
+            <textevent timeoffset="4800" message="Fuel now: carbs in — don't wait until the tank is empty" />
         </SteadyState>
         <IntervalsT Repeat="6" OnDuration="10" OffDuration="110" OnPower="2.00" OffPower="0.55">
             <textevent timeoffset="0" message="SPRINT OPENER! Explosive jump, max effort" />

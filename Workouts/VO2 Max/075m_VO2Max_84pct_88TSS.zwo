@@ -2,7 +2,7 @@
 <workout_file>
     <author>AI Coach</author>
     <name>075m VO2Max 84% 88TSS</name>
-    <description>75min | 4x5s max snaps + 3x30s attack bursts + 6x4min VO2 Max @ 112%.</description>
+    <description>75min | 4x5s max snaps + 3x30s attacks + 6x4min VO2 Max @ 112% (RPE 9). Short = denser, long = more reps.</description>
     <sportType>bike</sportType>
     <tags>
         <tag name="VO2Max" />
@@ -11,7 +11,7 @@
     </tags>
     <workout>
         <Warmup Duration="540" PowerLow="0.36" PowerHigh="0.70">
-            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="0" message="Warmup: easy spin, build power gradually" />
             <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
             <textevent timeoffset="480" message="Almost at working power, get ready" />
         </Warmup>
@@ -25,10 +25,10 @@
             <textevent timeoffset="30" message="Full recovery, breathe" />
         </IntervalsT>
         <IntervalsT Repeat="6" OnDuration="240" OffDuration="180" OnPower="1.13" OffPower="0.55">
-            <textevent timeoffset="0" message="VO2 MAX @ 112%! Hard breathing, hold form" />
-            <textevent timeoffset="60" message="Cadence 95-105rpm, target 90%+ max HR" />
-            <textevent timeoffset="210" message="Final push! Almost done" />
-            <textevent timeoffset="240" message="Drop HR before next interval" />
+            <textevent timeoffset="0" message="VO2 MAX @ 112%! RPE 9/10, hard breathing" />
+            <textevent timeoffset="60" message="Cadence 95-105rpm, drive to 90%+ max HR" />
+            <textevent timeoffset="210" message="Final push! Hold the power, don't fade" />
+            <textevent timeoffset="240" message="Spin easy, drop HR before the next rep" />
         </IntervalsT>
         <SteadyState Duration="120" Power="0.63">
             <textevent timeoffset="0" message="Easy endurance spinning" />

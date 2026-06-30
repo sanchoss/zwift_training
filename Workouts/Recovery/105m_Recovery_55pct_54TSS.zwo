@@ -9,7 +9,7 @@
     </tags>
     <workout>
         <Warmup Duration="540" PowerLow="0.36" PowerHigh="0.50">
-            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="0" message="Warmup: easy spin, build power gradually" />
             <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
             <textevent timeoffset="480" message="Almost at working power, get ready" />
             <textevent timeoffset="0" message="Very easy warmup, gentle" />
@@ -21,6 +21,10 @@
             <textevent timeoffset="3640" message="Looking good, keep it easy" />
             <textevent timeoffset="5160" message="Almost done, nice and easy" />
             <textevent timeoffset="5400" message="Great recovery session!" />
+            <textevent timeoffset="1200" message="Fuel now: take a drink (aim every ~15 min)" />
+            <textevent timeoffset="2400" message="Fuel now: ~60-90g carbs/hr — eat something" />
+            <textevent timeoffset="3600" message="Fuel now: drink + electrolytes, stay ahead of thirst" />
+            <textevent timeoffset="4800" message="Fuel now: carbs in — don't wait until the tank is empty" />
         </SteadyState>
         <Cooldown Duration="300" PowerLow="0.35" PowerHigh="0.50">
             <textevent timeoffset="0" message="Cool down: easy spin, bring HR down" />

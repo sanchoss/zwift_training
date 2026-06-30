@@ -14,7 +14,7 @@
 
 ## Current Progress
 - [x] S-Works Tarmac SL8 — **Stage 5 DONE** ✅
-- [x] S-Works Aethos — **purchased, riding** (km accumulating)
+- [x] S-Works Aethos — **Stage 4 reached** ✅ (11,000 m climbed / 500k Drops; Stage 5 = 15,000 m / 750k Drops remaining)
 - [ ] Specialized Shiv Disc — not started
 
 ## Per-Frame Upgrade Requirements (Regular Specialized Frames)

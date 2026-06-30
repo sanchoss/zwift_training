@@ -1,6 +1,6 @@
 # Recovery Workouts
 
-**18 workouts** — power profile graphs below.
+**13 workouts** — power profile graphs below.
 
 
 | Duration | IF | TSS | Description |
@@ -14,14 +14,9 @@
 | 105m | 55% | 54 | 105min pure recovery. Easy spin, restore and refresh. |
 | 120m | 56% | 62 | 120min pure recovery. Easy spin, restore and refresh. |
 | 150m | 56% | 77 | 150min pure recovery. Easy spin, restore and refresh. |
-| 160m | 56% | 83 | 160min pure recovery. Easy spin, restore and refresh. |
 | 180m | 56% | 94 | 180min pure recovery. Easy spin, restore and refresh. |
-| 200m | 56% | 104 | 200min pure recovery. Easy spin, restore and refresh. |
-| 220m | 56% | 114 | 220min pure recovery. Easy spin, restore and refresh. |
 | 240m | 56% | 125 | 240min pure recovery. Easy spin, restore and refresh. |
-| 270m | 56% | 140 | 270min pure recovery. Easy spin, restore and refresh. |
 | 300m | 56% | 157 | 300min pure recovery. Easy spin, restore and refresh. |
-| 330m | 56% | 173 | 330min pure recovery. Easy spin, restore and refresh. |
 | 360m | 56% | 189 | 360min pure recovery. Easy spin, restore and refresh. |
 
 ---
@@ -73,24 +68,9 @@
 ![150m Recovery 56% 77TSS](150m_Recovery_56pct_77TSS.png)
 
 
-### 160m Recovery 56% 83TSS
-
-![160m Recovery 56% 83TSS](160m_Recovery_56pct_83TSS.png)
-
-
 ### 180m Recovery 56% 94TSS
 
 ![180m Recovery 56% 94TSS](180m_Recovery_56pct_94TSS.png)
-
-
-### 200m Recovery 56% 104TSS
-
-![200m Recovery 56% 104TSS](200m_Recovery_56pct_104TSS.png)
-
-
-### 220m Recovery 56% 114TSS
-
-![220m Recovery 56% 114TSS](220m_Recovery_56pct_114TSS.png)
 
 
 ### 240m Recovery 56% 125TSS
@@ -98,19 +78,9 @@
 ![240m Recovery 56% 125TSS](240m_Recovery_56pct_125TSS.png)
 
 
-### 270m Recovery 56% 140TSS
-
-![270m Recovery 56% 140TSS](270m_Recovery_56pct_140TSS.png)
-
-
 ### 300m Recovery 56% 157TSS
 
 ![300m Recovery 56% 157TSS](300m_Recovery_56pct_157TSS.png)
-
-
-### 330m Recovery 56% 173TSS
-
-![330m Recovery 56% 173TSS](330m_Recovery_56pct_173TSS.png)
 
 
 ### 360m Recovery 56% 189TSS

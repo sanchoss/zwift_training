@@ -5,8 +5,8 @@
 
 | Duration | IF | TSS | Description |
 |:--------:|:--:|:---:|:------------|
-| 20m | 67% | 20 | 20min cadence drills (2 sets) with 2x15s bursts. Trains pedaling efficiency and  |
-| 30m | 66% | 21 | 30min cadence drills (2 sets) with 2x15s bursts. Trains pedaling efficiency and  |
+| 20m | 68% | 15 | 20min cadence drills (1 sets) with 2x15s bursts. Trains pedaling efficiency and  |
+| 30m | 67% | 23 | 30min cadence drills (1 sets) with 3x15s bursts. Trains pedaling efficiency and  |
 | 45m | 66% | 33 | 45min cadence drills (3 sets) with 3x15s bursts. Trains pedaling efficiency and  |
 | 60m | 67% | 45 | 60min cadence drills (5 sets) with 4x15s bursts. Trains pedaling efficiency and  |
 | 75m | 66% | 55 | 75min cadence drills (6 sets) with 4x15s bursts. Trains pedaling efficiency and  |
@@ -19,14 +19,14 @@
 
 ## Power Profiles
 
-### 020m Cadence 67% 20TSS
+### 020m Cadence 68% 15TSS
 
-![020m Cadence 67% 20TSS](020m_Cadence_67pct_20TSS.png)
+![020m Cadence 68% 15TSS](020m_Cadence_68pct_15TSS.png)
 
 
-### 030m Cadence 66% 21TSS
+### 030m Cadence 67% 23TSS
 
-![030m Cadence 66% 21TSS](030m_Cadence_66pct_21TSS.png)
+![030m Cadence 67% 23TSS](030m_Cadence_67pct_23TSS.png)
 
 
 ### 045m Cadence 66% 33TSS

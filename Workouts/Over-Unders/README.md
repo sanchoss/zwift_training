@@ -6,7 +6,7 @@
 | Duration | IF | TSS | Description |
 |:--------:|:--:|:---:|:------------|
 | 20m | 85% | 25 | 20min over/unders: 1x4 reps (90s@108% / 90s@88%). Builds lactate clearance and r |
-| 30m | 78% | 30 | 30min over/unders: 1x4 reps (90s@108% / 90s@88%). Builds lactate clearance and r |
+| 30m | 79% | 32 | 30min over/unders: 1x4 reps (90s@108% / 90s@88%). Builds lactate clearance and r |
 | 45m | 80% | 48 | 45min over/unders: 2x3 reps (90s@108% / 120s@88%). Builds lactate clearance and  |
 | 60m | 83% | 69 | 60min over/unders: 2x4 reps (120s@107% / 120s@87%). Builds lactate clearance and |
 | 75m | 85% | 95 | 75min over/unders: 3x4 reps (120s@107% / 120s@87%). Builds lactate clearance and |
@@ -23,9 +23,9 @@
 ![020m OverUnders 85% 25TSS](020m_OverUnders_85pct_25TSS.png)
 
 
-### 030m OverUnders 78% 30TSS
+### 030m OverUnders 79% 32TSS
 
-![030m OverUnders 78% 30TSS](030m_OverUnders_78pct_30TSS.png)
+![030m OverUnders 79% 32TSS](030m_OverUnders_79pct_32TSS.png)
 
 
 ### 045m OverUnders 80% 48TSS

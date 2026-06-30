@@ -10,13 +10,13 @@
     </tags>
     <workout>
         <Warmup Duration="480" PowerLow="0.36" PowerHigh="0.70">
-            <textevent timeoffset="0" message="Warmup: easy spin from ~90W, build gradually" />
+            <textevent timeoffset="0" message="Warmup: easy spin, build power gradually" />
             <textevent timeoffset="180" message="Increase cadence to 90rpm, loosen up" />
             <textevent timeoffset="420" message="Almost at working power, get ready" />
         </Warmup>
         <IntervalsT Repeat="1" OnDuration="600" OffDuration="240" OnPower="0.77" OffPower="0.55">
-            <textevent timeoffset="0" message="TEMPO @ 77%: comfortably hard, race pacing" />
-            <textevent timeoffset="120" message="Steady power, relax upper body" />
+            <textevent timeoffset="0" message="TEMPO @ 77%: RPE 5-6, comfortably hard" />
+            <textevent timeoffset="120" message="Steady power, relax upper body, nose-breathe" />
             <textevent timeoffset="300" message="Halfway through the block, hold it" />
             <textevent timeoffset="540" message="Last minute, maintain form!" />
             <textevent timeoffset="600" message="Active recovery" />

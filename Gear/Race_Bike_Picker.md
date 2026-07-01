@@ -60,9 +60,9 @@ La Reine - from Spawn Point (F), Mont Ventoux KOM (F), Mostly Ventoux (F), Petit
 
 ## 🏁 TT / No-draft events (any terrain)
 
-- **Best frame:** Cadex Tri 🔒 · owned: Zwift TT ✅
+- **Best frame:** Cadex Tri 🔒 · **Specialized Shiv Disc 🔒 (in grind — Project '74 3rd frame, ~40h)** · owned: Zwift TT ✅
 - **Wheels:** Zipp 858/Super9 ✅ · DT Swiss ARC Disc ✅
-- **Advice:** No-draft means raw aero. Use the TT frame + deepest wheels. Not your focus (you race road/draft), but listed for completeness.
+- **Advice:** No-draft means raw aero. Use the TT frame + deepest wheels. Shiv Disc (~82s/hr flat) will be your best owned TT frame once done; Cadex Tri (~93s/hr) remains fastest in game. Not your focus (you race road/draft), but Shiv unlocks TT-event capability for Project '74.
 
 ## Notes
 - Halo bikes can't swap wheels (built-in); wheels above apply to the Regular picks.

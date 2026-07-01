@@ -56,10 +56,12 @@
 
 | # | Frame (Stg 5) | Wheels | Flat s/hr | Climb s/hr |
 |---|---------------|--------|-----------|------------|
-| 1 | Cadex Tri | Zipp 858/Super9 | **#1** | best |
-| 2 | Pinarello Espada (Halo) | built-in | −~20s vs Cadex | −~15s vs Cadex |
+| 1 | Cadex Tri | Zipp 858/Super9 | **#1** (~93s) | best |
+| 2 | Specialized Shiv Disc 🔒 | Zipp 858/Super9 | −11s vs Cadex (~82s) | — |
+| 3 | Pinarello Espada (Halo) | built-in | −~20s vs Cadex | −~15s vs Cadex |
 
 > ⚠️ Corrected 2026-06-19: ZwiftInsider charts-tt ranks **Cadex Tri** the fastest TT frame; Espada loses ~20s (flat) / ~15s (climb) to it over an hour. The old 283.7/235 s/hr figures were inverted/stale — re-test before trusting. (TT not your focus — you race road/draft.)
+> 🔒 Shiv Disc: **Project '74 3rd frame** — in active grind (~40h time-based, not started). Faster than Espada on flat (~82s vs ~73s saved/hr); no climb data (TT flat frame). See [Project_74_Plan.md](Project_74_Plan.md).
 
 ## Top Wheels Reference
 

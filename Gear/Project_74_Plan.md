@@ -6,16 +6,16 @@
 |---|-------|-----|----------|
 | 1 | **S-Works Tarmac SL8** | #1 all-rounder | Most races (hilly, rolling) |
 | 2 | **S-Works Aethos** | #1 climber at Stg 5 | Alpe, Ven-Top, climbing races |
-| 3 | **Specialized Shiv Disc** | Fastest Specialized TT frame (flat) | TT / chrono events |
+| 3 | **Specialized Tarmac SL7** | Cheapest/fastest checkbox — already owned + Stage 1 | Just unlocks Halo |
 
-**Upgrade order:** ~~SL8~~ ✅ → ~~Aethos~~ ✅ → Shiv Disc
+**Upgrade order:** ~~SL8~~ ✅ → ~~Aethos~~ ✅ → Tarmac SL7
 
-> **Why Shiv Disc over Venge (decided Jun 2026):** After the 2025 frame adjustments my maxed SL8 now matches/beats the Venge on flats, so the Venge would be a redundant grind. The Shiv Disc costs the same effort but opens a category nothing else in my garage covers — TT events. Among the 3 Specialized Shiv variants it's the fastest on the flat (~82s/hr saved vs ~68s for S-Works, ~67s for the base Shiv).
+> **Why SL7 over Shiv Disc (changed Jul 2026):** Shiv Disc costs ~2.9M Drops + 40h solo TT grind. SL7 is already owned + at Stage 1, costs ~1.825M Drops + ~700 km on road (RoboPacers OK). Saves ~1.1M Drops and lets you draft. TT covered later by Cadex Tri (best TT frame in game, +11s/hr over Shiv).
 
 ## Current Progress
 - [x] S-Works Tarmac SL8 — **Stage 5 DONE** ✅
 - [x] S-Works Aethos — **Stage 4 reached** ✅ (11,000 m climbed / 500k Drops; Stage 5 = 15,000 m / 750k Drops remaining)
-- [ ] Specialized Shiv Disc — not started
+- [ ] Specialized Tarmac SL7 — **Stage 1** (100 km done; ~700 km + ~1.825M Drops remaining)
 
 ## Per-Frame Upgrade Requirements (Regular Specialized Frames)
 
@@ -64,27 +64,27 @@ Each frame requires **800 km total** riding on that frame + **~2M Drops** across
 
 **Check before joining:** in-game Pace Partner screen → pick whichever of Miguel/D.Maria is currently on the hilliest route. If both on flat, wait one hour or do solo Climb Portal.
 
-### Specialized Shiv Disc — Remaining
-- **Type:** TT / time-trial frame — counts as **Duration, High-End** (upgrades by **hours ridden**, not km)
-- **Need:** Buy frame (**1,000,000 Drops**, Level 37 — already 40+) + **40 hours** total on this frame
-- **Upgrade cost:** ~**1,900,000 Drops** across 5 stages → **~2.9M Drops total** (purchase + upgrades)
-- **Stage 5 result:** Fastest **Specialized** TT frame on the flat (~82s/hr saved). Not the outright fastest TT bike in game (that's the Cadex Tri ~93s), but best Specialized option and unlocks TT-event capability.
+### Specialized Tarmac SL7 — Remaining
+- **Type:** Road / climbing frame — counts as **Distance** (upgrades by **km ridden**)
+- **Already owned, already Stage 1** (100 km done)
+- **Remaining:** ~700 km + ~1,825,000 Drops across stages 2–5
+- **Stage 5 result:** Decent climber — not a racer you'll use over SL8/Aethos, but Stage 5 is all that matters for the Halo unlock.
 
-| Stage | Hours (cumulative) | Upgrade Type |
-|-------|--------------------|--------------|
-| 1 | 6 h  | Aero |
-| 2 | 13 h | Weight |
-| 3 | 21 h | Drivetrain |
-| 4 | 30 h | Aero |
-| 5 | 40 h | Aero / Weight |
-| **Total** | **40 h** | — |
+| Stage | km (cumulative) | Drops | Upgrade Type |
+|-------|----------------|-------|--------------|
+| ~~1~~ | ~~100 km~~ | ~~25,000~~ | ✅ done |
+| 2 | 250 km | 75,000 | Weight reduction |
+| 3 | 450 km | 250,000 | Drivetrain efficiency |
+| 4 | 600 km | 500,000 | Aero / Weight |
+| 5 | 800 km | 1,000,000 | Weight / Aero |
+| **Remaining** | **~700 km** | **~1,825,000** | — |
 
-- **⚠️ No draft on TT bikes:** RoboPacers give zero draft benefit on a TT frame (standard Zwift rule; draft only enabled in special events like WTRL TTTs). **Grind these 40 h solo at Z2** or via Climb Portal — don't waste pacer rides on the Shiv.
-- **Pace check:** at my ~10 h/week, riding Shiv exclusively ≈ 4 weeks; split ~50/50 with other rides ≈ 8 weeks.
+- **Grind with RoboPacers:** Road frame = draft bonus works. Use D.Maria (C, easy Z2) or Miguel (B, high Z2) on any route — no restriction to hilly loops like Aethos.
+- **Pace check:** at ~10 h/week averaging ~30 km/h ≈ 300 km/week → ~2–3 weeks to finish.
 
 ## Costs to Unlock Project '74
-- SL8 + Aethos: 2 × 800 km = **1,600 km** (road) · Shiv Disc: **40 h** (TT, time-based)
-- ~3 × ~2M Drops = **~6M Drops** for frame upgrades (Shiv adds 1M frame purchase on top)
+- SL8 + Aethos + SL7: ~2,300 km total road riding
+- ~3 × ~1.85M Drops = **~5.5M Drops** for frame upgrades
 - **10M Drops** to purchase the Project '74
 
 ## Costs to Fully Upgrade Project '74

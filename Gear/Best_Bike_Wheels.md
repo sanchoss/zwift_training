@@ -61,7 +61,7 @@
 | 3 | Pinarello Espada (Halo) | built-in | −~20s vs Cadex | −~15s vs Cadex |
 
 > ⚠️ Corrected 2026-06-19: ZwiftInsider charts-tt ranks **Cadex Tri** the fastest TT frame; Espada loses ~20s (flat) / ~15s (climb) to it over an hour. The old 283.7/235 s/hr figures were inverted/stale — re-test before trusting. (TT not your focus — you race road/draft.)
-> 🔒 Shiv Disc: **Project '74 3rd frame** — in active grind (~40h time-based, not started). Faster than Espada on flat (~82s vs ~73s saved/hr); no climb data (TT flat frame). See [Project_74_Plan.md](Project_74_Plan.md).
+> ℹ️ Shiv Disc: **no longer Project '74 3rd frame** (changed Jul 2026 — SL7 used instead, saves ~1.1M Drops). Shiv Disc remains a future option but Cadex Tri is the better TT target (+11s/hr).
 
 ## 🎯 Frames to Acquire (Wanted)
 
@@ -70,7 +70,7 @@
 | **Cadex Tri** | TT (Duration) | 42+ | **1,029,500 Drops** | ~40h ⚠️ verify in-game | #1 TT frame in game — +11s/hr over Shiv Disc on flat |
 
 > **Cadex Tri — Stage 5 details:** TT/Duration frame (upgrades by hours ridden, like Shiv Disc). Stage breakdown not on ZwiftInsider — verify exact hours per stage in the Drop Shop. Assume same 40h pattern as other TT frames. ★★★★ Aero / ★ Weight.
-> **Priority:** after Shiv Disc grind completes (Shiv is locked into Project '74 plan first). Cadex Tri has no draft bonus on RoboPacers — grind solo at Z2 same as Shiv.
+> **Priority:** after Project '74 unlocks (3rd frame = SL7, currently in grind). Cadex Tri has no draft bonus on RoboPacers — grind solo at Z2.
 
 ## Top Wheels Reference
 

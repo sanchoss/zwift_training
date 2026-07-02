@@ -60,12 +60,12 @@ La Reine - from Spawn Point (F), Mont Ventoux KOM (F), Mostly Ventoux (F), Petit
 
 ## 🏁 TT / No-draft events (any terrain)
 
-- **Best frame:** Cadex Tri 🔒 · **Specialized Shiv Disc 🔒 (in grind — Project '74 3rd frame, ~40h)** · owned: Zwift TT ✅
+- **Best frame:** Cadex Tri 🔒 · Specialized Shiv Disc 🔒 · owned: Zwift TT ✅
 - **Wheels:** Zipp 858/Super9 ✅ · DT Swiss ARC Disc ✅
-- **Advice:** No-draft means raw aero. Use the TT frame + deepest wheels. Shiv Disc (~82s/hr flat) will be your best owned TT frame once done; Cadex Tri (~93s/hr) remains fastest in game. Not your focus (you race road/draft), but Shiv unlocks TT-event capability for Project '74.
+- **Advice:** No-draft means raw aero. Use the TT frame + deepest wheels. Cadex Tri (~93s/hr) is the target TT frame — grind after Project '74 unlocks. Zwift TT is your only owned TT frame for now.
 
 ## Notes
 - Halo bikes can't swap wheels (built-in); wheels above apply to the Regular picks.
 - Aethos is Stage 4/5 in your garage — picks assume Stage 5; finish the upgrade for full climb gain.
 - You own every meta wheel, so wheel choice is never gated by ownership.
-- **Wanted:** Cadex Tri 🔒 (1,029,500 Drops, Lvl 42+) — fastest TT frame in game (+11s/hr over Shiv Disc); target after Shiv Disc grind (Project '74). Stage 5 = ~40h Duration type, verify in Drop Shop.
+- **Wanted:** Cadex Tri 🔒 (1,029,500 Drops, Lvl 42+) — fastest TT frame in game (+11s/hr over Shiv Disc); target after Project '74 unlocks (3rd frame = SL7, in grind). Stage 5 = ~40h Duration type, verify in Drop Shop.

@@ -66,6 +66,6 @@ La Reine - from Spawn Point (F), Mont Ventoux KOM (F), Mostly Ventoux (F), Petit
 
 ## Notes
 - Halo bikes can't swap wheels (built-in); wheels above apply to the Regular picks.
-- Aethos is Stage 4/5 in your garage — picks assume Stage 5; finish the upgrade for full climb gain.
+- Aethos is Stage 5 ✅ — picks are fully accurate.
 - You own every meta wheel, so wheel choice is never gated by ownership.
 - **Wanted:** Cadex Tri 🔒 (1,029,500 Drops, Lvl 42+) — fastest TT frame in game (+11s/hr over Shiv Disc); target after Project '74 unlocks (3rd frame = SL7, in grind). Stage 5 = ~40h Duration type, verify in Drop Shop.

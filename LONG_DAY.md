@@ -1,7 +1,7 @@
 # Long Day Routes
 
 > **Time estimates:** Z2 endurance solo, no draft, duration-aware power decay, FTP 265W, 76 kg.
-> **Bike note:** "Aethos" = S-Works Aethos (Stage 4/5 — upgrade to 5 before Perimeter/KOMonster/Full Watopia).
+> **Bike note:** "Aethos" = S-Works Aethos (Stage 5 ✅).
 > For free rides / rebel routes, Tron is allowed. Picks below assume regular (no Halo/Tron) per-route best.
 
 ---
@@ -53,6 +53,5 @@
 | ⛰️ Hilly | Aethos + Princeton Wake 6560 | Once gradient bites, Aethos weight advantage kicks in |
 | 🏔️ Mountain | Aethos + Princeton Alta 3532 | #1 climbing combo in the game — KOMonster was made for this |
 
-> ⚠️ Finish Aethos Stage 4 → 5 upgrade before The Perimeter / KOMonster / Full Watopia.
 > If Tron is allowed (free ride), Tron beats SL8 on flat/rolling but loses to Aethos on mountain.
 

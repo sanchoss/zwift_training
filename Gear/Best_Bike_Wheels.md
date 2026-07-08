@@ -174,11 +174,11 @@ Best other frames: Canyon Aeroad 2024 +2.97s (Lvl 10) · Dogma F'24 +3.12s (Lvl 
 |-------|------|--------|-------|-------|
 | Concept Z1 (Tron) | ★★★ | ★★★ | **5/5 ✅** | Best all-round I own — now fully maxed |
 | S-Works Tarmac SL8 | ★★★ | ★★★★ | **5/5 ✅** | #1 non-Halo all-rounder; best mixed/flat I own |
-| S-Works Aethos | ★★ | ★★★★ | 4/5 ⏳ (equipped) | #1 climber in game; best Alpe/Ven-Top — keep upgrading to 5 |
+| S-Works Aethos | ★★ | ★★★★ | **5/5 ✅** | #1 climber in game; best Alpe/Ven-Top |
 | Zwift TT | ★★★★ | ★ | 5/5 | No drafting |
 | Zwift Aero | ★★★ | ★★★ | 5/5 | Mid aero all-rounder |
 | Zwift Carbon | ★ | ★★★ | 5/5 | Starter |
-| Specialized Tarmac SL7 | ★★★ | ★★★★ | 1/5 | Good climber — unupgraded |
+| Specialized Tarmac SL7 | ★★★ | ★★★★ | 1/5 ⏳ (active grind) | Grinding to 5 for Halo unlock — 3rd Specialized frame |
 | Specialized Venge 2015 | ★★★ | ★★★ | — | Old model, not S-Works |
 | Uranium Nuclear | ★★ | ★★★ | 1/5 | |
 | Cannondale EVO | ★ | ★★★★ | — | Climber |

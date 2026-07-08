@@ -1,8 +1,8 @@
-# 📋 Zwift All Routes & Segments — Completion Tracker (297)
+# 📋 Zwift All Routes & Segments — Completion Tracker (305)
 
-**Updated:** 2026-05-31
+**Updated:** 2026-07-07
 **Source:** [VeloViewer Zwift Insider](https://veloviewer.com/zwift-insider)
-**Status:** 287/297 completed | 10 remaining
+**Status:** 289/305 completed | 16 remaining
 
 **Terrain:** ➡️ flat (<8 m/km) | 🔀 rolling (8–15) | ⛰️ hilly (15–25) | 🏔️ mountain (>25)
 **Setup:** best frame + wheels per terrain (✅ owned / 🔒 not) — full Halo/Regular detail in [Gear/Race_Bike_Picker.md](Gear/Race_Bike_Picker.md)
@@ -15,12 +15,12 @@
 | New York (N) | 40 | 39 | 1 |
 | Makuri Islands (M) | 49 | 48 | 1 |
 | London (L) | 20 | 19 | 1 |
-| France (F) | 27 | 27 | 0 |
+| France (F) | 35 | 29 | 6 |
 | Scotland (S) | 19 | 19 | 0 |
 | Innsbruck (I) | 9 | 9 | 0 |
 | Richmond (R) | 9 | 9 | 0 |
 | Yorkshire (Y) | 9 | 9 | 0 |
-| **Total** | **297** | **287** | **10** |
+| **Total** | **305** | **289** | **16** |
 
 ---
 
@@ -276,7 +276,7 @@
 
 ---
 
-## France (27 routes)
+## France (35 routes)
 
 | # | Terrain | Route | Dist | Elev | Setup | Status | ZwiftInsider | VeloViewer | Strava |
 |---|---------|-------|------|------|---|--------|--------------|------------|--------|
@@ -285,17 +285,25 @@
 | 22 | ➡️ | Bon Voyage | 28.2 km | 103 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/bon-voyage/) | [VV](https://veloviewer.com/segment/39240977) | [SS](https://www.strava.com/segments/39240977) |
 | 29 | ➡️ | Casse-Pattes | 23.0 km | 145 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/casse-pattes/) | [VV](https://veloviewer.com/segment/24674909) | [SS](https://www.strava.com/segments/24674909) |
 | 33 | ➡️ | Champs-Élysées | 6.6 km | 33 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/champs-elysees/) | [VV](https://veloviewer.com/segment/24674235) | [SS](https://www.strava.com/segments/24674235) |
+| 298 | ➡️ | Cirque du Suffer | 20.9 km | 29 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/cirque-du-suffer/) | [VV](https://veloviewer.com/segment/41606378) | [SS](https://www.strava.com/segments/41606378) |
+| 299 | ➡️ | Crêpe Escape | 16.4 km | 117 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/crepe-escape/) | [VV](https://veloviewer.com/segment/41606209) | [SS](https://www.strava.com/segments/41606209) |
 | 45 | ➡️ | Croissant | 9.3 km | 38 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/croissant/) | [VV](https://veloviewer.com/segment/39270805) | [SS](https://www.strava.com/segments/39270805) |
 | 51 | ➡️ | Douce France from Start Pens | 24.2 km | 108 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/douce-france/) | [VV](https://veloviewer.com/segment/24676071) | [SS](https://www.strava.com/segments/24676071) |
+| 300 | ➡️ | Double Espresso | 30.4 km | 198 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/double-espresso/) | [VV](https://veloviewer.com/segment/41623178) | [SS](https://www.strava.com/segments/41623178) |
 | 74 | 🔀 | Gentile 8 | 23.2 km | 217 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/gentil-8/) | [VV](https://veloviewer.com/segment/38856602) | [SS](https://www.strava.com/segments/38856602) |
 | 87 | 🔀 | Hell of the North | 19.8 km | 215 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/hell-of-the-north/) | [VV](https://veloviewer.com/segment/38859707) | [SS](https://www.strava.com/segments/38859707) |
+| 301 | ➡️ | Heart of Montmartre | 74.5 km | 500 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/heart-of-montmartre/) | [VV](https://veloviewer.com/segment/41624979) | [SS](https://www.strava.com/segments/41624979) |
 | 116 | ➡️ | Knights of the Roundabout | 51.4 km | 293 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/knights-of-the-roundabout/) | [VV](https://veloviewer.com/segment/38859646) | [SS](https://www.strava.com/segments/38859646) |
+| 302 | ➡️ | La Boucle | 16.0 km | 118 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/la-boucle/) | [VV](https://veloviewer.com/segment/41606182) | [SS](https://www.strava.com/segments/41606182) |
 | 117 | 🏔️ | La Reine - from Spawn Point | 22.5 km | 1183 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/route/la-reine/) | [VV](https://veloviewer.com/segment/33465483) | [SS](https://www.strava.com/segments/33465483) |
 | 134 | ➡️ | Lutece Express | 6.6 km | 33 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/lutece-express/) | [VV](https://veloviewer.com/segment/24674248) | [SS](https://www.strava.com/segments/24674248) |
+| 303 | ➡️ | Loop de loop de loop | 7.2 km | 36 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/loop-de-loop-de-loop/) | [VV](https://veloviewer.com/segment/41622853) | [SS](https://www.strava.com/segments/41622853) |
 | 147 | 🏔️ | Mont Ventoux KOM | 19.1 km | 1480 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/route/ven-top/) | [VV](https://veloviewer.com/segment/24682578) | [SS](https://www.strava.com/segments/24682578) |
 | 148 | 🏔️ | Mostly Ventoux | 17.1 km | 1383 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/segment/mostly-ventoux/) | [VV](https://veloviewer.com/segment/39027248) | [SS](https://www.strava.com/segments/39027248) |
+| 304 | ➡️ | Montmartre Mixer | 25.1 km | 190 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/montmartre-mixer/) | [VV](https://veloviewer.com/segment/41606447) | [SS](https://www.strava.com/segments/41606447) |
 | 168 | 🏔️ | Petit KOM | 2.7 km | 105 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/segment/petit-kom/) | [VV](https://veloviewer.com/segment/24690967) | [SS](https://www.strava.com/segments/24690967) |
 | 169 | ➡️ | Petite Boucle | 61.0 km | 431 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/petit-boucle/) | [VV](https://veloviewer.com/segment/24676054) | [SS](https://www.strava.com/segments/24676054) |
+| 305 | ➡️ | Paris Toujours | 69.2 km | 448 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/paris-toujours/) | [VV](https://veloviewer.com/segment/41685039) | [SS](https://www.strava.com/segments/41685039) |
 | 176 | ➡️ | R.G.V. | 24.1 km | 107 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/rgv/) | [VV](https://veloviewer.com/segment/24685955) | [SS](https://www.strava.com/segments/24685955) |
 | 192 | 🔀 | Rebel Route: Petite Douleur [France + Paris] | 12.3 km | 119 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/petite-douleur/) | [VV](https://veloviewer.com/segment/24984611) | [SS](https://www.strava.com/segments/24984611) |
 | 193 | 🔀 | Rebel Route: Petite Douleur [Rebel Routes] | 13.9 km | 176 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/petite-douleur/) | [VV](https://veloviewer.com/segment/24984611) | [SS](https://www.strava.com/segments/24984611) |

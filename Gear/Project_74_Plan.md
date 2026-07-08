@@ -14,8 +14,8 @@
 
 ## Current Progress
 - [x] S-Works Tarmac SL8 — **Stage 5 DONE** ✅
-- [x] S-Works Aethos — **Stage 4 reached** ✅ (11,000 m climbed / 500k Drops; Stage 5 = 15,000 m / 750k Drops remaining)
-- [ ] Specialized Tarmac SL7 — **Stage 1** (100 km done; ~700 km + ~1.825M Drops remaining)
+- [x] S-Works Aethos — **Stage 5 DONE** ✅
+- [ ] Specialized Tarmac SL7 — **Stage 1** (active grind ⏳; ~700 km + ~1.825M Drops remaining)
 
 ## Per-Frame Upgrade Requirements (Regular Specialized Frames)
 

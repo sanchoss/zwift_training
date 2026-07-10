@@ -15,7 +15,7 @@
 ## Current Progress
 - [x] S-Works Tarmac SL8 — **Stage 5 DONE** ✅
 - [x] S-Works Aethos — **Stage 5 DONE** ✅
-- [ ] Specialized Tarmac SL7 — **Stage 1** (active grind ⏳; ~700 km + ~1.825M Drops remaining)
+- [ ] Specialized Tarmac SL7 — **Stage 2** (active grind ⏳; ~550 km + ~1.75M Drops remaining)
 
 ## Per-Frame Upgrade Requirements (Regular Specialized Frames)
 
@@ -66,18 +66,18 @@ Each frame requires **800 km total** riding on that frame + **~2M Drops** across
 
 ### Specialized Tarmac SL7 — Remaining
 - **Type:** Road / climbing frame — counts as **Distance** (upgrades by **km ridden**)
-- **Already owned, already Stage 1** (100 km done)
-- **Remaining:** ~700 km + ~1,825,000 Drops across stages 2–5
+- **Already owned, now Stage 2** (250 km done)
+- **Remaining:** ~550 km + ~1,750,000 Drops across stages 3–5
 - **Stage 5 result:** Decent climber — not a racer you'll use over SL8/Aethos, but Stage 5 is all that matters for the Halo unlock.
 
 | Stage | km (cumulative) | Drops | Upgrade Type |
 |-------|----------------|-------|--------------|
 | ~~1~~ | ~~100 km~~ | ~~25,000~~ | ✅ done |
-| 2 | 250 km | 75,000 | Weight reduction |
+| ~~2~~ | ~~250 km~~ | ~~75,000~~ | ✅ done |
 | 3 | 450 km | 250,000 | Drivetrain efficiency |
 | 4 | 600 km | 500,000 | Aero / Weight |
 | 5 | 800 km | 1,000,000 | Weight / Aero |
-| **Remaining** | **~700 km** | **~1,825,000** | — |
+| **Remaining** | **~550 km** | **~1,750,000** | — |
 
 - **Grind with RoboPacers:** Road frame = draft bonus works. Use D.Maria (C, easy Z2) or Miguel (B, high Z2) on any route — no restriction to hilly loops like Aethos.
 - **Pace check:** at ~10 h/week averaging ~30 km/h ≈ 300 km/week → ~2–3 weeks to finish.

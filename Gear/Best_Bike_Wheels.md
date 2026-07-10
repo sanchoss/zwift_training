@@ -178,7 +178,7 @@ Best other frames: Canyon Aeroad 2024 +2.97s (Lvl 10) · Dogma F'24 +3.12s (Lvl 
 | Zwift TT | ★★★★ | ★ | 5/5 | No drafting |
 | Zwift Aero | ★★★ | ★★★ | 5/5 | Mid aero all-rounder |
 | Zwift Carbon | ★ | ★★★ | 5/5 | Starter |
-| Specialized Tarmac SL7 | ★★★ | ★★★★ | 1/5 ⏳ (active grind) | Grinding to 5 for Halo unlock — 3rd Specialized frame |
+| Specialized Tarmac SL7 | ★★★ | ★★★★ | 2/5 ⏳ (active grind) | Grinding to 5 for Halo unlock — 3rd Specialized frame |
 | Specialized Venge 2015 | ★★★ | ★★★ | — | Old model, not S-Works |
 | Uranium Nuclear | ★★ | ★★★ | 1/5 | |
 | Cannondale EVO | ★ | ★★★★ | — | Climber |

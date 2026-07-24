@@ -10,25 +10,27 @@
 
 **Upgrade order:** ~~SL8~~ ✅ → ~~Aethos~~ ✅ → Tarmac SL7
 
-> **Why SL7 over Shiv Disc (changed Jul 2026):** Shiv Disc costs ~2.9M Drops + 40h solo TT grind. SL7 is already owned + at Stage 1, costs ~1.825M Drops + ~700 km on road (RoboPacers OK). Saves ~1.1M Drops and lets you draft. TT covered later by Cadex Tri (best TT frame in game, +11s/hr over Shiv).
+> **Why SL7 over Shiv Disc (changed Jul 2026):** Shiv Disc (TT, Duration High-End) needs 40 h solo TT grind. SL7 (Distance High-End) is already owned + at Stage 3, so only ~820 km + ~1.25M Drops remain vs. starting a fresh 40h TT bike from zero. Bonus: road frame = you get to draft on RoboPacers. TT is covered later by Cadex Tri (best TT frame in game, +11s/hr over Shiv).
 
 ## Current Progress
 - [x] S-Works Tarmac SL8 — **Stage 5 DONE** ✅
 - [x] S-Works Aethos — **Stage 5 DONE** ✅
-- [ ] Specialized Tarmac SL7 — **Stage 3** (active grind ⏳; ~350 km + ~1.5M Drops remaining)
+- [ ] Specialized Tarmac SL7 — **Stage 3** (active grind ⏳; ~820 km + ~1.25M Drops remaining for Stages 4–5)
 
-## Per-Frame Upgrade Requirements (Regular Specialized Frames)
+## Per-Frame Upgrade Requirements (High-End Specialized Distance Frames — SL8, SL7)
 
-Each frame requires **800 km total** riding on that frame + **~2M Drops** across 5 stages:
+High-End distance frames require **1,600 km total** riding on that frame + **1,900,000 Drops** across 5 stages (per-stage, not cumulative):
 
-| Stage | km (cumulative) | Drops | Upgrade Type |
-|-------|----------------|-------|--------------|
-| 1 | 100 km | 25,000 | Aero |
-| 2 | 250 km | 75,000 | Weight reduction |
-| 3 | 450 km | 250,000 | Drivetrain efficiency |
-| 4 | 600 km | 500,000 | Aero / Weight |
-| 5 | 800 km | 1,000,000 | Weight / Aero |
-| **Total** | **800 km** | **~1,850,000** | — |
+| Stage | km this stage | Cumul. km | Drops | Upgrade Type |
+|-------|---------------|-----------|-------|--------------|
+| 1 | 200 | 200 | 100,000 | Aero |
+| 2 | 260 | 460 | 200,000 | Weight |
+| 3 | 320 | 780 | 350,000 | Drivetrain |
+| 4 | 380 | 1,160 | 500,000 | Aero |
+| 5 | 440 | 1,600 | 750,000 | Weight |
+| **Total** | **1,600 km** | — | **1,900,000** | — |
+
+> Source: [ZwiftInsider — Bike Upgrade Details](https://zwiftinsider.com/bike-upgrade-details/). Aethos uses the Elevation High-End table below (15,000 m / 1.9M Drops).
 
 ### S-Works Aethos — Remaining
 - **Type:** Climbing bike — **Elevation, High-End**
@@ -65,27 +67,27 @@ Each frame requires **800 km total** riding on that frame + **~2M Drops** across
 **Check before joining:** in-game Pace Partner screen → pick whichever of Miguel/D.Maria is currently on the hilliest route. If both on flat, wait one hour or do solo Climb Portal.
 
 ### Specialized Tarmac SL7 — Remaining
-- **Type:** Road / climbing frame — counts as **Distance** (upgrades by **km ridden**)
-- **Already owned, now Stage 3** (450 km done)
-- **Remaining:** ~350 km + ~1,500,000 Drops across stages 4–5
+- **Type:** Road frame — **Distance, High-End** (upgrades by **km ridden**)
+- **Already owned, now Stage 3** (Stages 1–3 complete = 780 km done)
+- **Remaining:** **~820 km + 1,250,000 Drops** across stages 4–5
 - **Stage 5 result:** Decent climber — not a racer you'll use over SL8/Aethos, but Stage 5 is all that matters for the Halo unlock.
 
-| Stage | km (cumulative) | Drops | Upgrade Type |
-|-------|----------------|-------|--------------|
-| ~~1~~ | ~~100 km~~ | ~~25,000~~ | ✅ done |
-| ~~2~~ | ~~250 km~~ | ~~75,000~~ | ✅ done |
-| ~~3~~ | ~~450 km~~ | ~~250,000~~ | ✅ done |
-| 4 | 600 km | 500,000 | Aero / Weight |
-| 5 | 800 km | 1,000,000 | Weight / Aero |
-| **Remaining** | **~350 km** | **~1,500,000** | — |
+| Stage | km this stage | Cumul. km | Drops | Upgrade Type |
+|-------|---------------|-----------|-------|--------------|
+| ~~1~~ | ~~200~~ | ~~200~~ | ~~100,000~~ | ✅ done (Aero) |
+| ~~2~~ | ~~260~~ | ~~460~~ | ~~200,000~~ | ✅ done (Weight) |
+| ~~3~~ | ~~320~~ | ~~780~~ | ~~350,000~~ | ✅ done (Drivetrain) |
+| 4 | 380 | 1,160 | 500,000 | Aero |
+| 5 | 440 | 1,600 | 750,000 | Weight |
+| **Remaining** | **~820 km** | — | **1,250,000** | — |
 
 - **Grind with RoboPacers:** Road frame = draft bonus works. Use D.Maria (C, easy Z2) or Miguel (B, high Z2) on any route — no restriction to hilly loops like Aethos.
-- **Pace check:** at ~10 h/week averaging ~30 km/h ≈ 300 km/week → ~1–2 weeks to finish.
+- **Pace check:** at ~10 h/week averaging ~30 km/h ≈ 300 km/week → **~2–3 weeks** to finish stages 4–5.
 
 ## Costs to Unlock Project '74
-- SL8 + Aethos + SL7: ~2,300 km total road riding
-- ~3 × ~1.85M Drops = **~5.5M Drops** for frame upgrades
-- **10M Drops** to purchase the Project '74
+- SL8 (1,600 km) + Aethos (15,000 m climbing) + SL7 (1,600 km) ≈ **3,200 km on road + 15,000 m climb**
+- 3 × 1,900,000 Drops = **5,700,000 Drops** for frame upgrades
+- **10,000,000 Drops** to purchase the Project '74
 
 ## Costs to Fully Upgrade Project '74
 - **8,000 km** riding on the Project '74

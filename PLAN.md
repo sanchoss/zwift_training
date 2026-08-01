@@ -1,6 +1,6 @@
 # 🚴 ZWIFT 3-DAY TRAINING PLAN
-**📅 Generated:** Thu 23 Jul 2026 22:15 EDT  /  Fri 24 Jul 2026 02:15 UTC  /  Fri 24 Jul 2026 05:15 EEST
-**🗓️ Plan:** Fri 24 Jul -> Sun 26 Jul 2026
+**📅 Generated:** Fri 31 Jul 2026 23:28 EDT  /  Sat 01 Aug 2026 03:28 UTC  /  Sat 01 Aug 2026 06:28 EEST
+**🗓️ Plan:** Sat 01 Aug -> Mon 03 Aug 2026
 ---
 
 
@@ -16,9 +16,10 @@
   Rebel PR data: 18 routes with segment times
 
 🔄 [3/8] Scanning completed routes from Strava...
+  Recent-PR refresh: 1 segments updated (1 new PRs) from last 7 days
   All-segments PR data: 303 routes (25 rebel) with segment times
   Total improvement pool: 303 routes (rebel + CR)
-  Missing segments: 6 no-effort, 0 re-rides — AGENTS.md updated
+  Missing segments: 5 no-effort, 0 re-rides — AGENTS.md updated
 
 ⚙️  [4/8] Loading configuration...
   FTP 265W | ZRS 447 | Groups B, C, D, E
@@ -29,17 +30,17 @@
   Skills   : attack, sprint (5s, 15s, 30s, 60s); climbing (especially longer sustained efforts)
 
 📈 [5/8] Fetching recent rides from intervals.icu (60 days)...
-  Last 60d : 52 rides | Avg TSS 66
-  Last 14d : TSS 689 | Last 7d : TSS 379
-  Fatigue  : 39% (FRESH)
-  ACWR     : 0.97 ✅ optimal
-  Fitness  : CTL 60.8 | ATL 59.1 | TSB +1.8 | Ramp -0.91
-  Hard days: 2026-07-14, 2026-07-15, 2026-07-17, 2026-07-20, 2026-07-21, 2026-07-22, 2026-07-23
-  Zones 14d: endurance=9 | anaerobic=1 | tempo=1
-  Zone gaps: threshold=30d ago | vo2max=42d ago | sweetspot=23d ago | anaerobic=8d ago
-  Avg speed: 32.8 km/h (last 7d, 6 rides, 323km / 9.8h)
-  Reach 30m: ~16 km | 60m: ~33 km | 90m: ~49 km | 120m: ~66 km
-  Terrain speeds: flat=32.8 | hilly=32.0 | mountain=24.2 km/h
+  Last 60d : 55 rides | Avg TSS 67
+  Last 14d : TSS 949 | Last 7d : TSS 570
+  Fatigue  : 60% (LOADED)
+  ACWR     : 1.13 ✅ optimal
+  Fitness  : CTL 62.9 | ATL 71.0 | TSB -8.1 | Ramp +1.52
+  Hard days: 2026-07-22, 2026-07-23, 2026-07-24, 2026-07-25, 2026-07-27, 2026-07-28, 2026-07-29
+  Zones 14d: endurance=13 | recovery=1 | tempo=1 | threshold=1
+  Zone gaps: threshold=6d ago | vo2max=50d ago | sweetspot=31d ago | anaerobic=16d ago
+  Avg speed: 34.1 km/h (last 7d, 10 rides, 432km / 12.7h)
+  Reach 30m: ~17 km | 60m: ~34 km | 90m: ~51 km | 120m: ~68 km
+  Terrain speeds: flat=33.1 | hilly=32.3 | mountain=24.2 km/h
 
 🏟️  [6/8] Fetching upcoming Zwift events...
   200 events retrieved
@@ -49,12 +50,12 @@
   Fetching Flamme Rouge tour schedule...
   21 Flamme Rouge stages
   Fetching RoboPacer schedule (1.6-2.6 w/kg)...
-  3 schedule blocks, 18 pacer-route slots
+  2 schedule blocks, 12 pacer-route slots
 
 🧩 [7/8] Assigning day types...
-  Fri 24 Jul -> EASY
-  Sat 25 Jul -> EASY
-  Sun 26 Jul -> REST
+  Sat 01 Aug -> EASY
+  Sun 02 Aug -> REST
+  Mon 03 Aug -> HARD
 
 ✨ [8/8] Generating plan...
 
@@ -63,7 +64,7 @@
 
 
 
-## Friday 24 Jul 2026  |  🟢 EASY DAY
+## Saturday 01 Aug 2026  |  🟢 EASY DAY
 
 
 **🎯 Zone:** CADENCE
@@ -83,51 +84,22 @@
 
 **🔗 Improvement Combos (~105min target):**
 1. [W] 4 routes: 🟢 🏔️ [Temple KOM from Fishing Village Side](https://zwiftinsider.com/segment/temple-kom-reverse/) · [VV](https://veloviewer.com/segment/28432259) · [SS](https://www.strava.com/segments/28432259)[CR] (2.5km/95m, PR 9:14 on 2025-11-03 ~174W/2.3W/kg → est ~6min, ⬆35%) → 🟢 🏔️ [Temple KOM from Castle Side](https://zwiftinsider.com/segment/temple-kom/) · [VV](https://veloviewer.com/segment/28432293) · [SS](https://www.strava.com/segments/28432293)[CR] (1.9km/66m, PR 6:38 on 2025-08-25 ~174W/2.3W/kg → est ~5min, ⬆25%) ⊂Temple KOM from Fishing Village Side → 🟢 🏔️ [Innsbruck KOM Reverse](https://zwiftinsider.com/segment/innsbruck-kom-reverse/) · [VV](https://veloviewer.com/segment/18397927) · [SS](https://www.strava.com/segments/18397927)[CR] (5.7km/396m, PR 32:12 on 2026-02-12 ~184W/2.4W/kg → est ~25min, ⬆22%) → 🟠 🏔️ [Radio Rendezvous](https://zwiftinsider.com/route/radio-rendezvous/) · [VV](https://veloviewer.com/segment/37716248) · [SS](https://www.strava.com/segments/37716248)[CR] (20.4km/729m, PR 71:23 on 2025-05-14 ~177W/2.3W/kg → est ~51min, ⬆29%) = **~82min ride → 4 PRs, 28.6km/1220m, avg ⬆28%**
-2. [M] 4 routes: 🟢 🏔️ [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) · [VV](https://veloviewer.com/segment/28432204) · [SS](https://www.strava.com/segments/28432204)[CR] (3.2km/101m, PR 11:07 on 2025-11-03 ~162W/2.1W/kg → est ~8min, ⬆28%) → 🟢 🔀 [Mech Isle Loop](https://zwiftinsider.com/route/mech-isle-loop/) · [VV](https://veloviewer.com/segment/33214506) · [SS](https://www.strava.com/segments/33214506)[CR] (4.0km/34m, PR 9:40 on 2025-06-02 ~135W/1.8W/kg → est ~7min, ⬆28%) → 🟡 ➡️ [Neon Shore Loop](https://zwiftinsider.com/route/neon-shore-loop/) · [VV](https://veloviewer.com/segment/40657892) · [SS](https://www.strava.com/segments/40657892)[CR] (32.9km/214m, PR 82:38 on 2026-02-16 ~115W/1.5W/kg → est ~62min, ⬆25%) → 🟢 🔀 [Kappa Quest](https://zwiftinsider.com/route/kappa-quest/) · [VV](https://veloviewer.com/segment/28432243) · [SS](https://www.strava.com/segments/28432243)[CR] (9.1km/131m, PR 22:10 on 2025-07-28 ~166W/2.2W/kg → est ~17min, ⬆23%) = **~94min, 49.2km/480m, avg ⬆26%**
-3. [MIX] 2 routes: 🟢 ➡️ [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 on 2024-04-11 ~82W/1.1W/kg → est ~54min, ⬆26%) → 🟢 ➡️ [Mountain 8](https://zwiftinsider.com/route/mountain-8/) · [VV](https://veloviewer.com/segment/12118544) · [SS](https://www.strava.com/segments/12118544)[CR] (32.0km/0m, PR 79:36 on 2023-03-02 ~81W/1.1W/kg → est ~59min, ⬆26%) = **~113min, 61.5km/0m, avg ⬆26%**
+2. [MIX] 2 routes: 🟢 ➡️ [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 on 2024-04-11 ~82W/1.1W/kg → est ~53min, ⬆27%) → 🟢 ➡️ [Mountain 8](https://zwiftinsider.com/route/mountain-8/) · [VV](https://veloviewer.com/segment/12118544) · [SS](https://www.strava.com/segments/12118544)[CR] (32.0km/0m, PR 79:36 on 2023-03-02 ~81W/1.1W/kg → est ~58min, ⬆27%) = **~111min, 61.5km/0m, avg ⬆27%**
+3. [M] 5 routes: 🟢 🏔️ [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) · [VV](https://veloviewer.com/segment/28432204) · [SS](https://www.strava.com/segments/28432204)[CR] (3.2km/101m, PR 11:07 on 2025-11-03 ~162W/2.1W/kg → est ~8min, ⬆28%) → 🟢 🔀 [Mech Isle Loop](https://zwiftinsider.com/route/mech-isle-loop/) · [VV](https://veloviewer.com/segment/33214506) · [SS](https://www.strava.com/segments/33214506)[CR] (4.0km/34m, PR 9:40 on 2025-06-02 ~135W/1.8W/kg → est ~7min, ⬆28%) → 🟡 ➡️ [Neon Shore Loop](https://zwiftinsider.com/route/neon-shore-loop/) · [VV](https://veloviewer.com/segment/40657892) · [SS](https://www.strava.com/segments/40657892)[CR] (32.9km/214m, PR 82:38 on 2026-02-16 ~115W/1.5W/kg → est ~61min, ⬆26%) → 🟢 🔀 [Kappa Quest](https://zwiftinsider.com/route/kappa-quest/) · [VV](https://veloviewer.com/segment/28432243) · [SS](https://www.strava.com/segments/28432243)[CR] (9.1km/131m, PR 22:10 on 2025-07-28 ~166W/2.2W/kg → est ~17min, ⬆23%) → 🟢 🔀 [Countryside Tour](https://zwiftinsider.com/route/countryside-tour/) · [VV](https://veloviewer.com/segment/28431416) · [SS](https://www.strava.com/segments/28431416)[CR] (15.8km/171m, PR 37:15 on 2025-09-12 ~156W/2.0W/kg → est ~29min, ⬆22%) = **~2h2m, 65.0km/651m, avg ⬆25%**
 
 
-**📡 Zwift Events (8:00-8:20 AM ET) — 2 races, 7 rides:**
-- 🏁 08:10 AM  Stage 3 - Race - Tour Fever  [B, C, D, E]
-- 🏁 08:15 AM  Stage 3 - Race - Tour Fever | Advanced  [A]
-- 🚴 07:45 AM  Velos D Train  [D]
-- 🚴 08:00 AM  FRR Weekend Warrior Series - ITT  [B, C, D, E]
-- 🚴 08:00 AM  Stage 3 - Tour Fever  [B]
-- 🚴 08:05 AM  Ascenders Rise & Shine Event - Team Pursuit  [D]
-- 🚴 08:15 AM  Dutch Diesel Cycling Weekender  [C]
-
-
-
-## Saturday 25 Jul 2026  |  🟢 EASY DAY
-
-
-**🎯 Zone:** TEMPO
-**🎚️ Trainer:** 25%
-
-**📋 Workout:** Tempo 70% 87TSS  (105m, ~87TSS, IF 70%)
-**🔀 Split:** Tempo 70% 62TSS (75m) + Cadence 67% 23TSS (30m)
-   TEMPO 75m + CADENCE 30m = ~85TSS  
-
-🗺️  Uncompleted and Rebel Routes (up to 5):
-1. 🔴 🏔️ [W] [Power to the Tower](https://zwiftinsider.com/route/power-to-the-tower/) · [VV](https://veloviewer.com/segment/37731230) · [SS](https://www.strava.com/segments/37731230) (45.6km/1496m, ~2h29m, ~181W/2.4W/kg) | Diff 5/5 | 900 XP
-2. 🟢 ➡️ [F] [La Boucle](https://zwiftinsider.com/route/la-boucle/) · [VV](https://veloviewer.com/segment/41606182) · [SS](https://www.strava.com/segments/41606182) (16.0km/118m, ~33min, ~179W/2.4W/kg) | Diff 1/5 | 320 XP
-3. 🟠 🔀 [W] [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) · [VV](https://veloviewer.com/segment/21911191) · [SS](https://www.strava.com/segments/21911191) (69.9km/714m, ~2h32m, ~178W/2.3W/kg) | Diff 4/5 | 1340 XP
-4. 🔴 🔀 [M] [Two Village Loop](https://zwiftinsider.com/route/two-village-loop/) · [VV](https://veloviewer.com/segment/28433439) · [SS](https://www.strava.com/segments/28433439) → 0.2km to [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737)[RR] (80.9km/650m, ~2h50m, ~176W/2.3W/kg) | Total: 81.1km, ~2h50m
-5. 🔴 🏔️ [W] [Quatch Quest](https://zwiftinsider.com/route/quatch-quest/) · [VV](https://veloviewer.com/segment/21344377) · [SS](https://www.strava.com/segments/21344377) (46.8km/1706m, ~2h43m, ~181W/2.4W/kg) | Diff 5/5 | 920 XP
-
-
-**🔗 Improvement Combos (~105min target):**
-1. [W] 4 routes: 🟢 🏔️ [Temple KOM from Fishing Village Side](https://zwiftinsider.com/segment/temple-kom-reverse/) · [VV](https://veloviewer.com/segment/28432259) · [SS](https://www.strava.com/segments/28432259)[CR] (2.5km/95m, PR 9:14 on 2025-11-03 ~174W/2.3W/kg → est ~6min, ⬆35%) → 🟢 🏔️ [Temple KOM from Castle Side](https://zwiftinsider.com/segment/temple-kom/) · [VV](https://veloviewer.com/segment/28432293) · [SS](https://www.strava.com/segments/28432293)[CR] (1.9km/66m, PR 6:38 on 2025-08-25 ~174W/2.3W/kg → est ~5min, ⬆25%) ⊂Temple KOM from Fishing Village Side → 🟢 🏔️ [Innsbruck KOM Reverse](https://zwiftinsider.com/segment/innsbruck-kom-reverse/) · [VV](https://veloviewer.com/segment/18397927) · [SS](https://www.strava.com/segments/18397927)[CR] (5.7km/396m, PR 32:12 on 2026-02-12 ~184W/2.4W/kg → est ~25min, ⬆22%) → 🟠 🏔️ [Radio Rendezvous](https://zwiftinsider.com/route/radio-rendezvous/) · [VV](https://veloviewer.com/segment/37716248) · [SS](https://www.strava.com/segments/37716248)[CR] (20.4km/729m, PR 71:23 on 2025-05-14 ~177W/2.3W/kg → est ~51min, ⬆29%) = **~82min ride → 4 PRs, 28.6km/1220m, avg ⬆28%**
-2. [M] 4 routes: 🟢 🏔️ [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) · [VV](https://veloviewer.com/segment/28432204) · [SS](https://www.strava.com/segments/28432204)[CR] (3.2km/101m, PR 11:07 on 2025-11-03 ~162W/2.1W/kg → est ~8min, ⬆28%) → 🟢 🔀 [Mech Isle Loop](https://zwiftinsider.com/route/mech-isle-loop/) · [VV](https://veloviewer.com/segment/33214506) · [SS](https://www.strava.com/segments/33214506)[CR] (4.0km/34m, PR 9:40 on 2025-06-02 ~135W/1.8W/kg → est ~7min, ⬆28%) → 🟡 ➡️ [Neon Shore Loop](https://zwiftinsider.com/route/neon-shore-loop/) · [VV](https://veloviewer.com/segment/40657892) · [SS](https://www.strava.com/segments/40657892)[CR] (32.9km/214m, PR 82:38 on 2026-02-16 ~115W/1.5W/kg → est ~62min, ⬆25%) → 🟢 🔀 [Kappa Quest](https://zwiftinsider.com/route/kappa-quest/) · [VV](https://veloviewer.com/segment/28432243) · [SS](https://www.strava.com/segments/28432243)[CR] (9.1km/131m, PR 22:10 on 2025-07-28 ~166W/2.2W/kg → est ~17min, ⬆23%) = **~94min, 49.2km/480m, avg ⬆26%**
-3. [MIX] 2 routes: 🟢 ➡️ [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 on 2024-04-11 ~82W/1.1W/kg → est ~54min, ⬆26%) → 🟢 ➡️ [Mountain 8](https://zwiftinsider.com/route/mountain-8/) · [VV](https://veloviewer.com/segment/12118544) · [SS](https://www.strava.com/segments/12118544)[CR] (32.0km/0m, PR 79:36 on 2023-03-02 ~81W/1.1W/kg → est ~59min, ⬆26%) = **~113min, 61.5km/0m, avg ⬆26%**
-
-
-**📡 Zwift Events (8:00-8:20 AM ET):**
-  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)  
+**📡 Zwift Events (8:00-8:20 AM ET) — 7 races, 9 rides:**
+- 🏁 08:00 AM  HerD Beginner Races  [B, C, D, E]
+- 🏁 08:00 AM  111 CIEONTONCE v-race  [B, C, D]  68.0 km
+- 🏁 08:00 AM  FRR Weekend Warrior Series - POINTS  [B, C, D, E]  x3 laps
+- 🏁 08:00 AM  GIANT du Tour - Flat - Race  [B, C, D]
+- 🏁 08:00 AM  Liv du Tour - Flat - Race  [B, C, D]  x15 laps
+- 🏁 08:10 AM  Stage 4 - Race - Tour Fever  [B, C, D, E]
+- 🏁 08:20 AM  FRR - Recce Races  [B, C, D, E]
 
 
 
-## Sunday 26 Jul 2026  |  🛌 REST / OPTIONAL
+## Sunday 02 Aug 2026  |  🛌 REST / OPTIONAL
 
 
 **🎯 Zone:** RECOVERY
@@ -139,14 +111,45 @@
 1. 🟢 ➡️ [F] [Double Espresso](https://zwiftinsider.com/route/double-espresso/) · [VV](https://veloviewer.com/segment/41623178) · [SS](https://www.strava.com/segments/41623178) (30.4km/198m, ~61min, ~184W/2.4W/kg) | Diff 2/5 | 610 XP
 2. 🟢 ➡️ [F] [La Boucle](https://zwiftinsider.com/route/la-boucle/) · [VV](https://veloviewer.com/segment/41606182) · [SS](https://www.strava.com/segments/41606182) (16.0km/118m, ~33min, ~179W/2.4W/kg) | Diff 1/5 | 320 XP
 3. 🟢 ➡️ [F] [Cirque du Suffer](https://zwiftinsider.com/route/cirque-du-suffer/) · [VV](https://veloviewer.com/segment/41606378) · [SS](https://www.strava.com/segments/41606378) (20.9km/29m, ~39min, ~179W/2.4W/kg) | Diff 1/5 | 415 XP
-4. 🟠 🔀 [W] [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) · [VV](https://veloviewer.com/segment/21911191) · [SS](https://www.strava.com/segments/21911191) (69.9km/714m, ~2h32m, ~178W/2.3W/kg) | Diff 4/5 | 1340 XP
-5. 🔴 🔀 [M] [Two Village Loop](https://zwiftinsider.com/route/two-village-loop/) · [VV](https://veloviewer.com/segment/28433439) · [SS](https://www.strava.com/segments/28433439) → 0.2km to [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737)[RR] (80.9km/650m, ~2h50m, ~176W/2.3W/kg) | Total: 81.1km, ~2h50m
+4. 🔴 🏔️ [W] [Power to the Tower](https://zwiftinsider.com/route/power-to-the-tower/) · [VV](https://veloviewer.com/segment/37731230) · [SS](https://www.strava.com/segments/37731230) (45.6km/1496m, ~2h29m, ~181W/2.4W/kg) | Diff 5/5 | 900 XP
+5. 🟠 🔀 [W] [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) · [VV](https://veloviewer.com/segment/21911191) · [SS](https://www.strava.com/segments/21911191) (69.9km/714m, ~2h32m, ~178W/2.3W/kg) | Diff 4/5 | 1340 XP
 
 
 **🔗 Improvement Combos (~60min target):**
 1. [W] 3 routes: 🟢 🏔️ [Temple KOM from Fishing Village Side](https://zwiftinsider.com/segment/temple-kom-reverse/) · [VV](https://veloviewer.com/segment/28432259) · [SS](https://www.strava.com/segments/28432259)[CR] (2.5km/95m, PR 9:14 on 2025-11-03 ~174W/2.3W/kg → est ~6min, ⬆35%) → 🟢 🏔️ [Temple KOM from Castle Side](https://zwiftinsider.com/segment/temple-kom/) · [VV](https://veloviewer.com/segment/28432293) · [SS](https://www.strava.com/segments/28432293)[CR] (1.9km/66m, PR 6:38 on 2025-08-25 ~174W/2.3W/kg → est ~5min, ⬆25%) ⊂Temple KOM from Fishing Village Side → 🟠 🏔️ [Radio Rendezvous](https://zwiftinsider.com/route/radio-rendezvous/) · [VV](https://veloviewer.com/segment/37716248) · [SS](https://www.strava.com/segments/37716248)[CR] (20.4km/729m, PR 71:23 on 2025-05-14 ~177W/2.3W/kg → est ~51min, ⬆29%) = **~57min ride → 3 PRs, 22.9km/824m, avg ⬆29%**
-2. [M] 3 routes: 🟢 🏔️ [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) · [VV](https://veloviewer.com/segment/28432204) · [SS](https://www.strava.com/segments/28432204)[CR] (3.2km/101m, PR 11:07 on 2025-11-03 ~162W/2.1W/kg → est ~8min, ⬆28%) → 🟢 🔀 [Mech Isle Loop](https://zwiftinsider.com/route/mech-isle-loop/) · [VV](https://veloviewer.com/segment/33214506) · [SS](https://www.strava.com/segments/33214506)[CR] (4.0km/34m, PR 9:40 on 2025-06-02 ~135W/1.8W/kg → est ~7min, ⬆28%) → 🟡 ➡️ [Neon Shore Loop](https://zwiftinsider.com/route/neon-shore-loop/) · [VV](https://veloviewer.com/segment/40657892) · [SS](https://www.strava.com/segments/40657892)[CR] (32.9km/214m, PR 82:38 on 2026-02-16 ~115W/1.5W/kg → est ~62min, ⬆25%) = **~77min, 40.1km/349m, avg ⬆27%**
-3. [MIX] 2 routes: 🟢 ➡️ [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 on 2024-04-11 ~82W/1.1W/kg → est ~54min, ⬆26%) → 🟢 🔀 [Kappa Quest](https://zwiftinsider.com/route/kappa-quest/) · [VV](https://veloviewer.com/segment/28432243) · [SS](https://www.strava.com/segments/28432243)[CR] (9.1km/131m, PR 22:10 on 2025-07-28 ~166W/2.2W/kg → est ~17min, ⬆23%) = **~71min, 38.6km/131m, avg ⬆25%**
+2. [M] 3 routes: 🟢 🏔️ [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) · [VV](https://veloviewer.com/segment/28432204) · [SS](https://www.strava.com/segments/28432204)[CR] (3.2km/101m, PR 11:07 on 2025-11-03 ~162W/2.1W/kg → est ~8min, ⬆28%) → 🟢 🔀 [Mech Isle Loop](https://zwiftinsider.com/route/mech-isle-loop/) · [VV](https://veloviewer.com/segment/33214506) · [SS](https://www.strava.com/segments/33214506)[CR] (4.0km/34m, PR 9:40 on 2025-06-02 ~135W/1.8W/kg → est ~7min, ⬆28%) → 🟡 ➡️ [Neon Shore Loop](https://zwiftinsider.com/route/neon-shore-loop/) · [VV](https://veloviewer.com/segment/40657892) · [SS](https://www.strava.com/segments/40657892)[CR] (32.9km/214m, PR 82:38 on 2026-02-16 ~115W/1.5W/kg → est ~61min, ⬆26%) = **~76min, 40.1km/349m, avg ⬆27%**
+3. [MIX] 2 routes: 🟢 ➡️ [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 on 2024-04-11 ~82W/1.1W/kg → est ~53min, ⬆27%) → 🟢 🔀 [Kappa Quest](https://zwiftinsider.com/route/kappa-quest/) · [VV](https://veloviewer.com/segment/28432243) · [SS](https://www.strava.com/segments/28432243)[CR] (9.1km/131m, PR 22:10 on 2025-07-28 ~166W/2.2W/kg → est ~17min, ⬆23%) = **~70min, 38.6km/131m, avg ⬆25%**
+
+
+**📡 Zwift Events (8:00-8:20 AM ET):**
+  (events not yet available — Zwift API covers ~24h ahead, check closer to the day)  
+
+
+
+## Monday 03 Aug 2026  |  🔥 HARD DAY
+
+
+**🎯 Zone:** WBAL
+**🎚️ Trainer:** 75%
+
+**📋 Workout:** Wbal 77% 73TSS  (75m, ~73TSS, IF 77%)
+**🔀 Split:** Wbal 77% 73TSS (75m) + OverUnders 79% 32TSS (30m)
+   WBAL 75m + OVERUNDERS 30m = ~105TSS  
+🔁 Alt     : Wbal 74% 41TSS (45m) + Cadence 67% 45TSS (60m)
+   WBAL 45m + CADENCE 60m = ~86TSS  
+
+🗺️  Uncompleted and Rebel Routes (up to 5):
+1. 🟢 ➡️ [F] [La Boucle](https://zwiftinsider.com/route/la-boucle/) · [VV](https://veloviewer.com/segment/41606182) · [SS](https://www.strava.com/segments/41606182) (16.0km/118m, ~33min, ~179W/2.4W/kg) | Diff 1/5 | 320 XP
+2. 🟢 ➡️ [F] [Cirque du Suffer](https://zwiftinsider.com/route/cirque-du-suffer/) · [VV](https://veloviewer.com/segment/41606378) · [SS](https://www.strava.com/segments/41606378) (20.9km/29m, ~39min, ~179W/2.4W/kg) | Diff 1/5 | 415 XP
+3. 🔴 🏔️ [W] [Power to the Tower](https://zwiftinsider.com/route/power-to-the-tower/) · [VV](https://veloviewer.com/segment/37731230) · [SS](https://www.strava.com/segments/37731230) (45.6km/1496m, ~2h29m, ~181W/2.4W/kg) | Diff 5/5 | 900 XP
+4. 🟠 🔀 [W] [Big Foot Hills](https://zwiftinsider.com/route/big-foot-hills/) · [VV](https://veloviewer.com/segment/21911191) · [SS](https://www.strava.com/segments/21911191) (69.9km/714m, ~2h32m, ~178W/2.3W/kg) | Diff 4/5 | 1340 XP
+5. 🔴 🔀 [M] [Two Village Loop](https://zwiftinsider.com/route/two-village-loop/) · [VV](https://veloviewer.com/segment/28433439) · [SS](https://www.strava.com/segments/28433439) → 0.2km to [The Full Makuri](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40661737) · [SS](https://www.strava.com/segments/40661737)[RR] (80.9km/650m, ~2h50m, ~176W/2.3W/kg) | Total: 81.1km, ~2h50m
+
+
+**🔗 Improvement Combos (~75min target):**
+1. [W] 4 routes: 🟢 🏔️ [Temple KOM from Fishing Village Side](https://zwiftinsider.com/segment/temple-kom-reverse/) · [VV](https://veloviewer.com/segment/28432259) · [SS](https://www.strava.com/segments/28432259)[CR] (2.5km/95m, PR 9:14 on 2025-11-03 ~174W/2.3W/kg → est ~6min, ⬆35%) → 🟢 🏔️ [Temple KOM from Castle Side](https://zwiftinsider.com/segment/temple-kom/) · [VV](https://veloviewer.com/segment/28432293) · [SS](https://www.strava.com/segments/28432293)[CR] (1.9km/66m, PR 6:38 on 2025-08-25 ~174W/2.3W/kg → est ~5min, ⬆25%) ⊂Temple KOM from Fishing Village Side → 🟢 🏔️ [Innsbruck KOM Reverse](https://zwiftinsider.com/segment/innsbruck-kom-reverse/) · [VV](https://veloviewer.com/segment/18397927) · [SS](https://www.strava.com/segments/18397927)[CR] (5.7km/396m, PR 32:12 on 2026-02-12 ~184W/2.4W/kg → est ~25min, ⬆22%) → 🟠 🏔️ [Radio Rendezvous](https://zwiftinsider.com/route/radio-rendezvous/) · [VV](https://veloviewer.com/segment/37716248) · [SS](https://www.strava.com/segments/37716248)[CR] (20.4km/729m, PR 71:23 on 2025-05-14 ~177W/2.3W/kg → est ~51min, ⬆29%) = **~82min ride → 4 PRs, 28.6km/1220m, avg ⬆28%**
+2. [M] 4 routes: 🟢 🏔️ [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) · [VV](https://veloviewer.com/segment/28432204) · [SS](https://www.strava.com/segments/28432204)[CR] (3.2km/101m, PR 11:07 on 2025-11-03 ~162W/2.1W/kg → est ~8min, ⬆28%) → 🟢 🔀 [Mech Isle Loop](https://zwiftinsider.com/route/mech-isle-loop/) · [VV](https://veloviewer.com/segment/33214506) · [SS](https://www.strava.com/segments/33214506)[CR] (4.0km/34m, PR 9:40 on 2025-06-02 ~135W/1.8W/kg → est ~7min, ⬆28%) → 🟡 ➡️ [Neon Shore Loop](https://zwiftinsider.com/route/neon-shore-loop/) · [VV](https://veloviewer.com/segment/40657892) · [SS](https://www.strava.com/segments/40657892)[CR] (32.9km/214m, PR 82:38 on 2026-02-16 ~115W/1.5W/kg → est ~61min, ⬆26%) → 🟢 🔀 [Kappa Quest](https://zwiftinsider.com/route/kappa-quest/) · [VV](https://veloviewer.com/segment/28432243) · [SS](https://www.strava.com/segments/28432243)[CR] (9.1km/131m, PR 22:10 on 2025-07-28 ~166W/2.2W/kg → est ~17min, ⬆23%) = **~93min, 49.2km/480m, avg ⬆26%**
+3. [MIX] 2 routes: 🟢 ➡️ [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 on 2024-04-11 ~82W/1.1W/kg → est ~53min, ⬆27%) → 🟢 🔀 [Countryside Tour](https://zwiftinsider.com/route/countryside-tour/) · [VV](https://veloviewer.com/segment/28431416) · [SS](https://www.strava.com/segments/28431416)[CR] (15.8km/171m, PR 37:15 on 2025-09-12 ~156W/2.0W/kg → est ~29min, ⬆22%) = **~82min, 45.3km/171m, avg ⬆25%**
 
 
 **📡 Zwift Events (8:00-8:20 AM ET):**
@@ -174,16 +177,16 @@
 
 | World | Qty | Dist km | Avg km | Avg Elev |
 | --- | --- | --- | --- | --- |
-| Watopia | 127 | 2399.8 | 18.9 | 281m |
+| Watopia | 128 | 2416.3 | 18.9 | 279m |
 | Makuri Islands | 40 | 671.0 | 16.8 | 127m |
 | New York | 30 | 578.1 | 19.3 | 207m |
-| France | 21 | 570.2 | 27.2 | 313m |
+| France | 22 | 591.7 | 26.9 | 300m |
 | London | 15 | 414.6 | 27.6 | 322m |
 | Scotland | 10 | 125.0 | 12.5 | 130m |
 | Richmond | 7 | 127.0 | 18.1 | 153m |
 | Yorkshire | 7 | 105.1 | 15.0 | 252m |
 | Innsbruck | 6 | 144.2 | 24.0 | 495m |
-| TOTAL | 263 | 5135.0 | 19.5 | 249m |
+| TOTAL | 265 | 5173.0 | 19.5 | 247m |
 
 ---
 
@@ -222,23 +225,23 @@
   🟢 🏔️ [W] [Temple KOM from Fishing Village Side](https://zwiftinsider.com/segment/temple-kom-reverse/) · [VV](https://veloviewer.com/segment/28432259) · [SS](https://www.strava.com/segments/28432259)[CR] (2.5km/95m, PR 9:14 ~174W/2.3W/kg → est ~6min, ⬆35%) | 🟢 🏔️ [W] [Temple KOM from Castle Side](https://zwiftinsider.com/segment/temple-kom/) · [VV](https://veloviewer.com/segment/28432293) · [SS](https://www.strava.com/segments/28432293)[CR] (1.9km/66m, PR 6:38 ~174W/2.3W/kg → est ~5min, ⬆25%)  
 
 
-**⬆21-30% — 10 routes (4%)**
+**⬆21-30% — 11 routes (4%)**
   🟠 🏔️ [W] [Radio Rendezvous](https://zwiftinsider.com/route/radio-rendezvous/) · [VV](https://veloviewer.com/segment/37716248) · [SS](https://www.strava.com/segments/37716248)[CR] (20.4km/729m, PR 71:23 ~177W/2.3W/kg → est ~51min, ⬆29%)  
   🟢 🏔️ [M] [Sea to Tree](https://zwiftinsider.com/route/sea-to-tree/) · [VV](https://veloviewer.com/segment/28432204) · [SS](https://www.strava.com/segments/28432204)[CR] (3.2km/101m, PR 11:07 ~162W/2.1W/kg → est ~8min, ⬆28%)  
   🟢 🔀 [M] [Mech Isle Loop](https://zwiftinsider.com/route/mech-isle-loop/) · [VV](https://veloviewer.com/segment/33214506) · [SS](https://www.strava.com/segments/33214506)[CR] (4.0km/34m, PR 9:40 ~135W/1.8W/kg → est ~7min, ⬆28%)  
-  🟢 ➡️ [W] [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 ~82W/1.1W/kg → est ~54min, ⬆26%)  
-  🟢 ➡️ [W] [Mountain 8](https://zwiftinsider.com/route/mountain-8/) · [VV](https://veloviewer.com/segment/12118544) · [SS](https://www.strava.com/segments/12118544)[CR] (32.0km/0m, PR 79:36 ~81W/1.1W/kg → est ~59min, ⬆26%)  
-  🟡 ➡️ [M] [Neon Shore Loop](https://zwiftinsider.com/route/neon-shore-loop/) · [VV](https://veloviewer.com/segment/40657892) · [SS](https://www.strava.com/segments/40657892)[CR] (32.9km/214m, PR 82:38 ~115W/1.5W/kg → est ~62min, ⬆25%)  
+  🟢 ➡️ [W] [Mountain Route](https://zwiftinsider.com/route/mountain-route/) · [VV](https://veloviewer.com/segment/12483517) · [SS](https://www.strava.com/segments/12483517)[CR] (29.5km/0m, PR 73:02 ~82W/1.1W/kg → est ~53min, ⬆27%)  
+  🟢 ➡️ [W] [Mountain 8](https://zwiftinsider.com/route/mountain-8/) · [VV](https://veloviewer.com/segment/12118544) · [SS](https://www.strava.com/segments/12118544)[CR] (32.0km/0m, PR 79:36 ~81W/1.1W/kg → est ~58min, ⬆27%)  
+  🟡 ➡️ [M] [Neon Shore Loop](https://zwiftinsider.com/route/neon-shore-loop/) · [VV](https://veloviewer.com/segment/40657892) · [SS](https://www.strava.com/segments/40657892)[CR] (32.9km/214m, PR 82:38 ~115W/1.5W/kg → est ~61min, ⬆26%)  
   🟢 🔀 [M] [Kappa Quest](https://zwiftinsider.com/route/kappa-quest/) · [VV](https://veloviewer.com/segment/28432243) · [SS](https://www.strava.com/segments/28432243)[CR] (9.1km/131m, PR 22:10 ~166W/2.2W/kg → est ~17min, ⬆23%)  
   🟢 🏔️ [W] [Innsbruck KOM Reverse](https://zwiftinsider.com/segment/innsbruck-kom-reverse/) · [VV](https://veloviewer.com/segment/18397927) · [SS](https://www.strava.com/segments/18397927)[CR] (5.7km/396m, PR 32:12 ~184W/2.4W/kg → est ~25min, ⬆22%)  
+  🟢 🔀 [M] [Countryside Tour](https://zwiftinsider.com/route/countryside-tour/) · [VV](https://veloviewer.com/segment/28431416) · [SS](https://www.strava.com/segments/28431416)[CR] (15.8km/171m, PR 37:15 ~156W/2.0W/kg → est ~29min, ⬆22%)  
   🔴 🏔️ [W] [Mont Ventoux KOM](https://zwiftinsider.com/segment/ventoux-kom/) · [VV](https://veloviewer.com/segment/24682578) · [SS](https://www.strava.com/segments/24682578)[CR] (19.1km/1480m, PR 107:19 ~204W/2.7W/kg → est ~84min, ⬆22%) | 🔴 🏔️ [W] [Mostly Ventoux](https://zwiftinsider.com/segment/mostly-ventoux/) · [VV](https://veloviewer.com/segment/39027248) · [SS](https://www.strava.com/segments/39027248)[CR] (17.1km/1383m, PR 95:37 ~214W/2.8W/kg → est ~92min, ⬆4%)  
 
 
-**⬆11-20% — 29 routes (10%)**
+**⬆11-20% — 31 routes (11%)**
   🟢 🏔️ [W] [Radio Tower KOM](https://zwiftinsider.com/segment/radio-tower-kom/) · [VV](https://veloviewer.com/segment/37010975) · [SS](https://www.strava.com/segments/37010975)[CR] (1.1km/149m, PR 7:31 ~283W/3.7W/kg → est ~6min, ⬆20%)  
   🟢 🔀 [Y] [Queen's Highway After Party](https://zwiftinsider.com/route/queens-highway-after-party/) · [VV](https://veloviewer.com/segment/39270897) · [SS](https://www.strava.com/segments/39270897)[CR] (17.1km/239m, PR 40:00 ~176W/2.3W/kg → est ~32min, ⬆20%)  
   🟢 ➡️ [M] [Fine and Sandy](https://zwiftinsider.com/route/fine-and-sandy/) · [VV](https://veloviewer.com/segment/33237114) · [SS](https://www.strava.com/segments/33237114)[CR] (10.6km/64m, PR 24:53 ~129W/1.7W/kg → est ~20min, ⬆20%)  
-  🟢 🔀 [M] [Countryside Tour](https://zwiftinsider.com/route/countryside-tour/) · [VV](https://veloviewer.com/segment/28431416) · [SS](https://www.strava.com/segments/28431416)[CR] (15.8km/171m, PR 37:15 ~156W/2.0W/kg → est ~30min, ⬆19%)  
   🟢 🔀 [N] [Park Perimeter Loop](https://zwiftinsider.com/route/park-perimeter-loop/) · [VV](https://veloviewer.com/segment/19170651) · [SS](https://www.strava.com/segments/19170651)[CR] (9.8km/119m, PR 22:13 ~176W/2.3W/kg → est ~18min, ⬆19%)  
   🔴 🏔️ [F] [Ven-Top](https://zwiftinsider.com/route/ven-top/) · [VV](https://veloviewer.com/segment/24682608) · [SS](https://www.strava.com/segments/24682608)[CR] (20.9km/1534m, PR 112:39 ~203W/2.7W/kg → est ~92min, ⬆18%)  
   🟢 🏔️ [W] [Keith Hill KOM](https://zwiftinsider.com/segment/keith-hill-kom/) · [VV](https://veloviewer.com/segment/16781407) · [SS](https://www.strava.com/segments/16781407)[CR] (4.2km/228m, PR 17:02 ~211W/2.8W/kg → est ~14min, ⬆18%) | 🟢 🏔️ [W] [Leith Hill KOM](https://zwiftinsider.com/segment/leith-hill-kom/) · [VV](https://veloviewer.com/segment/16781411) · [SS](https://www.strava.com/segments/16781411)[CR] (2.0km/134m, PR 8:56 ~228W/3.0W/kg → est ~9min, at pace)  
@@ -248,25 +251,28 @@
   🟡 🏔️ [I] [Lutscher CCW Hilly Lap](https://zwiftinsider.com/route/lutscher-ccw/) · [VV](https://veloviewer.com/segment/18408872) · [SS](https://www.strava.com/segments/18408872)[CR] (13.7km/400m, PR 40:48 ~187W/2.5W/kg → est ~34min, ⬆17%)  
   🟡 🏔️ [W] [Ventoux Half KOM](https://zwiftinsider.com/segment/ventoux-half-kom/) · [VV](https://veloviewer.com/segment/38874493) · [SS](https://www.strava.com/segments/38874493)[CR] (9.5km/759m, PR 49:53 ~226W/3.0W/kg → est ~42min, ⬆16%)  
   🟢 🏔️ [M] [Valley to Mountaintop](https://zwiftinsider.com/route/valley-to-mountaintop/) · [VV](https://veloviewer.com/segment/29559312) · [SS](https://www.strava.com/segments/29559312)[CR] (4.6km/126m, PR 13:03 ~192W/2.5W/kg → est ~11min, ⬆16%)  
+  🟢 🔀 [S] [Rebel Route: Sgurr 8](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/34485671) · [SS](https://www.strava.com/segments/34485671)[RR] (12.6km/150m, PR 27:13 ~191W/2.5W/kg → est ~23min, ⬆15%) | Start: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) · [VV](https://veloviewer.com/segment/33620176) · [SS](https://www.strava.com/segments/33620176) → 3.0km  
   🟢 🏔️ [W] [Oh Hill No](https://zwiftinsider.com/route/oh-hill-no/) · [VV](https://veloviewer.com/segment/37011743) · [SS](https://www.strava.com/segments/37011743)[CR] (7.8km/304m, PR 22:19 ~245W/3.2W/kg → est ~19min, ⬆15%)  
+  🔴 🔀 [L] [PRL Half](https://zwiftinsider.com/route/the-prl-half/) · [VV](https://veloviewer.com/segment/12759713) · [SS](https://www.strava.com/segments/12759713)[CR] (69.0km/953m, PR 149:54 ~201W/2.6W/kg → est ~2h8m, ⬆15%) ⊂PRL Full  
   🟢 🔀 [M] [Chain Chomper](https://zwiftinsider.com/route/chain-chomper/) · [VV](https://veloviewer.com/segment/28430973) · [SS](https://www.strava.com/segments/28430973)[CR] (13.6km/170m, PR 29:14 ~197W/2.6W/kg → est ~25min, ⬆14%)  
   🟡 🏔️ [F] [Ven-10](https://zwiftinsider.com/route/ven-10/) · [VV](https://veloviewer.com/segment/38856912) · [SS](https://www.strava.com/segments/38856912)[CR] (10.0km/778m, PR 51:26 ~225W/3.0W/kg → est ~44min, ⬆14%)  
   🟢 🔀 [R] [Cobbled Climbs](https://zwiftinsider.com/route/cobbled-climbs/) · [VV](https://veloviewer.com/segment/11308213) · [SS](https://www.strava.com/segments/11308213)[CR] (9.2km/125m, PR 19:51 ~202W/2.7W/kg → est ~17min, ⬆14%)  
-  🔴 🔀 [L] [PRL Half](https://zwiftinsider.com/route/the-prl-half/) · [VV](https://veloviewer.com/segment/12759713) · [SS](https://www.strava.com/segments/12759713)[CR] (69.0km/953m, PR 149:54 ~201W/2.6W/kg → est ~2h9m, ⬆14%) ⊂PRL Full  
   🟢 🔀 [W] [Coastal Crown Loop](https://zwiftinsider.com/route/coastal-crown-loop/) · [VV](https://veloviewer.com/segment/37039562) · [SS](https://www.strava.com/segments/37039562)[CR] (15.0km/179m, PR 32:31 ~190W/2.5W/kg → est ~28min, ⬆14%)  
   🔴 🏔️ [W] [Tour of Fire and Ice](https://zwiftinsider.com/route/tour-of-fire-and-ice/) · [VV](https://veloviewer.com/segment/17265057) · [SS](https://www.strava.com/segments/17265057)[CR] (25.1km/1162m, PR 97:25 ~193W/2.5W/kg → est ~84min, ⬆14%)  
   🟢 ⛰️ [W] [Breakaway Brae](https://zwiftinsider.com/segment/breakaway-brae/) · [VV](https://veloviewer.com/segment/33620168) · [SS](https://www.strava.com/segments/33620168)[CR] (0.6km/14m, PR 1:09 ~325W/4.3W/kg → est ~1min, ⬆13%) | 🟢 ⛰️ [W] [Breakaway Brae Reverse](https://zwiftinsider.com/segment/breakaway-brae-reverse/) · [VV](https://veloviewer.com/segment/38170246) · [SS](https://www.strava.com/segments/38170246)[CR] (0.4km/8m, PR 0:44 ~327W/4.3W/kg → est ~1min, at pace)  
+  🟡 🔀 [S] [The Muckle Yin](https://zwiftinsider.com/route/the-muckle-yin/) · [VV](https://veloviewer.com/segment/33636050) · [SS](https://www.strava.com/segments/33636050)[CR] (23.4km/265m, PR 49:22 ~196W/2.6W/kg → est ~43min, ⬆13%)  
   🟡 🏔️ [I] [Lutscher Hilly Lap](https://zwiftinsider.com/route/lutscher/) · [VV](https://veloviewer.com/segment/18406532) · [SS](https://www.strava.com/segments/18406532)[CR] (13.7km/400m, PR 38:59 ~200W/2.6W/kg → est ~34min, ⬆13%)  
   🟢 🔀 [F] [Rebel Route: Petite Douleur [Rebel Routes]](https://zwiftinsider.com/route/petite-douleur/) · [VV](https://veloviewer.com/segment/24984611) · [SS](https://www.strava.com/segments/24984611)[RR] (13.9km/176m, PR 29:45 ~199W/2.6W/kg → est ~26min, ⬆13%)  
   🟠 🔀 [R] [Richmond Loop Around](https://zwiftinsider.com/route/richmond-loop-around/) · [VV](https://veloviewer.com/segment/38009202) · [SS](https://www.strava.com/segments/38009202)[CR] (42.4km/521m, PR 89:39 ~202W/2.7W/kg → est ~79min, ⬆12%)  
   🟢 🏔️ [W] [Innsbruck KOM Forward](https://zwiftinsider.com/segment/innsbruck-kom/) · [VV](https://veloviewer.com/segment/18397965) · [SS](https://www.strava.com/segments/18397965)[CR] (7.4km/400m, PR 28:22 ~224W/2.9W/kg → est ~25min, ⬆12%)  
-  🟢 🔀 [S] [Rebel Route: Sgurr 8](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/34485671) · [SS](https://www.strava.com/segments/34485671)[RR] (12.6km/150m, PR 27:13 ~191W/2.5W/kg → est ~24min, ⬆12%) | Start: [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) · [VV](https://veloviewer.com/segment/33620176) · [SS](https://www.strava.com/segments/33620176) → 3.0km  
   🟡 🔀 [N] [Empire Elevation](https://zwiftinsider.com/route/empire-elevation/) · [VV](https://veloviewer.com/segment/40493992) · [SS](https://www.strava.com/segments/40493992)[CR] (24.1km/251m, PR 50:59 ~189W/2.5W/kg → est ~45min, ⬆12%)  
+  🔴 🔀 [W] [Zwift Games 2024 Epic (Banner to Banner)](https://zwiftinsider.com/route/zwift-games-2024-epic/) · [VV](https://veloviewer.com/segment/36357669) · [SS](https://www.strava.com/segments/36357669)[CR] (79.8km/735m, PR 167:38 ~184W/2.4W/kg → est ~2h28m, ⬆12%)  
   🟢 ➡️ [L] [London Loop](https://zwiftinsider.com/route/london-loop/) · [VV](https://veloviewer.com/segment/12749649) · [SS](https://www.strava.com/segments/12749649)[CR] (14.9km/0m, PR 30:27 ~133W/1.8W/kg → est ~27min, ⬆11%)  
-  🔴 🔀 [W] [Zwift Games 2024 Epic (Banner to Banner)](https://zwiftinsider.com/route/zwift-games-2024-epic/) · [VV](https://veloviewer.com/segment/36357669) · [SS](https://www.strava.com/segments/36357669)[CR] (79.8km/735m, PR 167:38 ~184W/2.4W/kg → est ~2h29m, ⬆11%)  
+  🟠 🔀 [W] [Dust in the Wind](https://zwiftinsider.com/route/dust-in-the-wind/) · [VV](https://veloviewer.com/segment/33852827) · [SS](https://www.strava.com/segments/33852827)[CR] (52.1km/525m, PR 109:23 ~190W/2.5W/kg → est ~97min, ⬆11%)  
+  🟠 🔀 [L] [London Pretzel](https://zwiftinsider.com/route/the-london-pretzel/) · [VV](https://veloviewer.com/segment/15155838) · [SS](https://www.strava.com/segments/15155838)[CR] (55.6km/531m, PR 115:53 ~190W/2.5W/kg → est ~103min, ⬆11%)  
 
 
-**≤10% (at pace) — 242 routes (86%)**
+**≤10% (at pace) — 241 routes (85%)**
 
 ---
 🤖 ROBOPACER SPEED IMPROVEMENT
@@ -280,45 +286,33 @@
 **🟢 Miguel (1.8 w/kg)**
 | Route | Pacer km/h | Your km/h | Terrain | Pacer Time | Your PR | ⬆/⬇ | ⬆% | ~Pacer W | Dates |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [F] [Casse-Pattes](https://zwiftinsider.com/route/casse-pattes/) · [VV](https://veloviewer.com/segment/24674909) · [SS](https://www.strava.com/segments/24674909) | 26.8 | 32.9 | hilly (23.0km/145m) | 51:25 | 41:53 | -9:32 | -22.8% | 135 | Monday-Sunday, July 20-26 |
-| [W] [Triple Twist](https://zwiftinsider.com/route/triple-twist/) · [VV](https://veloviewer.com/segment/38138494) · [SS](https://www.strava.com/segments/38138494) | 25.6 | 31.5 | hilly (19.8km/168m) | 46:21 | 37:43 | -8:38 | -22.9% | 135 | Monday-Sunday, August 3-9 |
+| [W] [Triple Twist](https://zwiftinsider.com/route/triple-twist/) · [VV](https://veloviewer.com/segment/38138494) · [SS](https://www.strava.com/segments/38138494) | 25.6 | 33.4 | hilly (19.8km/168m) | 46:21 | 35:32 | -10:49 | -30.4% | 135 | Monday-Sunday, August 3-9 |
 | [W] [Sand and Sequoias](https://zwiftinsider.com/route/sand-and-sequoias/) · [VV](https://veloviewer.com/segment/21911197) · [SS](https://www.strava.com/segments/21911197) | 26.3 | 39.0 | hilly (20.1km/146m) | 45:51 | 30:55 | -14:56 | -48.3% | 135 | Monday-Sunday, July 27-August 2 |
-| [W] [Ocean Lava Cliffside Loop](https://zwiftinsider.com/route/ocean-lava-cliffside-loop/) · [VV](https://veloviewer.com/segment/26741663) · [SS](https://www.strava.com/segments/26741663) | 26.1 | 39.4 | hilly (19.0km/145m) | 43:40 | 28:55 | -14:45 | -51.1% | 135 | Monday-Sunday, July 20-26 |
 
 **🔵 Maria (2.2 w/kg)**
 | Route | Pacer km/h | Your km/h | Terrain | Pacer Time | Your PR | ⬆/⬇ | ⬆% | ~Pacer W | Dates |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [W] [Triple Twist](https://zwiftinsider.com/route/triple-twist/) · [VV](https://veloviewer.com/segment/38138494) · [SS](https://www.strava.com/segments/38138494) | 28.3 | 31.5 | hilly (19.8km/168m) | 41:56 | 37:43 | -4:13 | -11.2% | 165 | Monday-Sunday, July 27-August 2 |
-| [F] [Crêpe Escape](https://zwiftinsider.com/route/crepe-escape/) · [VV](https://veloviewer.com/segment/41606209) · [SS](https://www.strava.com/segments/41606209) | 29.7 | 33.2 | hilly (16.4km/97m) | 33:09 | 29:37 | -3:32 | -12.0% | 165 | Monday-Sunday, July 20-26 |
-| [F] [Sacre Bleu](https://zwiftinsider.com/route/sacre-bleu/) · [VV](https://veloviewer.com/segment/39270823) · [SS](https://www.strava.com/segments/39270823) | 30.4 | 34.2 | flat (71.4km/326m) | 140:59 | 125:18 | -15:41 | -12.5% | 165 | Monday-Sunday, July 27-August 2 |
+| [F] [Sacre Bleu](https://zwiftinsider.com/route/sacre-bleu/) · [VV](https://veloviewer.com/segment/39270823) · [SS](https://www.strava.com/segments/39270823) | 30.4 | 34.3 | flat (71.4km/326m) | 140:59 | 125:02 | -15:57 | -12.8% | 165 | Monday-Sunday, July 27-August 2 |
 | [W] [Figure 8](https://zwiftinsider.com/route/figure-8/) · [VV](https://veloviewer.com/segment/12118421) · [SS](https://www.strava.com/segments/12118421) | 28.6 | 33.2 | hilly (29.7km/234m) | 62:13 | 53:43 | -8:30 | -15.8% | 165 | Monday-Sunday, August 3-9 |
-| [W] [Sand and Sequoias](https://zwiftinsider.com/route/sand-and-sequoias/) · [VV](https://veloviewer.com/segment/21911197) · [SS](https://www.strava.com/segments/21911197) | 29.0 | 39.0 | hilly (20.1km/146m) | 41:38 | 30:55 | -10:43 | -34.7% | 165 | Monday-Sunday, July 20-26 |
+| [W] [Triple Twist](https://zwiftinsider.com/route/triple-twist/) · [VV](https://veloviewer.com/segment/38138494) · [SS](https://www.strava.com/segments/38138494) | 28.3 | 33.4 | hilly (19.8km/168m) | 41:56 | 35:32 | -6:24 | -18.0% | 165 | Monday-Sunday, July 27-August 2 |
 
 **🟠 Coco (2.6 w/kg)**
 | Route | Pacer km/h | Your km/h | Terrain | Pacer Time | Your PR | ⬆/⬇ | ⬆% | ~Pacer W | Dates |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [W] [Triple Twist](https://zwiftinsider.com/route/triple-twist/) · [VV](https://veloviewer.com/segment/38138494) · [SS](https://www.strava.com/segments/38138494) | 30.7 | 31.5 | hilly (19.8km/168m) | 38:44 | 37:43 | -1:01 | -2.7% | 195 | Monday-Sunday, July 20-26 |
-| [F] [Montmartre Mixer](https://zwiftinsider.com/route/montmartre-mixer/) · [VV](https://veloviewer.com/segment/41606447) · [SS](https://www.strava.com/segments/41606447) | 31.5 | 32.4 | hilly (25.1km/171m) | 47:48 | 46:32 | -1:16 | -2.7% | 195 | Monday-Sunday, July 20-26 |
 | [F] [Knights of the Roundabout](https://zwiftinsider.com/route/knights-of-the-roundabout/) · [VV](https://veloviewer.com/segment/38859646) · [SS](https://www.strava.com/segments/38859646) | 32.1 | 33.6 | hilly (51.4km/293m) | 96:11 | 91:53 | -4:18 | -4.7% | 195 | Monday-Sunday, August 3-9 |
 | [W] [Figure 8](https://zwiftinsider.com/route/figure-8/) · [VV](https://veloviewer.com/segment/12118421) · [SS](https://www.strava.com/segments/12118421) | 31.0 | 33.2 | hilly (29.7km/234m) | 57:32 | 53:43 | -3:49 | -7.1% | 195 | Monday-Sunday, July 27-August 2 |
 <table class="rp"><tr><th>Route</th><th>Pacer km/h</th><th>Your km/h</th><th>Terrain</th><th>Pacer Time</th><th>Your PR</th><th>⬆/⬇</th><th>⬆%</th><th>~Pacer W</th><th>Dates</th></tr>
-<tr><td>[F] <a href="https://zwiftinsider.com/route/casse-pattes/" target="_blank">Casse-Pattes</a> · <a href="https://veloviewer.com/segment/24674909" target="_blank">VV</a> · <a href="https://www.strava.com/segments/24674909" target="_blank">SS</a></td><td>26.8</td><td>32.9</td><td>hilly (23.0km/145m)</td><td>51:25</td><td>41:53</td><td>-9:32</td><td>-22.8%</td><td>135</td><td>Monday-Sunday, July 20-26</td></tr>
-<tr><td>[W] <a href="https://zwiftinsider.com/route/triple-twist/" target="_blank">Triple Twist</a> · <a href="https://veloviewer.com/segment/38138494" target="_blank">VV</a> · <a href="https://www.strava.com/segments/38138494" target="_blank">SS</a></td><td>25.6</td><td>31.5</td><td>hilly (19.8km/168m)</td><td>46:21</td><td>37:43</td><td>-8:38</td><td>-22.9%</td><td>135</td><td>Monday-Sunday, August 3-9</td></tr>
+<tr><td>[W] <a href="https://zwiftinsider.com/route/triple-twist/" target="_blank">Triple Twist</a> · <a href="https://veloviewer.com/segment/38138494" target="_blank">VV</a> · <a href="https://www.strava.com/segments/38138494" target="_blank">SS</a></td><td>25.6</td><td>33.4</td><td>hilly (19.8km/168m)</td><td>46:21</td><td>35:32</td><td>-10:49</td><td>-30.4%</td><td>135</td><td>Monday-Sunday, August 3-9</td></tr>
 <tr><td>[W] <a href="https://zwiftinsider.com/route/sand-and-sequoias/" target="_blank">Sand and Sequoias</a> · <a href="https://veloviewer.com/segment/21911197" target="_blank">VV</a> · <a href="https://www.strava.com/segments/21911197" target="_blank">SS</a></td><td>26.3</td><td>39.0</td><td>hilly (20.1km/146m)</td><td>45:51</td><td>30:55</td><td>-14:56</td><td>-48.3%</td><td>135</td><td>Monday-Sunday, July 27-August 2</td></tr>
-<tr><td>[W] <a href="https://zwiftinsider.com/route/ocean-lava-cliffside-loop/" target="_blank">Ocean Lava Cliffside Loop</a> · <a href="https://veloviewer.com/segment/26741663" target="_blank">VV</a> · <a href="https://www.strava.com/segments/26741663" target="_blank">SS</a></td><td>26.1</td><td>39.4</td><td>hilly (19.0km/145m)</td><td>43:40</td><td>28:55</td><td>-14:45</td><td>-51.1%</td><td>135</td><td>Monday-Sunday, July 20-26</td></tr>
 </table>
 <b>🔵 Maria (2.2 w/kg)</b>
 <table class="rp"><tr><th>Route</th><th>Pacer km/h</th><th>Your km/h</th><th>Terrain</th><th>Pacer Time</th><th>Your PR</th><th>⬆/⬇</th><th>⬆%</th><th>~Pacer W</th><th>Dates</th></tr>
-<tr><td>[W] <a href="https://zwiftinsider.com/route/triple-twist/" target="_blank">Triple Twist</a> · <a href="https://veloviewer.com/segment/38138494" target="_blank">VV</a> · <a href="https://www.strava.com/segments/38138494" target="_blank">SS</a></td><td>28.3</td><td>31.5</td><td>hilly (19.8km/168m)</td><td>41:56</td><td>37:43</td><td>-4:13</td><td>-11.2%</td><td>165</td><td>Monday-Sunday, July 27-August 2</td></tr>
-<tr><td>[F] <a href="https://zwiftinsider.com/route/crepe-escape/" target="_blank">Crêpe Escape</a> · <a href="https://veloviewer.com/segment/41606209" target="_blank">VV</a> · <a href="https://www.strava.com/segments/41606209" target="_blank">SS</a></td><td>29.7</td><td>33.2</td><td>hilly (16.4km/97m)</td><td>33:09</td><td>29:37</td><td>-3:32</td><td>-12.0%</td><td>165</td><td>Monday-Sunday, July 20-26</td></tr>
-<tr><td>[F] <a href="https://zwiftinsider.com/route/sacre-bleu/" target="_blank">Sacre Bleu</a> · <a href="https://veloviewer.com/segment/39270823" target="_blank">VV</a> · <a href="https://www.strava.com/segments/39270823" target="_blank">SS</a></td><td>30.4</td><td>34.2</td><td>flat (71.4km/326m)</td><td>140:59</td><td>125:18</td><td>-15:41</td><td>-12.5%</td><td>165</td><td>Monday-Sunday, July 27-August 2</td></tr>
+<tr><td>[F] <a href="https://zwiftinsider.com/route/sacre-bleu/" target="_blank">Sacre Bleu</a> · <a href="https://veloviewer.com/segment/39270823" target="_blank">VV</a> · <a href="https://www.strava.com/segments/39270823" target="_blank">SS</a></td><td>30.4</td><td>34.3</td><td>flat (71.4km/326m)</td><td>140:59</td><td>125:02</td><td>-15:57</td><td>-12.8%</td><td>165</td><td>Monday-Sunday, July 27-August 2</td></tr>
 <tr><td>[W] <a href="https://zwiftinsider.com/route/figure-8/" target="_blank">Figure 8</a> · <a href="https://veloviewer.com/segment/12118421" target="_blank">VV</a> · <a href="https://www.strava.com/segments/12118421" target="_blank">SS</a></td><td>28.6</td><td>33.2</td><td>hilly (29.7km/234m)</td><td>62:13</td><td>53:43</td><td>-8:30</td><td>-15.8%</td><td>165</td><td>Monday-Sunday, August 3-9</td></tr>
-<tr><td>[W] <a href="https://zwiftinsider.com/route/sand-and-sequoias/" target="_blank">Sand and Sequoias</a> · <a href="https://veloviewer.com/segment/21911197" target="_blank">VV</a> · <a href="https://www.strava.com/segments/21911197" target="_blank">SS</a></td><td>29.0</td><td>39.0</td><td>hilly (20.1km/146m)</td><td>41:38</td><td>30:55</td><td>-10:43</td><td>-34.7%</td><td>165</td><td>Monday-Sunday, July 20-26</td></tr>
+<tr><td>[W] <a href="https://zwiftinsider.com/route/triple-twist/" target="_blank">Triple Twist</a> · <a href="https://veloviewer.com/segment/38138494" target="_blank">VV</a> · <a href="https://www.strava.com/segments/38138494" target="_blank">SS</a></td><td>28.3</td><td>33.4</td><td>hilly (19.8km/168m)</td><td>41:56</td><td>35:32</td><td>-6:24</td><td>-18.0%</td><td>165</td><td>Monday-Sunday, July 27-August 2</td></tr>
 </table>
 <b>🟠 Coco (2.6 w/kg)</b>
 <table class="rp"><tr><th>Route</th><th>Pacer km/h</th><th>Your km/h</th><th>Terrain</th><th>Pacer Time</th><th>Your PR</th><th>⬆/⬇</th><th>⬆%</th><th>~Pacer W</th><th>Dates</th></tr>
-<tr><td>[W] <a href="https://zwiftinsider.com/route/triple-twist/" target="_blank">Triple Twist</a> · <a href="https://veloviewer.com/segment/38138494" target="_blank">VV</a> · <a href="https://www.strava.com/segments/38138494" target="_blank">SS</a></td><td>30.7</td><td>31.5</td><td>hilly (19.8km/168m)</td><td>38:44</td><td>37:43</td><td>-1:01</td><td>-2.7%</td><td>195</td><td>Monday-Sunday, July 20-26</td></tr>
-<tr><td>[F] <a href="https://zwiftinsider.com/route/montmartre-mixer/" target="_blank">Montmartre Mixer</a> · <a href="https://veloviewer.com/segment/41606447" target="_blank">VV</a> · <a href="https://www.strava.com/segments/41606447" target="_blank">SS</a></td><td>31.5</td><td>32.4</td><td>hilly (25.1km/171m)</td><td>47:48</td><td>46:32</td><td>-1:16</td><td>-2.7%</td><td>195</td><td>Monday-Sunday, July 20-26</td></tr>
 <tr><td>[F] <a href="https://zwiftinsider.com/route/knights-of-the-roundabout/" target="_blank">Knights of the Roundabout</a> · <a href="https://veloviewer.com/segment/38859646" target="_blank">VV</a> · <a href="https://www.strava.com/segments/38859646" target="_blank">SS</a></td><td>32.1</td><td>33.6</td><td>hilly (51.4km/293m)</td><td>96:11</td><td>91:53</td><td>-4:18</td><td>-4.7%</td><td>195</td><td>Monday-Sunday, August 3-9</td></tr>
 <tr><td>[W] <a href="https://zwiftinsider.com/route/figure-8/" target="_blank">Figure 8</a> · <a href="https://veloviewer.com/segment/12118421" target="_blank">VV</a> · <a href="https://www.strava.com/segments/12118421" target="_blank">SS</a></td><td>31.0</td><td>33.2</td><td>hilly (29.7km/234m)</td><td>57:32</td><td>53:43</td><td>-3:49</td><td>-7.1%</td><td>195</td><td>Monday-Sunday, July 27-August 2</td></tr>
 </table>
@@ -359,7 +353,7 @@ World codes: W=Watopia, I=Innsbruck, N=New York, M=Makuri Islands, S=Scotland, R
 
 ### 💀 REBEL ROUTES UNCOMPLETED
 
-**Status: 18/25 completed** ()
+**Status: 18/25 completed** (Big Ring Little Ring, Big Ring Little Ring Reverse, Canyon to Cavern, Cliffside Epic Double, Dirty Temple KOM Loop, Down Up Down, Epic Loop, Fower Power, Hilly KOM Bypass, Litus Fugit, Mangrove Circuit, Nessie's Loop, Sgurr 8, Spiral Into the Volcano, Summit City Velodrome, The Full New York, The Roads Less Traveled, Urukazi Flats)
 
 **⏱️ 5h+**
 - ⛰️ 🔴 W — [The Full Watopia](https://zwiftinsider.com/rebel-routes/) · [VV](https://veloviewer.com/segment/40760759) · [SS](https://www.strava.com/segments/40760759) — 154.5 km / 2852 m — ~7h2m, ~157W/2.1W/kg | Start: Oh Hill No → 0.3km

@@ -14,7 +14,7 @@
 - **Difficulty:** Hard (organizer rating) — driven by distance/coastal wind exposure more than climbing
 - **Aid stations:** 6 on route, ~every 27 km — good anchor points for fueling
 
-## Travel from home (740 W 187th St, NY 10033)
+## Travel from home (187th St, NY)
 
 - **Distance to Huddy Park:** ~50 mi (~80 km)
 - **Drive time:** ~1h15–1h30 (Highlands↔Times Square alone is 49.7 mi / 1h06m per Google-sourced estimate; Washington Heights adds a bit more distance and Sunday-morning traffic is light) — confirm with live traffic 1–2 days out

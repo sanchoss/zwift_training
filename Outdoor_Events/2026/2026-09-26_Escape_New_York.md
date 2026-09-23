@@ -15,7 +15,7 @@
 - **Terrain:** Paved road, crosses GW Bridge into Bergen/Rockland County NJ+NY, includes Harriman State Park
 - **Difficulty:** Expert (organizer rating)
 
-## Travel from home (740 W 187th St, NY 10033)
+## Travel from home (187th St, NY)
 
 - **Distance to Sakura Park:** ~3.2 mi (~5 km)
 - **Mode:** Bike over as warm-up (~15–20 min easy spin) — no car needed, start is close enough to ride to directly

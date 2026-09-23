@@ -6,8 +6,9 @@
 
 - **Organizer:** New York Cycle Club — https://eny.nycc.org/
 - **Route:** Randonneur's Special, 125 mi — RideWithGPS: https://ridewithgps.com/routes/54971547 ("ENY 2026 (125) - near final", updated ~16 Sep 2026 — recheck Thu/Fri for a "final" version). Replaces the 2024 route 48456935 (192.3 km / 2,273 m).
-- **Start:** Sakura Park, Manhattan (~122nd St / Riverside Dr)
-- **Check-in:** 6:00 AM, rolling start (no fixed gun time) — festival closes 6:00 PM
+- **Start:** Sakura Park, Manhattan (122nd St / Riverside Dr) — group meets at the **gazebo/stage on the north end** of the park
+- **Check-in:** required *before* meeting the group — arrive early, it takes time. Pre-ride group meeting **6:15 AM sharp** (route/pit-stop briefing), **rolling out promptly 6:30 AM** — do not be late
+- **Registered guided ride group:** 20 mph pace, rotating paceline style
 - **Distance:** 203.1 km (126.2 mi) — 2026 route GPS
 - **Elevation:** 2,307 m (7,570 ft) gain — 2026 route GPS
 - **Rest stops / services on route (2026 GPS, km from start):** Tenafly Bicycle Workshop/Rest Stop **18** · Piermont Rest Stop **33** · Orchards **59** and again **106** · Water/bathrooms **131** · Starbucks **143** · Wegman's **162** · Tenafly Rest Stop **184** (return) · finish **203**. Bike shops near start/finish: Hudson Bike Shop / Strictly Bicycles (km 7–8 / 194–195)
@@ -19,17 +20,29 @@
 
 - **Distance to Sakura Park:** ~3.2 mi (~5 km)
 - **Mode:** Bike over as warm-up (~15–20 min easy spin) — no car needed, start is close enough to ride to directly
-- Leave home ~5:35–5:45 AM to check in by 6:00 and roll out 6:15–6:30
+- Leave home ~5:25–5:35 AM to check in, then be at the gazebo/north-end meeting spot by 6:10 (pre-ride meeting starts 6:15 sharp, don't be late)
 
 ## Race-day timeline
 
 | Time | Action |
 |---|---|
 | 4:30–4:45 | Wake, breakfast: oatmeal + banana + honey, coffee |
-| ~5:15 | 2–3 medjool dates, fill bottles (Skratch + honey combo, see Nutrition_Plan.md) |
-| 5:35–5:45 | Ride to Sakura Park (warm-up) |
-| 6:00 | Check-in |
-| 6:15–6:30 | Roll out — early start = max daylight (sunset ~18:48 late Sep, ride will take 9–11h w/ stops) |
+| ~5:10 | 2–3 medjool dates, fill 2 bottles (Skratch + honey combo, see Nutrition_Plan.md) |
+| 5:25–5:35 | Ride to Sakura Park (warm-up) |
+| ~5:45 | Check-in (required before joining the group) |
+| 6:10 | At gazebo/north-end meeting spot |
+| 6:15 | Pre-ride group meeting (route/pit-stop briefing) |
+| 6:30 | Roll out promptly — early start = max daylight (sunset ~18:48 late Sep, ride will take 9–11h w/ stops) |
+
+## Group ride rules (leaders' briefing email, 21 Sep)
+
+- **Weather:** Rain or shine, no cancellation. Forecast unclear/possibly wet — high only low 60s°F, wind/wet will make it feel colder than that. Dress accordingly (layers, rain-capable gear).
+- **Required gear:** Helmet mandatory (no exceptions). No earphones/earbuds/anything blocking hearing the leaders, traffic, or other riders. No aero bars. Bring spare tube(s) + flat-fix kit + **two bottles of water**.
+- **Self-sufficiency:** A SAG van exists but the group is expected to handle anything short of a major mechanical without it.
+- **Route file:** Download and sync the RideWithGPS route to your GPS device *before* arriving — everyone in the paceline is expected to be able to lead off the route, not just follow.
+- **Pacing:** Advertised 20 mph is flat-ground pace target — overall will be slower given the terrain. Double paceline rotating up the left / down the right (away from traffic) when safe. If you can't hold the pace, drop back to a slower group; if you want to go faster, you're free to but lose the group's draft/support.
+- **First pit stop:** Piermont, mile 20 (~km 33) — matches the rest-stop list above; later stops decided as a group to keep things moving.
+- **Group comms:** Leaders set up a WhatsApp chat for day-of coordination (mechanicals, etc.) — link/QR provided in the registration email, join before race day if possible.
 
 ## Sleep plan (EDT) — covers both ENY and Twin Lights
 

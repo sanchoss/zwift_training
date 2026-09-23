@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//training//Outdoor Events Reminders//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eny-tlr-2026-01@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260921T020000Z
+DTEND:20260921T020500Z
+SUMMARY:😴 Lights out — wake-up at 6:45 tomorrow
+DESCRIPTION:Taper week before Escape New York / Twin Lights Ride. Easy endurance ride tomorrow at 7:00, up to 2h, very easy, RoboPacer.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:😴 Lights out — wake-up at 6:45 tomorrow
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-02@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260921T104500Z
+DTEND:20260921T105000Z
+SUMMARY:⏰ Wake up — easy endurance ride at 7:00 (up to 2h)
+DESCRIPTION:Taper day 1. Up to 2h, very easy, RoboPacer group.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏰ Wake up — easy Z2 ride at 7:00-8:15
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-03@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260921T110000Z
+DTEND:20260921T130000Z
+SUMMARY:🚴 Ride — Easy endurance, up to 2h, RoboPacer (very easy)
+DESCRIPTION:Taper day 1. Up to 2h if it feels good, but very easy — join a RoboPacer group (~1.6-2.0 w/kg) to enforce the pace, no pushing. This is volume, not a training-load day.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Ride time — Easy Z2
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-04@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260922T013000Z
+DTEND:20260922T013500Z
+SUMMARY:😴 Lights out — Sweet Spot openers tomorrow (7:00)
+DESCRIPTION:Taper week. Tomorrow: 60 min, 3-4x5 min Sweet Spot.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:😴 Lights out — Sweet Spot openers tomorrow (7:00)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-05@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260922T104500Z
+DTEND:20260922T105000Z
+SUMMARY:⏰ Wake up — Sweet Spot openers at 7:00
+DESCRIPTION:Taper day 2. 60 min, 3-4x5 min Sweet Spot — keep sharpness, not volume.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏰ Wake up — Sweet Spot openers at 7:00
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-06@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260922T110000Z
+DTEND:20260922T120000Z
+SUMMARY:🚴 Ride — Sweet Spot openers (60 min, 3-4x5 min)
+DESCRIPTION:Taper day 2. Keep sharpness, not volume.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Ride time — Sweet Spot openers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-07@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260923T020000Z
+DTEND:20260923T020500Z
+SUMMARY:😴 Lights out — Wednesday rest day
+DESCRIPTION:Wednesday — full rest or 30 min easy spin. Real recovery in the middle of the taper.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:😴 Lights out — Wednesday rest day
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-08@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260924T010000Z
+DTEND:20260924T010500Z
+SUMMARY:😴 Lights out early — Thursday early ride (6:30)
+DESCRIPTION:Tomorrow is the last openers day, timed as close as possible to race start time.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:😴 Lights out early — Thursday early ride (6:30)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-09@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260924T101500Z
+DTEND:20260924T102000Z
+SUMMARY:⏰ Wake up — last opener before taper (6:30)
+DESCRIPTION:40-50 min, 3x3 min tempo + a couple 30-sec accelerations. As close as possible to ENY start time.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏰ Wake up — last opener before taper (6:30)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-10@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260924T103000Z
+DTEND:20260924T111500Z
+SUMMARY:🚴 Ride — Last opener (40-50 min, 3x3 min tempo)
+DESCRIPTION:Last sharpening ride before full rest. Timed close to ENY's actual start time to prime the body clock.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Ride time — Last opener
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-11@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260925T010000Z
+DTEND:20260925T010500Z
+SUMMARY:😴 Lights out early — Friday rest and carb-load
+DESCRIPTION:Friday: rest, pack bike/kit, carb-loading begins.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:😴 Lights out early — Friday rest and carb-load
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-12@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260926T010000Z
+DTEND:20260926T010500Z
+SUMMARY:😴 Lights out — CRITICAL, ENY wake-up at 4:30 tomorrow
+DESCRIPTION:Escape New York is tomorrow. Check-in 6:00 at Sakura Park, start 6:15-6:30.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:😴 Lights out — CRITICAL, ENY wake-up at 4:30 tomorrow
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-13@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260926T083000Z
+DTEND:20260926T083500Z
+SUMMARY:⏰ WAKE UP — Escape New York, start 6:15-6:30
+DESCRIPTION:125mi/201km, ~2149m gain. Breakfast: oatmeal+banana+honey, coffee. Check-in 6:00. Ride to start from home (~3.2mi).
+LOCATION:Sakura Park, Manhattan, NY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏰ WAKE UP — Escape New York, start 6:15-6:30
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-14@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260926T101500Z
+DTEND:20260926T102000Z
+SUMMARY:🚴 START — Escape New York (125mi / 201km, ~2149m)
+DESCRIPTION:Roll out now. 9-11h expected with stops. Fuel 70-90g carbs/h, sodium 500-1000mg/h.
+LOCATION:Sakura Park, Manhattan, NY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 START — Escape New York
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-15@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260927T010000Z
+DTEND:20260927T010500Z
+SUMMARY:😴 Lights out — CRITICAL, TLR wake-up at 5:00 tomorrow
+DESCRIPTION:Twin Lights Ride is tomorrow, start 7:00 at Huddy Park, Highlands NJ. Recommendation: stay overnight near Highlands rather than in Manhattan.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:😴 Lights out — CRITICAL, TLR wake-up at 5:00 tomorrow
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-16@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260927T090000Z
+DTEND:20260927T090500Z
+SUMMARY:⏰ WAKE UP — Twin Lights Ride, start 7:00
+DESCRIPTION:100mi/161km, ~774m gain. Check-in 6:00, start 7:00. Legs tired from ENY — steady pace, use all 6 aid stations.
+LOCATION:Huddy Park, Highlands, NJ 07732
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏰ WAKE UP — Twin Lights Ride, start 7:00
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eny-tlr-2026-17@zwift-training
+DTSTAMP:20260917T190000Z
+DTSTART:20260927T110000Z
+DTEND:20260927T110500Z
+SUMMARY:🚴 START — Twin Lights Ride (100mi / 161km, ~774m)
+DESCRIPTION:Roll out now. Steady pace, legs are fatigued from day 1 — no heroics. 6 aid stations every ~27km.
+LOCATION:Huddy Park, Highlands, NJ 07732
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 START — Twin Lights Ride
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

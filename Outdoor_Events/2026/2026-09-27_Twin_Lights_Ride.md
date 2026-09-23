@@ -18,8 +18,12 @@
 
 - **Distance to Huddy Park:** ~50 mi (~80 km)
 - **Drive time:** ~1h15–1h30 (Highlands↔Times Square alone is 49.7 mi / 1h06m per Google-sourced estimate; Washington Heights adds a bit more distance and Sunday-morning traffic is light) — confirm with live traffic 1–2 days out
-- **If driving straight from home Sunday morning:** wake ~4:00 AM, leave ~4:45–5:00 AM to arrive 6:00–6:15 AM. Doing this the morning after a 125mi/2150m day is rough.
+- **If driving straight from home Sunday morning:** wake ~4:00 AM, leave ~4:45–5:00 AM to arrive 6:00–6:15 AM. Doing this the morning after a 126mi/2300m day is rough.
 - **Recommended instead:** stay overnight near Highlands, NJ after Saturday's Escape New York finish (see that event's file) — cuts Sunday's travel to a short local drive and buys real sleep.
+
+## Sleep
+
+Lights out **21:00 Sat → wake 05:00 Sun** (8h), staying overnight near Highlands (decided 22 Sep). Leave ~05:40 → check-in by 06:15 (organizer: arrive ≥45 min before start), start 07:00, course closes 17:00. On Garmin calendar as race event 30129884. Full week's sleep shift and Garmin calendar event IDs are in the [ENY file](2026-09-26_Escape_New_York.md#sleep-plan-edt--covers-both-eny-and-twin-lights).
 
 ## Race-day timeline (assuming overnight stay near Highlands)
 

@@ -34,8 +34,8 @@ Aqueduc KOM (F), Gentile 8 (F), Hell of the North (F), Rebel Route: Petite Doule
 
 ## ⛰️ HILLY (15–25 m/km) — 47 routes
 
-- **Halo / special (if allowed):** Concept Z1 Tron ✅
-- **Regular (Halo banned):** S-Works SL8 ✅ · S-Works Aethos ✅
+- **Halo / special:** — (as gradient bites, SL8/Aethos already beat Tron — not worth using here)
+- **Regular:** S-Works SL8 ✅ · S-Works Aethos ✅
 - **Wheels:** Princeton Wake 6560 ✅ · Princeton Alta 3532 ✅
 - **Advice:** As gradient bites, SL8 overtakes Tron. On the steepest hilly routes switch to Aethos. Wake 6560 all-round, Alta 3532 if it's climb-heavy.
 

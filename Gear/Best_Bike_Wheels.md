@@ -65,6 +65,16 @@
 
 ## 🎯 Frames to Acquire (Wanted)
 
+### Upcoming Halo bikes (announced for winter 2026)
+
+| Bike | Availability | Unlock preparation | Performance vs Tron / Project '74 |
+|------|--------------|--------------------|------------------------------------|
+| Canyon Halo bike (model TBA) | Winter 2026 | Fully upgrade 3 Canyon frames to Stage 5, then purchase Halo bike with Drops | Unknown until release and testing |
+| Cervélo Halo bike (model TBA) | Winter 2026 | Fully upgrade 3 Cervélo frames to Stage 5, then purchase Halo bike with Drops | Unknown until release and testing |
+
+> Stage 5 means completing and purchasing all five upgrade stages for each frame; it does not mean the frame's aero or weight rating must show five stars. Exact Halo prices and eligible frame details await the release.
+> Sources: https://support.zwift.com/it/this-season-on-zwift-faq-rJXEpTz1j and https://support.zwift.com/de/-Bk9NDECjyx
+
 | Frame | Type | Level | Price | Stg 5 | Why |
 |-------|------|-------|-------|-------|-----|
 | **Cadex Tri** | TT (Duration) | 42+ | **1,029,500 Drops** | ~40h ⚠️ verify in-game | #1 TT frame in game — +11s/hr over Shiv Disc on flat |

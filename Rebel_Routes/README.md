@@ -1,8 +1,8 @@
 # Zwift Rebel Routes
 
-**Updated:** Sat 31 May 2026 — EST / UTC / EET
+**Updated:** Thu 01 Oct 2026 23:02 EST / 03:02 UTC / 06:02 EET
 
-**Status: 18/25 completed** | Source: [VeloViewer Rebel Routes](https://veloviewer.com/zwift-insider/rebel-routes)
+**Status: 18/28 completed** | Source: [VeloViewer Rebel Routes](https://veloviewer.com/zwift-insider/rebel-routes)
 
 **Terrain icons:** ➡️ flat (<8 m/km) | 🔀 rolling (8–15) | ⛰️ hilly (15–25) | 🏔️ mountain (>25)
 
@@ -36,7 +36,7 @@
 | ➡️ | Nessie's Loop | [Loch Loop](https://zwiftinsider.com/route/loch-loop/) | 2.0 km | 1.9 km | 15 m | ✅ | [Strava](https://www.strava.com/segments/34255208) | [VeloViewer](https://veloviewer.com/segment/34255208) | [ZwiftInsider](https://zwiftinsider.com/nessies-loop/) |
 | 🔀 | Sgurr 8 | [Rolling Highlands](https://zwiftinsider.com/route/rolling-highlands/) | 3.0 km | 12.6 km | 150 m | ✅ | [Strava](https://www.strava.com/segments/34485671) | [VeloViewer](https://veloviewer.com/segment/34485671) | [ZwiftInsider](https://zwiftinsider.com/sgurr-8/) |
 
-## Watopia (15 routes)
+## Watopia (18 routes)
 
 | Terrain | Route | Approach Route | Approach km | Dist | Elev | Status | Strava | VeloViewer | ZwiftInsider |
 |---------|-------|----------------|-------------|------|------|--------|--------|------------|--------------|
@@ -47,7 +47,10 @@
 | 🏔️ | Epic Loop | [Mountain Mash](https://zwiftinsider.com/route/mountain-mash/) | 13.7 km | 14.4 km | 378 m | ✅ | [Strava](https://www.strava.com/segments/31415150) | [VeloViewer](https://veloviewer.com/segment/31415150) | [ZwiftInsider](https://zwiftinsider.com/epic-loop/) |
 | 🔀 | Hilly KOM Bypass | [Hilly Route](https://zwiftinsider.com/route/hilly-route/) | 1.5 km | 2.5 km | 31 m | ✅ | [Strava](https://www.strava.com/segments/26791932) | [VeloViewer](https://veloviewer.com/segment/26791932) | [ZwiftInsider](https://zwiftinsider.com/hilly-kom-bypass/) |
 | 🏔️ | KOMonster | [Hilly Route](https://zwiftinsider.com/route/hilly-route/) | — | 99.8 km | 2570 m | ⬜ | [Strava](https://www.strava.com/segments/21645117) | [VeloViewer](https://veloviewer.com/segment/21645117) | [ZwiftInsider](https://zwiftinsider.com/komonster/) |
+| ➡️ | Lap It Up | [Hilly Route](https://zwiftinsider.com/route/hilly-route/) | — | 65.7 km | 505 m | ⬜ | [Strava](https://www.strava.com/segments/41018480) | [VeloViewer](https://veloviewer.com/segment/41018480) | [ZwiftInsider](https://zwiftinsider.com/rebel-route-lap-it-up/) |
+| 🔀 | Lap It Up + Jungle Afterparty | [Jungle Circuit](https://zwiftinsider.com/route/jungle-circuit/) | — | 103.5 km | 882 m | ⬜ | [Strava](https://www.strava.com/segments/41018371) | [VeloViewer](https://veloviewer.com/segment/41018371) | [ZwiftInsider](https://zwiftinsider.com/rebel-route-lap-it-up/) |
 | ➡️ | Litus Fugit | [The Big Ring](https://zwiftinsider.com/route/the-big-ring/) | — | 61.0 km | 269 m | ✅ | [Strava](https://www.strava.com/segments/35852231) | [VeloViewer](https://veloviewer.com/segment/35852231) | [ZwiftInsider](https://zwiftinsider.com/litus-fugit/) |
+| 🏔️ | Magical Mystery Spinner Tour | [Hilly Route](https://zwiftinsider.com/route/hilly-route/) | — | 76.1 km | 2006 m | ⬜ | [Strava](https://www.strava.com/segments/40985156) | [VeloViewer](https://veloviewer.com/segment/40985156) | [ZwiftInsider](https://zwiftinsider.com/rebel-route-magical-mystery-spinner-tour/) |
 | ➡️ | Spiral Into the Volcano | [Volcano Flat](https://zwiftinsider.com/route/volcano-flat/) | — | 55.6 km | 324 m | ✅ | [Strava](https://www.strava.com/segments/20522725) | [VeloViewer](https://veloviewer.com/segment/20522725) | [ZwiftInsider](https://zwiftinsider.com/route/spiral-into-the-volcano/) |
 | ➡️ | Summit City Velodrome | [Oh Hill No](https://zwiftinsider.com/route/oh-hill-no/) | 4.0 km | 2.5 km | 0 m | ✅ | [Strava](https://www.strava.com/segments/37626854) | [VeloViewer](https://veloviewer.com/segment/37626854) | [ZwiftInsider](https://zwiftinsider.com/summit-city-velodrome/) |
 | ⛰️ | The Full Watopia | [Oh Hill No](https://zwiftinsider.com/route/oh-hill-no/) | — | 154.5 km | 2852 m | ⬜ | [Strava](https://www.strava.com/segments/40760759) | [VeloViewer](https://veloviewer.com/segment/40760759) | [ZwiftInsider](https://zwiftinsider.com/the-full-watopia/) |
@@ -64,8 +67,8 @@
 | Makuri Islands | 5 | 4 | 1 |
 | New York | 1 | 1 | 0 |
 | Scotland | 3 | 3 | 0 |
-| Watopia | 15 | 10 | 5 |
-| **Total** | **25** | **18** | **7** |
+| Watopia | 18 | 10 | 8 |
+| **Total** | **28** | **18** | **10** |
 
 ## ✍️ Author
 

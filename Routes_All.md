@@ -1,31 +1,35 @@
-# 📋 Zwift All Routes & Segments — Completion Tracker (313)
+# 📋 Zwift All Routes & Segments — Completion Tracker (326)
 
-**Updated:** 2026-08-25
+**Updated:** 2026-10-27
 **Source:** [VeloViewer Zwift Insider](https://veloviewer.com/zwift-insider)
-**Status:** 290/313 completed | 23 remaining
+**Status:** 294/326 completed | 32 remaining
+
+**Zwift Plus video routes:** [Routes_Video.md](Routes_Video.md) tracks the 21 newly launched video-route badges separately; personal completion status is pending verification.
 
 **Terrain:** ➡️ flat (<8 m/km) | 🔀 rolling (8–15) | ⛰️ hilly (15–25) | 🏔️ mountain (>25)
 **Setup:** best frame + wheels per terrain (✅ owned / 🔒 not) — full Halo/Regular detail in [Gear/Race_Bike_Picker.md](Gear/Race_Bike_Picker.md)
-**Event-only:** 5 routes below are marked `(Event Only)` — launched Aug 2026 for ZRacing, not yet open for free ride. VeloViewer/Strava links use the event Strava segment.
+**Event-only:** 5 routes below are marked `(Event Only)` — launched Aug 2026 for ZRacing, not yet open for free ride. VeloViewer/Strava links use the event Strava segment. Twilight Crit ridden 2026-08-27 (ZRacing) — ZI: no route badge, 80 XP only. Spiral Summit: ZI lists a 475 XP badge but it is absent from the in-game badge list — verify.
+**Added 2026-10-01:** 3 new rebel routes (Lap It Up, Lap It Up + Jungle Afterparty, Magical Mystery Spinner Tour — ZI Mar 2026); Seaside Sprint (W, 6.4 km / 46 m, 130 XP) — former rebel route, free-ride since Sep 2026 (distinct from Jarvis Seaside Sprint).
+**Added 2026-10-27:** 9 Wild Isles Watopia cycling routes released October 26. California Roll ✅ (Strava route effort October 27); the other 8 ⬜. Mech Isle Mayhem ✅ (Strava route effort October 26). Wild Isles route pages still say “Event Only,” but [Zwift Insider's launch report](https://zwiftinsider.com/wild-isles/) says all 9 are selectable as free rides. Route distances in the table exclude lead-ins; see [AGENTS.md](AGENTS.md) for ride totals, lead-ins, XP and planning times. Three additional cycling routes are scheduled for November 2 and are excluded until available. New Wild Isles VV links point to their Strava segment IDs; leaderboard inclusion is pending verification.
 
 ## Summary
 
 | World | Total | Done | Remaining |
 |-------|-------|------|-----------|
-| Watopia (W) | 118 | 106 | 12 |
+| Watopia (W) | 131 | 107 | 24 |
 | New York (N) | 40 | 39 | 1 |
-| Makuri Islands (M) | 54 | 48 | 6 |
+| Makuri Islands (M) | 54 | 50 | 4 |
 | London (L) | 20 | 19 | 1 |
-| France (F) | 35 | 32 | 3 |
+| France (F) | 35 | 33 | 2 |
 | Scotland (S) | 19 | 19 | 0 |
 | Innsbruck (I) | 9 | 9 | 0 |
 | Richmond (R) | 9 | 9 | 0 |
 | Yorkshire (Y) | 9 | 9 | 0 |
-| **Total** | **313** | **290** | **23** |
+| **Total** | **326** | **294** | **32** |
 
 ---
 
-## Watopia (118 routes)
+## Watopia (131 routes)
 
 | # | Terrain | Route | Dist | Elev | Setup | Status | ZwiftInsider | VeloViewer | Strava |
 |---|---------|-------|------|------|---|--------|--------------|------------|--------|
@@ -73,9 +77,12 @@
 | 106 | 🔀 | Jungle Loop | 7.9 km | 79 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/segment/jungle-loop/) | [VV](https://veloviewer.com/segment/16359363) | [SS](https://www.strava.com/segments/16359363) |
 | 107 | 🔀 | Jurassic Coast (OLD) | 19.6 km | 184 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/jurassic-coast/) | [VV](https://veloviewer.com/segment/36343069) | [SS](https://www.strava.com/segments/36343069) |
 | 311 | 🏔️ | KOMonster | 99.8 km | 2570 m | Aethos✅ + Alta✅ | ⬜ | [ZI](https://zwiftinsider.com/komonster/) | [VV](https://veloviewer.com/segment/21645117) | [SS](https://www.strava.com/segments/21645117) |
+| 317 | ➡️ | Rebel Route: Lap It Up | 65.7 km | 505 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/rebel-route-lap-it-up/) | [VV](https://veloviewer.com/segment/41018480) | [SS](https://www.strava.com/segments/41018480) |
+| 315 | 🔀 | Rebel Route: Lap It Up + Jungle Afterparty | 103.5 km | 882 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/rebel-route-lap-it-up/) | [VV](https://veloviewer.com/segment/41018371) | [SS](https://www.strava.com/segments/41018371) |
 | 121 | 🔀 | Legends and Lava | 24.0 km | 321 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/legends-and-lava/) | [VV](https://veloviewer.com/segment/30630421) | [SS](https://www.strava.com/segments/30630421) |
 | 132 | 🔀 | Loop de Loop | 12.4 km | 135 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/loop-de-loop/) | [VV](https://veloviewer.com/segment/36342198) | [SS](https://www.strava.com/segments/36342198) |
 | 133 | 🔀 | Loopin Lava | 14.2 km | 190 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/loopin-lava/) | [VV](https://veloviewer.com/segment/38132886) | [SS](https://www.strava.com/segments/38132886) |
+| 316 | 🏔️ | Rebel Route: Magical Mystery Spinner Tour | 76.1 km | 2006 m | Aethos✅ + Alta✅ | ⬜ | [ZI](https://zwiftinsider.com/rebel-route-magical-mystery-spinner-tour/) | [VV](https://veloviewer.com/segment/40985156) | [SS](https://www.strava.com/segments/40985156) |
 | 140 | 🔀 | Mayan 8 | 23.0 km | 226 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/mayan-8/) | [VV](https://veloviewer.com/segment/37683459) | [SS](https://www.strava.com/segments/37683459) |
 | 141 | ⛰️ | Mayan Mash | 34.4 km | 739 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/route/mayan-mash/) | [VV](https://veloviewer.com/segment/37039844) | [SS](https://www.strava.com/segments/37039844) |
 | 142 | 🏔️ | Mayan Mountainside KOM | 2.0 km | 61 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/segment/mayan-mountainside-kom/) | [VV](https://veloviewer.com/segment/37049451) | [SS](https://www.strava.com/segments/37049451) |
@@ -112,6 +119,7 @@
 | 208 | 🔀 | Road to Ruins | 29.6 km | 267 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/road-to-ruins/) | [VV](https://veloviewer.com/segment/16404154) | [SS](https://www.strava.com/segments/16404154) |
 | 209 | 🏔️ | Road to Sky | 17.3 km | 1045 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/route/road-to-sky/) | [VV](https://veloviewer.com/segment/22280036) | [SS](https://www.strava.com/segments/22280036) |
 | 216 | ➡️ | Sand and Sequoias | 20.1 km | 146 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/sand-and-sequoias/) | [VV](https://veloviewer.com/segment/21911197) | [SS](https://www.strava.com/segments/21911197) |
+| 314 | ➡️ | Seaside Sprint | 6.4 km | 46 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/seaside-sprint/) | [VV](https://veloviewer.com/segment/22913457) | [SS](https://www.strava.com/segments/22913457) |
 | 220 | 🔀 | Serpentine 8 | 19.2 km | 199 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/serpentine-8/) | [VV](https://veloviewer.com/segment/26742092) | [SS](https://www.strava.com/segments/26742092) |
 | 224 | ⛰️ | Shorelines and Summits | 46.1 km | 750 m | SL8✅ + Wake✅ | ✅ | [ZI](https://zwiftinsider.com/route/shorelines-and-summits/) | [VV](https://veloviewer.com/segment/35697595) | [SS](https://www.strava.com/segments/35697595) |
 | 226 | 🔀 | Snowman | 43.9 km | 550 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/snowman/) | [VV](https://veloviewer.com/segment/37049460) | [SS](https://www.strava.com/segments/37049460) |
@@ -147,6 +155,15 @@
 | 293 | 🔀 | Whole Lotta Lava | 12.3 km | 153 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/whole-lotta-lava/) | [VV](https://veloviewer.com/segment/20545879) | [SS](https://www.strava.com/segments/20545879) |
 | 296 | ⛰️ | ZG25 Queen | 44.5 km | 875 m | SL8✅ + Wake✅ | ✅ | [ZI](https://zwiftinsider.com/route/zg25-queen/) | [VV](https://veloviewer.com/segment/38412699) | [SS](https://www.strava.com/segments/38412699) |
 | 297 | 🔀 | Zwift Games 2024 Epic (Banner to Banner) | 79.8 km | 735 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/zwift-games-2024-epic/) | [VV](https://veloviewer.com/segment/36357669) | [SS](https://www.strava.com/segments/36357669) |
+| 318 | ➡️ | Caldera Coaster | 4.0 km | 12 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/caldera-coaster/) | [VV](https://veloviewer.com/segment/42374295) | [SS](https://www.strava.com/segments/42374295) |
+| 319 | ➡️ | California Dreamin' | 19.0 km | 106 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/california-dreamin/) | [VV](https://veloviewer.com/segment/42374395) | [SS](https://www.strava.com/segments/42374395) |
+| 320 | ➡️ | California Roll | 33.2 km | 139 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/california-roll/) | [VV](https://veloviewer.com/segment/42422101) | [SS](https://www.strava.com/segments/42422101) |
+| 321 | 🔀 | Four Foalsmen | 67.9 km | 578 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/four-foalsmen/) | [VV](https://veloviewer.com/segment/42376396) | [SS](https://www.strava.com/segments/42376396) |
+| 322 | 🔀 | Laps, Camera, Traction | 25.7 km | 217 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/laps-camera-traction/) | [VV](https://veloviewer.com/segment/42374729) | [SS](https://www.strava.com/segments/42374729) |
+| 323 | ➡️ | Pacific Pursuit | 54.0 km | 381 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/pacific-pursuit/) | [VV](https://veloviewer.com/segment/42422497) | [SS](https://www.strava.com/segments/42422497) |
+| 324 | ➡️ | Seafoam Circuit | 3.5 km | 18 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/seafoam-circuit/) | [VV](https://veloviewer.com/segment/42380450) | [SS](https://www.strava.com/segments/42380450) |
+| 325 | ➡️ | The Watopia 150! | 150.4 km | 0 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/the-watopia-150/) | [VV](https://veloviewer.com/segment/42380444) | [SS](https://www.strava.com/segments/42380444) |
+| 326 | 🔀 | Watt Goes Up Must Come Down | 60.5 km | 776 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/watt-goes-up-must-come-down/) | [VV](https://veloviewer.com/segment/42376334) | [SS](https://www.strava.com/segments/42376334) |
 
 ---
 
@@ -222,7 +239,7 @@
 | 138 | ➡️ | Makuri Madness | 15.0 km | 65 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/makuri-madness/) | [VV](https://veloviewer.com/segment/38413164) | [SS](https://www.strava.com/segments/38413164) |
 | 139 | ➡️ | Makuri Pretzel | 77.7 km | 546 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/makuri-pretzel/) | [VV](https://veloviewer.com/segment/37684132) | [SS](https://www.strava.com/segments/37684132) |
 | 144 | 🔀 | Mech Isle Loop | 4.0 km | 34 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/mech-isle-loop/) | [VV](https://veloviewer.com/segment/33214506) | [SS](https://www.strava.com/segments/33214506) |
-| 307 | ➡️ | Mech Isle Mayhem (Event Only) | 18.4 km | 116 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/mech-isle-mayhem/) | [VV](https://veloviewer.com/segment/41888254) | [SS](https://www.strava.com/segments/41888254) |
+| 307 | ➡️ | Mech Isle Mayhem (Event Only) | 18.4 km | 116 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/mech-isle-mayhem/) | [VV](https://veloviewer.com/segment/41888254) | [SS](https://www.strava.com/segments/41888254) |
 | 155 | ➡️ | Neokyo All-Nighter | 24.3 km | 134 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/neokyo-all-nighter/) | [VV](https://veloviewer.com/segment/30407658) | [SS](https://www.strava.com/segments/30407658) |
 | 156 | ➡️ | Neon After Party | 16.1 km | 114 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/neon-after-party/) | [VV](https://veloviewer.com/segment/38754616) | [SS](https://www.strava.com/segments/38754616) |
 | 157 | ➡️ | Neon Flats | 14.7 km | 48 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/neon-flats/) | [VV](https://veloviewer.com/segment/30414842) | [SS](https://www.strava.com/segments/30414842) |
@@ -247,7 +264,7 @@
 | 262 | 🔀 | Three Village Loop | 10.5 km | 87 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/three-village-loop/) | [VV](https://veloviewer.com/segment/28433076) | [SS](https://www.strava.com/segments/28433076) |
 | 275 | ➡️ | Tropic Rush (1 Lap) | 41.2 km | 285 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/tropic-rush/) | [VV](https://veloviewer.com/segment/40232566) | [SS](https://www.strava.com/segments/40232566) |
 | 276 | ➡️ | Turf N Surf | 24.6 km | 174 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/turf-n-surf/) | [VV](https://veloviewer.com/segment/33238344) | [SS](https://www.strava.com/segments/33238344) |
-| 308 | ➡️ | Twilight Crit (Event Only) | 3.9 km | 20 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/twilight-crit/) | [VV](https://veloviewer.com/segment/41882382) | [SS](https://www.strava.com/segments/41882382) |
+| 308 | ➡️ | Twilight Crit (Event Only) | 3.9 km | 20 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/twilight-crit/) | [VV](https://veloviewer.com/segment/41882382) | [SS](https://www.strava.com/segments/41882382) |
 | 277 | ➡️ | Twilight Harbor | 6.9 km | 26 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/twilight-harbor/) | [VV](https://veloviewer.com/segment/30629791) | [SS](https://www.strava.com/segments/30629791) |
 | 279 | ➡️ | Two Village Loop | 12.8 km | 81 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/two-village-loop/) | [VV](https://veloviewer.com/segment/28433439) | [SS](https://www.strava.com/segments/28433439) |
 | 309 | ➡️ | Urumaze (Event Only) | 24.8 km | 194 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/urumaze/) | [VV](https://veloviewer.com/segment/41887960) | [SS](https://www.strava.com/segments/41887960) |
@@ -312,7 +329,7 @@
 | 304 | ➡️ | Montmartre Mixer | 25.1 km | 190 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/montmartre-mixer/) | [VV](https://veloviewer.com/segment/41606447) | [SS](https://www.strava.com/segments/41606447) |
 | 168 | 🏔️ | Petit KOM | 2.7 km | 105 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/segment/petit-kom/) | [VV](https://veloviewer.com/segment/24690967) | [SS](https://www.strava.com/segments/24690967) |
 | 169 | ➡️ | Petite Boucle | 61.0 km | 431 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/petit-boucle/) | [VV](https://veloviewer.com/segment/24676054) | [SS](https://www.strava.com/segments/24676054) |
-| 305 | ➡️ | Paris Toujours | 69.2 km | 448 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/paris-toujours/) | [VV](https://veloviewer.com/segment/41685039) | [SS](https://www.strava.com/segments/41685039) |
+| 305 | ➡️ | Paris Toujours | 69.2 km | 448 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/paris-toujours/) | [VV](https://veloviewer.com/segment/41685039) | [SS](https://www.strava.com/segments/41685039) |
 | 176 | ➡️ | R.G.V. | 24.1 km | 107 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/rgv/) | [VV](https://veloviewer.com/segment/24685955) | [SS](https://www.strava.com/segments/24685955) |
 | 192 | 🔀 | Rebel Route: Petite Douleur [France + Paris] | 12.3 km | 119 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/petite-douleur/) | [VV](https://veloviewer.com/segment/24984611) | [SS](https://www.strava.com/segments/24984611) |
 | 193 | 🔀 | Rebel Route: Petite Douleur [Rebel Routes] | 13.9 km | 176 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/petite-douleur/) | [VV](https://veloviewer.com/segment/24984611) | [SS](https://www.strava.com/segments/24984611) |

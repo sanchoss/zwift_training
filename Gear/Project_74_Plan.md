@@ -33,6 +33,10 @@ Zwift doesn't publish an exact Drops formula, but it scales with **distance cove
 | R4000 Roller Blade | Road | 150.8 | 42.0 | 192.8 |
 | Concept Z1 (Tron) | Road | 144.0 | 66.8 | 210.8 |
 | Pinarello Espada | TT | 283.7 | -46.2 | — |
+| Canyon Halo bike (model TBA; winter 2026) | TBA | TBA | TBA | TBA |
+| Cervélo Halo bike (model TBA; winter 2026) | TBA | TBA | TBA | TBA |
+
+> Canyon and Cervélo performance and exact purchase costs have not been announced. Each will require three fully upgraded (Stage 5) frames from its own brand to unlock purchase; aero/weight star ratings are separate from upgrade stages.
 
 ## After Purchase: Costs to Fully Upgrade Project '74
 - **8,000 km** riding on the Project '74

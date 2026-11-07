@@ -1,35 +1,36 @@
-# 📋 Zwift All Routes & Segments — Completion Tracker (326)
+# 📋 Zwift All Routes & Segments — Completion Tracker (329 standard + 21 video)
 
-**Updated:** 2026-10-27
+**Updated:** 2026-11-06
 **Source:** [VeloViewer Zwift Insider](https://veloviewer.com/zwift-insider)
-**Status:** 294/326 completed | 32 remaining
+**Status:** 305/329 completed | 24 remaining
 
-**Zwift Plus video routes:** [Routes_Video.md](Routes_Video.md) tracks the 21 newly launched video-route badges separately; personal completion status is pending verification.
+**Zwift Plus video routes:** 21 listed below; 2 rides detected, 19 not detected, 0 unverified. [Video tracker](Routes_Video.md).
 
 **Terrain:** ➡️ flat (<8 m/km) | 🔀 rolling (8–15) | ⛰️ hilly (15–25) | 🏔️ mountain (>25)
 **Setup:** best frame + wheels per terrain (✅ owned / 🔒 not) — full Halo/Regular detail in [Gear/Race_Bike_Picker.md](Gear/Race_Bike_Picker.md)
 **Event-only:** 5 routes below are marked `(Event Only)` — launched Aug 2026 for ZRacing, not yet open for free ride. VeloViewer/Strava links use the event Strava segment. Twilight Crit ridden 2026-08-27 (ZRacing) — ZI: no route badge, 80 XP only. Spiral Summit: ZI lists a 475 XP badge but it is absent from the in-game badge list — verify.
 **Added 2026-10-01:** 3 new rebel routes (Lap It Up, Lap It Up + Jungle Afterparty, Magical Mystery Spinner Tour — ZI Mar 2026); Seaside Sprint (W, 6.4 km / 46 m, 130 XP) — former rebel route, free-ride since Sep 2026 (distinct from Jarvis Seaside Sprint).
-**Added 2026-10-27:** 9 Wild Isles Watopia cycling routes released October 26. California Roll ✅ (Strava route effort October 27); the other 8 ⬜. Mech Isle Mayhem ✅ (Strava route effort October 26). Wild Isles route pages still say “Event Only,” but [Zwift Insider's launch report](https://zwiftinsider.com/wild-isles/) says all 9 are selectable as free rides. Route distances in the table exclude lead-ins; see [AGENTS.md](AGENTS.md) for ride totals, lead-ins, XP and planning times. Three additional cycling routes are scheduled for November 2 and are excluded until available. New Wild Isles VV links point to their Strava segment IDs; leaderboard inclusion is pending verification.
+**Added 2026-11-02:** 3 Stage 5 Wild Isles cycling routes: One Ride to Rule Them All, Molten Momentum, and Crit Cross. All are ⬜ and available as free rides per [Zwift's FAQ](https://support.zwift.com/en_us/watopia-expansion-the-wild-isles-faq-H1oG34Y2zg). Route distances in the table exclude lead-ins; see [AGENTS.md](AGENTS.md) for ride totals and planning times. New Wild Isles VV links point to their Strava segment IDs; leaderboard inclusion is pending verification.
+**Added 2026-10-27:** 9 Wild Isles Watopia cycling routes released October 26. California Roll ✅ (Strava route effort October 27); the other 8 ⬜. Mech Isle Mayhem ✅ (Strava route effort October 26).
 
 ## Summary
 
 | World | Total | Done | Remaining |
 |-------|-------|------|-----------|
-| Watopia (W) | 131 | 107 | 24 |
+| Watopia (W) | 134 | 116 | 18 |
 | New York (N) | 40 | 39 | 1 |
-| Makuri Islands (M) | 54 | 50 | 4 |
+| Makuri Islands (M) | 54 | 52 | 2 |
 | London (L) | 20 | 19 | 1 |
 | France (F) | 35 | 33 | 2 |
 | Scotland (S) | 19 | 19 | 0 |
 | Innsbruck (I) | 9 | 9 | 0 |
 | Richmond (R) | 9 | 9 | 0 |
 | Yorkshire (Y) | 9 | 9 | 0 |
-| **Total** | **326** | **294** | **32** |
+| **Total** | **329** | **305** | **24** |
 
 ---
 
-## Watopia (131 routes)
+## Watopia (134 routes)
 
 | # | Terrain | Route | Dist | Elev | Setup | Status | ZwiftInsider | VeloViewer | Strava |
 |---|---------|-------|------|------|---|--------|--------------|------------|--------|
@@ -119,7 +120,7 @@
 | 208 | 🔀 | Road to Ruins | 29.6 km | 267 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/road-to-ruins/) | [VV](https://veloviewer.com/segment/16404154) | [SS](https://www.strava.com/segments/16404154) |
 | 209 | 🏔️ | Road to Sky | 17.3 km | 1045 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/route/road-to-sky/) | [VV](https://veloviewer.com/segment/22280036) | [SS](https://www.strava.com/segments/22280036) |
 | 216 | ➡️ | Sand and Sequoias | 20.1 km | 146 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/sand-and-sequoias/) | [VV](https://veloviewer.com/segment/21911197) | [SS](https://www.strava.com/segments/21911197) |
-| 314 | ➡️ | Seaside Sprint | 6.4 km | 46 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/seaside-sprint/) | [VV](https://veloviewer.com/segment/22913457) | [SS](https://www.strava.com/segments/22913457) |
+| 314 | ➡️ | Seaside Sprint | 6.4 km | 46 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/seaside-sprint/) | [VV](https://veloviewer.com/segment/22913457) | [SS](https://www.strava.com/segments/22913457) |
 | 220 | 🔀 | Serpentine 8 | 19.2 km | 199 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/serpentine-8/) | [VV](https://veloviewer.com/segment/26742092) | [SS](https://www.strava.com/segments/26742092) |
 | 224 | ⛰️ | Shorelines and Summits | 46.1 km | 750 m | SL8✅ + Wake✅ | ✅ | [ZI](https://zwiftinsider.com/route/shorelines-and-summits/) | [VV](https://veloviewer.com/segment/35697595) | [SS](https://www.strava.com/segments/35697595) |
 | 226 | 🔀 | Snowman | 43.9 km | 550 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/snowman/) | [VV](https://veloviewer.com/segment/37049460) | [SS](https://www.strava.com/segments/37049460) |
@@ -155,15 +156,18 @@
 | 293 | 🔀 | Whole Lotta Lava | 12.3 km | 153 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/whole-lotta-lava/) | [VV](https://veloviewer.com/segment/20545879) | [SS](https://www.strava.com/segments/20545879) |
 | 296 | ⛰️ | ZG25 Queen | 44.5 km | 875 m | SL8✅ + Wake✅ | ✅ | [ZI](https://zwiftinsider.com/route/zg25-queen/) | [VV](https://veloviewer.com/segment/38412699) | [SS](https://www.strava.com/segments/38412699) |
 | 297 | 🔀 | Zwift Games 2024 Epic (Banner to Banner) | 79.8 km | 735 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/zwift-games-2024-epic/) | [VV](https://veloviewer.com/segment/36357669) | [SS](https://www.strava.com/segments/36357669) |
-| 318 | ➡️ | Caldera Coaster | 4.0 km | 12 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/caldera-coaster/) | [VV](https://veloviewer.com/segment/42374295) | [SS](https://www.strava.com/segments/42374295) |
-| 319 | ➡️ | California Dreamin' | 19.0 km | 106 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/california-dreamin/) | [VV](https://veloviewer.com/segment/42374395) | [SS](https://www.strava.com/segments/42374395) |
+| 318 | ➡️ | Caldera Coaster | 4.0 km | 12 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/caldera-coaster/) | [VV](https://veloviewer.com/segment/42374295) | [SS](https://www.strava.com/segments/42374295) |
+| 319 | ➡️ | California Dreamin' | 19.0 km | 106 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/california-dreamin/) | [VV](https://veloviewer.com/segment/42374395) | [SS](https://www.strava.com/segments/42374395) |
 | 320 | ➡️ | California Roll | 33.2 km | 139 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/california-roll/) | [VV](https://veloviewer.com/segment/42422101) | [SS](https://www.strava.com/segments/42422101) |
 | 321 | 🔀 | Four Foalsmen | 67.9 km | 578 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/four-foalsmen/) | [VV](https://veloviewer.com/segment/42376396) | [SS](https://www.strava.com/segments/42376396) |
-| 322 | 🔀 | Laps, Camera, Traction | 25.7 km | 217 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/laps-camera-traction/) | [VV](https://veloviewer.com/segment/42374729) | [SS](https://www.strava.com/segments/42374729) |
-| 323 | ➡️ | Pacific Pursuit | 54.0 km | 381 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/pacific-pursuit/) | [VV](https://veloviewer.com/segment/42422497) | [SS](https://www.strava.com/segments/42422497) |
-| 324 | ➡️ | Seafoam Circuit | 3.5 km | 18 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/seafoam-circuit/) | [VV](https://veloviewer.com/segment/42380450) | [SS](https://www.strava.com/segments/42380450) |
+| 322 | 🔀 | Laps, Camera, Traction | 25.7 km | 217 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/laps-camera-traction/) | [VV](https://veloviewer.com/segment/42374729) | [SS](https://www.strava.com/segments/42374729) |
+| 323 | ➡️ | Pacific Pursuit | 54.0 km | 381 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/pacific-pursuit/) | [VV](https://veloviewer.com/segment/42422497) | [SS](https://www.strava.com/segments/42422497) |
+| 324 | ➡️ | Seafoam Circuit | 3.5 km | 18 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/seafoam-circuit/) | [VV](https://veloviewer.com/segment/42380450) | [SS](https://www.strava.com/segments/42380450) |
 | 325 | ➡️ | The Watopia 150! | 150.4 km | 0 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/the-watopia-150/) | [VV](https://veloviewer.com/segment/42380444) | [SS](https://www.strava.com/segments/42380444) |
 | 326 | 🔀 | Watt Goes Up Must Come Down | 60.5 km | 776 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/watt-goes-up-must-come-down/) | [VV](https://veloviewer.com/segment/42376334) | [SS](https://www.strava.com/segments/42376334) |
+| 327 | 🔀 | One Ride to Rule Them All | 38.5 km | 427 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/one-ride-to-rule-them-all/) | [VV](https://veloviewer.com/segment/42380499) | [SS](https://www.strava.com/segments/42380499) |
+| 328 | 🔀 | Molten Momentum | 20.6 km | 202 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/molten-momentum/) | [VV](https://veloviewer.com/segment/42375992) | [SS](https://www.strava.com/segments/42375992) |
+| 329 | ➡️ | Crit Cross | 13.4 km | 33 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/crit-cross/) | [VV](https://veloviewer.com/segment/42381269) | [SS](https://www.strava.com/segments/42381269) |
 
 ---
 
@@ -267,10 +271,10 @@
 | 308 | ➡️ | Twilight Crit (Event Only) | 3.9 km | 20 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/twilight-crit/) | [VV](https://veloviewer.com/segment/41882382) | [SS](https://www.strava.com/segments/41882382) |
 | 277 | ➡️ | Twilight Harbor | 6.9 km | 26 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/twilight-harbor/) | [VV](https://veloviewer.com/segment/30629791) | [SS](https://www.strava.com/segments/30629791) |
 | 279 | ➡️ | Two Village Loop | 12.8 km | 81 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/two-village-loop/) | [VV](https://veloviewer.com/segment/28433439) | [SS](https://www.strava.com/segments/28433439) |
-| 309 | ➡️ | Urumaze (Event Only) | 24.8 km | 194 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ⬜ | [ZI](https://zwiftinsider.com/route/urumaze/) | [VV](https://veloviewer.com/segment/41887960) | [SS](https://www.strava.com/segments/41887960) |
+| 309 | ➡️ | Urumaze (Event Only) | 24.8 km | 194 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/urumaze/) | [VV](https://veloviewer.com/segment/41887960) | [SS](https://www.strava.com/segments/41887960) |
 | 280 | 🏔️ | Valley to Mountaintop | 4.6 km | 126 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/route/valley-to-mountaintop/) | [VV](https://veloviewer.com/segment/29559312) | [SS](https://www.strava.com/segments/29559312) |
 | 290 | ➡️ | Wandering Flats | 25.1 km | 123 m | SL8✅ + DT85✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/wandering-flats/) | [VV](https://veloviewer.com/segment/30408380) | [SS](https://www.strava.com/segments/30408380) |
-| 310 | ⛰️ | WhatYumeziWe'reLost? (Event Only) | 17.4 km | 280 m | SL8✅ + Wake✅ | ⬜ | [ZI](https://zwiftinsider.com/route/whatyumeziwerelost/) | [VV](https://veloviewer.com/segment/41888860) | [SS](https://www.strava.com/segments/41888860) |
+| 310 | ⛰️ | WhatYumeziWe'reLost? (Event Only) | 17.4 km | 280 m | SL8✅ + Wake✅ | ✅ | [ZI](https://zwiftinsider.com/route/whatyumeziwerelost/) | [VV](https://veloviewer.com/segment/41888860) | [SS](https://www.strava.com/segments/41888860) |
 | 313 | 🔀 | Yumezi Grit | 7.5 km | 83 m | SL8✅ + Wake✅ · Tron✅ if Halo-OK | ✅ | [ZI](https://zwiftinsider.com/route/yumezi-grit/) | [VV](https://veloviewer.com/segment/41092576) | [SS](https://www.strava.com/segments/41092576) |
 
 ---
@@ -415,3 +419,34 @@
 | 271 | ⛰️ | Tour of Tewit Well (Banner to Banner) | 10.9 km | 202 m | SL8✅ + Wake✅ | ✅ | [ZI](https://zwiftinsider.com/route/tour-of-tewit-well/) | [VV](https://veloviewer.com/segment/21758283) | [SS](https://www.strava.com/segments/21758283) |
 | 294 | ⛰️ | Yorkshire Double Loop | 29.6 km | 536 m | SL8✅ + Wake✅ | ✅ | [ZI](https://zwiftinsider.com/route/yorkshire-double-loop/) | [VV](https://veloviewer.com/segment/37300398) | [SS](https://www.strava.com/segments/37300398) |
 | 295 | 🏔️ | Yorkshire KOM Forward | 1.2 km | 65 m | Aethos✅ + Alta✅ | ✅ | [ZI](https://zwiftinsider.com/segment/yorkshire-kom/) | [VV](https://veloviewer.com/segment/21747822) | [SS](https://www.strava.com/segments/21747822) |
+
+---
+
+<!-- VIDEO ROUTES START -->
+## Zwift Video routes (21)
+
+**Video status:** 2 rides detected | 19 not detected | 0 unverified. Zwift Plus required. Activity detection does not prove a badge unlock.
+
+- ⬜ 🏔️ France — [Cime de la Bonette](https://zwiftinsider.com/video-route/cime-de-la-bonette/) · [VV](https://veloviewer.com/segment/42446325) · [SS](https://www.strava.com/segments/42446325) — 26.5 km / 1,055 m — 530 XP
+- ⬜ 🏔️ France — [Col du Galibier - Lautaret](https://zwiftinsider.com/video-route/col-du-galibier-lautaret/) · [VV](https://veloviewer.com/segment/42446341) · [SS](https://www.strava.com/segments/42446341) — 16.6 km / 572 m — 335 XP
+- ⬜ 🏔️ France — [Upper Bonette](https://zwiftinsider.com/video-route/upper-bonette/) · [VV](https://veloviewer.com/segment/42455253) · [SS](https://www.strava.com/segments/42455253) — 11.4 km / 367 m — 230 XP
+- ⬜ 🔀 Norway — [Eggum Coastal](https://zwiftinsider.com/video-route/eggum-coastal/) · [VV](https://veloviewer.com/segment/42429695) · [SS](https://www.strava.com/segments/42429695) — 15.8 km / 165 m — 315 XP
+- ⬜ 🔀 Norway — [Nappvang Glow](https://zwiftinsider.com/video-route/nappvang-glow/) · [VV](https://veloviewer.com/segment/42446368) · [SS](https://www.strava.com/segments/42446368) — 26.9 km / 259 m — 540 XP
+- ⬜ 🔀 Norway — [The Midnight Sun Road](https://zwiftinsider.com/video-route/the-midnight-sun-road/) · [VV](https://veloviewer.com/segment/42446298) · [SS](https://www.strava.com/segments/42446298) — 28.9 km / 237 m — 580 XP
+- ⬜ ⛰️ South Africa — [Bain’s Kloof Pass](https://zwiftinsider.com/video-route/bains-kloof-pass/) · [VV](https://veloviewer.com/segment/42446302) · [SS](https://www.strava.com/segments/42446302) — 22.9 km / 413 m — 460 XP
+- ✅ ⛰️ South Africa — [Chapman’s Peak](https://zwiftinsider.com/video-route/chapmans-peak/) · [VV](https://veloviewer.com/segment/42353647) · [SS](https://www.strava.com/segments/42353647) — 11.4 km / 183 m — 230 XP
+- ⬜ 🔀 South Africa — [Clarence Drive](https://zwiftinsider.com/video-route/clarence-drive/) · [VV](https://veloviewer.com/segment/42446328) · [SS](https://www.strava.com/segments/42446328) — 16.7 km / 186 m — 335 XP
+- ⬜ 🏔️ South Africa — [Du Toitskloof Pass](https://zwiftinsider.com/video-route/du-toitskloof-pass/) · [VV](https://veloviewer.com/segment/42429677) · [SS](https://www.strava.com/segments/42429677) — 14.2 km / 439 m — 285 XP
+- ⬜ 🏔️ Spain — [Coll de Femenia](https://zwiftinsider.com/video-route/coll-de-femenia/) · [VV](https://veloviewer.com/segment/10614439) · [SS](https://www.strava.com/segments/10614439) — 8.0 km / 427 m — 160 XP
+- ⬜ 🏔️ Spain — [Sa Calobra](https://zwiftinsider.com/video-route/sa-calobra/) · [VV](https://veloviewer.com/segment/14527372) · [SS](https://www.strava.com/segments/14527372) — 9.9 km / 669 m — 200 XP
+- ⬜ ⛰️ Spain — [Teide Plateau](https://zwiftinsider.com/video-route/teide-plateau/) · [VV](https://veloviewer.com/segment/42446292) · [SS](https://www.strava.com/segments/42446292) — 13.4 km / 229 m — 265 XP
+- ⬜ ➡️ United Kingdom — [Glen Etive](https://zwiftinsider.com/video-route/glen-etive/) · [VV](https://veloviewer.com/segment/42461714) · [SS](https://www.strava.com/segments/42461714) — 6.2 km / 38 m — 125 XP
+- ⬜ ⛰️ United Kingdom — [Glen Garry Wilds](https://zwiftinsider.com/video-route/glen-garry-wilds/) · [VV](https://veloviewer.com/segment/42446257) · [SS](https://www.strava.com/segments/42446257) — 13.4 km / 243 m — 270 XP
+- ⬜ ⛰️ United Kingdom — [Quinag Highlands](https://zwiftinsider.com/video-route/quinag-highlands/) · [VV](https://veloviewer.com/segment/42446375) · [SS](https://www.strava.com/segments/42446375) — 23.3 km / 442 m — 465 XP
+- ⬜ ⛰️ United States — [Arches National Park](https://zwiftinsider.com/video-route/arches-national-park/) · [VV](https://veloviewer.com/segment/42413829) · [SS](https://www.strava.com/segments/42413829) — 29.0 km / 687 m — 687 XP
+- ⬜ 🔀 United States — [Colorado River Sunrise](https://zwiftinsider.com/video-route/colorado-river-sunrise/) · [VV](https://veloviewer.com/segment/42423245) · [SS](https://www.strava.com/segments/42423245) — 24.5 km / 253 m — 490 XP
+- ✅ ➡️ United States — [Dolores Dirt](https://zwiftinsider.com/video-route/dolores-dirt/) · [VV](https://veloviewer.com/segment/42407787) · [SS](https://www.strava.com/segments/42407787) — 15.4 km / 89 m — 210 XP
+- ⬜ ⛰️ United States — [Glen Canyon](https://zwiftinsider.com/video-route/glen-canyon/) · [VV](https://veloviewer.com/segment/42446356) · [SS](https://www.strava.com/segments/42446356) — 20.0 km / 488 m — 400 XP
+- ⬜ ⛰️ United States — [The Hogsback](https://zwiftinsider.com/video-route/the-hogsback/) · [VV](https://veloviewer.com/segment/42455263) · [SS](https://www.strava.com/segments/42455263) — 18.5 km / 427 m — 370 XP
+
+<!-- VIDEO ROUTES END -->
